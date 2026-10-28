@@ -11,6 +11,8 @@ UA = {"User-Agent": "Mozilla/5.0 (keyword-desk; GitHub Actions)"}
 
 TRENDS_RSS = "https://trends.google.com/trending/rss?geo=KR"
 NEWS_QUERIES = ["코스피", "증시", "환율"]  # 경제 뉴스 후보를 모을 검색어 (자유롭게 수정)
+YNA_ENT_RSS = "https://www.yna.co.kr/rss/entertainment.xml"  # 연합뉴스 연예 RSS
+YNA_ENT_LIMIT = 10
 
 
 def fetch(url):
@@ -44,12 +46,12 @@ def google_trends():
     return out
 
 
-def google_news(q):
+def google_news(q, limit=8):
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": q + " when:1d", "hl": "ko", "gl": "KR", "ceid": "KR:ko"})
     root = ET.fromstring(fetch(url))
     out = []
-    for item in list(root.iter("item"))[:8]:
+    for item in list(root.iter("item"))[:limit]:
         src = item.find("source")
         out.append({
             "title": (item.findtext("title") or "").strip(),
@@ -58,6 +60,32 @@ def google_news(q):
             "pubDate": (item.findtext("pubDate") or "").strip(),
         })
     return out
+
+
+def yonhap_entertainment():
+    """연합뉴스 연예 기사 목록(최신순). RSS가 실패하면 구글 뉴스에서 연합뉴스 기사만 골라 옴."""
+    errors = []
+    try:
+        root = ET.fromstring(fetch(YNA_ENT_RSS))
+        items = []
+        for item in list(root.iter("item"))[:YNA_ENT_LIMIT]:
+            items.append({
+                "title": (item.findtext("title") or "").strip(),
+                "url": (item.findtext("link") or "").strip(),
+                "source": "연합뉴스",
+                "pubDate": (item.findtext("pubDate") or "").strip(),
+            })
+        if items:
+            return {"via": "연합뉴스 RSS", "items": items}, errors
+        errors.append("연합뉴스 RSS에 기사가 없음")
+    except Exception as e:
+        errors.append("연합뉴스 RSS 수집 실패: " + repr(e))
+    try:
+        items = [n for n in google_news("site:yna.co.kr 연예", limit=30) if "연합" in n["source"]]
+        return {"via": "구글 뉴스 대체", "items": items[:YNA_ENT_LIMIT]}, errors
+    except Exception as e:
+        errors.append("연합뉴스 연예 대체 경로(구글 뉴스) 실패: " + repr(e))
+    return {"via": "", "items": []}, errors
 
 
 def rebuild_index():
@@ -75,6 +103,8 @@ def collect():
     except Exception as e:  # 피드 형식이 바뀌거나 접속이 막히면 기록만 남김
         result["googleTrends"] = []
         result["errors"].append("구글 트렌드 RSS 수집 실패: " + repr(e))
+    result["yonhapEnt"], errs = yonhap_entertainment()
+    result["errors"].extend(errs)
     result["news"] = []
     for q in NEWS_QUERIES:
         try:
@@ -83,7 +113,7 @@ def collect():
             result["errors"].append("뉴스 수집 실패(" + q + "): " + repr(e))
     CAND.mkdir(parents=True, exist_ok=True)
     (CAND / (today + ".json")).write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(today, "trends:", len(result["googleTrends"]), "errors:", result["errors"])
+    print(today, "trends:", len(result["googleTrends"]), "yonhap:", len(result["yonhapEnt"]["items"]), "errors:", result["errors"])
 
 
 if __name__ == "__main__":

@@ -137,8 +137,8 @@ button,input,textarea,select{font:inherit;color:inherit}
   "use strict";
   var app = document.getElementById("app");
   var state = { days:[], day:null, sel:null, cand:null };
-  var SRC = { google:"구글 트렌드", naver:"네이버 데이터랩", econ:"경제 뉴스 상위 이슈", cross:"여러 곳 교차 확인" };
-  var ORDER = ["google","naver","econ","cross"];
+  var SRC = { google:"구글 트렌드", yonhap:"연합뉴스 연예", naver:"네이버 데이터랩", econ:"경제 뉴스 상위 이슈", cross:"여러 곳 교차 확인" };
+  var ORDER = ["google","yonhap","naver","econ","cross"];
   var STATE = { article:"전체 글", analysis:"분석", missing:"확보 실패" };
 
   function el(tag, attrs, kids){
@@ -227,7 +227,7 @@ button,input,textarea,select{font:inherit;color:inherit}
       list.appendChild(el("h2",{text:"자동 수집 후보"}));
       list.appendChild(el("button",{class:"kw","aria-current":String(state.sel==="CAND"),onclick:function(){ state.sel = "CAND"; render(); }},[
         el("span",{class:"r",text:"↻"}),
-        el("span",{class:"t",text:"구글 트렌드·뉴스 " + state.cand.date}),
+        el("span",{class:"t",text:"구글 트렌드·연합뉴스 연예 " + state.cand.date}),
         el("span",{class:"v",text:"매일 오전 7시 자동 갱신"})
       ]));
     }
@@ -244,7 +244,7 @@ button,input,textarea,select{font:inherit;color:inherit}
         list.appendChild(b);
       });
     });
-    list.appendChild(el("section",{class:"naver"},[el("label",{text:"네이버 키워드 요청"}), el("p",{text:"저장소의 data/naver-request.txt에 데이터랩 인기 검색어를 한 줄에 하나씩 적어 두면 다음 업데이트 때 반영합니다."})]));
+    if (d.keywords.some(function(k){ return k.source === "naver"; })) list.appendChild(el("section",{class:"naver"},[el("label",{text:"네이버 키워드 요청"}), el("p",{text:"저장소의 data/naver-request.txt에 데이터랩 인기 검색어를 한 줄에 하나씩 적어 두면 다음 업데이트 때 반영합니다."})]));
 
     var pane = el("main",{class:"pane",id:"pane"});
     var k = d.keywords.filter(function(x){ return x.id === state.sel; })[0];
@@ -268,6 +268,14 @@ button,input,textarea,select{font:inherit;color:inherit}
         return li;
       }))]));
     }
+    if (c.yonhapEnt){
+      var y = c.yonhapEnt, yItems = y.items || [];
+      pane.appendChild(el("div",{class:"block"},[
+        el("h3",{text:"연합뉴스 연예" + (y.via ? " (" + y.via + ")" : "")}),
+        yItems.length ? el("ol",{class:"titles"}, yItems.map(function(n){ return el("li",null,[link(n.title || n.url, n.url)]); }))
+                      : el("p",{class:"why",text:"오늘은 기사 목록을 가져오지 못했습니다."})
+      ]));
+    }
     (c.news||[]).forEach(function(g){
       if (!g.items || !g.items.length) return;
       pane.appendChild(el("div",{class:"block"},[el("h3",{text:"뉴스: " + g.query}), el("ul",null, g.items.map(function(n){ return el("li",null,[link(n.title, n.url)]); }))]));
@@ -284,7 +292,9 @@ button,input,textarea,select{font:inherit;color:inherit}
     if (k.angle) pane.appendChild(el("div",{class:"block"},[el("h3",{text:"블로그 각도"}), el("p",{text:k.angle})]));
     if (k.sources && k.sources.length) pane.appendChild(el("div",{class:"block"},[el("h3",{text:"출처"}), el("ul",null, k.sources.map(function(s){ return el("li",null,[link(s.name,s.url)]); }))]));
     if (k.status === "missing" && !(k.facts||[]).length){
-      pane.appendChild(el("p",{class:"empty",text:"이 자리는 비어 있습니다. 왼쪽 아래 ‘네이버 키워드 입력’에 키워드를 넣어 두면 다음 업데이트 때 채웁니다."}));
+      pane.appendChild(el("p",{class:"empty",text: k.source === "naver"
+        ? "이 자리는 비어 있습니다. 저장소의 data/naver-request.txt에 키워드를 넣어 두면 다음 업데이트 때 채웁니다."
+        : "이 자리는 비어 있습니다. 다음 업데이트 때 채웁니다."}));
     }
   }
 
@@ -357,12 +367,18 @@ button,input,textarea,select{font:inherit;color:inherit}
   }
 
   function chart(c){
-    var W = 560, rowH = 44, padL = 70, padR = 90, top = 10;
+    var W = 560, rowH = 44, top = 10;
     var H = top + c.bars.length * rowH + 10;
     var max = Math.max.apply(null, c.bars.map(function(b){ return Math.abs(b.value); }));
     var hasNeg = c.bars.some(function(b){ return b.value < 0; });
-    var zero = hasNeg ? padL + (W - padL - padR) / 2 : padL;
-    var span = hasNeg ? (W - padL - padR) / 2 : (W - padL - padR);
+    function valText(v){ return (v > 0 ? "+" : "") + v.toLocaleString("ko-KR"); }
+    // 글자 폭 대략값: 한글은 글자 크기만큼, 그 외는 0.6배
+    function textW(str, size){ var w = 0; for (var i = 0; i < str.length; i++) w += /[\u3131-\uD7A3]/.test(str[i]) ? size : size * 0.6; return w; }
+    var padL = 8 + Math.max.apply(null, c.bars.map(function(b){ return textW(b.label, 14); })) + 12;
+    var valW = Math.max.apply(null, c.bars.map(function(b){ return textW(valText(b.value), 13.5); })) + 10;
+    var plotL = padL + (hasNeg ? valW : 0), plotR = W - valW;
+    var zero = hasNeg ? (plotL + plotR) / 2 : plotL;
+    var span = hasNeg ? (plotR - plotL) / 2 : (plotR - plotL);
     var NS = "http://www.w3.org/2000/svg";
     var svg = document.createElementNS(NS,"svg");
     svg.setAttribute("viewBox","0 0 " + W + " " + H); svg.setAttribute("role","img");
@@ -375,7 +391,7 @@ button,input,textarea,select{font:inherit;color:inherit}
       var col = b.value < 0 ? "var(--down)" : "var(--up)";
       n("text",{x:8,y:y+24,fill:"var(--ink)","font-size":14,"font-family":"IBM Plex Sans KR, sans-serif"}, b.label);
       n("rect",{x:x,y:y+8,width:Math.max(w,1),height:24,rx:2,fill:col});
-      var lbl = (b.value > 0 ? "+" : "") + b.value.toLocaleString("ko-KR");
+      var lbl = valText(b.value);
       n("text",{x: b.value < 0 ? x - 6 : x + w + 6, y:y+25,"text-anchor": b.value < 0 ? "end" : "start",fill:col,"font-size":13.5,"font-weight":700,"font-family":"IBM Plex Sans KR, sans-serif"}, lbl);
     });
     return el("div",{class:"chart"},[el("div",{class:"cap",text:c.title + " (단위: " + c.unit + ")"}), svg, c.source ? el("div",{class:"cap",text:c.source}) : null]);
