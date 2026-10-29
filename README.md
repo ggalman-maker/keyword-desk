@@ -11,6 +11,8 @@
 | 구글 트렌드 한국 인기 검색어 수집 | 자동 (매일 오전 7시) |
 | 연합뉴스 연예 기사 목록 수집 (최신순) | 자동 (매일 오전 7시) |
 | 경제 뉴스 제목 수집 (코스피·증시·환율) | 자동 (매일 오전 7시) |
+| 네이버 뉴스 수집 (영화·드라마·연예·경제) | 자동 (매일 오전 10시 30분) |
+| 네이버 블로그 상위 글 (구글 트렌드 상위 3개 + data/blog-request.txt) | 자동 (매일 오전 10시 30분) |
 | 날짜 목록 갱신 | 자동 (글 파일을 올릴 때마다) |
 | 네이버 데이터랩 인기 검색어 | 수동 (data/naver-request.txt에 직접 적기) |
 | 키워드 분석·아티클 작성 | 수동 (Claude 채팅에 요청) |
@@ -37,6 +39,7 @@
 - 홈페이지의 "자동 수집 후보" 화면 위쪽에 실패 이유가 표시됩니다.
 - 구글 트렌드 RSS와 구글 뉴스 RSS는 구글이 형식이나 주소를 바꾸면 멈출 수 있습니다. 그때는 Claude에게 오류 문구를 보여주고 수정을 요청하세요.
 - 연합뉴스 연예는 RSS(`YNA_ENT_RSS`)가 실패하면 구글 뉴스에서 연합뉴스 기사만 골라 옵니다. 어느 경로로 받았는지는 화면의 칸 제목 옆 괄호에 표시됩니다.
+- 네이버 뉴스·블로그는 NAVER API HUB 키가 필요합니다. 저장소 Settings > Secrets and variables > Actions에 `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET`으로 저장합니다. 네이버 뉴스 검색어는 `scripts/collect.py`의 `NAVER_NEWS_QUERIES` 줄에서 바꿀 수 있습니다.
 - 뉴스 검색어는 `scripts/collect.py`의 `NEWS_QUERIES` 줄에서 바꿀 수 있습니다.
 
 ## 폴더 구조
@@ -46,5 +49,6 @@
 - `data/candidates/YYYY-MM-DD.json` : 자동 수집된 후보
 - `data/index.json` : 날짜 목록 (자동 생성, 직접 고칠 필요 없음)
 - `data/naver-request.txt` : 네이버 데이터랩 키워드 메모
+- `data/blog-request.txt` : 네이버 블로그 상위 글을 보고 싶은 키워드
 - `scripts/collect.py` : 수집 스크립트
 - `.github/workflows/collect.yml` : 자동 실행 설정

@@ -227,8 +227,8 @@ button,input,textarea,select{font:inherit;color:inherit}
       list.appendChild(el("h2",{text:"자동 수집 후보"}));
       list.appendChild(el("button",{class:"kw","aria-current":String(state.sel==="CAND"),onclick:function(){ state.sel = "CAND"; render(); }},[
         el("span",{class:"r",text:"↻"}),
-        el("span",{class:"t",text:"구글 트렌드·연합뉴스 연예 " + state.cand.date}),
-        el("span",{class:"v",text:"매일 오전 7시 자동 갱신"})
+        el("span",{class:"t",text:"구글 트렌드·연합뉴스·네이버 " + state.cand.date}),
+        el("span",{class:"v",text:"오전 7시, 네이버는 10시 30분 자동 갱신"})
       ]));
     }
     ORDER.forEach(function(src){
@@ -275,6 +275,24 @@ button,input,textarea,select{font:inherit;color:inherit}
         yItems.length ? el("ol",{class:"titles"}, yItems.map(function(n){ return el("li",null,[link(n.title || n.url, n.url)]); }))
                       : el("p",{class:"why",text:"오늘은 기사 목록을 가져오지 못했습니다."})
       ]));
+    }
+    (c.naverNews||[]).forEach(function(g){
+      pane.appendChild(el("div",{class:"block"},[el("h3",{text:"네이버 뉴스: " + g.query}),
+        g.items && g.items.length ? el("ul",null, g.items.map(function(n){ return el("li",null,[link(n.title || n.url, n.url)]); }))
+                                  : el("p",{class:"why",text:"최근 이틀 안의 기사를 찾지 못했습니다."})]));
+    });
+    if (c.naverBlogs && c.naverBlogs.length){
+      var bl = el("div",{class:"block"},[el("h3",{text:"네이버 블로그 상위 글 (정확도순)"}),
+        el("p",{class:"why",text:"검색했을 때 위쪽에 노출되는 글입니다. 조회수는 네이버가 제공하지 않습니다. 보고 싶은 키워드는 data/blog-request.txt에 적어 두세요."})]);
+      c.naverBlogs.forEach(function(g){
+        if (!g.items || !g.items.length) return;
+        bl.appendChild(el("h3",{text:"‘" + g.query + "’",style:"margin-top:14px"}));
+        bl.appendChild(el("ol",{class:"titles"}, g.items.map(function(n){
+          var d = n.postdate && n.postdate.length === 8 ? n.postdate.slice(0,4) + "." + n.postdate.slice(4,6) + "." + n.postdate.slice(6) : "";
+          return el("li",null,[link(n.title || n.url, n.url), el("span",{class:"meta",text:" " + [n.blogger, d].filter(Boolean).join(" · ")})]);
+        })));
+      });
+      pane.appendChild(bl);
     }
     (c.news||[]).forEach(function(g){
       if (!g.items || !g.items.length) return;
