@@ -91,6 +91,7 @@ button,input,textarea,select{font:inherit;color:inherit}
 .article{font-family:var(--serif);font-size:17.5px;line-height:1.85;max-width:68ch}
 .article h2{font-family:var(--sans);font-size:20px;margin:34px 0 10px;letter-spacing:-.01em}
 .article p{margin:0 0 14px}
+.article p.center{text-align:center;white-space:pre-line}
 .sep{text-align:center;color:var(--muted);letter-spacing:.6em;margin:22px 0 4px;font-family:var(--sans)}
 .confirm{background:var(--hl);border-radius:3px;padding:0 3px;font-family:var(--sans);font-size:.86em}
 
@@ -137,8 +138,8 @@ button,input,textarea,select{font:inherit;color:inherit}
   "use strict";
   var app = document.getElementById("app");
   var state = { days:[], day:null, sel:null, cand:null };
-  var SRC = { google:"구글 트렌드", yonhap:"연합뉴스 연예", naver:"네이버 데이터랩", econ:"경제 뉴스 상위 이슈", cross:"여러 곳 교차 확인" };
-  var ORDER = ["google","yonhap","naver","econ","cross"];
+  var SRC = { google:"구글 트렌드", yonhap:"연합뉴스 연예", naverNews:"네이버 뉴스", naverBlog:"네이버 블로그 상위 글", naver:"네이버 데이터랩", econ:"경제 뉴스 상위 이슈", cross:"여러 곳 교차 확인" };
+  var ORDER = ["naverNews","naverBlog","google","yonhap","naver","econ","cross"];
   var STATE = { article:"전체 글", analysis:"분석", missing:"확보 실패" };
 
   function el(tag, attrs, kids){
@@ -152,19 +153,23 @@ button,input,textarea,select{font:inherit;color:inherit}
     (kids||[]).forEach(function(c){ if (c==null) return; n.appendChild(typeof c === "string" ? document.createTextNode(c) : c); });
     return n;
   }
-  // [확인 필요 ...] 표시를 강조
+  // [확인 필요 ...] 표시와 <span style="color:#색상">강조</span>를 화면에 반영
   function richText(str){
     var frag = document.createDocumentFragment();
-    var re = /\[확인 필요[^\]]*\]/g, last = 0, m;
+    var re = /\[확인 필요[^\]]*\]|<span style="color:\s*(#[0-9A-Fa-f]{3,6})">([^<]*)<\/span>/g, last = 0, m;
     while ((m = re.exec(str))){
       if (m.index > last) frag.appendChild(document.createTextNode(str.slice(last, m.index)));
-      frag.appendChild(el("span",{class:"confirm",text:m[0]}));
+      if (m[1]) frag.appendChild(el("b",{style:"color:" + m[1],text:m[2]}));
+      else frag.appendChild(el("span",{class:"confirm",text:m[0]}));
       last = m.index + m[0].length;
     }
     if (last < str.length) frag.appendChild(document.createTextNode(str.slice(last)));
     return frag;
   }
   function p(str, cls){ var n = el("p", cls?{class:cls}:null); n.appendChild(richText(str)); return n; }
+  // 단락은 문자열 또는 {center:true, text:"한 줄\n한 줄"} (가운데 정렬)
+  function para(t){ return typeof t === "string" ? p(t) : p(t.text, t.center ? "center" : null); }
+  function stripSpan(str){ return str.replace(/<span style="[^"]*">([^<]*)<\/span>/g, "$1"); }
   function link(name, url){ return el("a",{href:url,target:"_blank",rel:"noopener noreferrer",text:name}); }
 
   function screen(title, body){
@@ -328,7 +333,7 @@ button,input,textarea,select{font:inherit;color:inherit}
         var txt = plainText(k, a);
         try { await navigator.clipboard.writeText(txt); cmsg.textContent = "복사됨"; out.hidden = true; }
         catch(e){ out.value = txt; out.hidden = false; out.focus(); out.select(); cmsg.textContent = "아래 상자에서 전체 선택 후 복사하세요."; }
-      }}), cmsg
+      }}), cmsg, el("span",{class:"msg",text:"본문 약 " + bodyLength(a).toLocaleString("ko-KR") + "자 (이미지 지시문 제외)"})
     ]));
     pane.appendChild(out);
 
@@ -344,12 +349,14 @@ button,input,textarea,select{font:inherit;color:inherit}
     a.sections.forEach(function(s, i){
       body.appendChild(el("div",{class:"sep","aria-hidden":"true",text:"• • • • •"}));
       body.appendChild(el("h2",{text:s.heading}));
-      s.paragraphs.forEach(function(t){ body.appendChild(p(t)); });
+      s.paragraphs.forEach(function(t){ body.appendChild(para(t)); });
       if (s.image) body.appendChild(slot(k.id, s));
     });
     pane.appendChild(el("div",{class:"block"},[body]));
 
-    if (a.table) pane.appendChild(el("div",{class:"block"},[el("h3",{text:a.table.title}), el("div",{class:"tbl"},[el("table",null,[el("tbody",null, a.table.rows.map(function(r){ return el("tr",null,[el("td",{text:r[0]}),el("td",{text:r[1]})]); }))])])]));
+    if (a.table) pane.appendChild(el("div",{class:"block"},[el("h3",{text:a.table.title}), el("div",{class:"tbl"},[el("table",null,[
+      a.table.header ? el("thead",null,[el("tr",null, a.table.header.map(function(h){ return el("td",{text:h,style:"font-weight:700;color:var(--ink)"}); }))]) : null,
+      el("tbody",null, a.table.rows.map(function(r){ return el("tr",null, r.map(function(c){ return el("td",{text:c}); })); }))])])]));
     if (a.faq) pane.appendChild(el("div",{class:"block"},[el("h3",{text:"자주 묻는 질문"}), el("dl",{class:"faq"}, a.faq.reduce(function(acc,f){ acc.push(el("dt",{text:"Q. " + f.q})); var dd = el("dd"); dd.appendChild(richText("A. " + f.a)); acc.push(dd); return acc; },[]))]));
     if (a.summary3) pane.appendChild(el("div",{class:"block"},[el("h3",{text:"세 줄 요약"}), el("ol",null, a.summary3.map(function(t){ return el("li",{text:t}); }))]));
     if (a.disclaimer) pane.appendChild(el("p",{class:"disc",text:a.disclaimer}));
@@ -415,6 +422,16 @@ button,input,textarea,select{font:inherit;color:inherit}
     return el("div",{class:"chart"},[el("div",{class:"cap",text:c.title + " (단위: " + c.unit + ")"}), svg, c.source ? el("div",{class:"cap",text:c.source}) : null]);
   }
 
+  // 발행될 본문 글자 수 (제목 후보·이미지 지시문·체크리스트 제외)
+  function bodyLength(a){
+    var parts = [a.intro || ""];
+    a.sections.forEach(function(s){ parts.push(s.heading); s.paragraphs.forEach(function(t){ parts.push(typeof t === "string" ? t : t.text); }); });
+    if (a.table) a.table.rows.forEach(function(r){ parts.push(r.join(" ")); });
+    (a.faq || []).forEach(function(f){ parts.push(f.q, f.a); });
+    parts = parts.concat(a.summary3 || [], [a.disclaimer || ""]);
+    return stripSpan(parts.join("\n")).length;
+  }
+
   function plainText(k, a){
     var L = [];
     L.push("[제목 후보]");
@@ -424,8 +441,11 @@ button,input,textarea,select{font:inherit;color:inherit}
     L.push("", "────────", "");
     if (a.intro) L.push(a.intro, "");
     a.sections.forEach(function(s){
-      L.push("• • • • •", "", s.heading, "");
-      s.paragraphs.forEach(function(t){ L.push(t, ""); });
+      L.push("• • • • •", "", "## " + s.heading, "");
+      s.paragraphs.forEach(function(t){
+        if (typeof t === "string") L.push(t, "");
+        else L.push(t.center ? "(한 문장씩 줄바꿈, 가운데 정렬)" : "", t.text, "");
+      });
       if (s.image){
         L.push(s.image.directive);
         if (s.image.refUrl) L.push("참고 URL: " + s.image.refUrl);
@@ -433,7 +453,13 @@ button,input,textarea,select{font:inherit;color:inherit}
         L.push("");
       }
     });
-    if (a.table){ L.push("• • • • •", "", "📊 " + a.table.title); a.table.rows.forEach(function(r){ L.push("- " + r[0] + ": " + r[1]); }); L.push(""); }
+    if (a.table){
+      L.push("• • • • •", "", "📊 " + a.table.title, "");
+      var hd = a.table.header || ["항목", "내용"];
+      L.push("| " + hd.join(" | ") + " |", "|" + hd.map(function(){ return " --- "; }).join("|") + "|");
+      a.table.rows.forEach(function(r){ L.push("| " + r.join(" | ") + " |"); });
+      L.push("");
+    }
     if (a.faq){ L.push("• • • • •", "", "❓ 자주 묻는 질문"); a.faq.forEach(function(f){ L.push("Q. " + f.q, "A. " + f.a, ""); }); }
     if (a.summary3){ L.push("📝 세 줄 요약"); a.summary3.forEach(function(t, i){ L.push((i+1) + ". " + t); }); L.push(""); }
     if (a.disclaimer) L.push(a.disclaimer, "");
