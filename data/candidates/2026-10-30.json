@@ -459,5 +459,404 @@
     }
    ]
   }
+ ],
+ "naverCollectedAt": "2026-10-30T11:13+09:00",
+ "naverNews": [
+  {
+   "query": "영화",
+   "items": [
+    {
+     "title": "허진호 감독 '암살자(들)' 340만 관객 돌파…손익분기점 넘어",
+     "url": "https://www.yna.co.kr/view/AKR20261029203600005?input=1195m",
+     "pubDate": "Thu, 29 Oct 2026 20:34:00 +0900"
+    },
+    {
+     "title": "임영웅 영화, 더 넓고 편안하게 즐긴다",
+     "url": "https://sports.khan.co.kr/article/202610300938003?pt=nv",
+     "pubDate": "Fri, 30 Oct 2026 09:39:00 +0900"
+    },
+    {
+     "title": "영화 '암살자(들)' 손익분기점 넘었다…340만 관객 돌파",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00007&news_seq_no=5227979",
+     "pubDate": "Fri, 30 Oct 2026 08:17:00 +0900"
+    },
+    {
+     "title": "\"해외서 각광\" 영화 '암살자(들)' 340만 돌파…손익분기점 넘었다",
+     "url": "https://www.imaeil.com/page/view/2026102920552577803",
+     "pubDate": "Thu, 29 Oct 2026 21:05:00 +0900"
+    },
+    {
+     "title": "[포토] 미소 가득 임지연",
+     "url": "https://www.mk.co.kr/article/12190373",
+     "pubDate": "Thu, 29 Oct 2026 19:34:00 +0900"
+    },
+    {
+     "title": "임영웅 영화, 11월 18일 개봉",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202610300051",
+     "pubDate": "Fri, 30 Oct 2026 08:04:00 +0900"
+    },
+    {
+     "title": "[포토] 부활, 대통령 표창 수상",
+     "url": "https://www.mk.co.kr/article/12190304",
+     "pubDate": "Thu, 29 Oct 2026 19:04:00 +0900"
+    },
+    {
+     "title": "[포토] 이재, 아름다운 드레스",
+     "url": "https://www.mk.co.kr/article/12190279",
+     "pubDate": "Thu, 29 Oct 2026 18:47:00 +0900"
+    },
+    {
+     "title": "[포토] 이재, 기쁨 가득한 미소",
+     "url": "https://www.mk.co.kr/article/12190274",
+     "pubDate": "Thu, 29 Oct 2026 18:44:00 +0900"
+    },
+    {
+     "title": "[포토] 한영애, 보관문화훈장 수훈",
+     "url": "https://www.mk.co.kr/article/12190417",
+     "pubDate": "Thu, 29 Oct 2026 19:53:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "드라마",
+   "items": [
+    {
+     "title": "'헬로키티' 日산리오, 中반발에 '반중 논란' 드라마 협업 중단(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261029092651083?input=1195m",
+     "pubDate": "Thu, 29 Oct 2026 17:08:00 +0900"
+    },
+    {
+     "title": "드라마 '카지노' 제작사 전 대표, 넉 달째 행방 묘연",
+     "url": "https://www.hankyung.com/article/202610292747i",
+     "pubDate": "Thu, 29 Oct 2026 14:21:00 +0900"
+    },
+    {
+     "title": "드라마 ‘우영우’, 창작 뮤지컬로 재탄생",
+     "url": "https://www.segye.com/newsView/20261029516231?OutUrl=naver",
+     "pubDate": "Thu, 29 Oct 2026 20:39:00 +0900"
+    },
+    {
+     "title": "[단독] 드라마 ‘카지노’ 제작사 대표, 4개월째 행방 불명",
+     "url": "https://www.chosun.com/national/national_general/2026/10/29/YG32AU3VCRBYLH2YPWLHUXMAXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "pubDate": "Thu, 29 Oct 2026 05:01:00 +0900"
+    },
+    {
+     "title": "\"불매운동 두려웠나\"…日 산리오, 中 반발에 드라마 협업 중단",
+     "url": "https://view.asiae.co.kr/article/2026102915540314002",
+     "pubDate": "Thu, 29 Oct 2026 16:03:00 +0900"
+    },
+    {
+     "title": "‘라이어’ 드라마, 오늘 OTT 공개",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202610300057",
+     "pubDate": "Fri, 30 Oct 2026 08:10:00 +0900"
+    },
+    {
+     "title": "'이상한 변호사 우영우', 뮤지컬로 재탄생…내년 1월 개막",
+     "url": "https://www.newsis.com/view/NISX20261029_0003846015",
+     "pubDate": "Thu, 29 Oct 2026 10:17:00 +0900"
+    },
+    {
+     "title": "'배틀그라운드가 드라마로?'…크래프톤, 넷플릭스와 손잡았다",
+     "url": "https://biz.sbs.co.kr/article_hub/20000343203?division=NAVER",
+     "pubDate": "Fri, 30 Oct 2026 09:43:00 +0900"
+    },
+    {
+     "title": "‘라이어’ 유연석·서현진, 사건의 시발점 ‘완벽했던 첫 데이트’ 공...",
+     "url": "https://www.mk.co.kr/article/12191248",
+     "pubDate": "Fri, 30 Oct 2026 10:00:00 +0900"
+    },
+    {
+     "title": "中 반발에 불매운동 의식했나…日 산리오, '반중 논란' 드라마 협업 중...",
+     "url": "https://www.dailian.co.kr/news/view/1708372/?sc=Naver",
+     "pubDate": "Thu, 29 Oct 2026 18:13:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "연예",
+   "items": [
+    {
+     "title": "\"만나본 연예인 중 가장 좋은 사람\"... 9년 지나도 생각납니다",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279927&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "pubDate": "Fri, 30 Oct 2026 07:21:00 +0900"
+    },
+    {
+     "title": "‘11년만 재혼’ 오윤아 “시부모님과 첫 만남 때…” 눈물",
+     "url": "https://www.mk.co.kr/article/12189574",
+     "pubDate": "Thu, 29 Oct 2026 10:06:00 +0900"
+    },
+    {
+     "title": "장항준, 무분별한 연예인 비난에 일침 \"만만해서 스트레스 푸는 것\"",
+     "url": "https://www.newsis.com/view/NISX20261029_0003847219",
+     "pubDate": "Thu, 29 Oct 2026 17:46:00 +0900"
+    },
+    {
+     "title": "어깨동무 연예인봉사단, 시흥서 식사 나눔 등 ‘선한 동행’",
+     "url": "https://www.kmib.co.kr/article/20261029500245",
+     "pubDate": "Thu, 29 Oct 2026 10:15:00 +0900"
+    },
+    {
+     "title": "또 연예인 집자랑 나왔다…3층짜리 북한산 셰어하우스 공개, '전참시' 출...",
+     "url": "https://www.tenasia.co.kr/article/2026102922474",
+     "pubDate": "Thu, 29 Oct 2026 16:50:00 +0900"
+    },
+    {
+     "title": "장항준 \"만만한 연예인에게 스트레스 해소\"…무분별 악플에 일침",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6336685",
+     "pubDate": "Thu, 29 Oct 2026 16:37:00 +0900"
+    },
+    {
+     "title": "NCT 텐, 비연예인 여성과 열애설에…\"완전 싱글, 일만 하고 있다\" 직접 ...",
+     "url": "https://www.tvreport.co.kr/breaking/article/1086910/",
+     "pubDate": "Thu, 29 Oct 2026 17:30:00 +0900"
+    },
+    {
+     "title": "“신기루 옆에 누구?” 37kg 감량하고 몰라 보게 달라진 ‘연예인 정체...",
+     "url": "https://health.chosun.com/site/data/html_dir/2026/10/29/2026102903174.html",
+     "pubDate": "Thu, 29 Oct 2026 19:01:00 +0900"
+    },
+    {
+     "title": "승리, 이미 유부남이었다…아내 임신·내년 초 출산 예정 [종합]",
+     "url": "https://www.mk.co.kr/article/12188335",
+     "pubDate": "Wed, 28 Oct 2026 14:17:00 +0900"
+    },
+    {
+     "title": "‘암살자(들)’ 손익 돌파·故 신해철 문화훈장·뉴진스 MV 무단 공개, 어...",
+     "url": "https://sports.khan.co.kr/article/202610291801003?pt=nv",
+     "pubDate": "Thu, 29 Oct 2026 18:01:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "경제",
+   "items": [
+    {
+     "title": "11월 개인투자용 국채 2000억 발행…내달 11~17일 청약",
+     "url": "https://www.newsis.com/view/NISX20261029_0003845887",
+     "pubDate": "Thu, 29 Oct 2026 10:00:00 +0900"
+    },
+    {
+     "title": "고유가에도 끄떡없는 美 경제…AI 투자 폭발에 3.4% 깜짝 성장",
+     "url": "https://biz.heraldcorp.com/article/10919877?ref=naver",
+     "pubDate": "Fri, 30 Oct 2026 06:05:00 +0900"
+    },
+    {
+     "title": "190억원 주고 산 생애 첫집인데…옥주현 ‘한남더힐’ 경매행, 무슨일이",
+     "url": "https://www.mk.co.kr/article/12190058",
+     "pubDate": "Thu, 29 Oct 2026 17:13:00 +0900"
+    },
+    {
+     "title": "한독, 경제안보·첨단산업 협력 강화 약속…MOU 15건",
+     "url": "https://www.yna.co.kr/view/AKR20261030059300003?input=1195m",
+     "pubDate": "Fri, 30 Oct 2026 11:02:00 +0900"
+    },
+    {
+     "title": "한·독, '강화된 전략 동반자관계' 수립…\"경제·안보 협력 강화\"",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5227927",
+     "pubDate": "Thu, 29 Oct 2026 19:12:00 +0900"
+    },
+    {
+     "title": "농촌경제연구원 신임 원장에 박준기 선임연구위원 선임",
+     "url": "https://www.segye.com/newsView/20261029519399?OutUrl=naver",
+     "pubDate": "Thu, 29 Oct 2026 17:48:00 +0900"
+    },
+    {
+     "title": "미국 3분기 경제 성장률 3.4%…예상 상회",
+     "url": "https://www.mt.co.kr/world/2026/10/29/2026102922142482052",
+     "pubDate": "Thu, 29 Oct 2026 22:33:00 +0900"
+    },
+    {
+     "title": "롯데케미칼, 폐플라스틱 재생 벤처 5곳 선정…순환경제 구축 협력",
+     "url": "https://www.news1.kr/industry/general-industry/6337475",
+     "pubDate": "Fri, 30 Oct 2026 10:11:00 +0900"
+    },
+    {
+     "title": "롯데케미칼, 프로젝트 루프 소셜 5기 출범…\"순환경제 비즈니스 모델\"",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03634246645618168&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "pubDate": "Fri, 30 Oct 2026 10:22:00 +0900"
+    },
+    {
+     "title": "韓-獨 “공급망-경제안보-첨단산업 동반자로”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261030/134936138/2",
+     "pubDate": "Fri, 30 Oct 2026 04:33:00 +0900"
+    }
+   ]
+  }
+ ],
+ "naverBlogs": [
+  {
+   "query": "เอฟเวอร์ตัน พบ นิวคาสเซิล",
+   "items": []
+  },
+  {
+   "query": "인텔 주가",
+   "items": [
+    {
+     "title": "인텔주가비상! 이스라엘 공장 폭발로 4분기 매출 3억 달러 감소…AI ....",
+     "url": "https://blog.naver.com/quntum2030/224458576599",
+     "blogger": "미국주식 부자되기",
+     "bloggerUrl": "https://blog.naver.com/quntum2030",
+     "postdate": "20261030",
+     "summary": "#인텔 #인텔주가 #인텔실적 #인텔주가전망 #INTC #미국주식 #미국주식분석 #데이비드진스너 #인텔CFO #이스라엘공장 #반도체주식 #AI반도체 #AI서버 #데이터센터 #서버CPU #인텔파운드리 #엔비디아 #TSM"
+    },
+    {
+     "title": "인텔 주가 시간외 21% 폭락, 실적은 좋았는데 왜 무너졌을까?",
+     "url": "https://blog.naver.com/aismartpapa/224458613578",
+     "blogger": "Extra Normal.",
+     "bloggerUrl": "https://blog.naver.com/aismartpapa",
+     "postdate": "20261030",
+     "summary": "시간외 거래 가격은 변동될 수 있으며 투자 판단에 따른 책임은 투자자 본인에게 있다. #인텔 #인텔주가 #인텔폭락 #INTC #미국주식 #인텔실적 #인텔3분기실적 #반도체주식 #미국증시"
+    },
+    {
+     "title": "인텔 주가 하락하는 이유",
+     "url": "https://blog.naver.com/wngyckd/224458561719",
+     "blogger": "마루코의 경제 블로그",
+     "bloggerUrl": "https://blog.naver.com/wngyckd",
+     "postdate": "20261030",
+     "summary": "인텔 주가가 2026년 10월 29일 3분기 실적 발표 이후 시간 외 거래에서 큰 폭으로 하락했습니다. 매출과 주당순이익은 시장 예상치를 웃돌았지만, 다음 분기 실적 전망이 기대에 미치지 못했기 때문입니다...."
+    },
+    {
+     "title": "인텔 주가 급락, 3분기 실적 발표에도 하락한 이유는? 2026년 미국 반....",
+     "url": "https://blog.naver.com/miso2816/224458551752",
+     "blogger": "경제읽어주는 중개사",
+     "bloggerUrl": "https://blog.naver.com/miso2816",
+     "postdate": "20261030",
+     "summary": "인텔 주가는 왜 하락했을까요? 지금이 저가 매수 기회일까요? 오늘은 인텔의 최신 주가 흐름과 실적, 반도체 파운드리 사업, 향후 주가 전망을 분석해 보겠습니다. 1. 인텔 미국주식 최신 시황 2026년 10월 29일"
+    },
+    {
+     "title": "인텔 주가 20% 폭락! AI 반도체 부활론에 찬물, 지금 매수해도 될까?",
+     "url": "https://blog.naver.com/wonderboy08/224458559871",
+     "blogger": "실패하지 않는 투자",
+     "bloggerUrl": "https://blog.naver.com/wonderboy08",
+     "postdate": "20261030",
+     "summary": "투자 판단과 책임은 투자자 본인에게 있습니다. #인텔 #INTC #인텔주가 #미국주식 #미국증시 #반도체주 #AI반도체 #엔비디아 #파운드리 #실적발표 #주식투자 #해외주식"
+    },
+    {
+     "title": "\"삼전닉스 투자자들 망했다\" 인텔 주가 -20% 폭락, 충격적인 실적 발....",
+     "url": "https://blog.naver.com/antsal/224458608337",
+     "blogger": "한입 재테크",
+     "bloggerUrl": "https://blog.naver.com/antsal",
+     "postdate": "20261030",
+     "summary": "미국을 대표하는 반도체 기업 인텔의 주가가 실적 발표 직후 시간외거래에서 20% 이상 폭락한 것입니다. 특히 인텔의 주가 하락은 다른 반도체 기업들에도 영향을 미쳤습니다. AMD와 브로드컴 등 주요 반도체..."
+    },
+    {
+     "title": "빅테크 실적발표 일정 이번 주 | 구글·마이크로소프트·아마존·인....",
+     "url": "https://blog.naver.com/dduck001/224454354781",
+     "blogger": "영렌버핏의 편안한 투자 이야기",
+     "bloggerUrl": "https://blog.naver.com/dduck001",
+     "postdate": "20261026",
+     "summary": "빅테크 실적발표 일정 이번 주 | 구글·마이크로소프트·아마존·인텔 주가, 한국시간 FOMC까지 슈퍼위크 총정리 이번 주 빅테크 실적은 한국 시간 10월 29일(목) 새벽 5시 알파벳(구글)·마이크로소프트..."
+    },
+    {
+     "title": "인텔 주가 시간외 최대 21% 급락, 마이크론 주가 5% 하락까지 반도체 ....",
+     "url": "https://blog.naver.com/economic93/224458612797",
+     "blogger": "동개의 경제 한입",
+     "bloggerUrl": "https://blog.naver.com/economic93",
+     "postdate": "20261030",
+     "summary": "■ 3줄 요약 · 인텔 주가가 10월 29일(현지시간) 3분기 실적 발표 뒤 시간외 거래에서 20%대 급락했습니다. 3분기 조정 EPS는 0.52달러로 예상(0.40달러)을 넘었지만, 4분기 매출 전망이 150억~1"
+    },
+    {
+     "title": "인텔 주가 전망, 3분기 실적발표 일정, 날짜, 18A 공정 성과, 2027년 반....",
+     "url": "https://blog.naver.com/tmishaha/224456281071",
+     "blogger": "Amazing BLOG",
+     "bloggerUrl": "https://blog.naver.com/tmishaha",
+     "postdate": "20261028",
+     "summary": "#인텔주가전망 #인텔3분기실적 #인텔18A공정 #반도체주가 #인텔파운드리 #미국주식분석 #인텔실적발표 #테크주전망 #INTC #미장인텔실적발표 #3분기실적발표 #인텔어닝콜"
+    },
+    {
+     "title": "10% 넘는 급락! 인텔(INTC) 주가/배당금과 26년 3분기 실적정리",
+     "url": "https://blog.naver.com/iversonchoi7/224458562636",
+     "blogger": "아빠매너티의 국내, 미국 기업 분석",
+     "bloggerUrl": "https://blog.naver.com/iversonchoi7",
+     "postdate": "20261030",
+     "summary": "배당과 주가 배당금의 경우 인텔은 수익성 개선 및 재무 구조 정상화를 우선 과제로 삼으면서 26년 3분기에도 별도의 분기 배당금을 지급하지 않았습니다. 24년까지 배당금을 지급한 바 있습니다...."
+    }
+   ]
+  },
+  {
+   "query": "mu",
+   "items": [
+    {
+     "title": "1995년 타미야 4WD SUV RC의 명작, ISUZU MU TYPE X",
+     "url": "https://blog.naver.com/eunah6011/224453761963",
+     "blogger": "어린이토이박물관",
+     "bloggerUrl": "https://blog.naver.com/eunah6011",
+     "postdate": "20261026",
+     "summary": "TAMIYA ISUZU MU TYPE X 58166도 그런 모델 가운데 하나입니다. TAMIYA ISUZU MU TYPE X 58166 짧은 2도어 SUV... TAMIYA ISUZU MU TYPE X 어린이토이박물"
+    },
+    {
+     "title": "마이크론 MU 주가 877.55달러, 실적이 감당할 가격일까",
+     "url": "https://blog.naver.com/supermango_/224453882586",
+     "blogger": "슈블",
+     "bloggerUrl": "https://blog.naver.com/supermango_",
+     "postdate": "20261026",
+     "summary": "마이크론 MU 주가 877.55달러, 실적이 감당할 가격일까 MU 주가가 877.55달러까지 올라온 지금... 메모리 가격이 오르면 이익이 더 빨리 커집니다 마이크론 테크놀로지(MU)는 데이터센터와 전자기기 업체에."
+    },
+    {
+     "title": "4. RiseX MU 배당 조정 이해하기: 주식 무기한 선물의 손익은 차트만 보....",
+     "url": "https://blog.naver.com/blackh3al/224457157070",
+     "blogger": "123456",
+     "bloggerUrl": "https://blog.naver.com/blackh3al",
+     "postdate": "20261028",
+     "summary": "2026년 10월 14일 RiseX 공식 X 계정(@risextrade)은 MU 배당이 반영됐다고... 주식 보유와 배당 조정은 다르다 MU는 마이크론을 가리키지만... 이 숫자는 계산 예시일 뿐, 해당 MU 공지의"
+    },
+    {
+     "title": "\"스피커 한 대에 5500달러?\" Naim Mu-so Utopia, 720W 프리미엄 오디오의 정....",
+     "url": "https://blog.naver.com/kimcion1122/224449545979",
+     "blogger": "IT'S NEWS 블로그",
+     "bloggerUrl": "https://blog.naver.com/kimcion1122",
+     "postdate": "20261022",
+     "summary": "그런데 Naim의 Mu-so Utopia는 책상 위에 놓는 작은 무선... 15일 Mu-so Utopia를 발표했습니다. 해외에 안내된 미국 가격은 5,500달러... 기존 Mu-so 2세대의 후속을 단순히 더 비싸"
+    },
+    {
+     "title": "엠유 MU 파크골프채 구입 가능한곳 부여 백마강파크 대회 출전 -3타 ....",
+     "url": "https://blog.naver.com/ehrudtn999/224447807745",
+     "blogger": "골프채리뷰골치남",
+     "bloggerUrl": "https://blog.naver.com/ehrudtn999",
+     "postdate": "20261020",
+     "summary": "파크골프 동호인들 사이에서 최고의 명기로 손꼽히는 엠유(MU)... 골퍼라면, MU 파크골프채가 제공하는 파격적인 우승 혜택과 정품... 부여 백마강 파크골프대회 & MU 파크골프채 -3타 핸디 혜택 부여 백마강.."
+    },
+    {
+     "title": "mu 주가 1000달러 재돌파 이후 짚어본 9월 30일 실적 전망",
+     "url": "https://blog.naver.com/museroer11/224421110490",
+     "blogger": "나홀로 정리하는 ETF 투자이야기",
+     "bloggerUrl": "https://blog.naver.com/museroer11",
+     "postdate": "20260923",
+     "summary": "mu 주가를 검색하면 9월 18일에 1,000달러 선을 다시 넘었다는... mu는 마이크론 테크놀로지가 나스닥에서 쓰는 종목 코드예요.... 9월 14일 이후 이어진 mu 주가 흐름 2. 9월 30일 발표되는 4분기"
+    },
+    {
+     "title": "2026년 10월 이스즈 가격표, 베트남 D-MAX·MU-X 얼마일까요?",
+     "url": "https://blog.naver.com/travel_writer_k/224440091139",
+     "blogger": "세모픽",
+     "bloggerUrl": "https://blog.naver.com/travel_writer_k",
+     "postdate": "20261013",
+     "summary": "픽업과 MU-X SUV 기준입니다. 공식 이스즈 베트남 자료를 함께 확인하면 D-MAX는 6개 일반 버전, MU-X는 4개 일반 버전으로 구성돼... 10월 가격표의 대상은 이스즈 베트남이 판매하는 D-MAX와 MU"
+    },
+    {
+     "title": "26.10.07 작년에 놓친 최고의 주식 MU",
+     "url": "https://blog.naver.com/smallwhale95/224434017877",
+     "blogger": "이씨네",
+     "bloggerUrl": "https://blog.naver.com/smallwhale95",
+     "postdate": "20261007",
+     "summary": "첫 번째, 종목은 작년 1년 기준 다섯배 가량 상승한 MU이다. MU의 경우 내가 직접 투자하지는... MU도 비슷하다고 생각한다. 메모리에서 찍는 매출과 이익이 둔화되지 않고 쭉 끌고가는 한 사이클이..."
+    },
+    {
+     "title": "다혼 Mu pro 직접 써본 솔직 사용기",
+     "url": "https://blog.naver.com/naqyracd2/224408947918",
+     "blogger": "naqyracd2님의 블로그",
+     "bloggerUrl": "https://blog.naver.com/naqyracd2",
+     "postdate": "20260912",
+     "summary": "다혼 Mu pro 직접 써본 솔직 사용기 왜 다혼 뮤 프로를 찾게 되었나? 제가 예전에는 대중교통을 주로... #다혼 #Dahon #뮤 프로 #Mu pro #접이식 미니벨로 #미니벨로 추천 #접이식 자전거 #경량 자"
+    },
+    {
+     "title": "[대회정보]  ‘제2회 M.U파크골프 부여 백마강 파크골프대회’ 개최 ....",
+     "url": "https://blog.naver.com/aquakoi1/224411632359",
+     "blogger": "토리파크골프 [ 새로운 힐링 스포츠를 만나다 ]",
+     "bloggerUrl": "https://blog.naver.com/aquakoi1",
+     "postdate": "20260914",
+     "summary": "아름다운 백마강에서 멋진 플레이와 쾌거를 응원합니다.⛳ #MU파크골프 #부여백마강파크골프대회 #백마강파크골프장 #파크골프대회 #파크골프 #MUPARKGOLF #제렉스스포츠 #부여군파크골프협회..."
+    }
+   ]
+  }
  ]
 }
