@@ -137,7 +137,7 @@ button,input,textarea,select{font:inherit;color:inherit}
 (function(){
   "use strict";
   var app = document.getElementById("app");
-  var state = { days:[], day:null, sel:null, cand:null };
+  var state = { days:[], files:[], day:null, sel:null, cand:null };
   var SRC = { google:"구글 트렌드", yonhap:"연합뉴스 연예", naverNews:"네이버 뉴스", naverBlog:"네이버 블로그 상위 글", naver:"네이버 데이터랩", econ:"경제 뉴스 상위 이슈", cross:"여러 곳 교차 확인" };
   var ORDER = ["naverNews","naverBlog","google","yonhap","naver","econ","cross"];
   var STATE = { article:"전체 글", analysis:"분석", missing:"확보 실패" };
@@ -183,15 +183,21 @@ button,input,textarea,select{font:inherit;color:inherit}
     return r.json();
   }
 
+  var WEEK = ["일","월","화","수","목","금","토"];
+  // 한국 시간 기준 오늘 날짜. 1분을 빼서 00시 01분에 날짜가 넘어가게 함
+  function todayKST(){ return new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Seoul"}).format(new Date(Date.now() - 60000)); }
+  function stubDay(date){ return {date:date, weekday:WEEK[new Date(date + "T12:00:00Z").getUTCDay()], keywords:[], articles:{}}; }
+
   async function start(){
     var idx;
+    state.today = todayKST();
     try { idx = await getJSON("data/index.json"); }
     catch(e){ screen("불러오지 못함", "data/index.json을 읽지 못했습니다. GitHub Pages 주소로 열었는지 확인해 주세요. 파일을 PC에서 바로 열면 데이터가 보이지 않습니다."); return; }
     var cands = (idx.candidates || []).slice().sort();
     if (cands.length){ try { state.cand = await getJSON("data/candidates/" + cands[cands.length-1] + ".json"); } catch(e){} }
-    var dates = (idx.days || []).slice().sort().reverse();
-    if (!dates.length && state.cand){ state.day = {date:state.cand.date, keywords:[], articles:{}}; state.sel = "CAND"; render(); return; }
-    if (!dates.length){ screen("아직 글이 없습니다", "data 폴더에 날짜별 JSON 파일을 추가하고 data/index.json의 days 목록에 날짜를 넣어 주세요."); return; }
+    state.files = (idx.days || []).slice();
+    // 오늘 글이 아직 없어도 날짜 목록 맨 위에는 오늘(한국 시간)을 둠
+    var dates = state.files.concat(state.files.indexOf(state.today) < 0 ? [state.today] : []).sort().reverse();
     state.days = dates.map(function(dt){ return {date:dt}; });
     var want = (location.hash||"").replace("#d","");
     var pickDate = dates.filter(function(dt){ return dt.replace(/-/g,"") === want; })[0] || dates[0];
@@ -199,6 +205,11 @@ button,input,textarea,select{font:inherit;color:inherit}
   }
 
   async function openDay(date){
+    if (state.files.indexOf(date) < 0){
+      state.day = stubDay(date);
+      state.sel = state.cand && state.cand.date === date ? "CAND" : "WAIT";
+      render(); return;
+    }
     var day;
     try { day = await getJSON("data/" + date + ".json"); }
     catch(e){ screen("불러오지 못함", "data/" + date + ".json 파일을 읽지 못했습니다. 파일 이름과 JSON 형식을 확인해 주세요."); return; }
@@ -254,6 +265,8 @@ button,input,textarea,select{font:inherit;color:inherit}
     var pane = el("main",{class:"pane",id:"pane"});
     var k = d.keywords.filter(function(x){ return x.id === state.sel; })[0];
     if (state.sel === "CAND" && state.cand) renderCandidates(pane, state.cand);
+    else if (state.sel === "WAIT") pane.appendChild(el("div",{class:"empty"},[el("h1",{text:"오늘 글은 아직 없습니다"}),
+      el("p",{text:"아침 7시에 후보를 모으고, 10시 35분에 아티클을 자동으로 작성합니다. 지난 글은 오른쪽 위 날짜 목록에서 고르세요."})]));
     else if (k){
       var art = d.articles && d.articles[k.id];
       if (art) renderArticle(pane, k, art); else renderAnalysis(pane, k);
@@ -470,6 +483,8 @@ button,input,textarea,select{font:inherit;color:inherit}
   }
 
   start().catch(function(){ screen("열 수 없음", "페이지를 새로 고쳐 주세요."); });
+  // 페이지를 열어 둔 채 한국 시간 00시 01분이 지나면 새 날짜로 다시 불러옴
+  setInterval(function(){ if (state.today && todayKST() !== state.today) start(); }, 60000);
 })();
 </script>
 </body>
