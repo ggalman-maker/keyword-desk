@@ -1,0 +1,463 @@
+{
+ "date": "2026-11-01",
+ "collectedAt": "2026-11-01T07:27+09:00",
+ "errors": [],
+ "googleTrends": [
+  {
+   "rank": 1,
+   "keyword": "최민정",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 14:10:00 -0700",
+   "news": [
+    {
+     "title": "최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과",
+     "url": "https://www.yna.co.kr/view/AKR20261031018100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "쇼트트랙 최민정, 2차 월드투어 전 종목 예선 통과…김길리는 연속 충돌",
+     "url": "https://www.newsis.com/view/NISX20261031_0003849166",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"제발 은퇴 안 하면 안 돼요?\" 마지막 질주하는 최민정, 여전히 기량 미쳤다! 월드투어 첫날 전 종목 조 1위 질주",
+     "url": "https://www.chosun.com/sports/sports_general/2026/10/31/G5SDMN3EGNRDEOBUHEZTSNBQMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "พยากรณ์อากาศ",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 14:10:00 -0700",
+   "news": [
+    {
+     "title": "สภาพอากาศวันนี้ -6 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ฝนหนักบางแห่ง",
+     "url": "https://www.thansettakij.com/general-news/672676",
+     "source": "thansettakij"
+    },
+    {
+     "title": "ปักหมุดรับลมหนาว! กรมอุตุฯ เผย 7-12 พ.ย. มีสัญญาณชัด มวลอากาศเย็นแผ่ลงมาแรงขึ้น",
+     "url": "https://www.thaipost.net/general-news/1099128/",
+     "source": "Thaipost.net"
+    },
+    {
+     "title": "สงขลา | ฝนจ่อเพิ่มกำลัง เรดาร์พบกลุ่มฝนฟ้าคะนอง ปกคลุมสงขลา–อ่าวไทย เตือนชาวเรือระวังคลื่นสูง ลมกระโชกแรง",
+     "url": "https://www.hatyaifocus.com/news-detail/32019/",
+     "source": "HATYAI FOCUS"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "태풍",
+   "traffic": "5000+",
+   "pubDate": "Sat, 31 Oct 2026 14:00:00 -0700",
+   "news": [
+    {
+     "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "31호 태풍 ’인파’ 북상…10월 태풍 어디로?",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030052801FCT",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "\"사람 날아갈 정도\" 31호 태풍 '인파' 북상 중…한반도 영향은? - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/10/30/2026103009425625443",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "알렉산더 즈베레프",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 13:50:00 -0700",
+   "news": [
+    {
+     "title": "\"세계 1위까지 딱 1점 남았는데\" 츠베레프 스매시에 광고판 먹통→심판 두드리고 상대는 발로 '쾅'... 결국 수건 덮고 역사 썼다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/31/2026103109290489614",
+     "source": "머니투데이"
+    },
+    {
+     "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
+     "url": "https://www.yna.co.kr/view/AKR20261030093200007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "츠베레프, 생애 첫 테니스 랭킹 1위 등극 예고…신네르·알카라스 제쳐",
+     "url": "https://www.newspim.com/news/view/20261030000798",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "삼성전자",
+   "traffic": "10000+",
+   "pubDate": "Sat, 31 Oct 2026 13:30:00 -0700",
+   "news": [
+    {
+     "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
+     "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
+     "source": "제민일보"
+    },
+    {
+     "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+     "url": "https://www.etnews.com/20261031000056",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "sports",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 13:30:00 -0700",
+   "news": [
+    {
+     "title": "Heat unveil updated Dwyane Wade statue after original's face was panned",
+     "url": "https://www.espn.com/nba/story/_/id/50328871/heat-unveil-updated-dwyane-wade-statue-original-face-was-panned",
+     "source": "ESPN"
+    },
+    {
+     "title": "“After seeing the work at full scale and in its …",
+     "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/30/after-seeing-the-work-at-full-scale-and-in-its/92515150007/",
+     "source": "HoopsHype"
+    },
+    {
+     "title": "\"I think it looks amazing,\" Spoelstra said",
+     "url": "https://sports.yahoo.com/articles/think-looks-amazing-spoelstra-said-232652996.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "김민재",
+   "traffic": "2000+",
+   "pubDate": "Sat, 31 Oct 2026 13:00:00 -0700",
+   "news": [
+    {
+     "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+     "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+     "url": "https://www.osen.co.kr/article/G1112901786",
+     "source": "OSEN"
+    },
+    {
+     "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "barcelona vs alavés",
+   "traffic": "1000+",
+   "pubDate": "Sat, 31 Oct 2026 12:50:00 -0700",
+   "news": [
+    {
+     "title": "Barça-Alavés: Adeyemi se mete en el XI junto a Raphinha y Lamine",
+     "url": "https://es-us.noticias.yahoo.com/deportes/bar%C3%A7a-alav%C3%A9s-adeyemi-mete-xi-190300065.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "¡Un 10 perfecto! Yamal deslumbra en la goleada de seis goles del Barcelona",
+     "url": "https://www.sofascore.com/es/news/un-10-perfecto-yamal-deslumbra-en-la-goleada-de-seis-goles-del-barcelona",
+     "source": "Sofascore"
+    },
+    {
+     "title": "[[EN DIRECTO@] Barcelona vs Deportivo Alavés FC EN VIVO GRATIS y ONLINE por el Mundial 2026",
+     "url": "https://mnlr.ro/mnlr3.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9zaXIueG1sIi8+PC9rcnBhbm8+&id=barcelona-vs-deportivo-alav%C3%A9s-fc-lie-vio-74345678-191",
+     "source": "Muzeul Național al Literaturii Române"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "바르셀로나 대 알라베스",
+   "traffic": "2000+",
+   "pubDate": "Sat, 31 Oct 2026 12:10:00 -0700",
+   "news": [
+    {
+     "title": "[laliga.review] '야말-하피냐 나란히 멀티골 폭발!' 바르셀로나, 알라베스 6-1 대파…라리가 선두 탈환!",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100139",
+     "source": "포포투"
+    },
+    {
+     "title": "라리가 바르셀로나 대 알라베스 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-alaves-tai-la-liga-1792360.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "바르셀로나, 엘클라시코 패배 이어 수비진 비상⋯에스파르트 7주 결장",
+     "url": "https://www.etoday.co.kr/news/view/2640429",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "bundesliga",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 11:40:00 -0700",
+   "news": [
+    {
+     "title": "Laimer traf für Bayern bei 2:2 gegen Dortmund",
+     "url": "https://www.suedtirolnews.it/sport/laimer-traf-fuer-bayern-bei-22-gegen-dortmund",
+     "source": "Südtirol News"
+    },
+    {
+     "title": "Kein Sieger im Topspiel der Tabellenführer",
+     "url": "https://www.kicker.de/kein-sieger-im-topspiel-der-tabellenfuehrer-1266470/artikel",
+     "source": "Kicker"
+    },
+    {
+     "title": "0:0! Urbig rettet Bayern vor dem Rückstand! FC Bayern – BVB im Live-Ticker",
+     "url": "https://www.bild.de/sport/fussball/0-0-urbig-rettet-bayern-vor-dem-rueckstand-fc-bayern-bvb-im-live-ticker-6ae5faadaedea8cd9ffbf76f",
+     "source": "BILD"
+    }
+   ]
+  }
+ ],
+ "yonhapEnt": {
+  "via": "연합뉴스 RSS",
+  "items": [
+   {
+    "title": "'어벤져스: 둠스데이'·'듄: 파트 3' 온다…올해 남은 기대작은",
+    "url": "https://www.yna.co.kr/view/AKR20261031040500005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 1 Nov 2026 07:11:01 +0900"
+   },
+   {
+    "title": "최불암 빈소 이틀째 발길…\"큰 별 떠나, 누가 방송 지키나\"(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261031027651005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 19:15:43 +0900"
+   },
+   {
+    "title": "최불암 \"적당함 유지하는 것이 우리 삶…다 같이 행복해져야지\"",
+    "url": "https://www.yna.co.kr/view/AKR20261031027700005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 12:53:21 +0900"
+   },
+   {
+    "title": "\"아버지이자 선생님, 큰 산 같은 분\"…최불암 빈소 이틀째 조문 행렬",
+    "url": "https://www.yna.co.kr/view/AKR20261031027600005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 12:18:17 +0900"
+   },
+   {
+    "title": "[인터뷰] 박해일 \"여기서 전 낯선 배우…LA관객에 명함 건네는 기분\"",
+    "url": "https://www.yna.co.kr/view/AKR20261031026500075",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 12:09:02 +0900"
+   },
+   {
+    "title": "임형주, 故 최불암 장례 미사서 '아베 마리아' 부른다",
+    "url": "https://www.yna.co.kr/view/AKR20261031024300005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 10:45:41 +0900"
+   },
+   {
+    "title": "[가요소식] BTS 제이홉 '모나리자' 뮤직비디오 1억뷰",
+    "url": "https://www.yna.co.kr/view/AKR20261031023300005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 10:27:21 +0900"
+   },
+   {
+    "title": "김재환, 전역 후 첫 단독 콘서트 '여백'…솔로곡 망라",
+    "url": "https://www.yna.co.kr/view/AKR20261031022200005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 10:10:42 +0900"
+   },
+   {
+    "title": "유연석·서현진, 엇갈린 첫 데이트의 기억…'라이어' 1.9% 출발",
+    "url": "https://www.yna.co.kr/view/AKR20261031020500005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 10:08:56 +0900"
+   },
+   {
+    "title": "캣츠아이, 英 오피셜 싱글 차트 78위·앨범 80위",
+    "url": "https://www.yna.co.kr/view/AKR20261031020400005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 31 Oct 2026 10:02:33 +0900"
+   }
+  ]
+ },
+ "news": [
+  {
+   "query": "코스피",
+   "items": [
+    {
+     "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55TWw4VlFjdl90RXF0a2dBbElCWTh6RVlhd2c2NFdMVXJiSVpveElFX2cxaUtHd3FXTWpBZGt4VEpGeU13TmdQMnYzZXVReEJFbnZtZlZHNktiMkk?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Sat, 31 Oct 2026 21:25:00 GMT"
+    },
+    {
+     "title": "코스피·코스닥, 미국 기술주 삭풍에 3.48% 급락 마감 - 경북신문",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYUdXcUF0ZERpX1VSemppbDBzU1JCQlNDWkRPT2gwbGRDbjAxYlAtZWFvUEFUWGJtODdBQl9sV0FrMVZERUwtckczYVM5dmhhM2VVZHJnaVM?oc=5",
+     "source": "경북신문",
+     "pubDate": "Sat, 31 Oct 2026 19:17:49 GMT"
+    },
+    {
+     "title": "코스피 한 달 새 16% 급락…사이드카도 역대 최다 - 경북매일",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iLU9Sd1daZThOWXYwczV3MXNkcFZnbVFBeldRTmxaVDJ5MFJxX3EtWkU2RnBycGh5dy1wdHlPR0NWTk9XSWlmRy1GTHBHZnZwbkxzeVFPUjhCZw?oc=5",
+     "source": "경북매일",
+     "pubDate": "Sat, 31 Oct 2026 21:35:00 GMT"
+    },
+    {
+     "title": "코스피, 6천선 회복 관건… 美선거·빅테크 실적 ‘주목’ [주간증시전망] - IT조선",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cGttSVE4cTVPZUg2N21wZG1zSXNJSnlYZ0c5eVE2cHR0QlQ2SVNKdlZySFU0cmNPLUdOa1BMeDFTbjkwX1hDcFhNSnItZlBxNkg1SmhVaTRPOGpRX2Z6MXBuUUQ0U2ZORDIyS1ZWd1R4TEdX0gF0QVVfeXFMTnRwa21JUThxNU9lSDY3bXBkbXNJc0lKeVhnRzl5UTZwdHRCVDZJU0p2VnJIVTRyY08tR05rUEx4MVNuOTBfWENwWE1Kci1mUHE2SDVKaFVpNE84alFfZnoxcG5RRDRTZk5EMjJLVlZ3VHhMR1c?oc=5",
+     "source": "IT조선",
+     "pubDate": "Sat, 31 Oct 2026 21:13:44 GMT"
+    },
+    {
+     "title": "실적 발표에 급등락한 코스피…美 중간선거 이후 '육천피' 반등 주목 - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQm02UFVQVGM3Qm9SRkE3c2dSQmhycHhicm1PNWtXdmhjREIwRVZlZ2tNeDVrLW1WTHFnc0ZQandxbVdGUHFydzBybTJXVUdPdnl3NXhSWDdDVXc?oc=5",
+     "source": "뉴스1",
+     "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT"
+    },
+    {
+     "title": "코스피 급락에 펀드 88조 증발…저가매수도 역부족 - 조세일보",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UeXZVZnd1enh2S2x3T3Z5NjhoZnB6SGFDYkY4Wjh4Vm9rV0ozZUY0d1draFc4N0FGME41cGNPZWxFZTZWSVgzX0VHekd1VVdoMkU3UkpLVVlDT01abTBKZ3NTYnZwWXZZNDR2S2h6dm12S2Zq?oc=5",
+     "source": "조세일보",
+     "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT"
+    },
+    {
+     "title": "코스피 떠난 외국인 11월엔 돌아올까, 변수는 미국 중간선거와 앤트로픽 상장 - 비즈니스포스트",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1Za1pWOGM?oc=5",
+     "source": "비즈니스포스트",
+     "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT"
+    },
+    {
+     "title": "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 ‘팔자’ - 세계일보",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FMndtc3NSbXFGT2RVUW5vZmhKV2ZxQkpZZTY1SGloMnRXU210cEdnSGEya21UVnhHellET0dOS2JtNFo5THplb1VLb0VFUndCOXdVd0RCSE8?oc=5",
+     "source": "세계일보",
+     "pubDate": "Sat, 31 Oct 2026 19:53:07 GMT"
+    }
+   ]
+  },
+  {
+   "query": "증시",
+   "items": [
+    {
+     "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Sat, 31 Oct 2026 21:00:08 GMT"
+    },
+    {
+     "title": "(주간증시전망)미 중간선거 결과 '촉각'…6000 재돌파 탐색전 - 뉴스토마토",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOWI2NXJoWFVtMkkwdHh0Mzh5MjN2dFoybE9XWkRUNTdDUTN5bDUxT0hSUjctQWFmYWktbGQ4UWJKWGo3aVNlbDVTdE5CcWNaNDNDamtTOXJKSlBZR013Qg?oc=5",
+     "source": "뉴스토마토",
+     "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT"
+    },
+    {
+     "title": "외국인이 한국 증시를 보는 두 개의 시선…19조 순매도에도 ETF는 샀다 - 경북매일",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CTEUtb0JjWFFuSF9lbElRLWU5RXNJbDZackhiRjBVUGltRm9XTFMtT2dUTWR2enVSblhUUmFBMGlxVWJxZERDRHdhbHozdTUydUJjX0lmQlFoQQ?oc=5",
+     "source": "경북매일",
+     "pubDate": "Sat, 31 Oct 2026 10:51:00 GMT"
+    },
+    {
+     "title": "ETF 순자산, 증시조정에 국내주식형 비중 줄고 채권형 늘었다 - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMks0NWtodERGa2lxNkRrMmdWOEZXVTlKQmsxMk9JSGxwVXpUelpwWG5aS0g1a1Zlalhvejk0NVBFNGhudFA0WHpmU1FrMUE3SEE?oc=5",
+     "source": "매일경제 마켓",
+     "pubDate": "Sat, 31 Oct 2026 21:10:00 GMT"
+    },
+    {
+     "title": "‘AI 투자 우려’에 인텔 29% 폭락…국내 증시 여파 촉각 - JTBC",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbklwTUVFRF9rZGlDbDNPUzlwUTFab3lERXhkVEJCd1JaMm9kTk9uSmJLWlY3VG9VTHR2NFZ4MXdQRVExeHhxaWtyRFoxZE5aOVdNeg?oc=5",
+     "source": "JTBC",
+     "pubDate": "Sat, 31 Oct 2026 09:47:00 GMT"
+    },
+    {
+     "title": "[주간 월가 레이더] AI 흔들린 뉴욕증시⋯중간선거·빅테크 실적·고용 '운명의 주' - 포커스온경제",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lbE1JWllzaFZiMG1sdWJzR2hwbjZ3RW5rVUxJbXltTUpJMHgxdUM5YUtRNVhvVnF4dG5JMjVETEZlXzcyWnhPd2dLaTczRmt2LTlpd0tFWnItcXd0ZlE?oc=5",
+     "source": "포커스온경제",
+     "pubDate": "Sat, 31 Oct 2026 20:05:24 GMT"
+    },
+    {
+     "title": "화산 분화에 멈췄던 아이슬란드 블루라군, 증시 상장 재추진 - 글로벌이코노믹",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDRjeEJJX2pFYTZqd1VvajdPWkFsT0owV0VNYXZUNVhfZTVxNVFzNHBINVhkSVEwWlR1Xzd6bWZyVXJuSUYyQkxpLWpobHBEdVJVVEdHNTFpWkVmd2pUNnpOMDEyb2xhcGJraExFeHhmcDVQeDVtZHdWdFFXcElJVnNmZUJiMmlw?oc=5",
+     "source": "글로벌이코노믹",
+     "pubDate": "Sat, 31 Oct 2026 18:00:00 GMT"
+    },
+    {
+     "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+     "source": "KBS 뉴스",
+     "pubDate": "Sat, 31 Oct 2026 12:04:00 GMT"
+    }
+   ]
+  },
+  {
+   "query": "환율",
+   "items": [
+    {
+     "title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대 - 마켓인",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMGZ4a1RpV01SMUFWN0F3VHU3VDBsLTNfeEtQemczQmtPMkNLMkRaX2VreGxWOFBxLXRiU2x5c0g5VUg3N2N3enZDSUxXaExlaEdaLXZyTTBySFpTVlQ0d1FMc2I4SGpZNTRvT3p0SWppOUk?oc=5",
+     "source": "마켓인",
+     "pubDate": "Sat, 31 Oct 2026 20:00:04 GMT"
+    },
+    {
+     "title": "1300원대 환율에 외화투자 관심 쑥, '달러예금' '트래블통장'부터 'ETF'도 눈길 - 비즈니스포스트",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
+     "source": "비즈니스포스트",
+     "pubDate": "Sat, 31 Oct 2026 21:00:00 GMT"
+    },
+    {
+     "title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요 - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5",
+     "source": "조선일보",
+     "pubDate": "Sat, 31 Oct 2026 10:57:33 GMT"
+    },
+    {
+     "title": "‘반도체 달러’에 힘 못 쓰는 강달러…환율 연말에는 1200원대 가나? - www.dt.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNWlETnFPZTN4RWVfQjU4MlY2RlZ4am4tSHRpM2JWUWZlNXRfNE9JeXpncGtiQ0dJbmhZQWUxS3RNMGRsU3UyQ1NmellXUQ?oc=5",
+     "source": "www.dt.co.kr",
+     "pubDate": "Sat, 31 Oct 2026 20:00:00 GMT"
+    },
+    {
+     "title": "사노피, 3분기 매출 두 자릿수 증가…연간 성장 전망 상향 - 메디포뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OUVVU1VMWjBnZm94SXl1bWs5LUtaVWZ1V24zVnltZ09WM3JGOTAxSGVmVzZEbGZ3dGdDTkNQWUlzNk5xd01Tay1oeHZsR0JlQmtZZVJhS0E1ZExrUndPaEVja20?oc=5",
+     "source": "메디포뉴스",
+     "pubDate": "Sat, 31 Oct 2026 16:17:58 GMT"
+    },
+    {
+     "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’ - 영남일보",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5",
+     "source": "영남일보",
+     "pubDate": "Sat, 31 Oct 2026 03:00:41 GMT"
+    },
+    {
+     "title": "창청차 순이익 반토막·광저우차 적자 확대…외형 성장의 덫 - 글로벌이코노믹",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQak9UbmFqV0pvTVg1ZU5vNUxUZHZUZE1jVC1GWEFGR2kxNi0wWVNZam01Q3IxVkluVjFlX3F2S3BOQy1hMjd3UGJCLUhTazFtVXpSQV9BTEZva0kxLWtaWld2UUVwSzNwd2NQOWxRcy0zdjBhZUdnR1BKcG5uSEhFWGhQSmItLVBT?oc=5",
+     "source": "글로벌이코노믹",
+     "pubDate": "Sat, 31 Oct 2026 22:19:22 GMT"
+    },
+    {
+     "title": "동국씨엠, 3Q 영업손실 60억…\"환율 변동·원재료비 상승 등 영향\" - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9keGIwNGhBbFBZR3hHd0RDOWdYUUZFREUweXNKa3QycFlQNUNmX1JQYXIxTU83ay1PUVVwa0FnWGVsTlRzeEYtLS00UkJna29iaENRaElXUndNWU1ZVVBjbzNLbXA?oc=5",
+     "source": "뉴스1",
+     "pubDate": "Sat, 31 Oct 2026 06:53:43 GMT"
+    }
+   ]
+  }
+ ]
+}
