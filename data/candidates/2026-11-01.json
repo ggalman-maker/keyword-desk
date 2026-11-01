@@ -460,7 +460,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-01T10:36+09:00",
+ "naverCollectedAt": "2026-11-01T11:16+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -469,6 +469,11 @@
      "title": "'올공' 다음날 '박정희 생가'…장동혁 \"역사왜곡 영화\" 또",
      "url": "https://news.jtbc.co.kr/article/NB12325736?influxDiv=NAVER",
      "pubDate": "Fri, 30 Oct 2026 19:36:00 +0900"
+    },
+    {
+     "title": "‘치이카와’ 250만 돌파 1위…브래드 피트도 못 막았다 [MK박스오피스]",
+     "url": "https://www.mk.co.kr/article/12192549",
+     "pubDate": "Sun, 01 Nov 2026 08:54:00 +0900"
     },
     {
      "title": "‘신변보호 해제’ 유해진, 대통령 표창… “좋은 영화로 보답”",
@@ -481,24 +486,9 @@
      "pubDate": "Fri, 30 Oct 2026 15:44:00 +0900"
     },
     {
-     "title": "‘신변보호 해제’ 유해진, 대통령표창 수상 “좋은 영화로 보답”",
-     "url": "https://www.mk.co.kr/article/12191457",
-     "pubDate": "Fri, 30 Oct 2026 13:59:00 +0900"
-    },
-    {
      "title": "‘대통령표창’ 유해진 “좋은 영화로 보답”…신변보호 해제 뒤 첫 공...",
      "url": "https://www.hani.co.kr/arti/culture/culture_general/1285029.html",
      "pubDate": "Fri, 30 Oct 2026 15:18:00 +0900"
-    },
-    {
-     "title": "블랙스완 스리야, 돌아보는 순간마저 인도 영화처럼 [포토]",
-     "url": "https://www.bntnews.co.kr/article/view/bnt202610310131",
-     "pubDate": "Sun, 01 Nov 2026 01:28:00 +0900"
-    },
-    {
-     "title": "최휘영, 거듭 최불암 추모 \"못다 한 막걸리 약속 애통\"",
-     "url": "https://www.newsis.com/view/NISX20261031_0003849301",
-     "pubDate": "Sat, 31 Oct 2026 14:23:00 +0900"
     },
     {
      "title": "경기콘텐츠진흥원, 영화·드라마 작가와 제작사 연결…127건 상담",
@@ -506,14 +496,24 @@
      "pubDate": "Sun, 01 Nov 2026 08:17:00 +0900"
     },
     {
+     "title": "블랙스완 스리야, 돌아보는 순간마저 인도 영화처럼 [포토]",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202610310131",
+     "pubDate": "Sun, 01 Nov 2026 01:28:00 +0900"
+    },
+    {
      "title": "박희순·수호·라미란 뭉쳤다…영화 ‘아버지의 비밀’ 11월 크랭크인",
      "url": "https://sports.donga.com/ent/article/all/20261101/134943065/1",
      "pubDate": "Sun, 01 Nov 2026 07:55:00 +0900"
     },
     {
-     "title": "‘치이카와’ 250만 돌파 1위…브래드 피트도 못 막았다 [MK박스오피스]",
-     "url": "https://www.mk.co.kr/article/12192549",
-     "pubDate": "Sun, 01 Nov 2026 08:54:00 +0900"
+     "title": "'훈맹정음' 반포 100주년…서울시, 점자 체험·영화 상영",
+     "url": "https://www.yna.co.kr/view/AKR20261031031600004?input=1195m",
+     "pubDate": "Sun, 01 Nov 2026 11:15:00 +0900"
+    },
+    {
+     "title": "‘신변보호 해제’ 유해진, 대통령표창 수상 “좋은 영화로 보답”",
+     "url": "https://www.mk.co.kr/article/12191457",
+     "pubDate": "Fri, 30 Oct 2026 13:59:00 +0900"
     }
    ]
   },
@@ -521,9 +521,9 @@
    "query": "드라마",
    "items": [
     {
-     "title": "‘100일의 거짓말’ 박진영 정체 고백…최고 시청률 9.0% [MK★TV시청률]",
-     "url": "https://www.mk.co.kr/article/12192566",
-     "pubDate": "Sun, 01 Nov 2026 09:22:00 +0900"
+     "title": "서현진이 거짓말쟁이?…‘라이어’ 충격 반전에도 시청률 1.9% [MK★TV시청...",
+     "url": "https://www.mk.co.kr/article/12192556",
+     "pubDate": "Sun, 01 Nov 2026 09:12:00 +0900"
     },
     {
      "title": "‘국민 배우’ 고 최불암에 금관문화훈장 추서…“한국 드라마 성장기 ...",
@@ -531,14 +531,14 @@
      "pubDate": "Fri, 30 Oct 2026 17:22:00 +0900"
     },
     {
+     "title": "경기콘텐츠진흥원, 영화·드라마 작가와 제작사 연결…127건 상담",
+     "url": "https://www.hankyung.com/article/202611017944h",
+     "pubDate": "Sun, 01 Nov 2026 08:17:00 +0900"
+    },
+    {
      "title": "배틀그라운드, 넷플릭스 실사 드라마로 나온다",
      "url": "https://www.newsis.com/view/NISX20261030_0003848430",
      "pubDate": "Fri, 30 Oct 2026 14:39:00 +0900"
-    },
-    {
-     "title": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의...",
-     "url": "https://www.hankyung.com/article/202610306126H",
-     "pubDate": "Sat, 31 Oct 2026 16:41:00 +0900"
     },
     {
      "title": "넷플릭스, 배틀그라운드 실사 드라마 만든다",
@@ -566,9 +566,9 @@
      "pubDate": "Sun, 01 Nov 2026 08:02:00 +0900"
     },
     {
-     "title": "서현진이 거짓말쟁이?…‘라이어’ 충격 반전에도 시청률 1.9% [MK★TV시청...",
-     "url": "https://www.mk.co.kr/article/12192556",
-     "pubDate": "Sun, 01 Nov 2026 09:12:00 +0900"
+     "title": "[뮤즈★]윤종훈♥한은서, 드라마 인연 실제 부부로..오늘(1일) 결혼 “새...",
+     "url": "https://www.heraldmuse.com/article/10920986?ref=naver",
+     "pubDate": "Sun, 01 Nov 2026 00:00:00 +0900"
     }
    ]
   },
@@ -611,9 +611,9 @@
      "pubDate": "Sat, 31 Oct 2026 08:55:00 +0900"
     },
     {
-     "title": "'불륜설' 양홍원→'노동 착취 의혹' 헤이지니 [주간연예이슈]",
-     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/522913",
-     "pubDate": "Sun, 01 Nov 2026 08:02:00 +0900"
+     "title": "‘전원일기’ 장남 김용건, 최불암 빈소 못찾는 속사정…“나도 만류”",
+     "url": "https://www.joongang.co.kr/article/25474689",
+     "pubDate": "Sun, 01 Nov 2026 08:25:00 +0900"
     },
     {
      "title": "김대호, 퇴사 후 달라진 점 또 있다..\"연예인 메이크업 비싸, 다 돈\"",
@@ -631,6 +631,21 @@
    "query": "경제",
    "items": [
     {
+     "title": "[속보] \"코로나 이후 최악\"…'경제 허리' 먼저 무너졌다",
+     "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010020&t=NN",
+     "pubDate": "Sun, 01 Nov 2026 11:07:00 +0900"
+    },
+    {
+     "title": "학교 밖 청소년 전용 온라인 플랫폼 '유스캠퍼스' 개설",
+     "url": "https://www.yna.co.kr/view/AKR20261101013900003?input=1195m",
+     "pubDate": "Sun, 01 Nov 2026 11:00:00 +0900"
+    },
+    {
+     "title": "조현, G20 계기 EU·영국·인도·멕시코 외교장관 만나 안보·경제협력 ...",
+     "url": "https://www.newsis.com/view/NISX20261101_0003849582",
+     "pubDate": "Sun, 01 Nov 2026 09:42:00 +0900"
+    },
+    {
      "title": "美 연준 \"고금리, AI 투자에도 영향\"…반도체 기댄 韓경제 '시험대'",
      "url": "https://www.news1.kr/economy/trend/6338729",
      "pubDate": "Sun, 01 Nov 2026 07:05:00 +0900"
@@ -641,19 +656,9 @@
      "pubDate": "Sun, 01 Nov 2026 04:44:00 +0900"
     },
     {
-     "title": "조현, G20 계기 EU·영국·인도·멕시코 외교장관 만나 안보·경제협력 ...",
-     "url": "https://www.newsis.com/view/NISX20261101_0003849582",
-     "pubDate": "Sun, 01 Nov 2026 09:42:00 +0900"
-    },
-    {
      "title": "“흔들리는 비트코인”…알트코인을 주목해야 하는 이유 [경제한방]",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700709&ref=A",
      "pubDate": "Sun, 01 Nov 2026 09:06:00 +0900"
-    },
-    {
-     "title": "유로존 3분기 경제, 0.4% 성장…'시위 몸살' 프랑스는 역성장(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261030179651098?input=1195m",
-     "pubDate": "Sat, 31 Oct 2026 02:33:00 +0900"
     },
     {
      "title": "세 차례 미룬 가상자산 과세, 또 미루면 해결될까[박상영의 경제본색](...",
@@ -666,19 +671,14 @@
      "pubDate": "Sun, 01 Nov 2026 05:04:00 +0900"
     },
     {
-     "title": "\"경제 성장한다는데\"…마트·식당엔 손님 없어 '찬바람'",
-     "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010014&t=NN",
-     "pubDate": "Sun, 01 Nov 2026 09:47:00 +0900"
+     "title": "조현, EU·영국·인도·멕시코와 연쇄 회담…안보·경제 협력 논의",
+     "url": "https://news.mtn.co.kr/article/2026110110224678418",
+     "pubDate": "Sun, 01 Nov 2026 10:28:00 +0900"
     },
     {
      "title": "[인터뷰] “간호사·광부 독일 보냈던 나라인데… 외국인 노동자가 경제...",
      "url": "https://biz.chosun.com/topics/topics_social/2026/11/01/JSVMZTPSJRHMHEA5JYNZZGRBSM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "pubDate": "Sun, 01 Nov 2026 06:01:00 +0900"
-    },
-    {
-     "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (11월 2일~11월 6일)",
-     "url": "https://www.etoday.co.kr/news/view/2642583",
-     "pubDate": "Sun, 01 Nov 2026 08:52:00 +0900"
     }
    ]
   }
@@ -704,6 +704,14 @@
      "summary": "2026 롤드컵 8강 대진·일정 총정리｜젠지–LYON, DK–BLG, T1–KC... 한국 대표로 살아남은 젠지·디플러스 기아·T1은 각각 LYON·BLG·KC와... G vs LYON 5전 3선승제 11월 6일 금"
     },
     {
+     "title": "2026 롤드컵 3라운드 대진 확정｜젠지 vs LYON·DK vs KOI·T1 vs CFO·한화생....",
+     "url": "https://blog.naver.com/songoku021/224452936421",
+     "blogger": "퇴근한겜돌이",
+     "bloggerUrl": "https://blog.naver.com/songoku021",
+     "postdate": "20261025",
+     "summary": "G2 LYON vs Karmine Corp 1:0 LYON IG vs TSW 1:0 IG 젠지 vs 한화생명 1:0 젠지 DK vs T1 1:0 디플러스 기아 BLG vs... 젠지 vs LYON, 8강 진출까지 단"
+    },
+    {
      "title": "[2025 프랑스] 리옹 - 리옹 중심부 위치 좋은 호텔, Boscolo Lyon Hotel&Spa",
      "url": "https://blog.naver.com/mardukas/224432686426",
      "blogger": "먹자, 마시자, 놀러 다니자",
@@ -712,12 +720,12 @@
      "summary": "2년전 리옹의 식품전시회 기간에 묵은 곳은 이탈리아 호텔 계열인 Boscolo Lyon Hotel&Spa 입니다. 호텔 이름: Boscolo Lyon Hotel&Spa(5성급) 지역: 벨쿠르 광장 인근 좋은 위치 대"
     },
     {
-     "title": "2026 롤드컵 3라운드 대진 확정｜젠지 vs LYON·DK vs KOI·T1 vs CFO·한화생....",
-     "url": "https://blog.naver.com/songoku021/224452936421",
-     "blogger": "퇴근한겜돌이",
-     "bloggerUrl": "https://blog.naver.com/songoku021",
-     "postdate": "20261025",
-     "summary": "G2 LYON vs Karmine Corp 1:0 LYON IG vs TSW 1:0 IG 젠지 vs 한화생명 1:0 젠지 DK vs T1 1:0 디플러스 기아 BLG vs... 젠지 vs LYON, 8강 진출까지 단"
+     "title": "2026 롤드컵 스위스 스테이지 Day 8 결과｜KC·LYON·BLG 8강 진출! 한화생....",
+     "url": "https://blog.naver.com/wc6427/224460885752",
+     "blogger": "뭉치의 나라",
+     "bloggerUrl": "https://blog.naver.com/wc6427",
+     "postdate": "20261101",
+     "summary": "2026 롤드컵 스위스 스테이지 Day 8 결과｜KC·LYON·BLG 8강 진출!... 북미의 LYON이 브라질의 LOS를 상대로 2:1 역전승을 거뒀습니다.... 경기 최종 결과 승리 팀 KC vs MKOI 2:0"
     },
     {
      "title": "프랑스 리옹 박람회장 2027｜Eurexpo Lyon 주요 전시 일정과 참가·참관 ....",
@@ -750,14 +758,6 @@
      "bloggerUrl": "https://blog.naver.com/goodbyegoodgoodbye",
      "postdate": "20261021",
      "summary": "프랑스 레이오버 중에 리옹(Lyon) 데이오프 비행을 받았다. 호텔이... 리옹[Lyon]에서 안시[Annecy]가기 Day 2 리옹에서의 둘째 날 사실 안시를... de Lyon Gerland 주소: 52 Aven"
-    },
-    {
-     "title": "롤드컵 2026 T1·IG 8강 확정, T1 2대0 MKOI·IG 2대1 LYON 정리",
-     "url": "https://blog.naver.com/baebae-mu-urt/224458211969",
-     "blogger": "baebae-mu-urt님의 블로그",
-     "bloggerUrl": "https://blog.naver.com/baebae-mu-urt",
-     "postdate": "20261029",
-     "summary": "https://youtu.be/-ZakZw4PlBA?si=guDFyzjb4gwnOcTp 이어 열린 IG와 LYON의 경기는 2대1로 IG가 이겼어요. 1세트는 IG, 2세트는 LYON, 3세트는 다시 IG가 가져갔습"
     },
     {
      "title": "[프랑스4월여행]미식의 도시 리옹Lyon 2박3일여행 | 가볼만한 곳 | 부....",
@@ -866,12 +866,12 @@
      "summary": "골키퍼 장갑은 사는 순간보다 어떻게 관리하느냐가 더 중요하다. 유소년 골키퍼를 키우다 보면 생각보다 자주 구입하게 되는 장비가 있다. 바로 골키퍼 장갑이다. 처음 구입했을 때는 손바닥이 깨끗하고 공을..."
     },
     {
-     "title": "스즈키 자이온, 어떻게 아스톤 빌라 팬들을 사로잡았나?  (골키퍼 분....",
-     "url": "https://blog.naver.com/gangtefootball/224459666228",
-     "blogger": "강테 풋볼",
-     "bloggerUrl": "https://blog.naver.com/gangtefootball",
+     "title": "\"충격! 월드컵 위해 손가락을 희생한 마르티네스, 정상으로 돌아오....",
+     "url": "https://blog.naver.com/dhsemfdl4/224460347636",
+     "blogger": "쁘띠청년",
+     "bloggerUrl": "https://blog.naver.com/dhsemfdl4",
      "postdate": "20261031",
-     "summary": "최고의 골키퍼'라는 응원가를 불렀다. 하지만 이제 그 노래는 새로운 주인공을 향하고 있다. 파르마에서 영입한 일본인 골키퍼 '스즈키... 다재다능한 골키퍼가 등장했다는 평가까지 나오고 있다. ⓒ Sky Sports."
+     "summary": "아르헨티나 국가대표 골키퍼 에밀리아노 마르티네스가 자신의... 국가대표팀의 주전 골키퍼였던 마르티네스에게는 월드컵 출전 여부가... 대신 손가락을 보호할 수 있도록 특별히 제작된 골키퍼 장갑을..."
     },
     {
      "title": "초등학생 골키퍼장갑 추천｜풋볼몬스터 7호 그립감 내돈내산 착용....",
@@ -922,20 +922,20 @@
      "summary": "축구를 보다 보면 동료 선수가 골키퍼 쪽으로 공을 보냈는데 어떤 장면은... 보면 골키퍼 백패스 규정의 핵심은 단순히 발에 맞았느냐가 아닙니다 함께보면 좋은 글 \" \" 골키퍼에게 의도적으로 찬 공은 손으로 못..."
     },
     {
-     "title": "\"충격! 월드컵 위해 손가락을 희생한 마르티네스, 정상으로 돌아오....",
-     "url": "https://blog.naver.com/dhsemfdl4/224460347636",
-     "blogger": "쁘띠청년",
-     "bloggerUrl": "https://blog.naver.com/dhsemfdl4",
-     "postdate": "20261031",
-     "summary": "아르헨티나 국가대표 골키퍼 에밀리아노 마르티네스가 자신의... 국가대표팀의 주전 골키퍼였던 마르티네스에게는 월드컵 출전 여부가... 대신 손가락을 보호할 수 있도록 특별히 제작된 골키퍼 장갑을..."
-    },
-    {
      "title": "골키퍼 장갑 사이즈, 7·8·9·10호 어떻게 고를까? 손바닥 폭부터 체크",
      "url": "https://blog.naver.com/thehadam/224417271687",
      "blogger": "더하담",
      "bloggerUrl": "https://blog.naver.com/thehadam",
      "postdate": "20260925",
      "summary": "아이워너 골키퍼 장갑과 축구공, 7호 8호 9호 10호 사이즈 선택 가이드 골키퍼 장갑을 살 때 디자인보다... 아이워너 손가락 꺾임 방지 골키퍼 장갑은 7호부터 10호까지 네 가지 사이즈로 구성됩니다. 엄지를..."
+    },
+    {
+     "title": "야니스 블라스비히는 어떤 선수일까? 늦깎이 분데스리가 골키퍼에....",
+     "url": "https://blog.naver.com/footballarchiv/224459509826",
+     "blogger": "독일 축구, 그것이 알고싶다.",
+     "bloggerUrl": "https://blog.naver.com/footballarchiv",
+     "postdate": "20261030",
+     "summary": "좋은 골키퍼들이 끊이지 않았습니다. 그중에서도 조금 독특한... 엘리트 골키퍼와는 조금 다른 길을 걸었습니다. 독일 3부리그와... 포지션 골키퍼 주발 오른발 현 소속팀 바이어 04 레버쿠젠 등번호 28번..."
     }
    ]
   }
