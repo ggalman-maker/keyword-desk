@@ -460,7 +460,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-05T10:35+09:00",
+ "naverCollectedAt": "2026-11-05T11:25+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -481,24 +481,14 @@
      "pubDate": "Wed, 04 Nov 2026 12:50:00 +0900"
     },
     {
-     "title": "'호프', 프랑스서 올해 韓영화 최고 오프닝",
-     "url": "https://www.news1.kr/entertain/movie/6342636",
-     "pubDate": "Wed, 04 Nov 2026 11:52:00 +0900"
-    },
-    {
      "title": "'최종면접' 첫날부터 터졌다..22일 만 韓영화 박스 1위 진출",
      "url": "https://www.sportschosun.com/entertainment/2026-11-05/202611050100035190003590",
      "pubDate": "Thu, 05 Nov 2026 09:04:00 +0900"
     },
     {
-     "title": "‘최종면접’ 브래드 피트 꺾고 개봉 첫날 1위 [MK박스오피스]",
-     "url": "https://www.mk.co.kr/article/12197890",
-     "pubDate": "Thu, 05 Nov 2026 08:53:00 +0900"
-    },
-    {
-     "title": "프랑스 개봉 '호프' 올해 韓영화 오프닝 신기록",
-     "url": "https://news.jtbc.co.kr/article/NB12326410?influxDiv=NAVER",
-     "pubDate": "Wed, 04 Nov 2026 14:25:00 +0900"
+     "title": "'호프', 프랑스서 올해 韓영화 최고 오프닝",
+     "url": "https://www.news1.kr/entertain/movie/6342636",
+     "pubDate": "Wed, 04 Nov 2026 11:52:00 +0900"
     },
     {
      "title": "정우성, 한명회로 돌아온다…정성일·위하준과 영화 ‘살생부’ 호흡 [...",
@@ -511,9 +501,19 @@
      "pubDate": "Thu, 05 Nov 2026 08:22:00 +0900"
     },
     {
-     "title": "“전시는 공짜, 영화는 당근서 반값”… 고물가에 문화생활도 ‘짠테크...",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/05/L4QDHTIIFVESRGOFSCORVVHT5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "pubDate": "Thu, 05 Nov 2026 06:01:00 +0900"
+     "title": "프랑스 개봉 '호프' 올해 韓영화 오프닝 신기록",
+     "url": "https://news.jtbc.co.kr/article/NB12326410?influxDiv=NAVER",
+     "pubDate": "Wed, 04 Nov 2026 14:25:00 +0900"
+    },
+    {
+     "title": "‘최종면접’ 브래드 피트 꺾고 개봉 첫날 1위 [MK박스오피스]",
+     "url": "https://www.mk.co.kr/article/12197890",
+     "pubDate": "Thu, 05 Nov 2026 08:53:00 +0900"
+    },
+    {
+     "title": "'암살자(들)' 10월 韓영화 박스오피스 1위…장기 흥행 저력",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/523596",
+     "pubDate": "Thu, 05 Nov 2026 09:12:00 +0900"
     }
    ]
   },
@@ -526,14 +526,19 @@
      "pubDate": "Wed, 04 Nov 2026 13:33:00 +0900"
     },
     {
-     "title": "‘붕괴 위기’ K드라마…세계는 열광하는데 제작 현장은 왜? [핫이슈]",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261104601010&wlog_tag3=naver",
-     "pubDate": "Wed, 04 Nov 2026 14:02:00 +0900"
+     "title": "'이태원 클라쓰'·'설공찬전' 태국판 드라마로 재탄생",
+     "url": "https://www.newsis.com/view/NISX20261105_0003856021",
+     "pubDate": "Thu, 05 Nov 2026 11:17:00 +0900"
     },
     {
      "title": "김우빈 눈감아…‘수목금’ 신민아, 이진욱·유태오와 어른 멜로",
      "url": "https://www.mk.co.kr/article/12198102",
      "pubDate": "Thu, 05 Nov 2026 10:29:00 +0900"
+    },
+    {
+     "title": "‘붕괴 위기’ K드라마…세계는 열광하는데 제작 현장은 왜? [핫이슈]",
+     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261104601010&wlog_tag3=naver",
+     "pubDate": "Wed, 04 Nov 2026 14:02:00 +0900"
     },
     {
      "title": "K드라마 세계로 뻗는데, 국내 제작은 30% 감소…업계 \"1조 투자\" 촉구",
@@ -546,9 +551,9 @@
      "pubDate": "Wed, 04 Nov 2026 14:13:00 +0900"
     },
     {
-     "title": "드라마 제작 12개 단체, 1조원 지원 촉구…\"K-드라마 고사 위기 처했다\"",
-     "url": "https://www.newsis.com/view/NISX20261104_0003854982",
-     "pubDate": "Wed, 04 Nov 2026 16:42:00 +0900"
+     "title": "“2026년 최고의 K드라마 등장”…‘재혼 황후’, 해외도 터졌다",
+     "url": "https://isplus.com/article/view/isp202611050068",
+     "pubDate": "Thu, 05 Nov 2026 11:10:00 +0900"
     },
     {
      "title": "드라마 업계 \"고사 위기 K드라마, 국가가 지원해야\"",
@@ -564,11 +569,6 @@
      "title": "드라마 단체 한목소리 “K컬쳐 핵심인 드라마 산업 고사 위기”",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703733&ref=A",
      "pubDate": "Wed, 04 Nov 2026 14:16:00 +0900"
-    },
-    {
-     "title": "K-드라마 제작 30% 줄었다…업계, “1조 원 투자체계” 촉구",
-     "url": "https://news.jtbc.co.kr/article/NB12326426?influxDiv=NAVER",
-     "pubDate": "Wed, 04 Nov 2026 14:42:00 +0900"
     }
    ]
   },
@@ -601,14 +601,9 @@
      "pubDate": "Wed, 04 Nov 2026 22:23:00 +0900"
     },
     {
-     "title": "연예계 재점화된 '학폭' 폭로…과거 검증과 허위 낙인 사이",
-     "url": "https://www.sidae.com/article/2026110413244179678",
-     "pubDate": "Wed, 04 Nov 2026 17:35:00 +0900"
-    },
-    {
-     "title": "'연예계 최고령 산모' 된 유명 여배우, 아들 얼굴 공개하자 다 깜짝 놀랐...",
-     "url": "https://www.wikitree.co.kr/articles/1171428",
-     "pubDate": "Tue, 03 Nov 2026 20:00:00 +0900"
+     "title": "[문화연예 플러스] 차예련, '학폭 의혹' 강력 대응",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863302_37012.html",
+     "pubDate": "Thu, 05 Nov 2026 07:11:00 +0900"
     },
     {
      "title": "“캐디한테 짜증·반말 무시”…‘학폭 의혹’ 차예련, 폭로 또 터졌다",
@@ -616,9 +611,14 @@
      "pubDate": "Tue, 03 Nov 2026 21:24:00 +0900"
     },
     {
-     "title": "[문화연예 플러스] 차예련, '학폭 의혹' 강력 대응",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863302_37012.html",
-     "pubDate": "Thu, 05 Nov 2026 07:11:00 +0900"
+     "title": "홍윤화, 자영업 1년 3개월 차 고충...\"연예인이 왜 주방에 있냐고\" ('A급...",
+     "url": "https://www.tenasia.co.kr/article/2026110466014",
+     "pubDate": "Wed, 04 Nov 2026 21:33:00 +0900"
+    },
+    {
+     "title": "“냉장고만 5대” 또 연예인 집 자랑…새 집 공개하며 “18명 투입 15시...",
+     "url": "https://www.sportsseoul.com/news/read/1647189?ref=naver",
+     "pubDate": "Thu, 05 Nov 2026 07:18:00 +0900"
     },
     {
      "title": "고영욱, 미성년자 성폭행으로 연예계 퇴출됐으면서…“이상형은 깨끗한...",
@@ -656,14 +656,9 @@
      "pubDate": "Wed, 04 Nov 2026 10:07:00 +0900"
     },
     {
-     "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무...",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704390&ref=A",
-     "pubDate": "Thu, 05 Nov 2026 06:45:00 +0900"
-    },
-    {
-     "title": "美 유권자 출구조사…\"응답자의 65%, 트럼프가 경제 악화\"",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490131.html",
-     "pubDate": "Wed, 04 Nov 2026 11:06:00 +0900"
+     "title": "\"전기차도 '국내생산세액공제' 달라\"…경제계, 정부에 건의",
+     "url": "http://www.joseilbo.com/news/news_read.php?uid=578983&class=7&grp=",
+     "pubDate": "Thu, 05 Nov 2026 11:01:00 +0900"
     },
     {
      "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥?",
@@ -676,9 +671,14 @@
      "pubDate": "Wed, 04 Nov 2026 19:45:00 +0900"
     },
     {
-     "title": "재앙이 오기 전 경제를 바꿀 수 있을까",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281460&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-     "pubDate": "Wed, 04 Nov 2026 09:51:00 +0900"
+     "title": "제10회 ‘K사회적가치·ESG, 경제를 살리다’ 포럼 성료",
+     "url": "https://shindonga.donga.com/3/all/13/6447157/1",
+     "pubDate": "Thu, 05 Nov 2026 10:09:00 +0900"
+    },
+    {
+     "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무...",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704390&ref=A",
+     "pubDate": "Thu, 05 Nov 2026 06:45:00 +0900"
     }
    ]
   }
@@ -760,12 +760,12 @@
      "summary": "그럼 다문화 가정 혜택은 왜 생겼을까 궁금해서 조금 더 거슬러 올라가 봤어요. 2008년에 만들어진 다문화가족지원법의 제정 이유를 보면, 결혼이민자와 자녀들이 언어·문화 차이로 사회 적응이나 가족 갈등..."
     },
     {
-     "title": "2027 유치원 우선모집 다문화가정 신청 방법 및 필요 서류 총정리",
-     "url": "https://blog.naver.com/ddobotnews/224463667807",
-     "blogger": "네이버보다 빠른 뉴스",
-     "bloggerUrl": "https://blog.naver.com/ddobotnews",
-     "postdate": "20261103",
-     "summary": "다문화가정 우선모집 필요 서류 준비하기 가장 중요한 서류는 해당 유아가 모집요강에 정한 다문화가족 자격에 부합함을 증명하는 자료입니다. 모든 가정에 동일한 서류가 요구되는 것은 아니며, 지원하는..."
+     "title": "2026 다문화가정 지원 정책 총정리｜어떤 혜택이 있고, 산후조리원 ....",
+     "url": "https://blog.naver.com/danny_kim_/224461397121",
+     "blogger": "맛집, 여행, 일상",
+     "bloggerUrl": "https://blog.naver.com/danny_kim_",
+     "postdate": "20261101",
+     "summary": "다문화가족 지원정책 전체를 폐지하기로 확정한 것은 아닙니다. 1. 다문화가정이란 무엇일까요? 쉽게 말하면, 서로 다른 나라의 문화적... 다만 모든 외국인 가정이 법에 따른 다문화가족에 해당하는 것은..."
     }
    ]
   },
@@ -781,12 +781,12 @@
      "summary": "자료 출처 · 2026년 11월 5일 확인 데일리e스포츠 · [롤드컵] 젠지, 라이언 3대0 격파...中 iG와 4강 맞대결 2026-11-05 09:30:07 보도 #세상1분컷 #호기 #젠지 #롤드컵 #리그오브레전"
     },
     {
-     "title": "[롤드컵]젠지 롤드컵 8강 라이언 3대 0 격파, 3년 연속 4강 이번엔 IG ....",
-     "url": "https://blog.naver.com/pick_n_log/224465613361",
-     "blogger": "오늘의 스포츠",
-     "bloggerUrl": "https://blog.naver.com/pick_n_log",
-     "postdate": "20261105",
-     "summary": "“젠지 라이언 롤드컵 8강 결과, 세트별 정리” 1세트는 바텀 2레벨 싸움에서 퍼스트 블러드를 내줬는데, 상체에서 골드를 벌려 균형을 되찾았고 내셔 남작 사냥 뒤 넥서스를 부쉈습니다. 2세트는 룰러가..."
+     "title": "쵸비 첫 롤드컵 우승 도전 8강, 젠지 라이언 상대로 꼭 봐야 할 3가지",
+     "url": "https://blog.naver.com/saymyname_ang/224465155467",
+     "blogger": "^모^",
+     "bloggerUrl": "https://blog.naver.com/saymyname_ang",
+     "postdate": "20261104",
+     "summary": "롤드컵 8강 젠지 vs 라이언(LYON)이에요. 전력은 젠지가 앞선다는 평가가 많아요. 그래도 그냥 지나치기 어려운 이유가 있어요. 두 팀은 스위스 스테이지에서 이미 한 번 붙었고, 그때 1세트를 라이언이..."
     },
     {
      "title": "2026 롤드컵 녹아웃 스테이지 8강 11월 5일 일정 및 매치업 젠지 vs 라....",
@@ -797,20 +797,20 @@
      "summary": "그리고 이번 2026 롤드컵에서 젠지는 라이언 게이밍을 만나게 되면서 다시 한번 북미 LCS랑 격돌을 하게 됩니다. 이번 시간에는 2026 롤드컵 녹아웃 스테이지 8강 11월 5일 오늘 오전 7시에 치러지는 두번째."
     },
     {
-     "title": "쵸비 첫 롤드컵 우승 도전 8강, 젠지 라이언 상대로 꼭 봐야 할 3가지",
-     "url": "https://blog.naver.com/saymyname_ang/224465155467",
-     "blogger": "^모^",
-     "bloggerUrl": "https://blog.naver.com/saymyname_ang",
-     "postdate": "20261104",
-     "summary": "롤드컵 8강 젠지 vs 라이언(LYON)이에요. 전력은 젠지가 앞선다는 평가가 많아요. 그래도 그냥 지나치기 어려운 이유가 있어요. 두 팀은 스위스 스테이지에서 이미 한 번 붙었고, 그때 1세트를 라이언이..."
+     "title": "[롤드컵]젠지 롤드컵 8강 라이언 3대 0 격파, 3년 연속 4강 이번엔 IG ....",
+     "url": "https://blog.naver.com/pick_n_log/224465613361",
+     "blogger": "오늘의 스포츠",
+     "bloggerUrl": "https://blog.naver.com/pick_n_log",
+     "postdate": "20261105",
+     "summary": "“젠지 라이언 롤드컵 8강 결과, 세트별 정리” 1세트는 바텀 2레벨 싸움에서 퍼스트 블러드를 내줬는데, 상체에서 골드를 벌려 균형을 되찾았고 내셔 남작 사냥 뒤 넥서스를 부쉈습니다. 2세트는 룰러가..."
     },
     {
-     "title": "젠지 승리! 라이언 상대로 3대0 승리 롤드컵 4강 진출",
-     "url": "https://blog.naver.com/noldayz/224465632448",
-     "blogger": "즐거운 유목민",
-     "bloggerUrl": "https://blog.naver.com/noldayz",
+     "title": "젠지 라이언 3-0 완파, 3년 연속 롤드컵 4강 진출...결승 티켓 상대 IG ....",
+     "url": "https://blog.naver.com/ht5218/224465645234",
+     "blogger": "갓생러의 소소한 일상",
+     "bloggerUrl": "https://blog.naver.com/ht5218",
      "postdate": "20261105",
-     "summary": "젠지와 라이언, 어떤 팀인가? 먼저 두 팀을 간단하게 살펴보겠습니다. 젠지(Gen.G)는 한국 LCK를 대표하는 강팀으로, 탄탄한 라인전과 뛰어난 운영 능력, 교전 집중력을 갖춘 팀입니다. 특히 탑의 기인, 정글.."
+     "summary": "8강 2경기로 열린 젠지와 라이언의 맞대결, 세트를 거듭할수록 체급 차이가 점점 더 벌어졌거든요. 한국시각 5일 미국 텍사스 앨런에서 열린 이번 경기는 젠지의 3년 연속 롤드컵 4강 진출이 걸린..."
     },
     {
      "title": "롤드컵 8강 젠지 라이언 3:0 완승, 룰러 애쉬와 기인이 끝냈다",
@@ -821,6 +821,22 @@
      "summary": "오늘 아침 7시, 롤드컵 8강 젠지 vs 라이언(LYON) 경기가 끝났어요. 결과는 젠지 3:0 완승이에요. 어제 글에서 「스위스 때 1세트를 내줬던 그 팀」이라고 했죠. 오늘은 1세트부터 젠지가 가져갔어요. 초반에"
     },
     {
+     "title": "롤드컵 2026 젠지 vs 라이언 3:0 완승! 쵸비·룰러 활약, 4강 상대와 경....",
+     "url": "https://blog.naver.com/lisszzl/224465725643",
+     "blogger": "매일정보통",
+     "bloggerUrl": "https://blog.naver.com/lisszzl",
+     "postdate": "20261105",
+     "summary": "#젠지 #젠지라이언 #젠지LYON #롤드컵2026 #2026롤드컵 #롤드컵8강 #롤드컵4강 #젠지승리 #젠지경기결과 #젠지4강 #쵸비 #룰러 #캐니언 #기인 #듀로 #LCK #리그오브레전드 #롤드컵일정 #젠지IG #"
+    },
+    {
+     "title": "젠지 승리! 라이언 상대로 3대0 승리 롤드컵 4강 진출",
+     "url": "https://blog.naver.com/noldayz/224465632448",
+     "blogger": "즐거운 유목민",
+     "bloggerUrl": "https://blog.naver.com/noldayz",
+     "postdate": "20261105",
+     "summary": "젠지와 라이언, 어떤 팀인가? 먼저 두 팀을 간단하게 살펴보겠습니다. 젠지(Gen.G)는 한국 LCK를 대표하는 강팀으로, 탄탄한 라인전과 뛰어난 운영 능력, 교전 집중력을 갖춘 팀입니다. 특히 탑의 기인, 정글.."
+    },
+    {
      "title": "2026 롤드컵 일정·결과 정리｜젠지·DK 8강 확정, T1·한화생명 다음 경....",
      "url": "https://blog.naver.com/mhsekdma3/224455599309",
      "blogger": "여러 유용한 정보 공유하는 잘살자 블로그",
@@ -829,28 +845,12 @@
      "summary": "탈락 젠지는 라이언을 상대로 2대1 역전승을 거뒀고, DK는 모비스타 코이를 2대0으로 꺾었습니다. 두 팀은 나란히 3승을 먼저 채우며 8강행을 확정했습니다. 젠지·DK, 먼저 8강 티켓 확보 젠지는 스위스..."
     },
     {
-     "title": "젠지 vs 라이언 롤드컵 8강 프리뷰, 상대 전적만 믿으면 안 되는 이유",
-     "url": "https://blog.naver.com/young9999-/224463995494",
-     "blogger": "young9999-님의 블로그",
-     "bloggerUrl": "https://blog.naver.com/young9999-",
-     "postdate": "20261103",
-     "summary": "오늘은 젠지 vs 라이언 경기 전에 알아두면 좋은 팀 정보와 상대 전적, 핵심 선수를 정리해 보겠습니다. 1. 라이언은 어느 리그 소속일까? 구분 내용 팀명 LYON 연고 멕시코 소속 리그 북미 LCS 롤드컵..."
-    },
-    {
-     "title": "2026 롤드컵 젠지 vs LYON 집관, 7시인 줄 알았던 경기",
-     "url": "https://blog.naver.com/kimtokki_log/224465368200",
-     "blogger": "김토끼의 작은 기록장",
-     "bloggerUrl": "https://blog.naver.com/kimtokki_log",
+     "title": "3-0 완승, 젠지 라이언 8강전인데 왜 8일 IG전이 더 떨릴까?",
+     "url": "https://blog.naver.com/double_s_121/224465711622",
+     "blogger": "대가 없이 얻을 수 있는 건 없다",
+     "bloggerUrl": "https://blog.naver.com/double_s_121",
      "postdate": "20261105",
-     "summary": "상대편에서 다시 본 버서커 북미 LCS 2시드로 올라온 라이언이 젠지를 상대로 1세트를 먼저 가져갔어요. 1라운드 때 LYON vs TSW를 잠깐 봤어요. 그때 반가웠던 버서커가 이번엔 젠지 상대편에 있더라고요. 한"
-    },
-    {
-     "title": "롤드컵 스위스 DAY3 결과! 젠지·DK 8강 확정, 한화생명은 1승 2패 벼랑 ....",
-     "url": "https://blog.naver.com/inoinova/224453762718",
-     "blogger": "이노테크랩",
-     "bloggerUrl": "https://blog.naver.com/inoinova",
-     "postdate": "20261026",
-     "summary": "출처: 라이엇 게임즈 출처: LoL Esports 중계 화면 출처: LoL Esports 중계 화면 젠지, 라이언에 한 세트 내줬지만 2-1로 8강행 젠지도 8강입니다. 라이언이 한 세트를 가져가며 쉽게 물러나지 않"
+     "summary": "8일 오전 7시, 알람 맞춰두고 젠지의 4강을 응원해 보세요. 여러분은 이번 월즈, 젠지가 첫 결승까지 갈 거라고 보시나요? #젠지 #라이언 #LoL #월드챔피언십 #월즈 #쵸비 #IG #e스포츠"
     }
    ]
   },
@@ -922,20 +922,20 @@
      "summary": "인천대공원은 사계절 언제든 가기 좋은 공원이에요. 가을에는 코스모스와 단풍구경을 하기 좋은 인천 나들이 장소예요. 단풍이 조금씩 물들기 시작한 주말 오후, 여유롭게 인천대공원을 찾아갔습니다. 하루종일..."
     },
     {
-     "title": "인천공항 탑승장 4층 환승시설 총정리｜샤워실·마사지·냅존·스카....",
-     "url": "https://blog.naver.com/syenk/224378753623",
-     "blogger": "여행가이드 셔니",
-     "bloggerUrl": "https://blog.naver.com/syenk",
-     "postdate": "20260814",
-     "summary": "인천공항에서 비행기를 기다리거나 환승 시간이 길다면 탑승장만... 사진을 따라가면서 인천공항 탑승장 4층에는 어떤 시설이 있는지 하나씩 살펴보겠습니다. 인천공항 탑승장 4층 환승시설은 어디에..."
+     "title": "인천공항 전망대 추천｜오성산 전망대·강동석관 비행기 명소 2곳",
+     "url": "https://blog.naver.com/incheontogi/224406991170",
+     "blogger": "인천광역시 공식 블로그",
+     "bloggerUrl": "https://blog.naver.com/incheontogi",
+     "postdate": "20260912",
+     "summary": "✈️ 인천공항 전망대 추천 오성산 전망대·강동석관 비행기 명소 2곳 인천국제공항 주변에는 하늘을 가르는 비행기와 활주로의... 야외에서 즐기는 탁 트인 활주로 뷰, 인천공항 오성산 전망대  야외에서..."
     },
     {
-     "title": "인천공항 장기주차장 1터미널 2터미널 예약 가격 갓성비 주차장 추....",
-     "url": "https://blog.naver.com/leeggu6791/224416341019",
-     "blogger": "관광전공자의 여행 체크리스트",
-     "bloggerUrl": "https://blog.naver.com/leeggu6791",
-     "postdate": "20260918",
-     "summary": "관광전공자의 체크리스트 인천공항 주차장 다이아주차장 글·사진 © 이꾸 인천공항 이용할 때 주차... 오늘은 인천공항 공식 주차장과 가격까지 비교해서 상세히 소개해 볼게요! INDEX ✔️ 다이아 주차장..."
+     "title": "인천 바다패스 장봉도 여행｜배편 1500원으로 즐기는 당일치기 섬 트....",
+     "url": "https://blog.naver.com/incheontogi/224455061637",
+     "blogger": "인천광역시 공식 블로그",
+     "bloggerUrl": "https://blog.naver.com/incheontogi",
+     "postdate": "20261030",
+     "summary": "️ 인천 바다패스 장봉도 여행 배편 1500원으로 즐기는 당일치기 섬 트레킹 아름다운 서해 바다와 보물 같은 섬들을 간직한 도시, 인천. 혹시 인천시민이라면 여객선도 시내버스 요금 수준으로 이용할 수 있다는..."
     }
    ]
   }
