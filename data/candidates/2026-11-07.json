@@ -460,7 +460,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-07T10:36+09:00",
+ "naverCollectedAt": "2026-11-07T11:14+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -501,6 +501,11 @@
      "pubDate": "Fri, 06 Nov 2026 15:01:00 +0900"
     },
     {
+     "title": "'황야의 7인'이 붕어빵 됐다…똑같은 미래로 질주하는 'M7' [김인엽의 AI...",
+     "url": "https://www.hankyung.com/article/202610304854i",
+     "pubDate": "Sat, 07 Nov 2026 11:01:00 +0900"
+    },
+    {
      "title": "\"직원·고객과 영화 관람\"…대우건설, 소통 위해 '대우 컬처 데이' 개최",
      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690235.html",
      "pubDate": "Fri, 06 Nov 2026 18:45:00 +0900"
@@ -509,11 +514,6 @@
      "title": "中 코로나19 다룬 영화 개봉 무산…\"상처 왜 들추나\" 비판여론",
      "url": "https://www.yna.co.kr/view/AKR20261106093200083?input=1195m",
      "pubDate": "Fri, 06 Nov 2026 12:12:00 +0900"
-    },
-    {
-     "title": "임영웅, 영화 예고편 공개…9일 예매",
-     "url": "https://www.bntnews.co.kr/article/view/bnt202611060078",
-     "pubDate": "Fri, 06 Nov 2026 08:20:00 +0900"
     }
    ]
   },
@@ -922,20 +922,20 @@
      "summary": "신학기 순번을 확인한 뒤 모집인원과 상담 일정, 필요한 서류까지... 2027년 어린이집 신학기 순번은 당초 11월 2일 오전 10시 오픈... 실제로는 해당 연령반에서 몇 명을 모집하는지까지 알아야 가능성을 조금 "
     },
     {
-     "title": "막내의 어린이집 입소 확정, 첫째와 둘째를 키우던 그 시절이 떠올....",
-     "url": "https://blog.naver.com/1happy2me1/224463460523",
-     "blogger": "아빠의잔소리",
-     "bloggerUrl": "https://blog.naver.com/1happy2me1",
-     "postdate": "20261103",
-     "summary": "첫째와 둘째가 다녔던 어린이집에 막내의 입소가 확정됐다. 지금 사는 집에서는 제법 거리가 있다.... 그런데도 굳이 그 어린이집을 선택한 이유가 있다. 첫째와 둘째를 키우면서 어린이집 때문에 참 많은 일을..."
-    },
-    {
      "title": "어린이집 첫 달, 부모급여 입금액 보고 “왜 이 금액이지?” 싶어지....",
      "url": "https://blog.naver.com/editor_mumu/224421393141",
      "blogger": "에디터 김무무",
      "bloggerUrl": "https://blog.naver.com/editor_mumu",
      "postdate": "20260924",
      "summary": "하지만 보건복지부 안내를 보면 지급 방식은 가정양육, 어린이집... 어린이집을 이용하기 시작하면 같은 지원이 보육료와 연결되면서 통장에 들어오는 돈이 달라진다. 이 차이를 모르고 ‘어린이집..."
+    },
+    {
+     "title": "스테이크 집에서 진짜 맛있게 굽는법 | 전직 승무원의 찐 레시피",
+     "url": "https://blog.naver.com/roamly/224459748342",
+     "blogger": "ROAMLY by 송수연",
+     "bloggerUrl": "https://blog.naver.com/roamly",
+     "postdate": "20261031",
+     "summary": "스테이크 집에서 진짜 맛있게 굽는법 전직 승무원의 찐 레시피 (ft. 한 덩이씩 굽는 무쇠팬 스테이크)... 분명 스테이크집 가면 겉은 바삭하고 속은 촉촉했는데 집에서 구우면 이렇게 된 경우 있으시죠? ①..."
     }
    ]
   }
