@@ -444,20 +444,25 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-08T10:36+09:00",
+ "naverCollectedAt": "2026-11-08T11:19+09:00",
  "naverNews": [
   {
    "query": "영화",
    "items": [
+    {
+     "title": "LGU+, 수험생 응원…장기고객 4000명 아이맥스 영화 초청",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859145",
+     "pubDate": "Sun, 08 Nov 2026 09:10:00 +0900"
+    },
     {
      "title": "[단독] 서울시뿐 아니었다···신현준 영화제에 아내 회사 5220만원 챙겨",
      "url": "https://sports.khan.co.kr/article/202611080931003?pt=nv",
      "pubDate": "Sun, 08 Nov 2026 09:32:00 +0900"
     },
     {
-     "title": "LGU+, 수험생 응원…장기고객 4000명 아이맥스 영화 초청",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859145",
-     "pubDate": "Sun, 08 Nov 2026 09:10:00 +0900"
+     "title": "\"한국 영화에서 이 장면은 처음\" 카메라 앞에 선 두 트랜스젠더",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282135&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "pubDate": "Sun, 08 Nov 2026 10:52:00 +0900"
     },
     {
      "title": "LG유플, 수능 시즌 멤버십 혜택 확대…스타벅스 1+1부터 영화까지",
@@ -468,6 +473,11 @@
      "title": "청소년의 시선으로 담은 세상…‘송파 청소년영화제’ 성료 [지금 우리...",
      "url": "https://www.segye.com/newsView/20261108503345?OutUrl=naver",
      "pubDate": "Sun, 08 Nov 2026 09:29:00 +0900"
+    },
+    {
+     "title": "K웹툰·영화 되는데 K애니는 왜 안되나[최수문의 문화수도에서]",
+     "url": "https://www.sedaily.com/article/20111496?ref=naver",
+     "pubDate": "Sun, 08 Nov 2026 10:10:00 +0900"
     },
     {
      "title": "배우 이름 숨기던 영화사가 스타를 팔기까지",
@@ -488,16 +498,6 @@
      "title": "송파 청소년영화제 대상에 아주중 ‘The angle’",
      "url": "https://view.asiae.co.kr/article/2026110807524982227",
      "pubDate": "Sun, 08 Nov 2026 07:52:00 +0900"
-    },
-    {
-     "title": "LGU+, 수능 시즌 멤버십 혜택 강화…장기고객 영화 초청도",
-     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713600",
-     "pubDate": "Sun, 08 Nov 2026 09:00:00 +0900"
-    },
-    {
-     "title": "[인플루언서 프리즘] 어려운 영화 평론 대신 친근하게…'일상 속 씨네필...",
-     "url": "https://news.tf.co.kr/read/livingculture/2385839.htm",
-     "pubDate": "Sun, 08 Nov 2026 00:01:00 +0900"
     }
    ]
   },
@@ -570,14 +570,14 @@
      "pubDate": "Sat, 07 Nov 2026 19:50:00 +0900"
     },
     {
-     "title": "‘구피’ 신동욱, 연예계 떠나 잠적한 진짜 이유",
-     "url": "https://sports.khan.co.kr/article/202611071346003?pt=nv",
-     "pubDate": "Sat, 07 Nov 2026 13:47:00 +0900"
-    },
-    {
      "title": "'연예계 잠적' 구피 신동욱, 6만평 양돈장 근무 근황...\"연예인 안 만나...",
      "url": "https://www.tenasia.co.kr/article/2026110723624",
      "pubDate": "Sat, 07 Nov 2026 22:28:00 +0900"
+    },
+    {
+     "title": "‘구피’ 신동욱, 연예계 떠나 돼지 농장으로 잠적한 진짜 이유",
+     "url": "https://sports.khan.co.kr/article/202611071346003?pt=nv",
+     "pubDate": "Sat, 07 Nov 2026 13:47:00 +0900"
     },
     {
      "title": "한때 댄스 스타였는데…“필리핀 사업 실패→돼지농장 근무” 근황 밝힌...",
@@ -620,6 +620,16 @@
      "pubDate": "Sun, 08 Nov 2026 10:12:00 +0900"
     },
     {
+     "title": "송미령 농식품장관 \"농업·농촌 지속가능성 시험받는 전환점\"",
+     "url": "https://www.yna.co.kr/view/AKR20261107042800030?input=1195m",
+     "pubDate": "Sun, 08 Nov 2026 11:00:00 +0900"
+    },
+    {
+     "title": "내년 초등학교 입학생 30만명도 안된다…'저출산 쇼크' 현실로, 韓 경제...",
+     "url": "https://www.ddaily.co.kr/page/view/2026110618313917516",
+     "pubDate": "Sun, 08 Nov 2026 10:41:00 +0900"
+    },
+    {
      "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
      "url": "https://www.hankyung.com/article/202611072412H",
      "pubDate": "Sun, 08 Nov 2026 06:01:00 +0900"
@@ -628,6 +638,11 @@
      "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706862&ref=A",
      "pubDate": "Sun, 08 Nov 2026 09:01:00 +0900"
+    },
+    {
+     "title": "트럼프 남은 임기 2년...우리의 안보·경제 향방은?",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611081012444549",
+     "pubDate": "Sun, 08 Nov 2026 10:12:00 +0900"
     },
     {
      "title": "기후보험 공감한다지만…예산 놓고 설왕설래[기후로운 경제생활]",
@@ -640,29 +655,14 @@
      "pubDate": "Sun, 08 Nov 2026 07:02:00 +0900"
     },
     {
-     "title": "안철수 “李대통령, 당장 라방 켜서 긴급 경제대책 밝혀야”",
-     "url": "https://www.mk.co.kr/article/12200582",
-     "pubDate": "Fri, 06 Nov 2026 16:46:00 +0900"
+     "title": "[포토] '끝까지 힘내!'",
+     "url": "https://view.asiae.co.kr/article/2026110811132111481",
+     "pubDate": "Sun, 08 Nov 2026 11:13:00 +0900"
     },
     {
-     "title": "안덕수 국세청장 후보자 “민생안정·경제회복 뒷받침, 공정 세정 구현...",
-     "url": "https://biz.heraldcorp.com/article/10929054?ref=naver",
-     "pubDate": "Fri, 06 Nov 2026 22:52:00 +0900"
-    },
-    {
-     "title": "“대단지 매매가가 더 오르네”...아파트도 ‘규모의 경제’",
-     "url": "https://www.mk.co.kr/article/12200545",
-     "pubDate": "Sat, 07 Nov 2026 17:01:00 +0900"
-    },
-    {
-     "title": "[다음주 경제] 금융권 가계대출 다시 늘었나",
-     "url": "https://www.yna.co.kr/view/AKR20261107017800002?input=1195m",
-     "pubDate": "Sat, 07 Nov 2026 09:02:00 +0900"
-    },
-    {
-     "title": "중남미 경제모범국의 추락…은행 위기에 대통령까지 파면된 '이 나라'",
-     "url": "http://www.joseilbo.com/news/news_read.php?uid=579161&class=42&grp=",
-     "pubDate": "Sat, 07 Nov 2026 11:19:00 +0900"
+     "title": "국힘, 코스피 급락에 \"李대통령, '지수 정치' 설계한 경제 라인 문책해...",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859171",
+     "pubDate": "Sun, 08 Nov 2026 09:36:00 +0900"
     }
    ]
   }
@@ -712,14 +712,6 @@
      "summary": "지난 금요일 SK하이닉스 주가를 지켜보셨던 분들이라면 상당히... 그런데 주말 사이 SK하이닉스 주가의 분위기를 바꿀 만한 뜻밖의... 오늘은 \"주말 사이 나온 믿지 못할 소식\" SK하이닉스 주가 제대로 시동 걸까."
     },
     {
-     "title": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것'",
-     "url": "https://blog.naver.com/kjn811/224464273116",
-     "blogger": "날카로운시선 소드킴",
-     "bloggerUrl": "https://blog.naver.com/kjn811",
-     "postdate": "20261104",
-     "summary": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것' 지난 주말... SK하이닉스의 20조 원 자사주 매입 소식을 보면서 이 장면이 떠올랐습니다. SK하이닉스, 20조 원 자사주 추가 매입에 나섰"
-    },
-    {
      "title": "이대로면 SK하이닉스 주가 100만원도 깨진다는 상황",
      "url": "https://blog.naver.com/partner6766/224466696989",
      "blogger": "아이엠그레이트",
@@ -736,20 +728,28 @@
      "summary": "삼성전자 | SK하이닉스 | 반도체주가 | 오픈AI투자 AI 서비스가 아무리 늘어나도 서버와 메모리를 계속... 「같이 보면 좋은 글: 메타 실적발표 \"매출 28% 늘고 순이익 14% 감소\", 삼전·하이닉스엔 왜.."
     },
     {
+     "title": "'억장이 무너진다' SK하이닉스 주가 139만원대 추락, 언제쯤 웃을 수 ....",
+     "url": "https://blog.naver.com/kka_dream/224463608022",
+     "blogger": "경제토르 묠니르투자",
+     "bloggerUrl": "https://blog.naver.com/kka_dream",
+     "postdate": "20261103",
+     "summary": "'억장이 무너진다' SK하이닉스 주가 139만원대 추락, 언제쯤 웃을 수 있을까? SK하이닉스 주가가 또 무너졌다. 불과 며칠 전까지만 해도... 오히려 SK하이닉스는 이전과 비교하기 어려울 정도로 막대한 이익을.."
+    },
+    {
+     "title": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것'",
+     "url": "https://blog.naver.com/kjn811/224464273116",
+     "blogger": "날카로운시선 소드킴",
+     "bloggerUrl": "https://blog.naver.com/kjn811",
+     "postdate": "20261104",
+     "summary": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것' 지난 주말... SK하이닉스의 20조 원 자사주 매입 소식을 보면서 이 장면이 떠올랐습니다. SK하이닉스, 20조 원 자사주 추가 매입에 나섰"
+    },
+    {
      "title": "SK하이닉스 주가 실적발표, 영업이익 83조 예상보다 많다!",
      "url": "https://blog.naver.com/gjwlh/224456343652",
      "blogger": "한대디의 미국주식 이야기",
      "bloggerUrl": "https://blog.naver.com/gjwlh",
      "postdate": "20261028",
      "summary": "제품 SK하이닉스가 TC본더를 한화세미텍에도 같이 주문하고 있어서, 한 회사가 물량을 다 가져가는 구조는 아닙니다. Q: SK스퀘어 사면 하이닉스 산 거랑 같은 거야? A: 비슷하게 움직이지만 똑같진 않아...."
-    },
-    {
-     "title": "SK하이닉스 연봉 평균 1억 8,500만 원, 반년에 1억 4,400만? 신입 초봉과 ....",
-     "url": "https://blog.naver.com/didl158/224458791513",
-     "blogger": "백뚜비의 머니체크",
-     "bloggerUrl": "https://blog.naver.com/didl158",
-     "postdate": "20261031",
-     "summary": "특정 상품 가입을 권유하는 글이 아니에요. #SK하이닉스연봉 #SK하이닉스 #하이닉스연봉 #SK하이닉스성과급 #SK하이닉스초봉 #하이닉스PS #반도체연봉 #삼성전자연봉 #SK하이닉스실적 #투자노트"
     }
    ]
   },
