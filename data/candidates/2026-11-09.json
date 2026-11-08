@@ -1,0 +1,463 @@
+{
+ "date": "2026-11-09",
+ "collectedAt": "2026-11-09T07:29+09:00",
+ "errors": [],
+ "googleTrends": [
+  {
+   "rank": 1,
+   "keyword": "투자",
+   "traffic": "1000+",
+   "pubDate": "Sun, 8 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "트럼프 “더 강하게 돌아올 것”…민주당은 전방위 국정조사 예고",
+     "url": "https://www.donga.com/news/Inter/article/all/20261109/134989002/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "트럼프 미 중간선거 결과 두고 \"거대한 후퇴\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109060751JZs",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "美 필리지수 4%대 반등 성공…K증시도 진정될까",
+     "url": "https://stock.mk.co.kr/news/view/1193279",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "아파트",
+   "traffic": "1000+",
+   "pubDate": "Sun, 8 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "쌓이는 서울 아파트 매물…’집값 하락’ 확산할까",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261108093404dc5",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "'집값 상승률 1위' 성북구 이끈 길음·돈암…1년 새 30% 오른 단지도",
+     "url": "https://www.news1.kr/realestate/general/6346843",
+     "source": "뉴스1"
+    },
+    {
+     "title": "서울 광진구가 이끈 상승세, 경기는 남양주·부천 주목 (11월 1주 부동산)",
+     "url": "https://story.pay.naver.com/content/3891",
+     "source": "네이버페이 머니스토리"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "애틀랜타",
+   "traffic": "100+",
+   "pubDate": "Sun, 8 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "중국이 보낸 판다 두 마리, 美 애틀랜타 동물원서 공개돼",
+     "url": "https://www.yna.co.kr/view/AKR20261108002700009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "“내 인생 최고”…中 판다 핑핑·푸솽에 열광하는 美애틀랜타",
+     "url": "https://www.donga.com/news/Inter/article/all/20261108/134986319/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "대나무 먹는 자이안트 판다 핑핑",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261107_0002285623&provider_id=&cID=&type=Main&catg=&idx=7",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "atlético madrid đấu với barcelona",
+   "traffic": "100+",
+   "pubDate": "Sun, 8 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "Trực tiếp bóng đá Atletico - Barcelona: Đội khách gỡ hòa cuối hiệp 1 (La Liga)",
+     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-atletico-barcelona-dai-chien-vi-ngoi-dau-la-liga-c48a1809403.html",
+     "source": "Tin tức 24h"
+    },
+    {
+     "title": "'Bàn mở tỷ số từ đó bắt đầu với những đường kiến tạo sắc sảo' Lee Kang-in vắng mặt thì tấn công 'lộn xộn'... ATM, 'bàn thắng đôi của Lopes' thua ngược Barcelona 1-2",
+     "url": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110906143410903",
+     "source": "스타뉴스"
+    },
+    {
+     "title": "Món nợ khó đòi của Hansi Flick trước Simeone",
+     "url": "https://yeuthethao.net.vn/mon-no-kho-doi-cua-hansi-flick-truoc-simeone-d901593.html",
+     "source": "yeuthethao.net.vn"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "kbo 리그",
+   "traffic": "500+",
+   "pubDate": "Sun, 8 Nov 2026 13:10:00 -0800",
+   "news": [
+    {
+     "title": "다저스 유니폼 입었던 前 롯데 좌승사자 KBO리그 복귀 추진해보나…美도 \"주목할 만한 마이너 FA\" 조명",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018099",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "[오피셜] 다저스산 초대형 매물 韓 리턴? 롯데 자이언츠 前 에이스 반즈, 두산 베어스 前 투수 콜 어빈 모두 FA",
+     "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553676712",
+     "source": "스포탈코리아"
+    },
+    {
+     "title": "KBO 출신엔 큰 벽이었나…'롯데 에이스' 반즈+'두산 어깨빵' 콜어빈, LA 다저스서 나란히 짐 쌌다→MLB 복귀 성공, 결국 FA 시장 간다",
+     "url": "https://www.xportsnews.com/article/2216683",
+     "source": "www.xportsnews.com"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "경제",
+   "traffic": "500+",
+   "pubDate": "Sun, 8 Nov 2026 13:10:00 -0800",
+   "news": [
+    {
+     "title": "예결위, 오늘(9일)부터 부처별 내년도 예산안 심사",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707058",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[AM-PM] 국회 예결위, 821조 예산안 본격 심사 돌입 外",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109065440F2I",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "821조 슈퍼예산 심사 돌입…인천·경기 의원들 ‘지역 예산 사수전’",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336220",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "강사",
+   "traffic": "500+",
+   "pubDate": "Sun, 8 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "수능 앞두고 \"강의 중단→예능 출연?\"...사탐 강사 이도 '뭇매' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110820523921628",
+     "source": "머니투데이"
+    },
+    {
+     "title": "\"아프다며 강의 중단하더니…\" 넷플 예능 나온 유명 강사 '시끌'",
+     "url": "https://news.nate.com/view/20261108n17414",
+     "source": "네이트"
+    },
+    {
+     "title": "'인간 마운자로' 신동 인사드립니다",
+     "url": "https://www.news1.kr/photos/8198572",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "김유정",
+   "traffic": "1000+",
+   "pubDate": "Sun, 8 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "'100일의 거짓말', 운명의 거사 그 후...김유정 기차 탑승→김현주 살기 눈빛 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814087249543",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“감독님 나와보세요”…‘100일의 거짓말’, 박진영 폭탄 엔딩 속 시청률 상승[美친시청률]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/GU3TENTBGE3TGMBWGYZTAYJSG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "김현주, 김유정 약속 지켰다 \"내일 밤에 미국으로 떠나\" (100일의 거짓말)",
+     "url": "https://news.nate.com/view/20261107n12899",
+     "source": "네이트"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "atlético madrid vs barcelona",
+   "traffic": "200+",
+   "pubDate": "Sun, 8 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "Fuera dudas",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248077/fuera-dudas.html",
+     "source": "Mundo Deportivo"
+    },
+    {
+     "title": "La segunda prueba del algodón",
+     "url": "https://as.com/futbol/primera/la-segunda-prueba-del-algodon-f202611-n/",
+     "source": "Diario AS"
+    },
+    {
+     "title": "El calendario de los próximos 5 partidos del Barcelona tras derrotar 2-1 al Atlético de Madrid",
+     "url": "https://www.si.com/es-us/el-calendario-de-los-proximos-5-partidos-del-barcelona-tras-derrotar-2-1-al-atletico-de-madrid",
+     "source": "Sports Illustrated"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "카를로스 알카라스",
+   "traffic": "200+",
+   "pubDate": "Sun, 8 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "루드 꺾고 결승행, 환호하는 알카라스",
+     "url": "https://www.newsis.com/view/NISI20261108_0002285952",
+     "source": "뉴시스"
+    },
+    {
+     "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
+     "url": "https://www.etoday.co.kr/news/view/2644971",
+     "source": "이투데이"
+    },
+    {
+     "title": "프리츠, 알카라스전 매치 포인트 2개 놓치고 ATP 파이널스 진출 실패",
+     "url": "https://mezha.net/ko/news/mezha-bb874327a8ee1e5b7e6bfa15_fritz-misses-atp-finals-after-losing/",
+     "source": "Mezha.net"
+    }
+   ]
+  }
+ ],
+ "yonhapEnt": {
+  "via": "연합뉴스 RSS",
+  "items": [
+   {
+    "title": "엑소, '첫눈' 내린 날 1만여 명과 떼창…\"새록새록 추억 속으로\"",
+    "url": "https://www.yna.co.kr/view/AKR20261108044300005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 20:20:00 +0900"
+   },
+   {
+    "title": "영화 '김의 전쟁'·'테러리스트' 김영빈 감독 별세",
+    "url": "https://www.yna.co.kr/view/AKR20261108047000005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 18:47:51 +0900"
+   },
+   {
+    "title": "SM엔터, 주민·계좌번호 등 개인정보 유출…\"진심으로 사과\"",
+    "url": "https://www.yna.co.kr/view/AKR20261108033900005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 16:09:26 +0900"
+   },
+   {
+    "title": "죽음보다 무서운 생계…공포가 된 노동 '꿀알바'",
+    "url": "https://www.yna.co.kr/view/AKR20261107053600005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 12:17:25 +0900"
+   },
+   {
+    "title": "이미경 CJ 부회장, '아시안 명예의 전당' 평생공로 메달 수상",
+    "url": "https://www.yna.co.kr/view/AKR20261108017200005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 10:21:00 +0900"
+   },
+   {
+    "title": "마이 케미컬 로맨스, 18년만 내한 공연…추위 녹인 2만명 떼창",
+    "url": "https://www.yna.co.kr/view/AKR20261108001800005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 10:05:47 +0900"
+   },
+   {
+    "title": "GS리테일, '미디어나눔버스' 운영 10년…2만3천명에 교육 제공",
+    "url": "https://www.yna.co.kr/view/AKR20261108012700030",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 08:57:33 +0900"
+   },
+   {
+    "title": "이창동이 그린 해고노동자 가족…'심장소리'와 '가능한 사랑'",
+    "url": "https://www.yna.co.kr/view/AKR20261106188700005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 08:01:00 +0900"
+   },
+   {
+    "title": "신세계百 강남점, 에이티즈 앨범 발매 기념 팝업 매장 운영",
+    "url": "https://www.yna.co.kr/view/AKR20261107020700030",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 06:00:01 +0900"
+   },
+   {
+    "title": "하이브·SM 구성원 4인, '빌보드 투어링 파워 플레이어스' 선정",
+    "url": "https://www.yna.co.kr/view/AKR20261107034400005",
+    "source": "연합뉴스",
+    "pubDate": "Sat, 7 Nov 2026 14:43:13 +0900"
+   }
+  ]
+ },
+ "news": [
+  {
+   "query": "코스피",
+   "items": [
+    {
+     "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다 - 한국경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQ29vOVFEX2RwM1hSZGNSYi10XzVKMjJ6amhiZ1YzeDBpdFNxNkg0Q0pzdnAxUWRNN1FFbENEQWhUZTIxZUd4eEdSQTBueVZsQnZ3UXNaOUx0dw?oc=5",
+     "source": "한국경제",
+     "pubDate": "Sun, 08 Nov 2026 10:23:56 GMT"
+    },
+    {
+     "title": "[코스피·코스닥 전 거래일(6일) 주요공시] - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TaVZ2RHVVZHJiLWN4bXQ0enhLZ00yWm80RUptWFZnSkhKcERHemYxVWszOTdxNXdTWGZuOHluWURkbVdNNGFZTE5wMEwtUUE4Vmp4YWN1b3MwMjjSAWBBVV95cUxPNFRkTjNpOTNqdkpSemphQnRWakpiUDNRSjczTDg5QlV2WmxOakV5ZzA2SERKWjB5YmFaRHhFWHpxVGVfQzNqNkRUdE1yYUxxUHJaZHczUzRxc2liQVg3VkU?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Sun, 08 Nov 2026 21:05:01 GMT"
+    },
+    {
+     "title": "코스피200 '-28%' 뚝 떨어질 때...\"그래도 잘 버텼다\" 선방한 ETF - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULW4wTzluTXBwOUdMa1lzWVBUbjU2ajdxVjVRTjFRdldoc3phZ0dpOC13Znp4a3RWWlp5X3o1VjgzVGgzTlRFczI3LWlkdHZRR3hJZlV0Vmw0ZjZleTVNZXNGeTlWNHRi0gFuQVVfeXFMUGRrWENXZkZ2a0wxYzFyTXktakdza3lyMzk0MjFBWWp1UDV1MHc4TFFVUGoxc3FLanpjTzI3UDhDLTNzWkxKNWhJRGJIZW1Fb2E1VzFQMG5hR0JMUzA3bXU2VFU0cUotZktqUi1Sc2c?oc=5",
+     "source": "머니투데이",
+     "pubDate": "Sun, 08 Nov 2026 18:16:44 GMT"
+    },
+    {
+     "title": "외인 조단위 순매도 속 코스피 급락…증권가 주목 업종은 - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DWlJYWXVtQ2h6RTc5T0RvallKU1ZEcnRSbFk1S3NLa1pKMzVKMXZWa1U3Xzl3eC05Mzl1aF93NlVHb0ZkLXhIT1RUaHVrVGQtUGthaG1nUzNzVVBKLWx0b0JQTUFyal9rSm1JaGNKNlU?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Sun, 08 Nov 2026 06:52:00 GMT"
+    },
+    {
+     "title": "’블루 쓰나미’에 휘청인 코스피…이번 주 반등할까 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByME1Odk94ek5VS3VmQkF4bklYV3JNR0lsaUVYX3NvVS1NemdOclFSZUFlejA4dFY1S2pIUUFNR0ljc09CaVZPcHBWaXJ3LWpZN1BnMk1EcjB1eC0zN2Jxd3BvU1BZaDg?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Sun, 08 Nov 2026 09:23:00 GMT"
+    },
+    {
+     "title": "코스피 11.7% 폭락에도 은행주 1.7% 하락…'방어주' 매력 부각 [주가동향] - 조세일보",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05YUV0ODczbERGZzliamF5OXhuaHNZX3JnS21PUmt1Q19yS3NwNzRRWFR0SFczQmpNNDdoQnZuUmc2UTlEaTJoZEEtNV80QWJCTEJNX0ZyVlZBTFpfWlpF?oc=5",
+     "source": "조세일보",
+     "pubDate": "Sun, 08 Nov 2026 21:40:10 GMT"
+    },
+    {
+     "title": "11% 추락한 코스피, 바닥 찍었나…11일 오전에 쏠리는 눈 [주간 증시 전망] - 서울경제",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QMC1zcG1EaFBtWTlJeTFoVkx6d3F6bXhkSUc3ZXlPU3hxVGppVVRudktDZFByVk5ma3JET0hKWWxoTU0xSFdqdGttQXEyQkJMR2fSAVNBVV95cUxPOXI4MDgyRzRTaHRiaUVIcm5LcFFMbHpRc0xPTFFtV19pNUVlWW1VZHlNVHRkWXlwem5oSGI3QUU0VmUyVHdTVEpQUThqa3lZaEhlQQ?oc=5",
+     "source": "서울경제",
+     "pubDate": "Sun, 08 Nov 2026 21:15:00 GMT"
+    },
+    {
+     "title": "'롤러코스터' 코스피, 미 반등에 한숨 돌리나 - SBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzJjYmxXaWFZQUJlTy1QLTVELXFUV2M1Z0tEZGdtNzBtNWxWck5MaU5lbWJuYkhCOGhSMy1nQ2RzWlh6Y1BhUm91ZXoxWS1KbW9PWG12RVZVSmlWTHk1X0lORGVtQzMyMzA0ckltNWg3cTV0ekYxa2dfbnlyZ1B6YTJtOHB0dUpzQm5fYk5vZ9IBZkFVX3lxTE1zbl9uSHRFRnZiMkhPalpEd2liNjViSFRaTmNXQTQxckFxS05wWElQUHNQSWo0Z09kY1hQWUhneUptOXIycXprOGU5Q0U0VmxoWVNYQnF0dUkxczlJaEtMWXVaRlUtdw?oc=5",
+     "source": "SBS 뉴스",
+     "pubDate": "Sun, 08 Nov 2026 21:10:14 GMT"
+    }
+   ]
+  },
+  {
+   "query": "증시",
+   "items": [
+    {
+     "title": "9000 찍고 도로 5000…증시 널뛰기에 기업 자금조달 기능 ‘고장’ - 중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pUk0xTmF3a01kaFNLX2ozNERDR25palg3Q0dPVnlycXc2OWxsblFkQ3RZRmdFT3dPdzMxRWxoWV94ZTR2XzkyVUdBNWZHUjlqVFVOeHF3?oc=5",
+     "source": "중앙일보",
+     "pubDate": "Sun, 08 Nov 2026 20:00:01 GMT"
+    },
+    {
+     "title": "소방 등 2조 예산 투입...국힘 \"증시 폭락 책임져야\" - YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CNFJSYWJkQUxQS28tUmhZejczM0xvQXc1eUw4czZuak0wRjd1VlhEUDV0bmVidHk1MWpYcmVXU3dBNDR0LXJ1VVpDSWstRmdWcTYycHFrNHJobDNyZXc?oc=5",
+     "source": "YTN",
+     "pubDate": "Sun, 08 Nov 2026 13:52:00 GMT"
+    },
+    {
+     "title": "[미리보는 증시재료] 美 물가·AI 투자 지속성 시험대…반도체 향방 주목 - 뉴스핌",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY28xa2dBMmhDMDRFRUtuLVVJWFVlWlQwT2VWWXFoY29IX2tvbjdhMzc1MWt0YnVrN0UzWDFkWHVKSXNhWEUtRS1wRm96YmZiUmxFeXo5eEFCTkly?oc=5",
+     "source": "뉴스핌",
+     "pubDate": "Sun, 08 Nov 2026 21:00:00 GMT"
+    },
+    {
+     "title": "AI 투자 열풍 식자, BCA \"유럽 증시가 월가 앞설 것\" - Investing.com 한국어",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kWDg1OUt2R0pCZVd1LUYtREVpNUt1UVlTQnpkODBtdlZ1WklFX1VXb1VqcjFicS1WUDNXRW9KMERhdnNtNl92WnZ5dXhFZHY3OS04LUstcFlaVFVvSENsT1hsa2pfWjFwMHN6QkpuX0c?oc=5",
+     "source": "Investing.com 한국어",
+     "pubDate": "Sun, 08 Nov 2026 15:01:00 GMT"
+    },
+    {
+     "title": "증시 급락에… 상장사 3분의 1, 주가 연중 최저 - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDZZWkFDelQ2ZEhnTktNSVdnSVdpX3RVSG9NQ1lsQ3dtWUw5VUVUc0FBNm90dGRDeFFyOV9TWVFtek1VSUdVbnRsWmp2YXQ3a0s4T2FObHNBNGpWbkQ4VFZwVzZNX0xaM2JESHdBeHVIVE9uMVU1R3h6R0ljVVloWQ?oc=5",
+     "source": "조선일보",
+     "pubDate": "Sun, 08 Nov 2026 15:32:00 GMT"
+    },
+    {
+     "title": "코어위브 실적, AI주 방향타…인플레이션 지표에도 촉각[이번주 美 증시는] - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pOGtNQVpBY1hhTEdDUlkwdFlZTG81SHM3ZGlDVTJWZmFCSGZtdE4xNjV3RHhzd0VSdXNqUGZfU1pOT243R2ZLX2RSY0w0ZUJSdTlOZVE1T25TU0t6UjRUQmF0Tm82Tk9N0gFuQVVfeXFMT3V2Uy14V2FJZE91cHRHYzhfNUxQT3dhX3NMT05rbzU3X3VmMFdpXzk4QTlnXzFLemdVc3htNWNEZ0JoOVVhOUZDb0NSUGtjMjREbnhZV2Rpb1VVbEw3VWxpOG9JRWlnOW5iQVo2enc?oc=5",
+     "source": "머니투데이",
+     "pubDate": "Sun, 08 Nov 2026 20:35:00 GMT"
+    },
+    {
+     "title": "[천지일보 이슈종합] AI 규제 강화 우려·미국·한국증시 급락·세계날씨·민주당 신천지 3자 비밀 연합 - 천지일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbERhLUhNZ2VMMzFnendiSEdrZXZLMDJEeHo4SWgyN0RLcDZQVzRFa28yS3MzalgtbktMLTVrQmVYTzFYRlFrSDF4YmpZRzVRSGZmU3VsM1hmYnJFd1Znek51ZUNCSVBUeXc?oc=5",
+     "source": "천지일보",
+     "pubDate": "Sun, 08 Nov 2026 22:16:44 GMT"
+    },
+    {
+     "title": "\"증시 하락에도 비관은 금물…지금은 '손절'보다 인내할 때\" - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TG9UdUt5SlpBR1hYVGpXRTVUOWNYZFZJWUdwSHRhQ0FkRzhJUHFqcFRLTXc1T3FONFpFRkRlYkpyQnRBWkZfRGpsaFR2d3VhUFZDbnFvVjFmdVZtZmJxVdIBeEFVX3lxTFBwS0kwM0xvMU9OOEczZTRIaW9tbDQwVGo4WkZsa3dXc2gxUXl0STg2bXFIVHJYRzJValBZZ2plS21BUFNrX1BxekVHSW5kajlEU0J6ejZhQ3Bwc19lMUV5NkUxMnVKQUhPV2dyRUoyeUVGWmJDcTR2aw?oc=5",
+     "source": "뉴시스",
+     "pubDate": "Sun, 08 Nov 2026 20:00:00 GMT"
+    }
+   ]
+  },
+  {
+   "query": "환율",
+   "items": [
+    {
+     "title": "[나연수의 투자칼럼] — 국민연금이 환율 노출을 기본으로 둔 이유 - 르몽드디플로마티크",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iQUdEdmdvaVB0VHFrNU9LX3FEOFRsTFFOS2gwcGNHdW03V3J6T3JENHcyX0hvMGZPRWtQQURWYVpISDVUVXpxbjVUcnYtRmQ5LTdoYTZMSlZzcDdlczc2YmF3cE9zcHdfcFh4SUVB0gFuQVVfeXFMT2JBR0R2Z29pUHRUcWs1T0tfcUQ4VGxMUU5LaDBwY0d1bTdXcnpPckQ0dzJfSG8wZk9Fa1BBRFZhWkhINVRVenFuNVRydi1GZDktN2hhNkxKVnNwN2VzNzZiYXdwT3Nwd19wWHhJRUE?oc=5",
+     "source": "르몽드디플로마티크",
+     "pubDate": "Sun, 08 Nov 2026 13:23:29 GMT"
+    },
+    {
+     "title": "美 블루쓰나미에 다시 고환율…반도체·조선 '수혜 기대', 철강·석화 '비용 부담' 희비 - 뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSNIBeEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSA?oc=5",
+     "source": "뉴시스",
+     "pubDate": "Sun, 08 Nov 2026 20:06:25 GMT"
+    },
+    {
+     "title": "[표] 외국환율고시표 - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzUHdHQ2xEUDVmWHV1NXJBbTJrcnBLS0YwYnpNRkxjOG9UaEFfZDUwdU9Bbks0STdSRXVFa2x5dU1TZ3FuWWJJNUJEdnVaMXkxUGc?oc=5",
+     "source": "매일경제 마켓",
+     "pubDate": "Sun, 08 Nov 2026 08:35:02 GMT"
+    },
+    {
+     "title": "美 블루웨이브 덮친 외환시장…1360원대 환율 방향 가를 변수는 - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRXB6aFJjaTA1R3hMV2hudDgyODh6N2tWZEdJdmhOcXU3djRjSjVOYzNPRFZiNzJBSTFjalgyUXpFZ2JXRlNIbGdKenpmVWhlaVZ3Q2pmZEJIcC1VSUltSW52SUdjd3RtdVlN0gFwQVVfeXFMTjVGNGk5MGgyXzBHbWxaV3BhRk1rQWRBY3dNOHVPLVBfZ2ktQVFnTG80WUNGSjFZZnF4bVd0djh4VDYta3E1OFdNblRHYlZ6N25UNEhUOHdHM1RsanU0ampVa1E4QUs5dWRZdi1ORGxTMQ?oc=5",
+     "source": "머니투데이",
+     "pubDate": "Sun, 08 Nov 2026 04:03:18 GMT"
+    },
+    {
+     "title": "외국인 8.7조 '셀코리아'에도…반도체 달러 덕에 버틴 원화 - 이데일리",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzFGMG9hQW9GSjZvdWFPQ1RCMWkzc19MakR3UEEyZUZoNjF6dG1hT2lsaTdmbGx2OS1aM19xdFptVDlnOFRYdmlTM05hMDROOHRwdm1XZGVKR0I5ZE1RNm1GQnUtVEk4dTZPM0xqUlFPUHZ3NWdpbDNxOUtVUkxvaA?oc=5",
+     "source": "이데일리",
+     "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT"
+    },
+    {
+     "title": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 > 시애틀 뉴스/핫이슈 - SeattleN",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RR2VPWDdMeTVaZFlobWhPLXRPREtCVjNpLW1rcmVxZWxlbVRieUZjVU5BSDFVeDM1X2NCaFZ6c2ZqaFllMVd3QkRB?oc=5",
+     "source": "SeattleN",
+     "pubDate": "Sun, 08 Nov 2026 08:20:36 GMT"
+    },
+    {
+     "title": "외국인 6조 셀코리아에도 원화값 떠받치는 ‘칩 머니’ - 미주중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xclh4eDRXemVWdlVtMDB4N3dQeldqLTllMFVXcmFtNWVUNDlaTXBLd0dfM0NFdlhPYl80YWFSTGxSeExXclF5UEhSeDlrNVZDU0pWenB5YWVpbG5zc2JUSl9R?oc=5",
+     "source": "미주중앙일보",
+     "pubDate": "Sun, 08 Nov 2026 15:03:00 GMT"
+    },
+    {
+     "title": "환율 껑충 - 세계일보",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SNHZGeUxtRmNQX180NTJfRXJmX2tDYjdONzRhd1FTQ1NWNWhlRDlYa2VZN0NDakUxU2NsY25CTFpVMTBkYnJpcEgxQno5c0VQNk41etIBVEFVX3lxTE5SNHZGeUxtRmNQX180NTJfRXJmX2tDYjdONzRhd1FTQ1NWNWhlRDlYa2VZN0NDakUxU2NsY25CTFpVMTBkYnJpcEgxQno5c0VQNk41eg?oc=5",
+     "source": "세계일보",
+     "pubDate": "Sun, 08 Nov 2026 08:13:06 GMT"
+    }
+   ]
+  }
+ ]
+}
