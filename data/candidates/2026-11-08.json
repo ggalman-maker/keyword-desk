@@ -1,242 +1,250 @@
 {
  "date": "2026-11-08",
- "collectedAt": "2026-11-08T07:28+09:00",
+ "collectedAt": "2026-11-08T10:36+09:00",
  "errors": [],
  "googleTrends": [
   {
    "rank": 1,
-   "keyword": "엘레나 리바키나",
-   "traffic": "100+",
-   "pubDate": "Sat, 7 Nov 2026 13:20:00 -0800",
+   "keyword": "sk하이닉스",
+   "traffic": "20000+",
+   "pubDate": "Sat, 7 Nov 2026 16:30:00 -0800",
    "news": [
     {
-     "title": "WTA 파이널스 D-1. 인디언웰스서 막 올린다…리바키나 2연패 vs 사발렌카 첫 정상 도전",
-     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54254",
-     "source": "테니스코리아"
+     "title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611080926229369_005.html",
+     "source": "YTN"
     },
     {
-     "title": "WTA 파이널은 안정성 테스트입니다",
-     "url": "https://ko.laodong.vn/tennis/wta-finals-la-bai-kiem-tra-su-on-dinh-1796232.ldo",
-     "source": "Laodong.vn"
+     "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
+     "url": "https://www.yna.co.kr/view/AKR20261107026400008",
+     "source": "연합뉴스"
     },
     {
-     "title": "WTA 파이널: 리바키나는 타이틀 방어에 성공할 가능성이 높습니다.",
-     "url": "https://www.vietnam.vn/ko/wta-finals-rybakina-rong-cua-bao-ve-ngoi-hau",
-     "source": "Vietnam.vn"
+     "title": "오를 땐 팔고 급락하니 산다…'떨어지는 칼날' 잡는 개미들",
+     "url": "https://www.news1.kr/finance/general-stock/6346269",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "인터 마이애미 대 샬럿",
-   "traffic": "1000+",
-   "pubDate": "Sat, 7 Nov 2026 13:10:00 -0800",
+   "keyword": "후티",
+   "traffic": "100+",
+   "pubDate": "Sat, 7 Nov 2026 16:30:00 -0800",
    "news": [
     {
-     "title": "인터 마이애미 대 샬럿 경기 생중계: VAR 판독 결과 샬럿의 골이 취소되었습니다.",
-     "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-charlotte-bi-var-tu-choi-ban-thang",
-     "source": "Vietnam.vn"
+     "title": "후티 반군 \"사우디 국제공항·아람코 석유 저장탱크 타격\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443609",
+     "source": "연합인포맥스"
     },
     {
-     "title": "인터 마이애미 대 샬럿 경기 예측: 손에 땀을 쥐게 하는 접전이 예상됩니다.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-inter-miami-vs-charlotte-hua-hen-man-doi-cong",
-     "source": "Vietnam.vn"
+     "title": "후티 \"사우디 공습으로 예멘 수도 인근서 27명 사망\" 주장(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261107052851099",
+     "source": "연합뉴스"
     },
     {
-     "title": "인터 마이애미 vs 샬럿 생중계: 선발 라인업",
-     "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-doi-hinh-xuat-phat",
-     "source": "Vietnam.vn"
+     "title": "후티 \"사우디 공습에 60여 명 사상\"...시리아, 사우디 지원군 보내나?",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611080750445178",
+     "source": "YTN"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "심폐소생술",
+   "keyword": "메이저 리그 베이스볼",
    "traffic": "200+",
-   "pubDate": "Sat, 7 Nov 2026 13:10:00 -0800",
+   "pubDate": "Sat, 7 Nov 2026 16:20:00 -0800",
    "news": [
     {
-     "title": "동두천소방서, 여성단체협의회 심폐소생술 교육",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336165",
-     "source": "인천일보"
+     "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/",
+     "source": "조선일보"
     },
     {
-     "title": "의왕시, 공무원 대상 심폐소생술 등 응급처치 교육실시",
-     "url": "https://www.viva100.com/article/20261106500631",
-     "source": "브릿지경제"
+     "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
+     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg",
+     "source": "네이버 프리미엄콘텐츠"
     },
     {
-     "title": "동두천소방서, 여성단체 회원 대상 심폐소생술 교육",
-     "url": "https://www.kyeonggi.com/article/20261106580267",
-     "source": "경기일보"
+     "title": "'4910억→9548억→1조435억→3274억' 이 계보 스쿠벌은? LAD-메츠-컵스 3파전 \"다음 주 본격화\"",
+     "url": "https://www.sportschosun.com/baseball/2026-11-07/202611070100050990005112",
+     "source": "스포츠조선"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "real madrid",
-   "traffic": "100+",
-   "pubDate": "Sat, 7 Nov 2026 13:10:00 -0800",
+   "keyword": "밥",
+   "traffic": "2000+",
+   "pubDate": "Sat, 7 Nov 2026 15:50:00 -0800",
    "news": [
     {
-     "title": "¿A qué hora es el partido Valencia vs Real Madrid y cómo verlo en TV y streaming online?",
-     "url": "https://www.si.com/es-us/a-que-hora-es-el-partido-valencia-vs-real-madrid-y-como-verlo-en-tv-y-streaming-online-07-11-2026",
-     "source": "Sports Illustrated"
+     "title": "“30분 만에 밥이 뚝딱”…1만원 '마카롱 밥솥' 써보니[득템기]",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01118486645643752&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "Partidos de hoy de fútbol: horario y dónde ver por TV",
-     "url": "https://www.mundodeportivo.com/horarios/futbol/20261107/1004248097/partidos-hoy-futbol-horario-ver-tv.html",
-     "source": "Mundo Deportivo"
+     "title": "햇반 30주년 ‘갓 지은 AI디어 공모전’… 13일까지 접수",
+     "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71631",
+     "source": "한국영농신문"
     },
     {
-     "title": "Liga | El Real Madrid no suelta el pie del acelerador",
-     "url": "https://www.fichajes.com/a6463607152635137137-liga-el-real-madrid-no-suelta-el-pie-del-acelerador",
-     "source": "Fichajes.com"
+     "title": "비상식량이 일상밥으로... 햇반 출시 30년 만에 연 매출 1조 돌파한 비결",
+     "url": "https://www.chosun.com/kid/kid_economy/kid_honeybee/2026/11/06/LH7JQ3OPJZEINCJ5WUXYODJYFY/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "드라마",
-   "traffic": "1000+",
-   "pubDate": "Sat, 7 Nov 2026 13:00:00 -0800",
+   "keyword": "남대문시장",
+   "traffic": "500+",
+   "pubDate": "Sat, 7 Nov 2026 15:50:00 -0800",
    "news": [
     {
-     "title": "\"넷플릭스에선 대박 나는데\"…한국 드라마 업계의 비명 [김예랑의 K컬처인사이드]",
-     "url": "https://www.hankyung.com/article/202611060276H",
+     "title": "몰려드는 인파 '통제불가'…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0545_202611061650015146",
+     "source": "YTN"
+    },
+    {
+     "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치]",
+     "url": "https://www.hankyung.com/article/202611069848i",
      "source": "한국경제"
     },
     {
-     "title": "드라마 업계 12개 단체 \"제작 감소로 K드라마 생태계 붕괴 위기, 국가가 지원해야\"",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/04/4V2DMJFDBBGYXAOL73AJ5T4ZU4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[박동선의 머니&엔터] '좋은 콘텐츠'만으론 부족하다…K-콘텐츠 산업의 새 화두",
-     "url": "https://www.nc.press/news/articleView.html?idxno=630205",
-     "source": "뉴스컬처"
+     "title": "스카프에 아동복까지…’핫플’ 된 남대문시장",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107091619emp",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "습관",
-   "traffic": "200+",
-   "pubDate": "Sat, 7 Nov 2026 13:00:00 -0800",
+   "keyword": "기초 연구",
+   "traffic": "100+",
+   "pubDate": "Sat, 7 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "“아침에 ‘이 습관’ 없으면 신장에 돌 생긴다”…美 의사 경고 나왔다 [헬시타임]",
-     "url": "https://www.sedaily.com/article/20111484",
-     "source": "서울경제"
+     "title": "[김우재의 플라이룸](89) 빈 의자의 R&D…예산은 39.5조원, 사람은 왜 늘지 않나",
+     "url": "https://weekly.khan.co.kr/article/202611061327001",
+     "source": "주간경향"
     },
     {
-     "title": "“콩팥에 돌 생길라”…‘이 음료’ 과다 섭취땐 신장건강 악영향",
-     "url": "https://www.nongmin.com/article/20261104500125",
-     "source": "농민신문"
+     "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
+     "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
+     "source": "BRIC"
     },
     {
-     "title": "작은 돌멩이 하나가 주는 극심한 고통: 부주의한 자에게는 값비싼 교훈이다.",
-     "url": "https://www.vietnam.vn/ko/con-dau-thau-xuong-tu-vien-soi-nho-bai-hoc-dat-gia-cho-nguoi-chu-quan",
-     "source": "Vietnam.vn"
+     "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126",
+     "source": "대한민국 정책브리핑"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "이창훈",
-   "traffic": "200+",
-   "pubDate": "Sat, 7 Nov 2026 13:00:00 -0800",
+   "keyword": "도루묵",
+   "traffic": "100+",
+   "pubDate": "Sat, 7 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "\"그때 난리가 났다\"...이창훈, 송혜교와 '열애설' 입 열었다 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110715595549078",
-     "source": "머니투데이"
+     "title": "\"돌아온 겨울 별미\" 도루묵 등 동해안 특산어종 어획 '급증'",
+     "url": "https://stock.mk.co.kr/news/view/1193088",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "이창훈 “송혜교와 열애설? ‘원조교제’ 억지에 욕하기도”",
-     "url": "https://www.munhwa.com/article/11629502",
-     "source": "문화일보"
+     "title": "가을 햇볕 아래 양미리",
+     "url": "https://www.yna.co.kr/view/PYH20261106054500062",
+     "source": "연합뉴스"
     },
     {
-     "title": "이창훈, 송혜교와 열애설 부인 \"\"원조교제' 표현에 쌍욕\"..이젠 \"알아서 생각해\" ('유정 그리고 주정')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GBTGMMZSME2WIMRTGFRDMNDCGA/",
-     "source": "조선일보"
+     "title": "\"겨울 별미 '도루묵' 돌아왔다\"…동해안 어획량 늘고 속초선 축제 한창",
+     "url": "https://www.news1.kr/local/kangwon/6346396",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "젠슨 황",
-   "traffic": "2000+",
-   "pubDate": "Sat, 7 Nov 2026 12:50:00 -0800",
+   "keyword": "솔트레이크 대 la 갤럭시",
+   "traffic": "5000+",
+   "pubDate": "Sat, 7 Nov 2026 15:30:00 -0800",
    "news": [
     {
-     "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
-     "url": "https://www.yna.co.kr/view/AKR20261107050000017",
-     "source": "연합뉴스"
+     "title": "How the LA Galaxy can clinch a spot in the Audi 2026 MLS Cup Playoffs",
+     "url": "https://www.lagalaxy.com/news/how-the-la-galaxy-can-clinch-a-spot-in-the-audi-2026-mls-cup-playoffs",
+     "source": "LA Galaxy"
     },
     {
-     "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
-     "url": "https://www.khan.co.kr/article/202611071346001",
-     "source": "경향신문"
+     "title": "RSL Hosts Must-Win Matchup Against Storied Rival LA Galaxy Saturday in Sandy",
+     "url": "https://www.rsl.com/news/rsl-hosts-must-win-matchup-against-storied-rival-la-galaxy-saturday-in-sandy",
+     "source": "Real Salt Lake"
     },
     {
-     "title": "FT “美, 젠슨 황·‘中 스파이 의혹' 여성과 연인 관계로 판단”",
-     "url": "https://www.chosun.com/international/international_general/2026/11/07/76XLX3WJCJDOLELLTYK72DO7BE/",
-     "source": "조선일보"
+     "title": "Real Salt Lake fights for a playoff spot in season finale game",
+     "url": "https://kutv.com/features/fresh-living/real-salt-lake-fights-for-a-playoff-spot-in-season-finale-game",
+     "source": "KUTV"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "잠실주공5단지 아파트",
-   "traffic": "500+",
-   "pubDate": "Sat, 7 Nov 2026 12:50:00 -0800",
+   "keyword": "상호저축은행",
+   "traffic": "200+",
+   "pubDate": "Sat, 7 Nov 2026 15:30:00 -0800",
    "news": [
     {
-     "title": "30년 기다린 잠실주공5 재건축 올스톱 위기…사업시행인가 무용지물 가능성",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/06/2026110602056.html",
-     "source": "땅집고"
+     "title": "'1000억 족쇄' 못 푼 저축은행… 자산관리회사 설립 해 넘긴다 - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/08/2026110614230969126",
+     "source": "머니투데이"
     },
     {
-     "title": "잠실5단지 재건축, 이번엔 ‘중학교 일조권’ 암초",
-     "url": "https://www.mk.co.kr/news/business/12195368",
-     "source": "매일경제"
+     "title": "[기획] 신협, 자산관리회사 설립 본격화… 부실자산 관리 전문성 강화:시사앤피플",
+     "url": "https://www.sisanpeople.com/17200",
+     "source": "시사앤피플"
     },
     {
-     "title": "이성배 서울시의원, “잠실주공5단지, 교육청 뒷북 평가·자치구 부실한 인가에 또 발목”",
-     "url": "http://www.newstonight.kr/1455108",
-     "source": "m.newstonight.kr"
+     "title": "연 4% 예금·연 10% 적금…다시 은행으로",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706379",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "valencia vs real madrid",
+   "keyword": "코스피 11% 급락 원인과 정부의 반대매매 완화 조치 내용 알려줘",
    "traffic": "500+",
-   "pubDate": "Sat, 7 Nov 2026 12:40:00 -0800",
-   "news": [
-    {
-     "title": "Business as usual: Valverde unleashes trademark strike to make it 0-1",
-     "url": "https://www.besoccer.com/new/business-as-usual-valverde-unleashes-trademark-strike-to-make-it-0-1-1439937",
-     "source": "BeSoccer Livescore"
-    },
-    {
-     "title": "Valencia and Mestalla’s message to Real Madrid: ‘Sois San Marino, vosotros sois San Marino’",
-     "url": "https://onefootball.com/en/news/valencia-and-mestallas-message-to-real-madrid-sois-san-marino-vosotros-sois-san-marino-43742433",
-     "source": "OneFootball"
-    },
-    {
-     "title": "Valencia 0-3 Real Madrid LIVE: La Liga",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga",
-     "source": "Al Jazeera"
-    }
-   ]
+   "pubDate": "Sat, 7 Nov 2026 15:20:00 -0800",
+   "news": []
   }
  ],
  "yonhapEnt": {
   "via": "연합뉴스 RSS",
   "items": [
+   {
+    "title": "이미경 CJ 부회장, '아시안 명예의 전당' 평생공로 메달 수상",
+    "url": "https://www.yna.co.kr/view/AKR20261108017200005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 10:21:00 +0900"
+   },
+   {
+    "title": "마이 케미컬 로맨스, 18년만 내한 공연…추위 녹인 2만명 떼창",
+    "url": "https://www.yna.co.kr/view/AKR20261108001800005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 10:05:47 +0900"
+   },
+   {
+    "title": "GS리테일, '미디어나눔버스' 운영 10년…2만3천명에 교육 제공",
+    "url": "https://www.yna.co.kr/view/AKR20261108012700030",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 08:57:33 +0900"
+   },
+   {
+    "title": "이창동이 그린 해고노동자 가족…'심장소리'와 '가능한 사랑'",
+    "url": "https://www.yna.co.kr/view/AKR20261106188700005",
+    "source": "연합뉴스",
+    "pubDate": "Sun, 8 Nov 2026 08:01:00 +0900"
+   },
    {
     "title": "신세계百 강남점, 에이티즈 앨범 발매 기념 팝업 매장 운영",
     "url": "https://www.yna.co.kr/view/AKR20261107020700030",
@@ -272,30 +280,6 @@
     "url": "https://www.yna.co.kr/view/AKR20261107024200005",
     "source": "연합뉴스",
     "pubDate": "Sat, 7 Nov 2026 09:59:32 +0900"
-   },
-   {
-    "title": "심현보 \"결국 남는 건 사랑…일상 속 소소한 이야기로 담았죠\"",
-    "url": "https://www.yna.co.kr/view/AKR20261106140900005",
-    "source": "연합뉴스",
-    "pubDate": "Sat, 7 Nov 2026 08:00:02 +0900"
-   },
-   {
-    "title": "부산기장촬영소 시범운영…화려한 액션 버추얼 스튜디오 구축",
-    "url": "https://www.yna.co.kr/view/AKR20261106099100051",
-    "source": "연합뉴스",
-    "pubDate": "Sat, 7 Nov 2026 07:01:01 +0900"
-   },
-   {
-    "title": "최휘영 \"AI 파도, 연대의 방식으로 항로 찾는 영화인에 박수\"",
-    "url": "https://www.yna.co.kr/view/AKR20261106176100005",
-    "source": "연합뉴스",
-    "pubDate": "Fri, 6 Nov 2026 19:09:57 +0900"
-   },
-   {
-    "title": "[가요소식] 디어클라우드, 8일 신곡 '꿈의 장면'…19주년 기념",
-    "url": "https://www.yna.co.kr/view/AKR20261106169800005",
-    "source": "연합뉴스",
-    "pubDate": "Fri, 6 Nov 2026 18:01:14 +0900"
    }
   ]
  },
@@ -304,22 +288,40 @@
    "query": "코스피",
    "items": [
     {
+     "title": "’블루 쓰나미’에 휘청했던 코스피, 美증시 반등에 회복할까 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tY25NbGg4Vlp1Q2pYVFNqUVA0QWhZNDl6U21sbWt4dElZTEswdjJIZ0pxRlpON2l4X3dneW5sQUpOOHBtdlVXa2tXaXBkWWU0QW9Ia0pIOXRNbk43ZkFqVGhDT2tVUnM?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Sun, 08 Nov 2026 01:08:00 GMT"
+    },
+    {
      "title": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
      "source": "연합뉴스",
      "pubDate": "Sat, 07 Nov 2026 21:00:06 GMT"
     },
     {
-     "title": "코스피200 '-28%' 뚝 떨어질 때...\"그래도 잘 버텼다\" 선방한 ETF - 머니투데이 - 머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ULW4wTzluTXBwOUdMa1lzWVBUbjU2ajdxVjVRTjFRdldoc3phZ0dpOC13Znp4a3RWWlp5X3o1VjgzVGgzTlRFczI3LWlkdHZRR3hJZlV0Vmw0ZjZleTVNZXNGeTlWNHRi0gFuQVVfeXFMUGRrWENXZkZ2a0wxYzFyTXktakdza3lyMzk0MjFBWWp1UDV1MHc4TFFVUGoxc3FLanpjTzI3UDhDLTNzWkxKNWhJRGJIZW1Fb2E1VzFQMG5hR0JMUzA3bXU2VFU0cUotZktqUi1Sc2c?oc=5",
-     "source": "머니투데이",
-     "pubDate": "Sat, 07 Nov 2026 21:00:00 GMT"
+     "title": "(주간증시전망) 'AI 공포' 덮친 코스피…반등 시도에도 약세 전망 - 뉴스토마토",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmd0RERkxwejVpVlZ5cnFBdnRjNVRYY2k2aWF6dTIzQ3RSbGJ0c0J4Z3Z6ZkFaNWVvZkFaZkdCdXBET2VUb2JOQUpXbS1rcjY5YUJIeGtkTFNxTENHb0Uzaw?oc=5",
+     "source": "뉴스토마토",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
     },
     {
-     "title": "코스피 추락에…빚투·레버리지 개미 비명 - 메트로신문",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rNUNrMEZfSzdHcExnR0c4ejBmUUV3Q0Vvbk9xb3JaQ0Q2UnBFV1lrcDZ0ZFBwbUd1Wno4Rk5ERU1rNlQzUHl3eTFDc1RkejB0QUlHblNSa0h5cVVBZi16ZQ?oc=5",
-     "source": "메트로신문",
-     "pubDate": "Sat, 07 Nov 2026 20:06:30 GMT"
+     "title": "'블루 웨이브 쇼크'에 휘청인 코스피…반등 열쇠는 [주간전망] - 한국경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5",
+     "source": "한국경제",
+     "pubDate": "Sat, 07 Nov 2026 23:00:05 GMT"
+    },
+    {
+     "title": "코스피 폭락 진정될까…외국인 수급·AI 불안에 촉각 [주간증시] - 에너지경제신문",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUT0tmd0tKYm1uVTVUc2pDYkpBTTdzeFRuUUpaRU1FYmJJM3d5YkJEWkpaSVZXNHZjZW1Rc2F6ako1S2Q1RlNraUdOdFdQdUx4cy1CUnIyazhfYjg?oc=5",
+     "source": "에너지경제신문",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
+    },
+    {
+     "title": "국민의힘 \"코스피 폭락 책임져야\"…李 사과·경제라인 문책 촉구 - 글로벌이코노믹",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFBZbGNPY3JCNzZXckE0eVNYam55czJGUFg4TUFURnREWFRMLVZzbXFGZEx6NVAyN24wRXU0WGdtLVJVbmlxTmVFX3hmWWJFRUtfd25ETjBwa1dlYlZjakFNbzI3NkZpUUM4R1p5R25tYWNpckh3em9NSmJwQ2o1Z0Z1Qjg0enBO?oc=5",
+     "source": "글로벌이코노믹",
+     "pubDate": "Sun, 08 Nov 2026 00:48:41 GMT"
     },
     {
      "title": "美 선거로 AI 규제 논란… 코스피, 반등 여부 주목 [주간증시전망] - IT조선",
@@ -328,28 +330,10 @@
      "pubDate": "Sat, 07 Nov 2026 21:10:00 GMT"
     },
     {
-     "title": "'블루 쓰나미' 덮친 코스피…5000선 사수, 외국인·AI에 달렸다 - 뉴스1",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PN1pVc0lMV2xLTWIyRU5Ib1lscVVnUU4xbk16XzlIZE5iTjBQVDBxT0hJaVlZZ1BQYmpobXlsWjVPRy1aNHRvRWxKLVN6ajR4ZHBodDd2MWNOQzQ?oc=5",
-     "source": "뉴스1",
-     "pubDate": "Sat, 07 Nov 2026 21:00:00 GMT"
-    },
-    {
-     "title": "한 주 새 11.7% 빠진 코스피…美 반도체 반등에 5000선 지킬까 [선데이 머니카페] - 서울경제",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lbTRiZDNfNmN2eVJteHdMRnd4TWhjcHNsRjh6dmYyY2twRjZmTmNPdnlsQkpIU3JYcHNDQXJ6ZnpWakFtdGpZTEdmRmV2YjFzN0HSAVNBVV95cUxQdkg1Y1g5VllLamRWNGlkM0I0c2NabE5jMEVmendnRjBLdnpiREQ4R3ZydVlGMDVya2p0bF9JbEFQbjVERjhya2x1N2FyeWJoOVhPTQ?oc=5",
-     "source": "서울경제",
-     "pubDate": "Sat, 07 Nov 2026 22:00:00 GMT"
-    },
-    {
-     "title": "[주간증시전망]폭락했던 美 나스닥 진정세…코스피, 이번주 반등할까 - 뉴시스",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xUzNsUEZCUm40MUduNXNJYWE4c2pBeWdjM3d0OWZPZlFiZG1hVU1ZNHhnY2llcVU2MkQ5VUtTa2VMY0xSUVdEYTRUdEpPdUJnb2dVUmlzNVFFdU9kazJDWtIBeEFVX3lxTE1DNFNIWjZWQWNhdW53UW02MThTTkNITDlsTlhKSlhOb1J5V1BTMTFoelVqQTZWLVpMcm5GaGFpYURpOVpDU0xfcmxuYWRkOUpGX2UtUDFYRllxS2p4YzFCVDlCRGJ1SGhWcHZjWWZlSFQ1NXIzNHV6Vg?oc=5",
-     "source": "뉴시스",
-     "pubDate": "Sat, 07 Nov 2026 22:00:00 GMT"
-    },
-    {
-     "title": "급락장 지나도 안심 못 한다…코스피 반등 vs 추가 하락 ‘안갯속’ [주간 증시 전망] - 데일리안",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcERfX2FJdmlwOWRMQndTTm0tbzgxcVNYYUplbHYzX2IyNjFwb3k2MHlVeFdockZBLWNIb1ZKVmZvd2dtWmoyWlV4dHBSdElzTVVTYklJcjVGaU8zRlN6bmN6dThHaDhMNFJBT1BMTlJBSGJxZzV3VUMwUC1WNXF4eWhKM2hYYlpucE5TZzJNT2staC1DUXEybUtQaVpLWlB3OWpTdGpCUXhMQkZHR0JvSjRsZHQyclN1ZW1kZnZkajJSTjNxUlN1ZUpaakhQNmRSZ2hpVC16bDAxcFFsSDRBZVRuUUdYZW1CcUxPSkx1SGFlUFhmX2tnRldhNVREb0R5TG5LVUI5THRxQjdsdHVlcHRIU2ZFajFN?oc=5",
-     "source": "데일리안",
-     "pubDate": "Sat, 07 Nov 2026 21:30:00 GMT"
+     "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가 - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNRDFJWkxIUFhzYUdWRlFiNW5ZbUJSMS1yZHZkTjJ3MUkwakx2YzVoR1dTNlZiMzZBZldWNHhQbE9HVmo5czNDTXRRNHJESG5tb1E?oc=5",
+     "source": "매일경제 마켓",
+     "pubDate": "Sat, 07 Nov 2026 21:25:01 GMT"
     }
    ]
   },
@@ -357,10 +341,40 @@
    "query": "증시",
    "items": [
     {
-     "title": "'블루 쓰나미' 증시 덮쳤지만…K콘텐츠·통신주는 웃었다 - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYzRWNnJwMHZHc0NXQWpDcE5ZT0thR1BYM3hUa1F6U1Q5cHBPVFBsTThsemVIbmFiSndYSUpTdW1qdmRzUjQ0OUJxNVFGLUQ0dm5kSFN1UWRJMFnSAWBBVV95cUxOdmJvYmJpN0l6WmZwSGtmMlZoX1BYUGtWZ3NJam1YdG5jT0c5aktXRDRhYXI0c2drVmRlc0pjckU1NE1yR2JzdmVibU1NM1RybTRCeXE4RmNDWEtTeTBOYTU?oc=5",
+     "title": "’블루 쓰나미’에 휘청했던 코스피, 美증시 반등에 회복할까 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tY25NbGg4Vlp1Q2pYVFNqUVA0QWhZNDl6U21sbWt4dElZTEswdjJIZ0pxRlpON2l4X3dneW5sQUpOOHBtdlVXa2tXaXBkWWU0QW9Ia0pIOXRNbk43ZkFqVGhDT2tVUnM?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Sun, 08 Nov 2026 01:08:00 GMT"
+    },
+    {
+     "title": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
      "source": "연합뉴스",
-     "pubDate": "Sat, 07 Nov 2026 21:15:01 GMT"
+     "pubDate": "Sat, 07 Nov 2026 21:00:06 GMT"
+    },
+    {
+     "title": "李 정부의 예견된 증시 대혼란 … '빚투' 부추기더니 올해 반대매매만 '5조' 깡통 - 뉴데일리",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Bak1BZnZQeVdnbHVZZTVoMjN2aFl4MUMwcHhlNjBQT2U3Z1JYa1U0NEdiWmE1Ry1jMkJwTnBtcTg1bVVvYlB5UjBxekpHblJld3NENmFONlFzUjNkbmZVWDJtSWE1OU1ObzBPVFdDWVdfR2hQR0lXOTduUdIBgAFBVV95cUxNRWJUdE5iQTFGZVA4V0FHbjJGX0o3WjFDTVJuODZXYjBJMjN0cmFvYjBLQ19STFdwRkhONEo1V1dOZG1DczZLTDRKWS1NaTB1T1FCVE4zM0JXaTFoVS1ZajNlUXpOSk80TU1RbkNDOVNPdXdncGdla0JzWVM2VFJDSg?oc=5",
+     "source": "뉴데일리",
+     "pubDate": "Sun, 08 Nov 2026 00:01:00 GMT"
+    },
+    {
+     "title": "코스피 폭락 진정될까…외국인 수급·AI 불안에 촉각 [주간증시] - 에너지경제신문",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42dU5OZmtwZE1ndXRtUk14MmN1RTN2OURiUDZSM1RmQmZobkp2cGZjLVE2aFVMcmwtMmR3akRKWk1ScDlITzFOR0ppSi04Y2I2T2U5Q2NnbmdLSXBYZ0xOeGlLdw?oc=5",
+     "source": "에너지경제신문",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
+    },
+    {
+     "title": "(주간증시전망) 'AI 공포' 덮친 코스피…반등 시도에도 약세 전망 - 뉴스토마토",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmd0RERkxwejVpVlZ5cnFBdnRjNVRYY2k2aWF6dTIzQ3RSbGJ0c0J4Z3Z6ZkFaNWVvZkFaZkdCdXBET2VUb2JOQUpXbS1rcjY5YUJIeGtkTFNxTENHb0Uzaw?oc=5",
+     "source": "뉴스토마토",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
+    },
+    {
+     "title": "“미국 물가부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면 - 매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VN0hOSEllYm85U1EyTW9uYk5hd01MbEd2UUQ0VnRzb0ZCQ0Z2MHhrV2JSSDhEV1hsb1JsdGU4R1MzV200bEs3Um1YT3FtbTBxanc?oc=5",
+     "source": "매일경제",
+     "pubDate": "Sat, 07 Nov 2026 23:08:16 GMT"
     },
     {
      "title": "[주간증시전망] ‘블루 웨이브’ 여파 지속… 美 물가·코어위브 실적 ‘주목’ - Chosunbiz",
@@ -369,40 +383,10 @@
      "pubDate": "Sat, 07 Nov 2026 21:01:20 GMT"
     },
     {
-     "title": "증시 급락에 PEF 투자기업도 주가도 '뚝'…지분 가치 하락 부담 - 매일경제 마켓",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUNUUHZmTC13Ym9mNjMwUzVqRTA2a2RFampGdmY0RkNOanZ5ZGFiTm5wM3E3SzMybFlwekFKNlctZGswNGZOb2lKRmlibkhJV1E?oc=5",
-     "source": "매일경제 마켓",
-     "pubDate": "Sat, 07 Nov 2026 21:30:01 GMT"
-    },
-    {
-     "title": "[뉴욕증시-주간전망] 美 인플레 향방은…'AI 풍향계' 코어위브 실적 주목 - KB Think",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qeFJ6X0oyMGNMcHhBdEVoc2JCa2ZfU2ZMZWxMbmhhQUtENUtRYVhPdWI4RmlQMEJ5a3hEMWMxeVV4SlpuYXNhMko4MERKYU83WnljUlZwNU9GR19xRWJ1R3RBSGFQTGNyR192WVpvbGE4dw?oc=5",
-     "source": "KB Think",
-     "pubDate": "Sat, 07 Nov 2026 22:00:02 GMT"
-    },
-    {
-     "title": "증시 급락에 '반대매매 유예'로 숨통…'빚투' 개미 한숨 돌리나 - 뉴시스",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5Y1MtbU1WNTdXa1ZCaWZlU01mT24zLVZNTnh0ODVXRGRGZVFuZTNOYTRnR2VQb002M29qaUNxaGlnUzB3ZzN4RG9oTGg3VDZadklyNDFwdmZDcV9OQ0w5bdIBeEFVX3lxTE9oblRvWW5fY0hHZzk1Sm5XNzRKUVd3d05laGZGdTJXZFRiVzlPc1VGYmxxUms1R1MxQkMxQk9RVnhkc0VuWFNBNzFYc2o2RXV0MzBxWktYS3VSdHFVYktfUXF0eTBJWC1NU0pUWlZJeUpjQjFpbERVZA?oc=5",
-     "source": "뉴시스",
-     "pubDate": "Sat, 07 Nov 2026 21:00:00 GMT"
-    },
-    {
-     "title": "한국거래소, 수능일 증시 오전 10시 개장 - KBS 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Wjc2TjZfZm5STmlaRWNxM0VYYnh2RnlIUXJPdGdFaEc5NGJ4MjB5TXQyQmRvNXo0Z19TYVJOMnBnek82V2FQV3lrZlQzNTdVQy13VF8wMzVfSFU?oc=5",
-     "source": "KBS 뉴스",
-     "pubDate": "Sat, 07 Nov 2026 12:19:00 GMT"
-    },
-    {
-     "title": "\"대체 뭘 샀길래?\"…증시 11% 폭락에도 51% 수익 낸 투자왕 - 머니투데이 - 머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EdkFNTzlXbjNEX3hLcl9lQUkzeTVPUFltLVdvelFUYzY2RzE5STlnMkV0U0MtNFI2ZFUzejE4NFgtYWh6Ukx0VGI3TlhNNkNDV3hPeDRXWG1JYmk4RFBTRFhjRmg0Y3lQ0gFuQVVfeXFMUHZLYUlpRnNUbUNFWWVtejZxNzZ3UGdhdGp5bVVxWG8wWko5Q01MRDE3OEpfb2VkMTNEcDZ6LUZFblhaejlQVGV6cUNWc29MT3ZJbVVaTWVUeXdvMWZQRTZnZHhmd3ZUdFEtellqNnc?oc=5",
-     "source": "머니투데이",
-     "pubDate": "Sat, 07 Nov 2026 20:48:57 GMT"
-    },
-    {
-     "title": "'블루 쓰나미' 딛고 뉴욕증시 반도체 상승‥국장, 반등 가능할까? - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91bklkYl9Ba2VYQi1sREdHNmJvMWxQZkFjVmxPWHliLWNuVFFRRjdhMnUwblFqMUozQWJPa2k5YXJ5d3NBWWlOQ05BQ1BOX1NuNEpMWTlHeHlsVHRiQlRiM0czaEdTRlYzWlVIbi0yN0hHWk1JWlMwT9IBeEFVX3lxTE9xVmpRVE9uQlZ6a1hfcFpOZWF0RUtsT3ZmdUlhYlBqZElJTGc3bEhJY0tOYWluOHBEbHNLM3F3TUNUem5lbVJNZVFCQ0FDNFdubUt4LXA4T3QtOEpfZGtidTFhaS1ZbUU3QVJSdzh4cWpnYlFtaER3OQ?oc=5",
-     "source": "MBC 뉴스",
-     "pubDate": "Sat, 07 Nov 2026 11:07:09 GMT"
+     "title": "[이번주 증시] 변동성 확대 가능성 열어두되 투매는 자제 - 오피니언뉴스",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aFNPQkNWOUc1QjdRSHlZUVVwWGREM3Vqd3JqNnk3OFFlbHh5ZzRETnRsTnNkYzZJa2NobjJJTTNJMVRYVVk5Wm9iODFydDBOYXVLNW5Rcjd1bU9hdjI3TWRDYklaWms3RjVWOUFTN2p6QQ?oc=5",
+     "source": "오피니언뉴스",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
     }
    ]
   },
@@ -410,52 +394,532 @@
    "query": "환율",
    "items": [
     {
+     "title": "[이번주 환율] 美 중간선거 후폭풍에 환율 1360원대 터치…AI 투자심리가 변수 - 오피니언뉴스",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SlBCdWd2WWxNX096MmI1Y3Bid1FNdVJjRUlscHBIWm9pSTB0NW5GeEFlMWZYeXNRbGRZOVg3YkZGRVpMSWtKUHlyT2wxYmx6OUJNNDF1b0lfVU1SVkFJTnVWdW1KMU0wNDVQa2tWRkYwdw?oc=5",
+     "source": "오피니언뉴스",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT"
+    },
+    {
+     "title": "1320원서 1350원대로…수출 호조 속 환율 발목 잡은 '외국인 매도' - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NcHFQbXQ2VVFHMDVuNk1oN2gzV2E0RUJSWDVtNXJxT1RlbmpFaTVsMFR5MHUwME9fcXZRcm5acEFEYVFUdXZQQXFyeWNvM2t4amVMYg?oc=5",
+     "source": "뉴스1",
+     "pubDate": "Sat, 07 Nov 2026 22:50:00 GMT"
+    },
+    {
+     "title": "블루 쓰나미에 AI 불안…환율 1360원 재돌파 촉각[주간외환전망] - 이데일리TV",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3TW9peksxMDRxQlRaaGdWNFVJeHBqaUN5WDFtdVdDcURPNEsyOURONjhSUjBPVm5ZakVsZURUWDhCMzZ6ZjZpY3IxYTd5eUlFU1lUZm1WSEM2TmgyR1VoSDliVzBmZGVtaWlHMnlEYmNMSEpIR2xvTU1rVQ?oc=5",
+     "source": "이데일리TV",
+     "pubDate": "Sat, 07 Nov 2026 22:00:00 GMT"
+    },
+    {
      "title": "1350원대로 뛰며 ‘블루쓰나미’ 휩쓸린 환율…\"당분간 변동성 커질 듯\" - 세계일보",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdUs3ZkRwZGlmZ1Mzb29sYnQwcDQ2YnlsQ2l4YnQ4czFJeDFrRUd0cHBrMjF6a1RoaUl1S1BYSmFObDh2S01UWU9wODd4a3pLREh3WkRPZmPSAVRBVV95cUxNZWVqdENlZGE1YUladkpybDNnc3plV20zM1JTNmhLa3VZVGdDOHExWFpackdfNFpaQUJ5UnZmNlFzb2oxVFp2QnFfX092SkpWREI0Yk4?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lZWp0Q2VkYTVhSVp2SnJsM2dzemVXbTMzUlM2aEtrdVlUZ0M4cTFYWlpyR180WlpBQnlSdmY2UXNvajFUWnZCcV9fT3ZKSlZEQjRiTtIBVEFVX3lxTE1lZWp0Q2VkYTVhSVp2SnJsM2dzemVXbTMzUlM2aEtrdVlUZ0M4cTFYWlpyR180WlpBQnlSdmY2UXNvajFUWnZCcV9fT3ZKSlZEQjRiTg?oc=5",
      "source": "세계일보",
      "pubDate": "Sat, 07 Nov 2026 20:52:07 GMT"
     },
     {
-     "title": "블루 쓰나미에 AI 불안…환율 1360원 재돌파 촉각[주간외환전망] - 이데일리",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGZ4dW0zWnczeTlpNXBuVFRmbTlnMmlHSXR3bUtTaEFDWjRFejdvSzhZWHhsSWZlaUF2Ym9NRUMxcm9Hdmlla01kdnhTSGU5YXVZZEFib0JoZjdvX2pNY0ZNY2VIQkdCaUxmSTh3THVMUW1ic1hmMWlLQmhsU19iWA?oc=5",
-     "source": "이데일리",
-     "pubDate": "Sat, 07 Nov 2026 22:00:04 GMT"
+     "title": "[경상흑자 신기록] 달러 벌어도 해외로…환율 하락 제약하는 투자자금 - 아주경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWlBTa3RPdGhRZGhwMG5iS2RDQUNuVlRGRm5oeE96VTd6djJHd2oyU0RiTXl3YjdqQXp5Zm5YazVVam5Zbl9sVzhiR1k0MjVXcndSakFCMkcyUdIBWEFVX3lxTE8zWGpuX3E1R2ozWEg0eTQ4enFEeGxwM3dQLWl3Z3dfWHJQdDNRUGhFVmZNamFmQnJTczJUdXVaM2RkSWkyNFA5cmZGOXZPTndNbktObTVncUo?oc=5",
+     "source": "아주경제",
+     "pubDate": "Sat, 07 Nov 2026 23:54:16 GMT"
+    },
+    {
+     "title": "\"약달러 반갑다\" 원화 강세에 금융지주 자본여력↑...연말 환율·금리는 변수 - 파이낸셜뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MZDZoTmlmeDl3ajBhVFZITXR6WGFIdWxYOVpNdTFnRzZJX0RMMVA1Yzc1WlQxU0ZDckFmSlJfbDg1Yk9JT1BMRXZ1Zk9QMzlUSU9LTVpCTjBGZw?oc=5",
+     "source": "파이낸셜뉴스",
+     "pubDate": "Sat, 07 Nov 2026 23:28:08 GMT"
+    },
+    {
+     "title": "오늘(11월 8일) 미국 달러 환율: 미국 고용 보고서 발표 후 글로벌 달러화 강세 회복세. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjZuRV9MeWgydk9kX2lzMHFrOXR1bVA3ekNrT1g5QlFwaHhyNHBLbWtyTk5oRHpzQ2J0LThkbU5iMWdic0ZxZTI2WXFfcVpsaEVKQVFCdENZOEVOZGxSYnQ1eG9ObmtIcjk2N1JIMVZtTWttT1YyYTlTemhwVHNuN2R1ZHIwWXNCZWNleHBtaWZoZmp1clYwVUhnNHpJVnZXclE?oc=5",
+     "source": "Vietnam.vn",
+     "pubDate": "Sun, 08 Nov 2026 01:08:37 GMT"
     },
     {
      "title": "美 ‘블루웨이브’에 1360원 뚫은 환율…원화 약세 어디까지? - www.dt.co.kr",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vajE4WkgwZWZMSzlYSU9mdXladkVYRjBRQlNzWWFrYzBtaWM2ZUhXZkZIZlRnQkZRS3ZveEtJdk9QM05UTFpfbzlxVldDQQ?oc=5",
      "source": "www.dt.co.kr",
      "pubDate": "Sat, 07 Nov 2026 20:29:00 GMT"
+    }
+   ]
+  }
+ ],
+ "naverCollectedAt": "2026-11-08T10:36+09:00",
+ "naverNews": [
+  {
+   "query": "영화",
+   "items": [
+    {
+     "title": "[단독] 서울시뿐 아니었다···신현준 영화제에 아내 회사 5220만원 챙겨",
+     "url": "https://sports.khan.co.kr/article/202611080931003?pt=nv",
+     "pubDate": "Sun, 08 Nov 2026 09:32:00 +0900"
     },
     {
-     "title": "美 기술주 '급반등' 속...달러가치 '강세', 엔화환율 '상승' - 초이스경제",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4ybE1KTW5OM1pJOURXSHJJV2ctVEhBVDhoX3lvaDM0Qm9pc2xabjVGNWdTR3lTZENzMC1JbWxZUUJfNEJnQW9iR3QteGJXck1jYTBsX0U3UmljcmRWb3l6N01wdzlKanZNWXktUjFEOHMwUU3SAXNBVV95cUxOMmxNSk1uTjNaSTlEV0hySVdnLVRIQVQ4aF95b2gzNEJvaXNsWm41RjVnU0d5U2RDczAtSW1sWVFCXzRCZ0FvYkd0LXhiV3JNY2EwbF9FN1JpY3JkVm95ejdNcHc5Smp2TVl5LVIxRDhzMFFN?oc=5",
-     "source": "초이스경제",
-     "pubDate": "Sat, 07 Nov 2026 10:14:44 GMT"
+     "title": "LGU+, 수험생 응원…장기고객 4000명 아이맥스 영화 초청",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859145",
+     "pubDate": "Sun, 08 Nov 2026 09:10:00 +0900"
     },
     {
-     "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-     "source": "LiteFinance",
-     "pubDate": "Sat, 07 Nov 2026 14:16:41 GMT"
+     "title": "LG유플, 수능 시즌 멤버십 혜택 확대…스타벅스 1+1부터 영화까지",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01200486645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "pubDate": "Sun, 08 Nov 2026 09:02:00 +0900"
     },
     {
-     "title": "달러-원 향해 부는 상승 바람…어떤 재료들 쌓여있나 | - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRzRUbmstUG9qLXZpa3ZQNkYtMTRtSnlxaXdhUlE4RDhkSUhxeHdrRVhnWXRjTV9qZVYwTVJZaDktN2lTSzU2UlpPRF8zUHZQU19FM2lFcUVXeUNfdzBUdXpWZHJ1UnB3N3dWS2lKVWp6U1ZS?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Fri, 06 Nov 2026 22:37:14 GMT"
+     "title": "청소년의 시선으로 담은 세상…‘송파 청소년영화제’ 성료 [지금 우리...",
+     "url": "https://www.segye.com/newsView/20261108503345?OutUrl=naver",
+     "pubDate": "Sun, 08 Nov 2026 09:29:00 +0900"
     },
     {
-     "title": "자유 시장과 은행 모두에서 미국 달러 환율이 동시에 하락했습니다. - Vietnam.vn",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42MXhnZnBYbElQNnJBRUdCWTFDT19hSlFCNU43RUpKWHVWcFVfcUVvOVE2SFBUZ21wbXJhYlF1aEphR1RmVVRxU2t0TWRyNlh1a29zS2t3MW1ldUd2V2JzTmV3SzNDdXBiT1F2Q1BqWEZURC1FUXgyVXBmYw?oc=5",
-     "source": "Vietnam.vn",
-     "pubDate": "Sat, 07 Nov 2026 11:21:14 GMT"
+     "title": "배우 이름 숨기던 영화사가 스타를 팔기까지",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1286253.html",
+     "pubDate": "Sun, 08 Nov 2026 09:02:00 +0900"
     },
     {
-     "title": "AI 규제 우려에 원화 약세…환율 1350원대 재진입 - 팩트인뉴스",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSU9RTE40TFdhRktSVk9Tc29oZUZyYjdvWGJ4WlB1S1RRLTN0NWRjeldRQVJjTE9SVWtRRmgxTmV6ZlVoLVpSWlhLejhka3JTQWo3WXJ2OTZPNmljSHllRjh3ZVlNdDBxMTU3Ulp3SUbSAXRBVV95cUxPYjJhazd2bHN0YjJUczZjalRMaVRIUGwxOUlteV9BRFcweXBvQnFmOWdJMlpnZjlFOXdqLVM4bWdaYWtfVy1mdVRuYld5a24zTmM4XzZGSVpDLU16Nzg1ZE5oVkNaVFVYZXJ0aUF2R3FYSEdCWg?oc=5",
-     "source": "팩트인뉴스",
-     "pubDate": "Sat, 07 Nov 2026 02:27:56 GMT"
+     "title": "\"누워서 볼래, 단둘이 볼래\"…7만원짜리 '불 꺼진 방' 동났다 [박수림의...",
+     "url": "https://www.hankyung.com/article/202611060145g",
+     "pubDate": "Sun, 08 Nov 2026 07:31:00 +0900"
+    },
+    {
+     "title": "이창동이 그린 해고노동자 가족…'심장소리'와 '가능한 사랑'",
+     "url": "https://www.yna.co.kr/view/AKR20261106188700005?input=1195m",
+     "pubDate": "Sun, 08 Nov 2026 08:01:00 +0900"
+    },
+    {
+     "title": "송파 청소년영화제 대상에 아주중 ‘The angle’",
+     "url": "https://view.asiae.co.kr/article/2026110807524982227",
+     "pubDate": "Sun, 08 Nov 2026 07:52:00 +0900"
+    },
+    {
+     "title": "LGU+, 수능 시즌 멤버십 혜택 강화…장기고객 영화 초청도",
+     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713600",
+     "pubDate": "Sun, 08 Nov 2026 09:00:00 +0900"
+    },
+    {
+     "title": "[인플루언서 프리즘] 어려운 영화 평론 대신 친근하게…'일상 속 씨네필...",
+     "url": "https://news.tf.co.kr/read/livingculture/2385839.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:01:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "드라마",
+   "items": [
+    {
+     "title": "[포토]영케이, 드라마 감동을 재현하는 음악",
+     "url": "https://isplus.com/article/view/isp202611070471",
+     "pubDate": "Sat, 07 Nov 2026 21:45:00 +0900"
+    },
+    {
+     "title": "\"AI로도 못 지웠다\"…은퇴한 조진웅, 드라마에 그대로 등장",
+     "url": "https://www.hankyung.com/article/202611061012i",
+     "pubDate": "Fri, 06 Nov 2026 14:58:00 +0900"
+    },
+    {
+     "title": "가방과 커튼이 말을 거는 연극 ‘멜로드라마 열차’",
+     "url": "https://www.segye.com/newsView/20261106508608?OutUrl=naver",
+     "pubDate": "Sun, 08 Nov 2026 05:50:00 +0900"
+    },
+    {
+     "title": "‘소년범 논란’ 조진웅의 ‘시그널2’, 12월 편성 강행…“문제 옹호 ...",
+     "url": "https://www.mk.co.kr/article/12200388",
+     "pubDate": "Fri, 06 Nov 2026 13:53:00 +0900"
+    },
+    {
+     "title": "“K-드라마처럼 들고 다닐래요”… 요즘 도쿄서 하루 1000잔 팔리는 이 ...",
+     "url": "https://www.chosun.com/international/japan/2026/11/08/FVQH2P3PMZDEFCNRWU4SHTVPAY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "pubDate": "Sun, 08 Nov 2026 07:01:00 +0900"
+    },
+    {
+     "title": "수도권 최고 10.5% 찍었지만 전국은 7.4%…엇갈린 시청률 한국 드라마",
+     "url": "https://www.wikitree.co.kr/articles/1172793",
+     "pubDate": "Sun, 08 Nov 2026 09:14:00 +0900"
+    },
+    {
+     "title": "KBS 대하드라마 컴백…'문무' D-7, 스페셜 방송",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02646966645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "pubDate": "Sat, 07 Nov 2026 15:04:00 +0900"
+    },
+    {
+     "title": "日 후지TV \"드라마 제작에 AI 전면 도입…제작 비용·기간 절약\"",
+     "url": "https://www.yna.co.kr/view/AKR20261106154600009?input=1195m",
+     "pubDate": "Fri, 06 Nov 2026 17:08:00 +0900"
+    },
+    {
+     "title": "김현주, 김유정 미국행 길 열어주더니 총격 위기 “가경아 행복하게 살...",
+     "url": "https://www.mk.co.kr/article/12201582",
+     "pubDate": "Sun, 08 Nov 2026 09:07:00 +0900"
+    },
+    {
+     "title": "[속보] 10:11→21:16…안세영 끝내 뒤집었다! AN 대반전 드라마 1게임 따...",
+     "url": "https://www.xportsnews.com/article/2216710",
+     "pubDate": "Sat, 07 Nov 2026 14:05:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "연예",
+   "items": [
+    {
+     "title": "“돼지 1만8000마리와 살고 있다”…구피 신동욱, 연예계 떠나더니 무슨...",
+     "url": "https://www.mk.co.kr/article/12201450",
+     "pubDate": "Sat, 07 Nov 2026 14:28:00 +0900"
+    },
+    {
+     "title": "'삐끼삐끼' 이주은, 대만서 연예인급 인기라더니…깜짝 근황",
+     "url": "https://www.hankyung.com/article/2026110723597",
+     "pubDate": "Sat, 07 Nov 2026 19:50:00 +0900"
+    },
+    {
+     "title": "‘구피’ 신동욱, 연예계 떠나 잠적한 진짜 이유",
+     "url": "https://sports.khan.co.kr/article/202611071346003?pt=nv",
+     "pubDate": "Sat, 07 Nov 2026 13:47:00 +0900"
+    },
+    {
+     "title": "'연예계 잠적' 구피 신동욱, 6만평 양돈장 근무 근황...\"연예인 안 만나...",
+     "url": "https://www.tenasia.co.kr/article/2026110723624",
+     "pubDate": "Sat, 07 Nov 2026 22:28:00 +0900"
+    },
+    {
+     "title": "한때 댄스 스타였는데…“필리핀 사업 실패→돼지농장 근무” 근황 밝힌...",
+     "url": "https://www.wikitree.co.kr/articles/1172713",
+     "pubDate": "Sat, 07 Nov 2026 22:30:00 +0900"
+    },
+    {
+     "title": "연예게 잠적 후 필리핀 날아가 사업했던 연예인, 충격 근황 전했다",
+     "url": "https://www.insight.co.kr/news/581045",
+     "pubDate": "Sat, 07 Nov 2026 15:10:00 +0900"
+    },
+    {
+     "title": "'연예계 잠적' 구피 신동욱, 필리핀 사업 실패→'돼지농장' 취업..충격근...",
+     "url": "http://www.osen.co.kr/article/G1112905751",
+     "pubDate": "Sat, 07 Nov 2026 12:38:00 +0900"
+    },
+    {
+     "title": "구피 신동욱, 연예계 잠적 후 충격 근황…필리핀 사업 실패 후 돼지 농...",
+     "url": "https://www.xportsnews.com/article/2216680",
+     "pubDate": "Sat, 07 Nov 2026 11:06:00 +0900"
+    },
+    {
+     "title": "'학폭 의혹' 차예련, 법적대응 예고→'조폭 연루설' 조세호 복귀 시동 [...",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/523895",
+     "pubDate": "Sun, 08 Nov 2026 08:02:00 +0900"
+    },
+    {
+     "title": "아빠는 강호동 매니저, 딸은 ‘우주소녀’…수빈이 8년간 안밝힌 ‘연예...",
+     "url": "https://www.sportsseoul.com/news/read/1647998?ref=naver",
+     "pubDate": "Sun, 08 Nov 2026 09:23:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "경제",
+   "items": [
+    {
+     "title": "보건·복지 상용직 8만명 늘었는데…20대는 5만명 줄었다",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859197",
+     "pubDate": "Sun, 08 Nov 2026 10:12:00 +0900"
+    },
+    {
+     "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
+     "url": "https://www.hankyung.com/article/202611072412H",
+     "pubDate": "Sun, 08 Nov 2026 06:01:00 +0900"
+    },
+    {
+     "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706862&ref=A",
+     "pubDate": "Sun, 08 Nov 2026 09:01:00 +0900"
+    },
+    {
+     "title": "기후보험 공감한다지만…예산 놓고 설왕설래[기후로운 경제생활]",
+     "url": "https://www.nocutnews.co.kr/news/6603520?utm_source=naver&utm_medium=article&utm_campaign=20261108050019",
+     "pubDate": "Sun, 08 Nov 2026 05:01:00 +0900"
+    },
+    {
+     "title": "변화 도모하는 한가한 부자들 투자가 경제 활성화 이끈다",
+     "url": "https://weekly.donga.com/3/all/11/6449014/1",
+     "pubDate": "Sun, 08 Nov 2026 07:02:00 +0900"
+    },
+    {
+     "title": "안철수 “李대통령, 당장 라방 켜서 긴급 경제대책 밝혀야”",
+     "url": "https://www.mk.co.kr/article/12200582",
+     "pubDate": "Fri, 06 Nov 2026 16:46:00 +0900"
+    },
+    {
+     "title": "안덕수 국세청장 후보자 “민생안정·경제회복 뒷받침, 공정 세정 구현...",
+     "url": "https://biz.heraldcorp.com/article/10929054?ref=naver",
+     "pubDate": "Fri, 06 Nov 2026 22:52:00 +0900"
+    },
+    {
+     "title": "“대단지 매매가가 더 오르네”...아파트도 ‘규모의 경제’",
+     "url": "https://www.mk.co.kr/article/12200545",
+     "pubDate": "Sat, 07 Nov 2026 17:01:00 +0900"
+    },
+    {
+     "title": "[다음주 경제] 금융권 가계대출 다시 늘었나",
+     "url": "https://www.yna.co.kr/view/AKR20261107017800002?input=1195m",
+     "pubDate": "Sat, 07 Nov 2026 09:02:00 +0900"
+    },
+    {
+     "title": "중남미 경제모범국의 추락…은행 위기에 대통령까지 파면된 '이 나라'",
+     "url": "http://www.joseilbo.com/news/news_read.php?uid=579161&class=42&grp=",
+     "pubDate": "Sat, 07 Nov 2026 11:19:00 +0900"
+    }
+   ]
+  }
+ ],
+ "naverBlogs": [
+  {
+   "query": "sk하이닉스",
+   "items": [
+    {
+     "title": "“SK하이닉스 결국 100만 원 깨진다?” 반등할 때 팔아야 한다는 충격....",
+     "url": "https://blog.naver.com/mellongi123/224464062384",
+     "blogger": "직딩 혜무늘보 돈버는 일상",
+     "bloggerUrl": "https://blog.naver.com/mellongi123",
+     "postdate": "20261103",
+     "summary": "현재 나는 SK하이닉스 57주를 보유하고 있다. 최근 계좌 평가금액만... 그런데 최근 SK하이닉스 주가가 결국 100만 원 아래로 떨어질... SK하이닉스의 실적은 오히려 상당히 좋다는 점이다. SK하이닉스가 10"
+    },
+    {
+     "title": "SK하이닉스 주가 \"월요일이 두렵다\" 인텔 폭락보다 '더 무서운 악재' ....",
+     "url": "https://blog.naver.com/8starstarstar8/224461381275",
+     "blogger": "Search & Create Lab A.Ka 스크랩",
+     "bloggerUrl": "https://blog.naver.com/8starstarstar8",
+     "postdate": "20261101",
+     "summary": "SK하이닉스 주가 \"월요일이 두렵다\" 인텔 폭락보다 '더 무서운 악재... SK하이닉스 투자자들에게는 이해하기 어려운 상황이에요. 미국... 그렇다면 11월 2일 월요일 SK하이닉스 주가는 추가 하락할까요?..."
+    },
+    {
+     "title": "\"120만원 주가로 다시 돌아가나\" SK하이닉스한테 닥친 뜻밖의 대형 악....",
+     "url": "https://blog.naver.com/loonshots88/224465328393",
+     "blogger": "비아이의 투자 인문학",
+     "bloggerUrl": "https://blog.naver.com/loonshots88",
+     "postdate": "20261105",
+     "summary": "삼성전자와 SK하이닉스가 아침에 올랐던 걸 다 반납했다는 속보였다. SK하이닉스 주가 차트 11월 4일, 삼성전자는 전날보다 1,500원(0.68%) 내린 218,000원에, SK하이닉스는 2,000원(0.14%) "
+    },
+    {
+     "title": "“삼성·SK하이닉스, 용인에 최대 1,600조 투자 전망?” 아파트값도 오....",
+     "url": "https://blog.naver.com/today-bora-826/224464709526",
+     "blogger": "오늘도 보라",
+     "bloggerUrl": "https://blog.naver.com/today-bora-826",
+     "postdate": "20261104",
+     "summary": "오늘도 보라입니다 삼성전자와 SK하이닉스가 대규모 반도체... 삼성전자와 SK하이닉스의 투자계획, 용인 아파트 분양 현황, 앞으로... 2026년 11월 3일 데일리안 보도에 따르면 삼성전자와 SK하이닉스는 용인에서"
+    },
+    {
+     "title": "\"주말 사이 나온 믿지 못할 소식\" SK하이닉스 주가 재대로 시동 걸까",
+     "url": "https://blog.naver.com/secretbankbook/224461487239",
+     "blogger": "네이버 공식 경제 인플루언서",
+     "bloggerUrl": "https://blog.naver.com/secretbankbook",
+     "postdate": "20261101",
+     "summary": "지난 금요일 SK하이닉스 주가를 지켜보셨던 분들이라면 상당히... 그런데 주말 사이 SK하이닉스 주가의 분위기를 바꿀 만한 뜻밖의... 오늘은 \"주말 사이 나온 믿지 못할 소식\" SK하이닉스 주가 제대로 시동 걸까."
+    },
+    {
+     "title": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것'",
+     "url": "https://blog.naver.com/kjn811/224464273116",
+     "blogger": "날카로운시선 소드킴",
+     "bloggerUrl": "https://blog.naver.com/kjn811",
+     "postdate": "20261104",
+     "summary": "\"20조 붓고도 외국인은 팔았다\" SK하이닉스 주가 반등 열쇠는 '이것' 지난 주말... SK하이닉스의 20조 원 자사주 매입 소식을 보면서 이 장면이 떠올랐습니다. SK하이닉스, 20조 원 자사주 추가 매입에 나섰"
+    },
+    {
+     "title": "이대로면 SK하이닉스 주가 100만원도 깨진다는 상황",
+     "url": "https://blog.naver.com/partner6766/224466696989",
+     "blogger": "아이엠그레이트",
+     "bloggerUrl": "https://blog.naver.com/partner6766",
+     "postdate": "20261106",
+     "summary": "이대로면 SK하이닉스 주가 100만원도 깨진다는 상황 SK하이닉스 주가가 하루 만에 9.46% 급락했다. 11월... SK하이닉스 주가가 120만원을 지킬 수 있을지, 최악의 경우 100만원까지 내려갈 가능성이 있는"
+    },
+    {
+     "title": "“삼성전자·SK하이닉스 월요일 또 폭락?” 미국 반도체가 7% 무너졌....",
+     "url": "https://blog.naver.com/economydev/224461811342",
+     "blogger": "개발자의 경제노트",
+     "bloggerUrl": "https://blog.naver.com/economydev",
+     "postdate": "20261102",
+     "summary": "삼성전자 | SK하이닉스 | 반도체주가 | 오픈AI투자 AI 서비스가 아무리 늘어나도 서버와 메모리를 계속... 「같이 보면 좋은 글: 메타 실적발표 \"매출 28% 늘고 순이익 14% 감소\", 삼전·하이닉스엔 왜.."
+    },
+    {
+     "title": "SK하이닉스 주가 실적발표, 영업이익 83조 예상보다 많다!",
+     "url": "https://blog.naver.com/gjwlh/224456343652",
+     "blogger": "한대디의 미국주식 이야기",
+     "bloggerUrl": "https://blog.naver.com/gjwlh",
+     "postdate": "20261028",
+     "summary": "제품 SK하이닉스가 TC본더를 한화세미텍에도 같이 주문하고 있어서, 한 회사가 물량을 다 가져가는 구조는 아닙니다. Q: SK스퀘어 사면 하이닉스 산 거랑 같은 거야? A: 비슷하게 움직이지만 똑같진 않아...."
+    },
+    {
+     "title": "SK하이닉스 연봉 평균 1억 8,500만 원, 반년에 1억 4,400만? 신입 초봉과 ....",
+     "url": "https://blog.naver.com/didl158/224458791513",
+     "blogger": "백뚜비의 머니체크",
+     "bloggerUrl": "https://blog.naver.com/didl158",
+     "postdate": "20261031",
+     "summary": "특정 상품 가입을 권유하는 글이 아니에요. #SK하이닉스연봉 #SK하이닉스 #하이닉스연봉 #SK하이닉스성과급 #SK하이닉스초봉 #하이닉스PS #반도체연봉 #삼성전자연봉 #SK하이닉스실적 #투자노트"
+    }
+   ]
+  },
+  {
+   "query": "후티",
+   "items": [
+    {
+     "title": "후티 반군이 센가? 그냥 반군? 근데 사우디도? 미국도?",
+     "url": "https://blog.naver.com/donghaeng4080/224441198556",
+     "blogger": "가치있는기업 donghang",
+     "bloggerUrl": "https://blog.naver.com/donghaeng4080",
+     "postdate": "20261014",
+     "summary": "후티 반군의 역사와 사우디아라비아 주변 정세를 지도와 연표로... 후티 반군의 역사와 주변 지역 지도 위에서 생성한 지도는 예멘 북부의 후티 영향권, 사우디아라비아, 홍해, 아덴만, 바브엘만데브..."
+    },
+    {
+     "title": "후티 반군이란 무엇인가? 역사적 배경과 사우디아라비아를 공격하....",
+     "url": "https://blog.naver.com/jungh3285/224438622694",
+     "blogger": "임소장[부동산.경제.주식 ]",
+     "bloggerUrl": "https://blog.naver.com/jungh3285",
+     "postdate": "20261012",
+     "summary": "후티 반군은 중동의 국가 간 갈등을 이해할 때 중요한 무장 정치세력입니다. 예멘에서 출발한 이들은... 후티 반군은 누구인가? 후티 반군(Houthi movement)은 예멘에서 활동하는 무장 정치·종교 운동으로, "
+    },
+    {
+     "title": "평양에서 후티까지 미사일 기술은 어떻게  갔나?",
+     "url": "https://blog.naver.com/cscg6472/224466183717",
+     "blogger": "곰씨책공장-출판문의1599 6583<인쇄접지제본*우주가",
+     "bloggerUrl": "https://blog.naver.com/cscg6472",
+     "postdate": "20261105",
+     "summary": "평양에서 후티까지 미사일 기술은 어떻게 흘러갔나? 평양에서... 예멘 북부를 거점으로 삼은 무장 세력인 후티 반군이 어떻게... 후티 반군의 대두와 예멘 내전의 다층적 구조 예멘 북부의 자이드파 종교적 부흥..."
+    },
+    {
+     "title": "중동 3대 전선 브리핑 / 미국·이란 전쟁 | 사우디아라비아·후티/예....",
+     "url": "https://blog.naver.com/djhahn/224465510252",
+     "blogger": "캐나다 생활 정보, 세상사는 이야기",
+     "bloggerUrl": "https://blog.naver.com/djhahn",
+     "postdate": "20261105",
+     "summary": "사우디·후티: 튀르키예 의회가 사우디·파키스탄과의... 사우디아라비아·후티/예멘 전선 ① 새로운 외교·군사 변수... 이 협정은 지난 8월 체결됐으며, 후티의 최근 사우디 공격 이전부터 추진됐습니다...."
+    },
+    {
+     "title": "사우디-후티 전쟁 다시 시작됐나?",
+     "url": "https://blog.naver.com/1month/224447697464",
+     "blogger": "배탁수 투자 구조",
+     "bloggerUrl": "https://blog.naver.com/1month",
+     "postdate": "20261020",
+     "summary": "사우디-후티 전쟁 다시 시작됐나? 리야드 공항·아람코 공격부터... 사우디아라비아와 예멘 후티 세력, 정식 명칭으로는 안사르 알라... 예멘 내부에서는 후티와 사우디가 지원하는 예멘 정부군 사이의..."
+    },
+    {
+     "title": "후티반군 이란?",
+     "url": "https://blog.naver.com/jskim5347/224413248315",
+     "blogger": "★★★일등강사 최고강사 김종수★★★",
+     "bloggerUrl": "https://blog.naver.com/jskim5347",
+     "postdate": "20260916",
+     "summary": "후티반군 이란? 후티 반군(Houthis)은 중동의 예멘(Yemen) 북부를 중심으로 활동하는 무장 정치·종교... 후티는 누구인가? 후티는 예멘의 이슬람 시아파 계열인 자이드파(Zaydi)를 기반으로 성장했습니다."
+    },
+    {
+     "title": "후티가 사우디에 71조 원을 요구했다고? 트럼프의 참패에 대해 이란....",
+     "url": "https://blog.naver.com/donglevobae/224467440152",
+     "blogger": "윤진은 여기_있었다",
+     "bloggerUrl": "https://blog.naver.com/donglevobae",
+     "postdate": "20261106",
+     "summary": "후티가 사우디에 적대행위를 중단하는 조건으로 510억 달러를... News 후티 지도자가 WSJ의 논평 요청에 응답하지 않은 상황이라... 일들을 후티가 벌이지 않을 거라는 보장이 없다는 게 문제죠...."
+    },
+    {
+     "title": "후티반군의 진실",
+     "url": "https://blog.naver.com/ojaeho00/224460819422",
+     "blogger": "재호의 일기장",
+     "bloggerUrl": "https://blog.naver.com/ojaeho00",
+     "postdate": "20261101",
+     "summary": "후티 반군의 진실, 사우디의 신무기는 왜 무력했나? 미국은 물러서고, 중동의 안보 질서는 흔들린다 예멘의 후티 반군은 예멘 정부군과... 막대한 국방비와 첨단 무기를 보유한 사우디가 왜 후티를 완전히..."
+    },
+    {
+     "title": "홍해를 뒤흔든 '후티 반군' 총정리!  탄생 배경부터 중동 전쟁 속 글....",
+     "url": "https://blog.naver.com/jeong_trois/224428407625",
+     "blogger": "한 뼘 자본학(Trois)",
+     "bloggerUrl": "https://blog.naver.com/jeong_trois",
+     "postdate": "20261002",
+     "summary": "최근 국제 뉴스나 경제 면을 펼쳐보면 \"홍해 항로 봉쇄\", \"후티... 보면서, 후티 반군이 어떻게 중동 분쟁의 핵심 뇌관이자 글로벌... \"후티 반군은 단순한 지방 반군이 아니에요. 홍해라는 세계 해상 물류의..."
+    },
+    {
+     "title": "후티반군이 무엇일까???",
+     "url": "https://blog.naver.com/loopyjun0610/224441364627",
+     "blogger": "Old car fan's Blog",
+     "bloggerUrl": "https://blog.naver.com/loopyjun0610",
+     "postdate": "20261014",
+     "summary": "출처 한겨레 여러분은 혹시 '후티'라고 들어보셨나요? 아마 요즘 뉴스에 자주 등장해서 한 번쯤 들어보셨을 겁니다. 도대체 후티반군이 뭐길래 이렇개 공포를 주고 있는 걸까요? 자금부터 이 후티반군에 대해..."
+    }
+   ]
+  },
+  {
+   "query": "메이저 리그 베이스볼",
+   "items": [
+    {
+     "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
+     "url": "https://blog.naver.com/hwl0501/224467443627",
+     "blogger": "네이버스포츠 공식 스토리텔러",
+     "bloggerUrl": "https://blog.naver.com/hwl0501",
+     "postdate": "20261106",
+     "summary": "타릭 스쿠발 / 사진 제공 : 게티이미지 코리아 2026 메이저리그 베이스볼이 밀워키 브루어스의 창단... 스토브리그를 맞아 2026-27년 메이저리그 FA 랭킹 TOP 30을 선정했다. 1위 타릭 스쿠발(30), "
+    },
+    {
+     "title": "MLB 명예의 전당은 무엇일까?",
+     "url": "https://blog.naver.com/da_rk-energy/224391914045",
+     "blogger": "brexton_garret님의 블로그",
+     "bloggerUrl": "https://blog.naver.com/da_rk-energy",
+     "postdate": "20260829",
+     "summary": "명예의 전당, 메이저리그 베이스볼 역사에 남을 명선수, 명감독... 이는 현대의 메이저리그까지 계속 이어져오고 있는 전통 중... 그 외에도 제 2차 세계 대전 이전의 선수, 니그로 리그의 선수들. 모두 배태랑..."
+    },
+    {
+     "title": "박찬호가 평생 받는다는 ‘메이저리그 연금’ 액수, 상상 초월이네!",
+     "url": "https://blog.naver.com/skinline/224422663323",
+     "blogger": "앨런의 루어낚시",
+     "bloggerUrl": "https://blog.naver.com/skinline",
+     "postdate": "20261010",
+     "summary": "메이저 리그 베이스볼(MLB) 선수들이 받는 연금은 메이저리그... 마이너리그 기간은 포함되지 않습니다. 10년이면 만점: 연금 액수는... 한국인메이저리거 #메이저리거복지 #MLB야구 #스포츠상식..."
+    },
+    {
+     "title": "메이저리그 베이스볼 모자, 2026 시즌 구성·순위·MLB 모자 구별법 정....",
+     "url": "https://blog.naver.com/deshutz/224452582807",
+     "blogger": "IT&SNS",
+     "bloggerUrl": "https://blog.naver.com/deshutz",
+     "postdate": "20261024",
+     "summary": "메이저 리그 베이스볼, 리그 구성은 이렇게 돼요 MLB는... 2026 월드베이스볼클래식에서 입은 일본 대표팀 유니폼도 MLB 공식 경매... 메이저리그 모자는 구단마다 달라요? 네, 구단별 로고가 달라요. 같은.."
+    },
+    {
+     "title": "메이저 리그 베이스볼 메이저리그 베이스볼 모자까지: 2026 시즌 구....",
+     "url": "https://blog.naver.com/dlgustj0325/224452434225",
+     "blogger": "IT & PC_BUILDING",
+     "bloggerUrl": "https://blog.naver.com/dlgustj0325",
+     "postdate": "20261024",
+     "summary": "리그 구성: 30개 구단, 2개 리그, 6개 지구 메이저 리그 베이스볼은 미국과 캐나다에서 최고 수준의... 오타니 유니폼 205만 달러 낙찰이 의미하는 것 최근 메이저리그가 화제가 된 배경에는 '오타니..."
+    },
+    {
+     "title": "프랭크 토마스(Frank Thomas) 미국  메이저리그 전설적인 거포 빅 허트(B....",
+     "url": "https://blog.naver.com/donginthink9/224368428367",
+     "blogger": "열린생각",
+     "bloggerUrl": "https://blog.naver.com/donginthink9",
+     "postdate": "20261012",
+     "summary": "는 메이저 리그 베이스볼 (MLB) 에서 활약했던 미국의 전 지명타자... 해 메이저리그에 데뷔하여 뛰어난 타격 실력으로 곧바로 주목받았습니다. 그는 1993년 아메리칸리그 최우수 선수 (MVP)로 만장일치로..."
+    },
+    {
+     "title": "메이저리그 2026년 사이영 상 후보는 누가 있을까요?(내셔널 리그 사....",
+     "url": "https://blog.naver.com/pp2k919106/224340716960",
+     "blogger": "일상을 말하다",
+     "bloggerUrl": "https://blog.naver.com/pp2k919106",
+     "postdate": "20260708",
+     "summary": "#사이영상 #내셔널리그사이영상 #제이콥미저러스키... 2026 메이저리그 사이영상, 과연 최고의 에이스는 누가 될까? 2026년... 사이 영상(Cy Young Award)은 미국 프로야구 메이저 리그 베이스볼(ML"
+    },
+    {
+     "title": "MLB 메이저리그 베이스볼에 대하여 (리스닝 청취의 자연스러운 향상....",
+     "url": "https://blog.naver.com/david-english/224402529901",
+     "blogger": "David English",
+     "bloggerUrl": "https://blog.naver.com/david-english",
+     "postdate": "20260906",
+     "summary": "필자도 예전에 메이저리그를 재밌게 본적이 있어서 몇번 구장을 방문한적이 있었네요. 사실... 또한 예전에 류제국 선수라고 LG에서도 뛰고 그랬던 선수였는데 시카코 컵스에서 마이너리그인 triple..."
+    },
+    {
+     "title": "2026 미국프로야구 메이저리그 최강 마무리 투수중 한명인 샌디에이....",
+     "url": "https://blog.naver.com/thebaseballfactory/224436877603",
+     "blogger": "The Baseball Factory",
+     "bloggerUrl": "https://blog.naver.com/thebaseballfactory",
+     "postdate": "20261010",
+     "summary": "2026 샌디에이고 파드리스 메이슨 밀러 x 더 베이스볼 팩토리 메이저리그 최강 마무리 No.22 메이슨... 2026년 메이저리그 내셔널리그 샌디에이고 파드리스 소속으로 정규시즌 66경기 방어율 1.67 70이닝 "
+    },
+    {
+     "title": "삼성 페덱, 메이저리그 32승 투수의 삼성행은 성공했나? 2026 성적·연....",
+     "url": "https://blog.naver.com/sport_korea/224437046040",
+     "blogger": "흥미로운 스포츠 정보",
+     "bloggerUrl": "https://blog.naver.com/sport_korea",
+     "postdate": "20261010",
+     "summary": "마이너리그 우수 선발투수 선정 주요 수상: 2019년 베이스볼 아메리카 메이저리그 올루키팀 MLB 통산 기록: 132경기, 32승 43패, 평균자책점 4.83 2026년 삼성 계약금액: 47만 3,333달러 인스타그"
     }
    ]
   }
