@@ -428,7 +428,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-09T10:36+09:00",
+ "naverCollectedAt": "2026-11-09T11:24+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -464,14 +464,14 @@
      "pubDate": "Sun, 08 Nov 2026 19:01:00 +0900"
     },
     {
-     "title": "[포토]민호, 영화같은 등장",
-     "url": "https://isplus.com/article/view/isp202611080511",
-     "pubDate": "Sun, 08 Nov 2026 20:53:00 +0900"
-    },
-    {
      "title": "영화 '김의 전쟁' '테러리스트' 김영빈 감독 별세…향년 72세",
      "url": "https://www.kado.net/news/articleView.html?idxno=2083483",
      "pubDate": "Mon, 09 Nov 2026 08:04:00 +0900"
+    },
+    {
+     "title": "[포토]민호, 영화같은 등장",
+     "url": "https://isplus.com/article/view/isp202611080511",
+     "pubDate": "Sun, 08 Nov 2026 20:53:00 +0900"
     },
     {
      "title": "임영웅 영화, 9일 예매 시작…18일 개봉",
@@ -479,9 +479,9 @@
      "pubDate": "Mon, 09 Nov 2026 08:14:00 +0900"
     },
     {
-     "title": "김영빈 영화감독 급환으로 별세… 향년 72세",
-     "url": "https://www.segye.com/newsView/20261109500142?OutUrl=naver",
-     "pubDate": "Mon, 09 Nov 2026 00:18:00 +0900"
+     "title": "임영웅, 스타디움 공연이 극장 천장까지…18일 영화 개봉",
+     "url": "https://sports.donga.com/ent/article/all/20261109/134989241/1",
+     "pubDate": "Mon, 09 Nov 2026 08:15:00 +0900"
     }
    ]
   },
@@ -499,9 +499,9 @@
      "pubDate": "Mon, 09 Nov 2026 10:02:00 +0900"
     },
     {
-     "title": "박진영, 김유정 독립군 정체 확신...‘100일의 거짓말’ 마의 10% 넘다 [...",
-     "url": "https://www.mk.co.kr/article/12202040",
-     "pubDate": "Mon, 09 Nov 2026 09:19:00 +0900"
+     "title": "김혜준, 정신과 의사 된다…MBC 새 드라마 '마인드 닥터' 출연",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/524096",
+     "pubDate": "Mon, 09 Nov 2026 10:48:00 +0900"
     },
     {
      "title": "강하늘, 데뷔 첫 의학 드라마 도전…김혜준과 ‘마인드 닥터’ 주연",
@@ -512,6 +512,11 @@
      "title": "강하늘, 의학 드라마 도전…'마인드 닥터', 내년 첫방송",
      "url": "http://www.dispatch.co.kr/2350427",
      "pubDate": "Mon, 09 Nov 2026 10:13:00 +0900"
+    },
+    {
+     "title": "박진영, 김유정 독립군 정체 확신...‘100일의 거짓말’ 마의 10% 넘다 [...",
+     "url": "https://www.mk.co.kr/article/12202040",
+     "pubDate": "Mon, 09 Nov 2026 09:19:00 +0900"
     },
     {
      "title": "결국 '시청률 10%' 뚫었다… 전 채널 동시간대 1위 싹쓸이 한 한국 드라...",
@@ -529,14 +534,9 @@
      "pubDate": "Sun, 08 Nov 2026 18:22:00 +0900"
     },
     {
-     "title": "AI드라마 기획부터 투자 상담까지…12일 ‘AI 콘텐츠 페스티벌’ 개막",
-     "url": "https://www.dt.co.kr/article/12093899?ref=naver",
-     "pubDate": "Mon, 09 Nov 2026 10:24:00 +0900"
-    },
-    {
-     "title": "\"닥터X, 의사 집단 매도하는 막장 드라마\" 홍준표의 직격",
-     "url": "https://www.fnnews.com/news/202611090614421952",
-     "pubDate": "Mon, 09 Nov 2026 06:40:00 +0900"
+     "title": "김혜준, MBC 새 금토드라마 '마인드 닥터' 출연…정신과 의사 변신",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271833",
+     "pubDate": "Mon, 09 Nov 2026 10:36:00 +0900"
     }
    ]
   },
@@ -564,14 +564,14 @@
      "pubDate": "Mon, 09 Nov 2026 06:42:00 +0900"
     },
     {
-     "title": "'45세' 브라이언, 과거 사귄 유명 여자 연예인 누구? \"누나였다\" [엑's 이...",
-     "url": "https://www.xportsnews.com/article/2217398",
-     "pubDate": "Mon, 09 Nov 2026 06:52:00 +0900"
-    },
-    {
      "title": "이하늘, 이혼 6년만 여자친구 공개…“팔로우해달라” 유튜브 홍보까지",
      "url": "https://www.mk.co.kr/article/12202105",
      "pubDate": "Mon, 09 Nov 2026 10:23:00 +0900"
+    },
+    {
+     "title": "'45세' 브라이언, 과거 사귄 유명 여자 연예인 누구? \"누나였다\" [엑's 이...",
+     "url": "https://www.xportsnews.com/article/2217398",
+     "pubDate": "Mon, 09 Nov 2026 06:52:00 +0900"
     },
     {
      "title": "SM엔터, 개인정보 유출에 공식 사과... 소속 연예인 정보도 털렸나",
@@ -579,9 +579,9 @@
      "pubDate": "Mon, 09 Nov 2026 08:18:00 +0900"
     },
     {
-     "title": "신동엽 \"브라이언, 유명 여성 연예인과 강렬한 스킨십 목격\"('미우새')[...",
-     "url": "http://www.celuvmedia.com/article.php?aid=1794177000530553010",
-     "pubDate": "Mon, 09 Nov 2026 07:32:00 +0900"
+     "title": "에스쿱스·슈가·박영진·김신영·엄지원…삼성, 12년 만 V9에 연예계도...",
+     "url": "https://sports.khan.co.kr/article/202611090855003?pt=nv",
+     "pubDate": "Mon, 09 Nov 2026 08:56:00 +0900"
     },
     {
      "title": "'삐끼삐끼' 이주은, 대만서 연예인급 인기라더니…깜짝 근황",
@@ -604,14 +604,14 @@
      "pubDate": "Mon, 09 Nov 2026 05:00:00 +0900"
     },
     {
+     "title": "[아경-리얼미터 여론조사]李대통령 지지율, 1%P 하락한 35.9%",
+     "url": "https://view.asiae.co.kr/article/2026110722202939868",
+     "pubDate": "Mon, 09 Nov 2026 06:00:00 +0900"
+    },
+    {
      "title": "[포착] 사우디 ‘경제 심장’ 뚫렸다…후티 반군 공격에 아람코 타워 파...",
      "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261109601004&wlog_tag3=naver",
      "pubDate": "Mon, 09 Nov 2026 10:22:00 +0900"
-    },
-    {
-     "title": "[속보] 820조 규모 '슈퍼 예산' 정국 시작…국회 예결위, 경제부처 심사...",
-     "url": "https://www.ikbc.co.kr/article/view/kbc202611090015",
-     "pubDate": "Mon, 09 Nov 2026 10:06:00 +0900"
     },
     {
      "title": "韓 노인 부양 부담 44년 뒤 3.3배로",
@@ -624,11 +624,6 @@
      "pubDate": "Mon, 09 Nov 2026 10:13:00 +0900"
     },
     {
-     "title": "[아경-리얼미터 여론조사]李대통령 지지율, 1%P 하락한 35.9%",
-     "url": "https://view.asiae.co.kr/article/2026110722202939868",
-     "pubDate": "Mon, 09 Nov 2026 06:00:00 +0900"
-    },
-    {
      "title": "“종전” “대규모 공격” “경제압박”... 백악관, 이란전 두고 갈라졌...",
      "url": "https://www.chosun.com/international/international_general/2026/11/08/UZ6OUWZQLNA2NJW5HPNEOITILY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
      "pubDate": "Sun, 08 Nov 2026 16:14:00 +0900"
@@ -639,14 +634,19 @@
      "pubDate": "Mon, 09 Nov 2026 09:10:00 +0900"
     },
     {
+     "title": "국회, 오늘부터 내년도 예산안 경제부처 부별 심사",
+     "url": "http://www.joseilbo.com/news/news_read.php?uid=579190&class=32&grp=",
+     "pubDate": "Mon, 09 Nov 2026 06:46:00 +0900"
+    },
+    {
      "title": "김포시, 대곶·월곶 216만㎡ 평화경제특구 신청",
      "url": "https://www.sidae.com/article/2026110909332831229",
      "pubDate": "Mon, 09 Nov 2026 09:50:00 +0900"
     },
     {
-     "title": "국회, 오늘부터 내년도 예산안 경제부처 부별 심사",
-     "url": "http://www.joseilbo.com/news/news_read.php?uid=579190&class=32&grp=",
-     "pubDate": "Mon, 09 Nov 2026 06:46:00 +0900"
+     "title": "국회 예결위, 오늘부터 내년 예산안 경제부처 부별 심사",
+     "url": "https://www.newsis.com/view/NISI20261109_0021525723",
+     "pubDate": "Mon, 09 Nov 2026 10:47:00 +0900"
     }
    ]
   }
@@ -712,20 +712,20 @@
      "summary": "2026년 11월 6일, 이재명 대통령이 신임 법무부 장관 후보자로 이용철... 이용철은 누구인지, 어떤 경력을 쌓아왔으며 무엇이 논란인지 확인된 사실을 중심으로 정리해 보겠습니다. 이용철은 누구일까? 프로필..."
     },
     {
-     "title": "이용철 법무장관 후보설, 노무현에게도 직언했다는 그 변호사 정체 ....",
-     "url": "https://blog.naver.com/mum2640/224467824699",
-     "blogger": "mum2640님의 블로그",
-     "bloggerUrl": "https://blog.naver.com/mum2640",
-     "postdate": "20261107",
-     "summary": "포털 실검에 갑자기 '이용철 법무장관'이라는 단어가 뜨면 다들 비슷한 반응을 보입니다. 이용철이 누구인지부터 검색하게 되는 거죠.... 이 글에서는 이용철이라는 인물이 어떤 경력을 거쳐왔는지, 왜 지금 이..."
-    },
-    {
      "title": "이용철 검색하면 헷갈리는 이유, 전혀 다른 인물 정체 총정리",
      "url": "https://blog.naver.com/wsk771130/224468630165",
      "blogger": "어다오님의블로그",
      "bloggerUrl": "https://blog.naver.com/wsk771130",
      "postdate": "20261107",
      "summary": "검색창에 '이용철'을 쳐보면 묘하게 결과가 뒤섞입니다. 영화 리뷰 글이... 그래서 오늘은 '이용철'이라는 이름으로 검색되는 대표적인 인물들을 정리해보려 합니다. 어떤 이용철을 찾고 있었는지, 읽다 보면..."
+    },
+    {
+     "title": "이용철 법무장관 후보설, 노무현에게도 직언했다는 그 변호사 정체 ....",
+     "url": "https://blog.naver.com/mum2640/224467824699",
+     "blogger": "mum2640님의 블로그",
+     "bloggerUrl": "https://blog.naver.com/mum2640",
+     "postdate": "20261107",
+     "summary": "포털 실검에 갑자기 '이용철 법무장관'이라는 단어가 뜨면 다들 비슷한 반응을 보입니다. 이용철이 누구인지부터 검색하게 되는 거죠.... 이 글에서는 이용철이라는 인물이 어떤 경력을 거쳐왔는지, 왜 지금 이..."
     },
     {
      "title": "이용철 방사청장 누구? 방위사업청장 경력부터 법무장관 후보 지명....",
@@ -741,14 +741,6 @@
    "query": "공장",
    "items": [
     {
-     "title": "김해 공장 방수업체 조회해보니, 무조건,이것부터 확인!",
-     "url": "https://blog.naver.com/blue-bird7/224468609755",
-     "blogger": "공장통합관리센터",
-     "bloggerUrl": "https://blog.naver.com/blue-bird7",
-     "postdate": "20261108",
-     "summary": "공장 천장에서 물이 떨어지기 시작하면 이미 늦은 거예요 김해공장의 지붕방수 모습을 표현한 이미지 김해는 공장이 유독 많은 지역이라 방수 관련 문의가 끊이지 않습니다. 특히 요즘처럼 날씨가 들쑥날쑥한..."
-    },
-    {
      "title": "공장 종부세 별도합산 — 12월 15일 전에 이 3가지만 확인해도 수백만....",
      "url": "https://blog.naver.com/chorom12/224469335649",
      "blogger": "대구공장뉴딜부동산",
@@ -763,6 +755,14 @@
      "bloggerUrl": "https://blog.naver.com/kodae73",
      "postdate": "20261105",
      "summary": "화성 팔탄면 공장부지, 작은 땅 여러 개보다 제대로 된 하나의 사업부지를 찾는다면 1,2,3 합1136평 공장이나 물류시설을 새롭게 계획할 때... 규모 공장 신축뿐 아니라 사업 확장을 준비하는 기업에도 검토할..."
+    },
+    {
+     "title": "김해 공장 방수업체 조회해보니, 무조건,이것부터 확인!",
+     "url": "https://blog.naver.com/blue-bird7/224468609755",
+     "blogger": "공장통합관리센터",
+     "bloggerUrl": "https://blog.naver.com/blue-bird7",
+     "postdate": "20261108",
+     "summary": "공장 천장에서 물이 떨어지기 시작하면 이미 늦은 거예요 김해공장의 지붕방수 모습을 표현한 이미지 김해는 공장이 유독 많은 지역이라 방수 관련 문의가 끊이지 않습니다. 특히 요즘처럼 날씨가 들쑥날쑥한..."
     },
     {
      "title": "인천 공장임대｜100평과 200평 공장, 실제 활용 면적은 얼마나 다를까....",
@@ -882,20 +882,20 @@
      "summary": "평소에 남다른 음악 센스로 귀를 즐겁게 해주는 악뮤 이찬혁 님이... 방송에서는 악뮤의 콘서트 준비 과정과 함께 이찬혁 님이 새롭게... 그런데 화면 속에서 바로 그 하지수 이찬혁 스윙댄스 장면이 자연스럽게..."
     },
     {
-     "title": "\"우리나라 단 한대, 이찬혁 차\" 왜 이리 핫할까? 2004년식 올드카 정체",
-     "url": "https://blog.naver.com/daumsky22/224464372846",
-     "blogger": "다음하늘 IT",
-     "bloggerUrl": "https://blog.naver.com/daumsky22",
-     "postdate": "20261104",
-     "summary": "출처 : MBC 전참시 캡쳐 자유로운 영혼의 천재 뮤지션결 악뮤 이찬혁... 결론부터 말씀드리면, 이찬혁의 차가 화제가 된 이유는 가격이나... 화제의 시작, 전참시 출근길 장면 이찬혁과 이수현 남매는 10월 31일"
-    },
-    {
      "title": "이찬혁, 열애설 났던 하지수와 손잡고 춤…방송에 나온 이유",
      "url": "https://blog.naver.com/saujak2/224465075050",
      "blogger": "이슈라운지님의 블로그",
      "bloggerUrl": "https://blog.naver.com/saujak2",
      "postdate": "20261104",
      "summary": "악뮤(AKMU) 이찬혁이 과거 열애설에 휩싸였던 배우 하지수와 함께... 알고 보니 이찬혁이 운영하는 회사의 특별한 직원 복지 프로그램과... 회사 직원들과 춤추는 '스포츠 데이'였어요 이날 방송에는 이찬혁이..."
+    },
+    {
+     "title": "\"우리나라 단 한대, 이찬혁 차\" 왜 이리 핫할까? 2004년식 올드카 정체",
+     "url": "https://blog.naver.com/daumsky22/224464372846",
+     "blogger": "다음하늘 IT",
+     "bloggerUrl": "https://blog.naver.com/daumsky22",
+     "postdate": "20261104",
+     "summary": "출처 : MBC 전참시 캡쳐 자유로운 영혼의 천재 뮤지션결 악뮤 이찬혁... 결론부터 말씀드리면, 이찬혁의 차가 화제가 된 이유는 가격이나... 화제의 시작, 전참시 출근길 장면 이찬혁과 이수현 남매는 10월 31일"
     },
     {
      "title": "가수 이찬혁 프로필 및 근황, 악뮤의 천재 프로듀서에서 자신만의 ....",
