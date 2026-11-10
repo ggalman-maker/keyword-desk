@@ -460,11 +460,16 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-10T10:36+09:00",
+ "naverCollectedAt": "2026-11-10T11:20+09:00",
  "naverNews": [
   {
    "query": "영화",
    "items": [
+    {
+     "title": "[단독] “신현준 덕에 중단 피했는데”…해랑영화제, '아내 특혜 의혹'...",
+     "url": "https://news.jtbc.co.kr/article/NB12327317?influxDiv=NAVER",
+     "pubDate": "Tue, 10 Nov 2026 10:54:00 +0900"
+    },
     {
      "title": "영화 '김의 전쟁'·'테러리스트' 김영빈 감독 별세",
      "url": "https://www.yna.co.kr/view/AKR20261108047000005?input=1195m",
@@ -481,6 +486,11 @@
      "pubDate": "Mon, 09 Nov 2026 13:40:00 +0900"
     },
     {
+     "title": "\"말없이 세상 바꾼 이들의 영화... '원덕기'는 현재진행형\"",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283274&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "pubDate": "Tue, 10 Nov 2026 10:31:00 +0900"
+    },
+    {
      "title": "영화 ‘김의 전쟁’ ‘테러리스트’ 김영빈 감독 별세",
      "url": "https://www.khan.co.kr/article/202611081952001",
      "pubDate": "Sun, 08 Nov 2026 19:52:00 +0900"
@@ -489,11 +499,6 @@
      "title": "데니안, 영화 ‘금월도’ 출연 확정",
      "url": "https://www.bntnews.co.kr/article/view/bnt202611100083",
      "pubDate": "Tue, 10 Nov 2026 08:20:00 +0900"
-    },
-    {
-     "title": "영화 '김의 전쟁' '테러리스트' 김영빈 감독 별세",
-     "url": "https://www.hankookilbo.com/news/article/A2026110821310003237?did=NA",
-     "pubDate": "Sun, 08 Nov 2026 21:47:00 +0900"
     },
     {
      "title": "데니안, 영화 ‘금월도’ 캐스팅... K-오컬트 호러",
@@ -509,11 +514,6 @@
      "title": "데니안, 내년 개봉 예정 영화 ‘금월도’캐스팅",
      "url": "https://enter.etoday.co.kr/news/view/305023",
      "pubDate": "Tue, 10 Nov 2026 08:42:00 +0900"
-    },
-    {
-     "title": "1년 동안 영화 1,207편 관람…미국 60대 '기네스 세계기록 경신'",
-     "url": "http://www.yonhapnewstv.co.kr/news/AKR20261109174712RFs",
-     "pubDate": "Tue, 10 Nov 2026 05:02:00 +0900"
     }
    ]
   },
@@ -601,14 +601,14 @@
      "pubDate": "Mon, 09 Nov 2026 09:06:00 +0900"
     },
     {
-     "title": "김영희, ♥10세 연하 윤승열에 불만 \"경제력 -90점..연예인 병도 걸려\"",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-09/202611090100066940006285",
-     "pubDate": "Mon, 09 Nov 2026 22:32:00 +0900"
-    },
-    {
      "title": "'불륜 파문' 젠슨 황, 女 연예인과 포옹→팬심 고백까지…방한 당시 친...",
      "url": "https://www.tenasia.co.kr/article/2026111062654",
      "pubDate": "Tue, 10 Nov 2026 08:01:00 +0900"
+    },
+    {
+     "title": "김영희, ♥10세 연하 윤승열에 불만 \"경제력 -90점..연예인 병도 걸려\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-09/202611090100066940006285",
+     "pubDate": "Mon, 09 Nov 2026 22:32:00 +0900"
     },
     {
      "title": "“앞으로도 할 생각 없다”… 데뷔 첫해 신인상 받았던 ‘여자 연예인’...",
@@ -651,9 +651,9 @@
      "pubDate": "Tue, 10 Nov 2026 09:35:00 +0900"
     },
     {
-     "title": "한국 지배구조 점수 높인 ACGA...의무공개매수는 “손 봐라” 지적 外 [...",
-     "url": "https://www.segye.com/newsView/20261109518127?OutUrl=naver",
-     "pubDate": "Tue, 10 Nov 2026 07:02:00 +0900"
+     "title": "이 대통령 “미국·국제 경제 상황 예의주시…외교안보 합의 이행 지혜...",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708454&ref=A",
+     "pubDate": "Tue, 10 Nov 2026 10:27:00 +0900"
     },
     {
      "title": "사우디 '경제 심장부' 겨눈 후티…아람코 타워 파손",
@@ -666,19 +666,19 @@
      "pubDate": "Tue, 10 Nov 2026 09:30:00 +0900"
     },
     {
-     "title": "교황 레오 14세 “경제는 사람 위해 존재해야”…아르헨티나 방문 [이런...",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707698&ref=A",
-     "pubDate": "Mon, 09 Nov 2026 17:45:00 +0900"
+     "title": "두나무, ESG 성과 첫 공개…경제·사회적 가치 6540억원 창출",
+     "url": "https://www.etnews.com/20261110000178",
+     "pubDate": "Tue, 10 Nov 2026 10:44:00 +0900"
     },
     {
-     "title": "2조4000억 경제효과…김포시, 평화경제특구 유치 승부수",
-     "url": "https://www.dailian.co.kr/news/view/1712315/?sc=Naver",
-     "pubDate": "Mon, 09 Nov 2026 09:10:00 +0900"
+     "title": "두나무, 첫 임팩트 보고서 발간…경제·사회적 가치 6540억원 창출",
+     "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943215",
+     "pubDate": "Tue, 10 Nov 2026 09:46:00 +0900"
     },
     {
-     "title": "[아경-리얼미터 여론조사]李대통령 지지율, 1%P 하락한 35.9%",
-     "url": "https://view.asiae.co.kr/article/2026110722202939868",
-     "pubDate": "Mon, 09 Nov 2026 06:00:00 +0900"
+     "title": "[Why] 승소 못 해도 남는 장사?… 식품사 담합의 ‘소송 경제학’",
+     "url": "https://biz.chosun.com/distribution/food/2026/11/10/ADVZMI32MJDSVEBI5AKEXPH354/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "pubDate": "Tue, 10 Nov 2026 06:01:00 +0900"
     }
    ]
   }
@@ -744,20 +744,20 @@
      "summary": "#청약홈 #아파트청약 #청약신청 #청약준비 #입주자모집공고 #주택청약 #청약통장 #청약자격 #청약일정 #분양정보 #아파트분양 #주택형 #특별공급 #일반공급 #내집마련 #청약초보 #계약금 #자금계획 #당첨자발표..."
     },
     {
-     "title": "주택청약납입인정횟수조회방법, 청약홈에서 확인하고 월 25만원 한....",
-     "url": "https://blog.naver.com/ingone456/224458176279",
-     "blogger": "✔ Dream House",
-     "bloggerUrl": "https://blog.naver.com/ingone456",
-     "postdate": "20261031",
-     "summary": "수도권주택청약1순위조건 기간과 횟수 주택청약납입인정횟수조회방법 확인하기 주택청약 납입인정횟수 조회는 청약홈의 청약통장 가입내역 화면에서 하는 것이 가장 정확합니다. 청약자격확인 메뉴에서..."
-    },
-    {
      "title": "공공분양 청약 접수처, 청약홈ㆍLHㆍSH 경로 달라",
      "url": "https://blog.naver.com/donidora/224470607371",
      "blogger": "도니도라",
      "bloggerUrl": "https://blog.naver.com/donidora",
      "postdate": "20261109",
      "summary": "공공분양 청약은 청약홈만 확인해서는 놓치는 공고가 생길 수 있어요. 사업주체와 주택 유형을 먼저 확인하고 공식 모집공고에 적힌 접수처를 이용하는 것, 이것이 신청 과정에서 가장 먼저 챙겨야 할..."
+    },
+    {
+     "title": "주택청약납입인정횟수조회방법, 청약홈에서 확인하고 월 25만원 한....",
+     "url": "https://blog.naver.com/ingone456/224458176279",
+     "blogger": "✔ Dream House",
+     "bloggerUrl": "https://blog.naver.com/ingone456",
+     "postdate": "20261031",
+     "summary": "수도권주택청약1순위조건 기간과 횟수 주택청약납입인정횟수조회방법 확인하기 주택청약 납입인정횟수 조회는 청약홈의 청약통장 가입내역 화면에서 하는 것이 가장 정확합니다. 청약자격확인 메뉴에서..."
     },
     {
      "title": "11월 둘째 주 청약 12곳 5,215가구! 경기 79% 집중, 접수일·광교 지분적....",
@@ -797,14 +797,6 @@
      "summary": "2021년 휴점 이후 오랫동안 표류하던 1,300억 원 규모의 대백 본점 매각 계약이 매수인의... 감사합니다. #대구백화점매각 #대구백화점 #대백매각 #대구백화점중도금 #대백 #대구메디씨티케이글로벌 #대구백화점본점"
     },
     {
-     "title": "대구백화점 본점 매각 추진 일지 정리 및 중도금 미납 현황 및 향후 ....",
-     "url": "https://blog.naver.com/75gidong/224470351856",
-     "blogger": "옛날 백화점",
-     "bloggerUrl": "https://blog.naver.com/75gidong",
-     "postdate": "20261109",
-     "summary": "대구백화점 본점 매각 추진 주요 일지 및 현황 구분 일자 현황 결과 본점 영업종료 21년 7월1일 대구 동성로 본점, 실적 악화로 영업 잠정 중단 및 폐점 향토 백화점 상징성 상실 1차 매각추천 22년 1월~10월."
-    },
-    {
      "title": "대구백화점 본점 매각 \"중도금 15억 어디로\" 동성로 상가 주인의 11월....",
      "url": "https://blog.naver.com/jeonga9877/224465417169",
      "blogger": "상가핑의 수익형부동산 연구실",
@@ -835,6 +827,14 @@
      "bloggerUrl": "https://blog.naver.com/sophiehappym",
      "postdate": "20261104",
      "summary": "1944년 대구 중구 삼덕동에서 대구상회로 출발한 회사는 1962년 합자회사 대구백화점을 세웠고, 1969년 12월 동성로에 한강 이남에서 가장 큰 10층짜리 현대식 백화점을 올렸습니다. 1987년 3월에는 본점.."
+    },
+    {
+     "title": "대구백화점 본점 매각 추진 일지 정리 및 중도금 미납 현황 및 향후 ....",
+     "url": "https://blog.naver.com/75gidong/224470351856",
+     "blogger": "옛날 백화점",
+     "bloggerUrl": "https://blog.naver.com/75gidong",
+     "postdate": "20261109",
+     "summary": "대구백화점 본점 매각 추진 주요 일지 및 현황 구분 일자 현황 결과 본점 영업종료 21년 7월1일 대구 동성로 본점, 실적 악화로 영업 잠정 중단 및 폐점 향토 백화점 상징성 상실 1차 매각추천 22년 1월~10월."
     },
     {
      "title": "대구백화점 본점 매각 또 문제가 생겼다: 난항 원인과 동성로 상권 ....",
@@ -872,6 +872,22 @@
      "bloggerUrl": "https://blog.naver.com/moneyffarm",
      "postdate": "20261014",
      "summary": "동안 지구 내 8개 주요 블록이 추가 착공에 들어갈 예정입니다. 3. 왕숙2지구 핵심 블록별 공급 현황... 왕숙 신도시 종합 총평 및 향후 투자 가치 전망 남양주 왕숙지구는 3기 신도시 중 최대 규모의 자족..."
+    },
+    {
+     "title": "3기 신도시 남양주 왕숙지구, 개발은 진행 중인데 주택 공급은 또 지....",
+     "url": "https://blog.naver.com/salontothemoon-no1/224471345322",
+     "blogger": "살롱투더문 SALON TO THE MOON",
+     "bloggerUrl": "https://blog.naver.com/salontothemoon-no1",
+     "postdate": "20261110",
+     "summary": "■ 3. 반면 첨단산업단지 조성은 한 걸음 전진 주택 공급과 교통 문제만 있는 것은 아닙니다.... #남양주왕숙지구 #3기신도시 #왕숙신도시 #남양주부동산 #왕숙1지구 #왕숙2지구 #공공분양 #주택공급지연 #GTXB"
+    },
+    {
+     "title": "3기신도시 남양주 왕숙지구 입주 21개월 지연, 그래도 청약 몰리는 ....",
+     "url": "https://blog.naver.com/brainette2026/224471321975",
+     "blogger": "라루투월드",
+     "bloggerUrl": "https://blog.naver.com/brainette2026",
+     "postdate": "20261110",
+     "summary": "3기신도시 남양주 왕숙지구는 진접읍, 진건읍, 퇴계원읍에 걸친 약 311만평 부지에 6만4159세대... 분양가가 3.3㎡당 300만원가량 뛰었습니다. 올해 12월 가장 먼저 입주하는 인천 계양 A-3블록도 확정.."
     },
     {
      "title": "남양주왕숙 3기 신도시, 2026년 주택공사... 분양·공사·입주 총정리",
@@ -920,22 +936,6 @@
      "bloggerUrl": "https://blog.naver.com/lifesopia",
      "postdate": "20261010",
      "summary": "3기 신도시 심층분석 ① 남양주 왕숙 왕숙신도시 8만 가구의 미래! GTX-B·9호선·자족도시, 하남 교산... 3. 2026년 10월, 왕숙지구의 실제 진행상황 왕숙지구는 이제 개발계획만 발표된 지역이 아닙니다.."
-    },
-    {
-     "title": "남양주 왕숙 3기 신도시 본청약 분양가 평면도 교통 호재 자격 총정....",
-     "url": "https://blog.naver.com/5ton_wing/224391662961",
-     "blogger": "라스트 찬스",
-     "bloggerUrl": "https://blog.naver.com/5ton_wing",
-     "postdate": "20260828",
-     "summary": "남양주 왕숙 3기 신도시 사업 개요 남양주 왕숙 지구는 경기도 남양주시 진접읍, 진건읍, 퇴계원읍 일원... 다산신도시 및 별내신도시의 풍부한 생활 편의시설을 동시에 공유 3. 쾌적한 주거 환경: 왕숙천..."
-    },
-    {
-     "title": "[남양주 왕숙 A-17] 3기 신도시 공공분양 소식! 나눔형 조건과 입지  ....",
-     "url": "https://blog.naver.com/kocinepa/224450606513",
-     "blogger": "슬기로운 재테크와 주말 나들이",
-     "bloggerUrl": "https://blog.naver.com/kocinepa",
-     "postdate": "20261022",
-     "summary": "바로 3기 신도시 중에서도 인기가 많은 남양주 왕숙지구 'A-17 블록' 이야기인데요! 요즘 부동산 커뮤니티에서 이런저런 소문이 많길래, 우리가 청약 넣기 전에 진짜 미리 알아야 할 팩트와 주의할 점들을..."
     }
    ]
   }
