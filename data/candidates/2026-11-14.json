@@ -460,7 +460,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-14T10:36+09:00",
+ "naverCollectedAt": "2026-11-14T11:18+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -491,6 +491,11 @@
      "pubDate": "Fri, 13 Nov 2026 10:10:00 +0900"
     },
     {
+     "title": "“볼 영화가 없다”…관객 반토막 난 극장, 임영웅이 구원투수?",
+     "url": "https://www.mk.co.kr/article/12208821",
+     "pubDate": "Sat, 14 Nov 2026 10:34:00 +0900"
+    },
+    {
      "title": "‘폴2: 데드포인트’, 1위 유지…누적 5만명대 [영화랭킹]",
      "url": "http://www.celuvmedia.com/article.php?aid=1794614507530860011",
      "pubDate": "Sat, 14 Nov 2026 09:26:00 +0900"
@@ -504,11 +509,6 @@
      "title": "영화관 발길 '뚝'…이달 하루 평균 관객 수 올해 들어 최소",
      "url": "https://www.yna.co.kr/view/AKR20261114020200005?input=1195m",
      "pubDate": "Sat, 14 Nov 2026 08:44:00 +0900"
-    },
-    {
-     "title": "\"거버넌스 실종, 행정은 불통\"… 서울영화센터 파행 실태 서울시의회서...",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284551&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-     "pubDate": "Fri, 13 Nov 2026 10:31:00 +0900"
     },
     {
      "title": "'레이오버 호텔' 주연 맡은 박소진",
@@ -621,9 +621,9 @@
      "pubDate": "Fri, 13 Nov 2026 09:48:00 +0900"
     },
     {
-     "title": "[AI연예가] 김수현, 김세의 재판 증인 출석부터 BTS 진, 한남동 빌딩 96억...",
-     "url": "https://www.newspim.com/news/view/20261113001180",
-     "pubDate": "Sat, 14 Nov 2026 05:31:00 +0900"
+     "title": "배우 부부 탄생했다…오늘(14일) 장가가는 '남자 연예인'",
+     "url": "https://www.wikitree.co.kr/articles/1174548",
+     "pubDate": "Sat, 14 Nov 2026 10:00:00 +0900"
     }
    ]
   },
@@ -671,14 +671,14 @@
      "pubDate": "Sat, 14 Nov 2026 09:00:00 +0900"
     },
     {
-     "title": "김진아 외교 2차관, 방미…美국무부 경제차관과 공급망 등 논의",
-     "url": "https://www.segye.com/newsView/20261113511225?OutUrl=naver",
-     "pubDate": "Fri, 13 Nov 2026 21:42:00 +0900"
+     "title": "[단독] 테슬라·BYD 차 팔고 AS는? 내년부터 공개 [많이 본 경제기사]",
+     "url": "https://biz.sbs.co.kr/article_hub/20000346070?division=NAVER",
+     "pubDate": "Sat, 14 Nov 2026 08:01:00 +0900"
     },
     {
-     "title": "외교2차관, 차주 美국무부 경제차관과 회담…중간선거 후 첫 고위급 방...",
-     "url": "https://view.asiae.co.kr/article/2026111315545409216",
-     "pubDate": "Fri, 13 Nov 2026 15:54:00 +0900"
+     "title": "식물원엔 겨울꽃, 남대문시장엔 달빛미식회…서울시, '야간경제' 속도 ...",
+     "url": "https://www.segye.com/newsView/20261113513444?OutUrl=naver",
+     "pubDate": "Sat, 14 Nov 2026 09:02:00 +0900"
     }
    ]
   }
@@ -688,20 +688,28 @@
    "query": "항공기",
    "items": [
     {
+     "title": "미국 이륙 금지, 모든 공항 항공기 운항 중단…9·11 이후 이례적 조....",
+     "url": "https://blog.naver.com/yoonshare1004/224476536331",
+     "blogger": "n잡러의 이슈&헬스 로그",
+     "bloggerUrl": "https://blog.naver.com/yoonshare1004",
+     "postdate": "20261114",
+     "summary": "미국 현지시간 11월 13일 오후 4시께부터 미국 전역의 공항에서 항공기 이륙이 중단됐습니다. 미 연방항공청 FAA는 이례적인 상황과 안전상의 이유를 들어 모든 공항에서 항공기 이륙을 중단한다고 발표했습니다...."
+    },
+    {
+     "title": "미국 항공기 전면 중단, 무슨 일? 한국 항공편과 인천공항 영향은?",
+     "url": "https://blog.naver.com/gmlwp83/224476562969",
+     "blogger": "준생이의 酒食 투자 !!",
+     "bloggerUrl": "https://blog.naver.com/gmlwp83",
+     "postdate": "20261114",
+     "summary": "전에 항공편 운항 상태부터 확인해 보시기 바랍니다. #미국항공기전면중단 #미국항공기이륙중단 #미국항공편중단 #미국항공관제장애 #미국FAA #인천공항 #미국행항공편 #항공편결항 #항공편지연 #미국여행"
+    },
+    {
      "title": "[항공백과] 2026년 전 세계 풀서비스 항공사(FSC) 주력 여객기 기종 총....",
      "url": "https://blog.naver.com/lawyer05/224417957778",
      "blogger": "한중솔루션",
      "bloggerUrl": "https://blog.naver.com/lawyer05",
      "postdate": "20260922",
      "summary": "비행기이야기 #항공기제원 #여행스타그램 #공항풍경 ✈ 전 세계 풀서비스 항공사(FSC) 현역 주력 기종 백과사전 기종 제원 · 역사 · 장단점 · 운용 데이터 · 항덕을 위한 특별한 이야기 A..."
-    },
-    {
-     "title": "여행자보험 항공기 지연 보상 기준",
-     "url": "https://blog.naver.com/inho5062/224391927104",
-     "blogger": "여행 다니는 남자",
-     "bloggerUrl": "https://blog.naver.com/inho5062",
-     "postdate": "20260829",
-     "summary": "2023년 해외 출국자는 약 2, 272만 명으로, 항공기 지연과 결항에 따른 여행자보험 문의도 함께 늘었습니다. 지연 보상은 항공권 환불과 별개로 적용되며, 지연 시간, 보험 유형, 실제 지출 증빙에 따라 지급액이"
     },
     {
      "title": "'인천공항은 눈이 와도 문을 닫지 않습니다'｜활주로 제설부터 항공....",
@@ -712,12 +720,28 @@
      "summary": "공항 운영과 내 항공편 출발은 다릅니다 공항이 운영 중이어도 개별 항공편은 지연되거나 취소될 수 있습니다. 항공기 표면의 눈을 제거하는 작업과 활주로 상태 확인 등 안전 절차에 시간이 필요하기..."
     },
     {
+     "title": "여행자보험 항공기 지연 보상 기준",
+     "url": "https://blog.naver.com/inho5062/224391927104",
+     "blogger": "여행 다니는 남자",
+     "bloggerUrl": "https://blog.naver.com/inho5062",
+     "postdate": "20260829",
+     "summary": "2023년 해외 출국자는 약 2, 272만 명으로, 항공기 지연과 결항에 따른 여행자보험 문의도 함께 늘었습니다. 지연 보상은 항공권 환불과 별개로 적용되며, 지연 시간, 보험 유형, 실제 지출 증빙에 따라 지급액이"
+    },
+    {
      "title": "파라타항공 총정리｜보유 항공기·취항 노선부터 2027년 LA 취항까지",
      "url": "https://blog.naver.com/tinytravelersabroad/224469446657",
      "blogger": "Traveling 24/7 ✈️",
      "bloggerUrl": "https://blog.naver.com/tinytravelersabroad",
      "postdate": "20261108",
      "summary": "오늘은 파라타항공이 어떤 항공사인지부터 현재 보유 항공기와 취항 노선, 앞으로의 신규 취항 계획까지 살펴보겠습니다. ✈️ 파라타항공, 어떤 항공사인가요? 파라타항공(Parata Air)은 생활가전 기업..."
+    },
+    {
+     "title": "[항공사고 추가 해설] 비행기의 수평안정판(Horizontal Stabiliser)이란 무....",
+     "url": "https://blog.naver.com/aviationtechlab/224463468379",
+     "blogger": "Aviation Tech & Travel",
+     "bloggerUrl": "https://blog.naver.com/aviationtechlab",
+     "postdate": "20261103",
+     "summary": "분석과 블랙박스(CVR/FDR) 복원 결과가 나오는 대로 후속 소식 전해드리겠습니다. #항공역학 #수평안정판 #HorizontalStabiliser #항공기원리 #리어젯60 #비행기꼬리날개 #항공사고분석 #NTSB "
     },
     {
      "title": "대한항공] 항공기 기단 재편 및 신규 도입 계획",
@@ -742,30 +766,6 @@
      "bloggerUrl": "https://blog.naver.com/eternalpilot",
      "postdate": "20261107",
      "summary": "바로 항공기의 발 역할을 담당하는 타이어(Tire)와 랜딩기어(Landing Gear)입니다. 오늘은 항공기에 관심이 있는 분들도 쉽게 읽으실 수... 랜딩기어는 항공기가 지상에 주기중이거나 지상 주행(Taxi), "
-    },
-    {
-     "title": "“7시간 동안 비행기 탔다 내렸다”…삿포로발 한국행 항공편, 결국....",
-     "url": "https://blog.naver.com/the-pine/224466382007",
-     "blogger": "the-pine",
-     "bloggerUrl": "https://blog.naver.com/the-pine",
-     "postdate": "20261105",
-     "summary": "■ 출발 준비 중 무선통신 장비 결함…승객들 다시 내려 제공된 영상에 따르면 이번 사건은 일본 삿포로에서 한국으로 향할 예정이던 저비용항공사 항공편에서 발생했다. 출발을 준비하던 항공기에서 무선통신..."
-    },
-    {
-     "title": "사막 한가운데 항공기 무덤의 놀라운 비밀",
-     "url": "https://blog.naver.com/grasshopper_02/224438502806",
-     "blogger": "베짱이 날아올라",
-     "bloggerUrl": "https://blog.naver.com/grasshopper_02",
-     "postdate": "20261012",
-     "summary": "숨을 고르며 다음 비상을 준비할 나만의 사막 같은 안식처가 필요한지 모릅니다. #항공기무덤 #모하비사막 #비행기역사 #항공상식 #항공기보관 #여행이야기 #세계이색장소 #비행기은퇴 함께 보면 좋은 글 TOP 5 &"
-    },
-    {
-     "title": "#.유럽:  항공기 폭탄 테러 위협, 대응/ 가짜 테러 위협으로 회항 사....",
-     "url": "https://blog.naver.com/wildshark/224468578189",
-     "blogger": "명랑한 녀석이 지구를 돌린다.",
-     "bloggerUrl": "https://blog.naver.com/wildshark",
-     "postdate": "20261107",
-     "summary": "유럽 내 항공기 폭탄 테러 위협 대응 최근 유럽 5개국 이상에서 상업용 항공편과 미디어를 대상으로 잇따라 가짜 폭탄 테러 위협이 발생함에 따라, 유럽연합 집행위원회(EC)는 회원국 간 긴급 정보 공유..."
     }
    ]
   },
@@ -813,14 +813,6 @@
      "summary": "강호동, 8년 만에 대탈출 하차 2018년 첫 방송을 시작한 대탈출은 독특한 세계관과 대형 탈출 세트로 사랑받은 대표적인 추리 예능입니다. 그 중심에는 강호동이 있었습니다. 강호동은 특유의 에너지와..."
     },
     {
-     "title": "대탈출 도시괴담｜12월 2일 공개·출연진·이전 시즌과 달라진 점",
-     "url": "https://blog.naver.com/luckandboy/224473250604",
-     "blogger": "LaB의 블로그 입니다!",
-     "bloggerUrl": "https://blog.naver.com/luckandboy",
-     "postdate": "20261111",
-     "summary": "항목 내용 정식 제목 대탈출 : 도시괴담 첫 공개일 2026년 12월 2일 수요일 공개 시간 오후 6시 시청 플랫폼 티빙 기본 콘셉트 도시괴담 속에서 펼쳐지는 탈출 어드벤처 과거 tvN에서 방송한 시즌을 기억한다면."
-    },
-    {
      "title": "대탈출 도시괴담 기본정보, 강호동 하차 이유와 12월 공개일 한눈에 ....",
      "url": "https://blog.naver.com/jhhun/224473043029",
      "blogger": "스마트가이드24",
@@ -835,6 +827,14 @@
      "bloggerUrl": "https://blog.naver.com/ldw0430",
      "postdate": "20261110",
      "summary": "그리고 제작진이 멤버들을 대놓고 **’쫄보 탈출러'**라고 소개했는데, 김종민·신동·유병재의 비명 리액션은 원래 대탈출의 대표적인 재미 요소였어요. 이번 시즌의 기대 포인트로 꼽힐 만해요. 7️⃣ 기대..."
+    },
+    {
+     "title": "대탈출 도시괴담｜12월 2일 공개·출연진·이전 시즌과 달라진 점",
+     "url": "https://blog.naver.com/luckandboy/224473250604",
+     "blogger": "LaB의 블로그 입니다!",
+     "bloggerUrl": "https://blog.naver.com/luckandboy",
+     "postdate": "20261111",
+     "summary": "항목 내용 정식 제목 대탈출 : 도시괴담 첫 공개일 2026년 12월 2일 수요일 공개 시간 오후 6시 시청 플랫폼 티빙 기본 콘셉트 도시괴담 속에서 펼쳐지는 탈출 어드벤처 과거 tvN에서 방송한 시즌을 기억한다면."
     },
     {
      "title": "대탈출 도시괴담 기본정보·출연진·공개일 정리…강호동 하차, 0화 ....",
