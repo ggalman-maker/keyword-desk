@@ -460,11 +460,16 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-15T10:36+09:00",
+ "naverCollectedAt": "2026-11-15T11:20+09:00",
  "naverNews": [
   {
    "query": "영화",
    "items": [
+    {
+     "title": "[영상]SF영화인 줄…스페이스X, 스타십 2단 로켓 회수 첫 성공",
+     "url": "https://www.khan.co.kr/article/202611150948001",
+     "pubDate": "Sun, 15 Nov 2026 09:48:00 +0900"
+    },
     {
      "title": "영화관 발길 '뚝'…이달 하루 평균 관객 수 올해 들어 최소",
      "url": "https://www.yna.co.kr/view/AKR20261114020200005?input=1195m",
@@ -474,11 +479,6 @@
      "title": "\"볼 영화가 없다\"…11월 극장가 관객 올해 최저 수준",
      "url": "https://www.hankyung.com/article/2026111464707",
      "pubDate": "Sat, 14 Nov 2026 14:48:00 +0900"
-    },
-    {
-     "title": "[영상]SF영화인 줄…스페이스X, 스타십 2단 로켓 회수 첫 성공",
-     "url": "https://www.khan.co.kr/article/202611150948001",
-     "pubDate": "Sun, 15 Nov 2026 09:48:00 +0900"
     },
     {
      "title": "화제작 부재에 영화관 발길 '뚝'…이달 하루 평균 관객 수 올해 최저",
@@ -521,14 +521,14 @@
    "query": "드라마",
    "items": [
     {
-     "title": "삼국 갈등 속 격변의 서막…KBS 대하드라마 '문무' 4.7% 출발",
-     "url": "https://www.yna.co.kr/view/AKR20261115017900005?input=1195m",
-     "pubDate": "Sun, 15 Nov 2026 10:22:00 +0900"
-    },
-    {
      "title": "장혁, 시작부터 피의 반란…‘문무’ 시청률 5.1% 출발 [MK★TV시청률]",
      "url": "https://www.mk.co.kr/article/12209096",
      "pubDate": "Sun, 15 Nov 2026 09:41:00 +0900"
+    },
+    {
+     "title": "삼국 갈등 속 격변의 서막…KBS 대하드라마 '문무' 4.7% 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261115017900005?input=1195m",
+     "pubDate": "Sun, 15 Nov 2026 10:22:00 +0900"
     },
     {
      "title": "예술 속 한 그릇…영화·드라마·문학이 사랑한 K-라면",
@@ -541,14 +541,14 @@
      "pubDate": "Sat, 14 Nov 2026 18:31:00 +0900"
     },
     {
-     "title": "5회 만에 자체 최고 2.7%…순간 4.2%까지 오른 한국 드라마",
-     "url": "https://www.wikitree.co.kr/articles/1174568",
-     "pubDate": "Sat, 14 Nov 2026 12:46:00 +0900"
-    },
-    {
      "title": "KBS 대하드라마 '문무' 첫 방송, 최고 6.4%…김춘추·연개소문 강렬한 서...",
      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276943",
      "pubDate": "Sun, 15 Nov 2026 09:28:00 +0900"
+    },
+    {
+     "title": "5회 만에 자체 최고 2.7%…순간 4.2%까지 오른 한국 드라마",
+     "url": "https://www.wikitree.co.kr/articles/1174568",
+     "pubDate": "Sat, 14 Nov 2026 12:46:00 +0900"
     },
     {
      "title": "대하드라마 '문무', 시청률 4.7%로 스타트",
@@ -566,9 +566,9 @@
      "pubDate": "Sun, 15 Nov 2026 09:11:00 +0900"
     },
     {
-     "title": "\"사랑·이별·성장을 노래하다!\" KBS 드라마스페셜 2026 사운드:트랙",
-     "url": "https://kstar.kbs.co.kr/list_view.html?idx=414784",
-     "pubDate": "Sun, 15 Nov 2026 07:55:00 +0900"
+     "title": "[축구] 일본, 브라질에 3-2 역전 드라마… 월드컵 패배 5개월 만에 설욕",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3448770",
+     "pubDate": "Sun, 15 Nov 2026 09:02:00 +0900"
     }
    ]
   },
@@ -637,7 +637,7 @@
     },
     {
      "title": "[단독] 무리한 제재 솎아내려…공정위 경제분석 예산 4배 추진",
-     "url": "https://www.nocutnews.co.kr/news/6606924?utm_source=naver&utm_medium=article&utm_campaign=20261115050041",
+     "url": "https://www.nocutnews.co.kr/news/6606924?utm_source=naver&utm_medium=article&utm_campaign=20261115104745",
      "pubDate": "Sun, 15 Nov 2026 05:01:00 +0900"
     },
     {
@@ -696,14 +696,6 @@
      "summary": "UFC 파이터를 포함해서 모든 파이터들은 경기 텀이 일정하지는... 뽑은 UFC 선수 중 유독 경기를 보기 힘든 선수 3명을 뽑아봤습니다. 바로 가보시죠! 최동훈 출처 Ufc 가장 먼저 최동훈입니다. 아마..."
     },
     {
-     "title": "UFC 경기일정·중계·결과, 고석현 승리와 UFC 334 한국시간 정리",
-     "url": "https://blog.naver.com/2junlife/224469050967",
-     "blogger": "FactsFrontier",
-     "bloggerUrl": "https://blog.naver.com/2junlife",
-     "postdate": "20261108",
-     "summary": "UFC 경기일정을 찾아보면 토요일과 일요일이 섞여 헷갈립니다.... 오늘 확인된 결과, 다음 UFC 334 일정과 재방송 확인 방법을 나눠... 오늘 UFC 결과는 확정된 경기부터 나눠 봐야 합니다. 오늘 대회는.."
-    },
-    {
      "title": "UFC 경기 일정 다음 3대회 한국시간으로 보는 법 (11월 15일부터)",
      "url": "https://blog.naver.com/lzs9602/224470863222",
      "blogger": "스포츠 한눈에",
@@ -734,6 +726,14 @@
      "bloggerUrl": "https://blog.naver.com/dnjftp123",
      "postdate": "20261114",
      "summary": "UFC 334 프리뷰｜시릴 간 vs 조시 호킷·케일라 해리슨 vs 아만다 누네스, 대진표·배당률·승부예측 총정리 2026년 UFC 뉴욕 최고의 빅이벤트 UFC 334가 드디어 열립니다. 이번 대회는 미국 현지시간 1"
+    },
+    {
+     "title": "UFC 경기일정·중계·결과, 고석현 승리와 UFC 334 한국시간 정리",
+     "url": "https://blog.naver.com/2junlife/224469050967",
+     "blogger": "FactsFrontier",
+     "bloggerUrl": "https://blog.naver.com/2junlife",
+     "postdate": "20261108",
+     "summary": "UFC 경기일정을 찾아보면 토요일과 일요일이 섞여 헷갈립니다.... 오늘 확인된 결과, 다음 UFC 334 일정과 재방송 확인 방법을 나눠... 오늘 UFC 결과는 확정된 경기부터 나눠 봐야 합니다. 오늘 대회는.."
     },
     {
      "title": "지구 여자 1황을 결정하는 UFC 매치가 곧 펼쳐집니다.",
@@ -797,20 +797,20 @@
      "summary": "2026년 8월 23일 일요일 오전 11시 30분(한국시간), 미국 캘리포니아주 로스앤젤레스의 BMO 스타디움에서 열린 2026 미국 메이저리그사커(MLS) 정규시즌 22라운드 맞대결에서 로스앤젤레스 FC(LAFC)"
     },
     {
-     "title": "[로스앤젤레스 FC] 마크 도스 산투스 감독 경질",
-     "url": "https://blog.naver.com/xtet007/224424564876",
-     "blogger": "너도밤나무의 풋볼로그⚽️",
-     "bloggerUrl": "https://blog.naver.com/xtet007",
-     "postdate": "20260928",
-     "summary": "출처 : 로스앤젤레스 FC #축구 #국내축구 #프로축구 #미국 #메이저리그사커 #로스앤젤레스FC #LAFC #로스앤젤레스FC마크도스산토스 #LAFC마크도스산토스 #로스앤젤레스FC마크도스산토스감독..."
-    },
-    {
      "title": "로스앤젤레스 FC 순위 6위, 손흥민의 기록도 눈앞에 왔다",
      "url": "https://blog.naver.com/dbaiiabd/224452896310",
      "blogger": "이번 달 챙길 것",
      "bloggerUrl": "https://blog.naver.com/dbaiiabd",
      "postdate": "20261025",
      "summary": "로스앤젤레스 FC 순위는 2026시즌 MLS 서부 콘퍼런스 6위, 성적은 12승 9무 9패에 승점 45점이에요.... 2026시즌 MLS에서 28경기에 출전해 7골 15도움을 기록했고, 도움은 카를로스 벨라가 보유했"
+    },
+    {
+     "title": "[로스앤젤레스 FC] 마크 도스 산투스 감독 경질",
+     "url": "https://blog.naver.com/xtet007/224424564876",
+     "blogger": "너도밤나무의 풋볼로그⚽️",
+     "bloggerUrl": "https://blog.naver.com/xtet007",
+     "postdate": "20260928",
+     "summary": "출처 : 로스앤젤레스 FC #축구 #국내축구 #프로축구 #미국 #메이저리그사커 #로스앤젤레스FC #LAFC #로스앤젤레스FC마크도스산토스 #LAFC마크도스산토스 #로스앤젤레스FC마크도스산토스감독..."
     },
     {
      "title": "로스앤젤레스 FC vs 미네소타 유나이티드 순위 및 상대전적 분석 (MLS ....",
@@ -914,20 +914,20 @@
      "summary": "1990년대 가요계를 주름잡았던 작곡가 주영훈이 최근 유튜브 채널... 청담동 150평, 그 집은 어디로 주영훈은 한때 청담동에 150평 규모의... 다시 일어선 지금, 아내 이윤미와 함께 이런 과거를 딛고 지금의 "
     },
     {
+     "title": "주영훈 이윤미 둘째 딸 11살, \"안 했으면 좋겠는데\" 아이돌 꿈에 속마....",
+     "url": "https://blog.naver.com/dassonda_/224477669337",
+     "blogger": "오늘 뭐 났대?",
+     "bloggerUrl": "https://blog.naver.com/dassonda_",
+     "postdate": "20261115",
+     "summary": "주영훈이 둘째 딸 이야기를 꺼내자 분위기가 묘하게 달라졌는데요.... 제목은 '주영훈×윤정수와 밥먹다 탈탈 털린 날'이었는데요. 이날 게스트로는 주영훈과 윤정수가 함께 출연했다고 해요. 식사를 하며 과거..."
+    },
+    {
      "title": "히트곡 제조기 작곡가 주영훈 프로필｜나이 아내 이윤미 자녀 작곡 ....",
      "url": "https://blog.naver.com/yeoul_log/224422846722",
      "blogger": "yeoul_log",
      "bloggerUrl": "https://blog.naver.com/yeoul_log",
      "postdate": "20260926",
      "summary": "출처 : 주영훈 이윤미 인스타그램 '@joobubu' 90년대 가요를 좋아하셨다면 작곡가 주영훈이라는 이름만 들어도 떠오르는 노래가 많으실 거예요 엄정화부터 터보, 코요태, 김종국까지 주영훈 노래 목록을 보다..."
-    },
-    {
-     "title": "주영훈 아버지 어머니 누구? 가족사 재조명된 이유",
-     "url": "https://blog.naver.com/hitpoint123/224440694134",
-     "blogger": "아주 작은 소식",
-     "bloggerUrl": "https://blog.naver.com/hitpoint123",
-     "postdate": "20261013",
-     "summary": "작곡가 주영훈의 부모님과 어린 시절 이야기가 다시 주목받고 있습니다. 청담동의 넉넉한 집을 떠나... 주영훈 아버지는 목회자 주영훈의 아버지는 목회자였습니다. 가족은 서울 강남구 청담동에서 생활했고..."
     },
     {
      "title": "주영훈, 옛 연인과 학부모로 재회...,딸과 그 집 아들이 짝꿍",
