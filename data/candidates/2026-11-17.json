@@ -1,0 +1,412 @@
+{
+ "date": "2026-11-17",
+ "collectedAt": "2026-11-17T07:41+09:00",
+ "errors": [
+  "뉴스 수집 실패(증시): <HTTPError 429: 'Too Many Requests'>"
+ ],
+ "googleTrends": [
+  {
+   "rank": 1,
+   "keyword": "weather",
+   "traffic": "2000+",
+   "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
+   "news": [
+    {
+     "title": "From snowplows to salt; How county crews and businesses are gearing up for winter",
+     "url": "https://www.tmj4.com/news/local-news/county-reporting/waukesha-county/from-snowplows-to-salt-how-county-crews-and-businesses-are-gearing-up-for-winter",
+     "source": "TMJ4 News"
+    },
+    {
+     "title": "Understanding winter weather alerts: What watches, advisories and warnings mean for Wisconsin",
+     "url": "https://www.wmtv15news.com/2026/11/16/understanding-winter-weather-alerts-what-watches-advisories-warnings-mean-wisconsin/",
+     "source": "WMTV 15 NEWS"
+    },
+    {
+     "title": "WJJQ",
+     "url": "https://www.wjjq.com/storydetails/20261116100555/winter_weather_awareness_week_preview/",
+     "source": "WJJQ Radio"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "황보라",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
+   "news": [
+    {
+     "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
+     "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "놀이공원서 바지 탈의..황보라, 子 돌발행동에 백기→내복 차림으로 활보",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100106410009835",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "погода",
+   "traffic": "2000+",
+   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
+     "url": "https://t-j.ru/weather-msc-16-22nov/",
+     "source": "Т—Ж"
+    },
+    {
+     "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
+     "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
+     "source": "RTVI"
+    },
+    {
+     "title": "В Москву идет новая волна потепления 16 ноября: данные синоптика Ильина, какая погода будет в Москве",
+     "url": "https://www.rosbalt.ru/news/2026-11-16/v-moskvu-idet-novaya-volna-potepleniya-5732967",
+     "source": "rosbalt.ru"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "thời tiết",
+   "traffic": "2000+",
+   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
+     "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg",
+     "source": "Báo Bắc Ninh"
+    },
+    {
+     "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
+     "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
+     "source": "thethaovanhoa.vn"
+    },
+    {
+     "title": "26 tỉnh, thành phố chủ động ứng phó với các hình thái thiên tai những ngày tới",
+     "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-chu-dong-ung-pho-voi-cac-hinh-thai-thien-tai-nhung-ngay-toi-1801571.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "germany vs netherlands",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
+     "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/",
+     "source": "football360.com.au"
+    },
+    {
+     "title": "Licensable picture: UEFA Nations League - Group A2 - Germany v Netherlands",
+     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-germany-v-netherlands/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxTVRNREU%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Germany 5-0 Netherlands: Gruda and Wirtz light up Berlin",
+     "url": "https://www.sofascore.com/news/germany-5-0-netherlands-gruda-and-wirtz-light-up-berlin",
+     "source": "Sofascore"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "天气",
+   "traffic": "1000+",
+   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "暴雪、大暴雪，来了",
+     "url": "https://feng.ifeng.com/c/8y4ajundHQh",
+     "source": "凤凰网"
+    },
+    {
+     "title": "一文掌握雪的知识点",
+     "url": "https://www.sohu.com/a/1102203978_162758?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "source": "Sohu"
+    },
+    {
+     "title": "下半年来最冷白天来了！济南18日7℃，降温日历看哪里气温创新低_山东",
+     "url": "https://www.dzwww.com/news/sdnews/202611/t20261116_18306742.htm",
+     "source": "大众网"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "สภาพอากาศ",
+   "traffic": "2000+",
+   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
+   "news": [
+    {
+     "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
+     "url": "https://www.thansettakij.com/general-news/673912",
+     "source": "Thansettakij"
+    },
+    {
+     "title": "กรมอุตุฯ ประกาศล่าสุด เช็กจังหวัดฝนตกหนัก คืนนี้ | มุมข่าว",
+     "url": "https://today.line.me/th/v3/article/YapJ9aL",
+     "source": "LINE TODAY"
+    },
+    {
+     "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
+     "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-1822-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%8A%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87/1615204207318375/",
+     "source": "Facebook"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "범죄",
+   "traffic": "100+",
+   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
+   "news": [
+    {
+     "title": "靑 “사회적 약자 대상 범죄 강력대응… ‘가석방 없는 무기형’ 도입 등 논의”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261116/135028762/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "靑 \"국민안전플러스 프로젝트 추진…연말까지 모든 부처 대응상황 점검\" [뉴시스Pic]",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868638",
+     "source": "뉴시스"
+    },
+    {
+     "title": "관계성 범죄 급증에 靑, 예정 없던 브리핑 \"안전 프로젝트 추진\"",
+     "url": "https://www.chosun.com/politics/blue_house/2026/11/16/6ECTPLQ3IVAPHEY2O6IXKWVJ7E/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "아리바이오",
+   "traffic": "100+",
+   "pubDate": "Mon, 16 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
+     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835",
+     "source": "히트뉴스"
+    },
+    {
+     "title": "[속보]아리바이오, '먹는 치매약' 임상3상서 단독투여군 1차지표 충족 - 머니투데이",
+     "url": "https://www.mt.co.kr/thebio/2026/11/17/2026111707070919065",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[아리바이오의 도전과 가치] ⑤국내 바이오기업의 전례를 새로 쓰다 - 미래가치의 상단은?",
+     "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36164",
+     "source": "바이오타임즈"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "코트",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 12:50:00 -0800",
+   "news": [
+    {
+     "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
+     "url": "https://www.elle.co.kr/article/1912922",
+     "source": "엘르 코리아 │ ELLE KOREA"
+    },
+    {
+     "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
+     "url": "https://www.hankyung.com/article/202611169751g",
+     "source": "한국경제"
+    },
+    {
+     "title": "돌고 돌아 올겨울 다시 입게 될 이 코트!",
+     "url": "https://www.vogue.co.kr/2026/11/15/%EB%8F%8C%EA%B3%A0-%EB%8F%8C%EC%95%84-%EC%98%AC%EA%B2%A8%EC%9A%B8-%EB%8B%A4%EC%8B%9C-%EC%9E%85%EA%B2%8C-%EB%90%A0-%EC%9D%B4-%EC%BD%94%ED%8A%B8/",
+     "source": "Vogue korea"
+    }
+   ]
+  }
+ ],
+ "yonhapEnt": {
+  "via": "연합뉴스 RSS",
+  "items": [
+   {
+    "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
+    "url": "https://www.yna.co.kr/view/AKR20261117002400075",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 02:26:06 +0900"
+   },
+   {
+    "title": "英가수 레이, 그래미 11개 부문서 후보…과거 비욘세와 동률기록",
+    "url": "https://www.yna.co.kr/view/AKR20261117001000075",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 01:13:40 +0900"
+   },
+   {
+    "title": "블핑 제니, 美 그래미 본상 '올해의 레코드' 포함 2개 부문 후보(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261116180251005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 23:39:38 +0900"
+   },
+   {
+    "title": "제니, 美 그래미서 본상 '올해의 레코드' 포함 2개 부문 후보",
+    "url": "https://www.yna.co.kr/view/AKR20261116180200005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 23:04:41 +0900"
+   },
+   {
+    "title": "[속보] 제니, '드라큘라'로 그래미 본상 '올해의 레코드' 후보 지명",
+    "url": "https://www.yna.co.kr/view/AKR20261116179800005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 22:46:54 +0900"
+   },
+   {
+    "title": "[속보] 아이브·키키, 그래미 신설 '아시안팝' 부문 후보 지명",
+    "url": "https://www.yna.co.kr/view/AKR20261116179400005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 22:35:28 +0900"
+   },
+   {
+    "title": "[속보] 제니, '드라큘라'로 그래미 '베스트 팝 듀오/그룹' 후보",
+    "url": "https://www.yna.co.kr/view/AKR20261116179300005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 22:34:29 +0900"
+   },
+   {
+    "title": "'음주운전' 고경표, 팬미팅 취소…\"실망 안겨드리게 돼 사과\"",
+    "url": "https://www.yna.co.kr/view/AKR20261116175800005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 20:43:29 +0900"
+   },
+   {
+    "title": "'회생절차' JTBC, 결국 올림픽 중계 포기…\"재무 불확실성 해소\"(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261116076451005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 18:58:03 +0900"
+   },
+   {
+    "title": "BTS 제이홉, 유기견 쉼터에 수년째 후원…올해도 사료 지원",
+    "url": "https://www.yna.co.kr/view/AKR20261116166700030",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 16 Nov 2026 18:21:57 +0900"
+   }
+  ]
+ },
+ "news": [
+  {
+   "query": "코스피",
+   "items": [
+    {
+     "title": "코스피 3.59% 급락, 5,100선으로 후퇴…코스닥도 4.8%↓(종합) - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TDBhNzh6OEFvMXV3QVhMTGN4MFo5Q1BUVm82cWhUZ3NneGp4X1JXRWRNcnQ5RHg5Y0h6cjNHQ3ZyWXFvVUh2Z2YzTTM4ek1UMWdZSDViNGMwUk3SAWBBVV95cUxQd1JoVXB6dDJpVXRnYnFMZkFxdF9lN0sxZHBLQTVicnRHc1MyLXVScXMyNHRsTWJlUmdCbGlMbHlVdndFX2FaWk1GbWFqME91WW1xSzFRX3UwSmVxVGJqdWk?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Mon, 16 Nov 2026 07:10:48 GMT"
+    },
+    {
+     "title": "외국인 매도 폭탄에…코스피 3%대 급락해 5100선 '턱걸이' - 한국경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQkY4M1Y1Rk5uZUJ4cEZvRW1pNV8wNkRGUG9EX3VEU3V0eC1fS1lJY25KYnNjYjB1ZWlrWFFHblhSUTRHMW9pc1UwWm1tcklTanVqQ25OeVRSdw?oc=5",
+     "source": "한국경제",
+     "pubDate": "Mon, 16 Nov 2026 06:46:01 GMT"
+    },
+    {
+     "title": "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목 - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhaEdEbFg3Q1NTT1YzZDA1ckFRQUVJSnlEUllYRTMwbWRfWXQ0X0puRGVfNy1wcHNJcDlsX2NKSmdGSTRlODZLc3YyRDVzd2JEYnlVRHJoRXBNcFo0akRiVkJGaEhmVkJN0gFuQVVfeXFMTkpqLXFtRHVVV1B1dkJsT2lEWlNFZE5aa3V6Wnh2c0ZDMDZNckNPOU5ibUZlX25zZWlaRnpJWDBvbUtTQllNeXctbFZVTW9keXkwcG5OX2FrVnN0ZFcxcXFMODBvMUZJU3R2U3htemc?oc=5",
+     "source": "머니투데이",
+     "pubDate": "Mon, 16 Nov 2026 01:49:32 GMT"
+    },
+    {
+     "title": "코스피 5천선 붕괴 우려에 개미들 ‘발 동동’…\"상승장 믿고 뛰어들었는데\" - 진일보 | 전남일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaVZiQjRVRjN2T0p1MjgyaEdCRUhpbGtxODJtNjEzb1JPYjMyX3dpczg2X1JKUHFVcFN1WnVMa0lFa0RPaHFkYllBWWFNTkNjUXgyYjhLY1Z2WXVJaWQ2UWUtZWMyOERkVmMxaDRaaw?oc=5",
+     "source": "진일보 | 전남일보",
+     "pubDate": "Mon, 16 Nov 2026 18:00:00 GMT"
+    },
+    {
+     "title": "'반도체 담합 소송'까지‥코스피 3.6% '털썩' - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSHEteXVtRkFIck1ZazZhcDRubkJBRGt2dDBNaElsSFlfek5HQUFvY3NYeWJnY2ZPYlhxVVA4SkZZYTFLWmZoWUpQTkxyWXFvWFpsbkJPQzFhcjROSmRISjN1eWFxcGVUUWRYSVZtVTFXQnJCamRQTNIBeEFVX3lxTE4yRDJ3eDFkcEF4eHhTdzZoMWplT3lxZnI4YVJneWZyYjRtdV8zNC1mVTRJalZjV011NUJlQ0JBOVJwZ0tTc2cxcGw3aEJwVnNsMmdWUlVGdEl3UUZWNGtBaEQ3VDRaYzlJc0VhNDNpZEVibGx4OTZjRw?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Mon, 16 Nov 2026 15:17:50 GMT"
+    },
+    {
+     "title": "’젠슨 황 쇼크’ 지속…코스피 5,100선 턱걸이 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VU2dwLWx5MXBGUWVfWEd1SHFPajYtWkp0OWwzS0dQNHM4bGhZdlM0d2xCQXVrcWtnUHFYMHhPYlhNbzRBRVpBRG1iQW1sRGtEc2NVRV9yVzVfUkp6RzY4elRxVW96MWc?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Mon, 16 Nov 2026 11:06:00 GMT"
+    },
+    {
+     "title": "올겨울 텍사스가 코스피 운명을 결정한다 - 아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBITFNQakNVa2JuTU4wMjFfQ1VweG1uaEM1NEl0OWlNT0pnY1czYTFrNUwwYW5fcUZCSnlyMnVoQ21lcUtiZndUd09nbUJjcExiTGs5d1Nmc0pRMXF3LUYtUWtn?oc=5",
+     "source": "아시아경제",
+     "pubDate": "Mon, 16 Nov 2026 22:12:00 GMT"
+    },
+    {
+     "title": "AI 악재에 외국인 1.4조 매도…코스피 3.59%, 코스닥 5% 급락 - 더나은미래",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DMEpybThZYldrSU5kbDBqTHBmYVRoa3JRNG9HdjVCczJpZjVWZHhkRkRZRWhTb0ItclZqU3Y3SmlCbERwbl90T1hoa01ZWnk0WEE?oc=5",
+     "source": "더나은미래",
+     "pubDate": "Mon, 16 Nov 2026 09:26:00 GMT"
+    }
+   ]
+  },
+  {
+   "query": "환율",
+   "items": [
+    {
+     "title": "“소값보다 생산비가 관건”…환율 1% 오르면 암소 도축률 0.3% 증가 - 농민신문",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCeG5oM2wyRFd2bGcyM1lURmR0bnlNdm1vamc0eHQ1TGZtUkw3VVdhOFJoWFNpSlBrdmtsTzRDM2pKbWh0X0ZBVzg0Z1A2S1oydklRZUUzZS1mQQ?oc=5",
+     "source": "농민신문",
+     "pubDate": "Mon, 16 Nov 2026 09:10:00 GMT"
+    },
+    {
+     "title": "달러-원, 뉴욕장서 1,330원 중반대 거래 | - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzSTdKZFFYWVgwUENrSnNPQmR6c0lkR0NydFhlMVhmWS16OFFrR3VYZmVjQ1VHWFVoMnd5dWI5bEF4b3JjNmx2ODJlLTRzb2VlNUlVRURQVzUtWE9kNVd6eTFzem9EOGhfNzBKSVlIVEdiRWtK?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Mon, 16 Nov 2026 13:13:51 GMT"
+    },
+    {
+     "title": "환율 안정 무색한 내년 초 곡물가 '껑충'…사료값 인하 기대 '먹구름' - 팜인사이트",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SVmo1ZkxPZmhNU21hOUt3cEJFa3VubmQ4a3BWblJtV3JRNlZpV19rRG9TcWhRVTkyLWgxZU81SHVVYWdZakVTZ2lfTDRVX1RHRG81SnY4QlJxUE8wa0JlcmVhcWZna2JaLTNxSWpR?oc=5",
+     "source": "팜인사이트",
+     "pubDate": "Mon, 16 Nov 2026 04:05:40 GMT"
+    },
+    {
+     "title": "[주식 매매 상위 종목 및 환율] 2026년 11월 16일자 - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVBsZzh3V1pTZVo4RUM0N0NtbDdJbHRtQW9GLUJOOHBVODl5ajJFREhFOVJaSzkxRFJHbDljQm9NUHhnUDJOcjJ6WHg4T1ZLMjVSSzVVem01MFBRTGlqejJVR1Zqd0ZJZEY5RU1MLW5tYnNQYkpQeFRMYUpjdXR5ODFLOFdLY21Y0gGcAUFVX3lxTE1fTVY2bDJxdl9vSkFZSF9pOGpQVTNRYWNrbG9JMEJuV0RZS1JxTDFwTC13WXlGSUthVmZGMEFMU3hUWVBIeHhraFBudFBHbjhLTWdNa1dvaklyS245WEpHTzAxRlplUEU3RUY5LWszZUZtZ1d3cjZMZVhGWEFwQlpFZmg5akFCdk1DOFhwUmY2RzZNOHZFQ1ZDQ3hMZw?oc=5",
+     "source": "Chosunbiz",
+     "pubDate": "Mon, 16 Nov 2026 15:36:00 GMT"
+    },
+    {
+     "title": "원/달러 환율, 강달러·증시 급락에도 하락…1,330원대 중반 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NTRrMmRTVkRxYkI1X2pRUERZdnAyckJ5cXhBU0JSQ2Q0ZDZaVFJ2LW0wXzBHMnc1MnpPT05BRUM5YTk5Uk1WY2dUS1F5ZEplb254aXBOQlpYMk1JS1UzLdIBYEFVX3lxTE11NTRrMmRTVkRxYkI1X2pRUERZdnAyckJ5cXhBU0JSQ2Q0ZDZaVFJ2LW0wXzBHMnc1MnpPT05BRUM5YTk5Uk1WY2dUS1F5ZEplb254aXBOQlpYMk1JS1UzLQ?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Mon, 16 Nov 2026 07:23:51 GMT"
+    },
+    {
+     "title": "원·달러 환율 1,335.7원 마감…중동 불안·긴축 우려에도 하락 - 산경투데이",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mZmlYTUdKb3pMcW5TdnZVNm1YWFZyUmRYZ0ZnZ0VkaFZjRVBfM3RkMF9PV3U4ekhpcXNNR3U3bTdHemI2VXZoX3pKNFZmZzdiOVJjYlloX0tJSERoVmlCeEdKUEFXTWNuamY5NFVyQTnSAXRBVV95cUxNNXUzWDV2VTAxenJjcUwwZmpoc2dXMFpsSnEtcm9xYXJybEVMUTlyQkdUNmlxOU5PQklla3hMbFpPUzdzemhOekMwMzhTMTgwcmdRUlhITXo5SU1lblNxcWFVNjdRNHNrcnRXY3VQdTc1VkEzZQ?oc=5",
+     "source": "산경투데이",
+     "pubDate": "Mon, 16 Nov 2026 07:47:45 GMT"
+    },
+    {
+     "title": "★국제금융시장의 이해와 달러/원 환율 동향 특강 (12/15, 선착순) - 한국무역협회-KITA.NET",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmlBYUVwY0VvV2tVOGdjS3dQX1ltSDY3cm5WaVo5aDVCSEFzQzBxaUkyLXpvLV9iaGxmV01Pa3FtZ1ZmR3dxZ0huU3hWYk5GSVltOVBUOFhqZTFnNXZJM0lRSmpRakNTeWplWFNiTGQ2ZmpLOVJnSjl0SFZmVEtqVXJGNTRyQjBLM3hCdk5tSFRBM1RkdFRjRnJVcHVEcWRaa215Z3hDS2dabEZjRDVhTnZBbUNIcmhUV3ZSOHg5dw?oc=5",
+     "source": "한국무역협회-KITA.NET",
+     "pubDate": "Mon, 16 Nov 2026 02:20:52 GMT"
+    },
+    {
+     "title": "[외환] 1,330원 중반대서 횡보…美 기술주 급락에 달러는 강세 - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBibVpDVnc5WUFpTDJkTGVmNi1uak5EblJXdmZDdzltQWx3elkxdzc0NXJ4RGZWNEhvLXd6czlwOHBVbEdLLWI4bXNMaUhHZmFYNnVOdC1LMmJXemVybzNNR1pHekNSVnBVa19kU05WMDhlUQ?oc=5",
+     "source": "KB Think",
+     "pubDate": "Mon, 16 Nov 2026 22:33:07 GMT"
+    }
+   ]
+  }
+ ]
+}
