@@ -1,237 +1,219 @@
 {
  "date": "2026-11-17",
- "collectedAt": "2026-11-17T07:41+09:00",
- "errors": [
-  "뉴스 수집 실패(증시): <HTTPError 429: 'Too Many Requests'>"
- ],
+ "collectedAt": "2026-11-17T10:36+09:00",
+ "errors": [],
  "googleTrends": [
   {
    "rank": 1,
-   "keyword": "weather",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
+   "keyword": "김주애",
+   "traffic": "5000+",
+   "pubDate": "Mon, 16 Nov 2026 16:20:00 -0800",
    "news": [
     {
-     "title": "From snowplows to salt; How county crews and businesses are gearing up for winter",
-     "url": "https://www.tmj4.com/news/local-news/county-reporting/waukesha-county/from-snowplows-to-salt-how-county-crews-and-businesses-are-gearing-up-for-winter",
-     "source": "TMJ4 News"
+     "title": "김정은, 백두산 인근 관광지구 시찰…스키 실력 뽐낸 주애(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261117012451504",
+     "source": "연합뉴스"
     },
     {
-     "title": "Understanding winter weather alerts: What watches, advisories and warnings mean for Wisconsin",
-     "url": "https://www.wmtv15news.com/2026/11/16/understanding-winter-weather-alerts-what-watches-advisories-warnings-mean-wisconsin/",
-     "source": "WMTV 15 NEWS"
+     "title": "北 ‘스키 타는 김주애’ 공개…김정은과 삼지연 관광지구 시찰",
+     "url": "https://www.donga.com/news/Politics/article/all/20261117/135037029/2",
+     "source": "동아일보"
     },
     {
-     "title": "WJJQ",
-     "url": "https://www.wjjq.com/storydetails/20261116100555/winter_weather_awareness_week_preview/",
-     "source": "WJJQ Radio"
+     "title": "김정은, 삼지연 관광지구 이틀간 시찰‥관광자원 중요성 부각",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6866195_36911.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "황보라",
+   "keyword": "롤 스토브",
    "traffic": "200+",
-   "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
+   "pubDate": "Mon, 16 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
-     "source": "조선일보"
+     "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
+     "url": "https://www.etoday.co.kr/news/view/2647803",
+     "source": "이투데이"
     },
     {
-     "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
-     "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
-     "source": "스포츠동아"
+     "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+     "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
+     "source": "https://www.standingout.kr/"
     },
     {
-     "title": "놀이공원서 바지 탈의..황보라, 子 돌발행동에 백기→내복 차림으로 활보",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100106410009835",
-     "source": "스포츠조선"
+     "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+     "url": "https://www.etoday.co.kr/news/view/2649030",
+     "source": "이투데이"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "погода",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "keyword": "김포시",
+   "traffic": "100+",
+   "pubDate": "Mon, 16 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
-     "url": "https://t-j.ru/weather-msc-16-22nov/",
-     "source": "Т—Ж"
+     "title": "김포시, 2027년 시민체육 활성화 계획 의결…생활체육·전문체육 지원 확대",
+     "url": "https://www.viva100.com/article/20261117500268",
+     "source": "브릿지경제"
     },
     {
-     "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
-     "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
-     "source": "RTVI"
+     "title": "김포시, 생활체육 키운다…2026년 제1차 김포시 체육진흥협의회 개최 : 네이버 블로그",
+     "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224480125177&redirect=Dlog",
+     "source": "Naver Blog"
     },
     {
-     "title": "В Москву идет новая волна потепления 16 ноября: данные синоптика Ильина, какая погода будет в Москве",
-     "url": "https://www.rosbalt.ru/news/2026-11-16/v-moskvu-idet-novaya-volna-potepleniya-5732967",
-     "source": "rosbalt.ru"
+     "title": "문턱 낮아진 학교 수영장…고촌도담수영장, 시민 품으로",
+     "url": "http://m.city21.co.kr/news/articleView.html?idxno=48513",
+     "source": "씨티21"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "thời tiết",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "keyword": "남진",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 16:00:00 -0800",
    "news": [
     {
-     "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
-     "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg",
-     "source": "Báo Bắc Ninh"
+     "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
+     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571?div=live_end",
+     "source": "programs.sbs.co.kr"
     },
     {
-     "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
-     "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
-     "source": "thethaovanhoa.vn"
+     "title": "남진 “시집 안 간 딸 둘 있다”…46세·42세 딸 공개, 사윗감 질문엔",
+     "url": "https://www.donga.com/news/Culture/article/all/20261116/135030501/2",
+     "source": "동아일보"
     },
     {
-     "title": "26 tỉnh, thành phố chủ động ứng phó với các hình thái thiên tai những ngày tới",
-     "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-chu-dong-ung-pho-voi-cac-hinh-thai-thien-tai-nhung-ngay-toi-1801571.ldo",
-     "source": "Laodong.vn"
+     "title": "'45세 미혼' 허경환, 결혼 임박? \"여자 없으면 거짓말\"",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868821",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "germany vs netherlands",
+   "keyword": "폭싹 속았수다",
    "traffic": "500+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
-   "news": [
-    {
-     "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
-     "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/",
-     "source": "football360.com.au"
-    },
-    {
-     "title": "Licensable picture: UEFA Nations League - Group A2 - Germany v Netherlands",
-     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-germany-v-netherlands/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxTVRNREU%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Germany 5-0 Netherlands: Gruda and Wirtz light up Berlin",
-     "url": "https://www.sofascore.com/news/germany-5-0-netherlands-gruda-and-wirtz-light-up-berlin",
-     "source": "Sofascore"
-    }
-   ]
+   "pubDate": "Mon, 16 Nov 2026 15:40:00 -0800",
+   "news": []
   },
   {
    "rank": 6,
-   "keyword": "天气",
-   "traffic": "1000+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "keyword": "변동성",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "暴雪、大暴雪，来了",
-     "url": "https://feng.ifeng.com/c/8y4ajundHQh",
-     "source": "凤凰网"
+     "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
+     "url": "https://www.hankyung.com/article/2026111698096",
+     "source": "한국경제"
     },
     {
-     "title": "一文掌握雪的知识点",
-     "url": "https://www.sohu.com/a/1102203978_162758?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "source": "Sohu"
+     "title": "NH 리서치포럼 \"내년 코스피 목표 9,200선…상반기 순항·하반기 변동성\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445118",
+     "source": "연합인포맥스"
     },
     {
-     "title": "下半年来最冷白天来了！济南18日7℃，降温日历看哪里气温创新低_山东",
-     "url": "https://www.dzwww.com/news/sdnews/202611/t20261116_18306742.htm",
-     "source": "大众网"
+     "title": "\"내년 코스피 목표 9200…'AI 독주'서 '논(Non)-AI' 동행으로\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02722406645646704",
+     "source": "마켓인"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "สภาพอากาศ",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
+   "keyword": "수원 fc",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 15:20:00 -0800",
    "news": [
     {
-     "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
-     "url": "https://www.thansettakij.com/general-news/673912",
-     "source": "Thansettakij"
+     "title": "[단독]시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
+     "url": "https://www.chosun.com/national/national_general/2026/11/17/UDECO7N2KVHUVADPGTSE6IMSHY/",
+     "source": "조선일보"
     },
     {
-     "title": "กรมอุตุฯ ประกาศล่าสุด เช็กจังหวัดฝนตกหนัก คืนนี้ | มุมข่าว",
-     "url": "https://today.line.me/th/v3/article/YapJ9aL",
-     "source": "LINE TODAY"
+     "title": "축구단 주요 보직을 선거 전리품으로… 일부 지자체장, 측근들 꽂아넣어",
+     "url": "https://www.chosun.com/national/national_general/2026/11/17/UG6BLDLWSJCSNMMZPZQE7S6EUI/",
+     "source": "조선일보"
     },
     {
-     "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
-     "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-1822-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%8A%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87/1615204207318375/",
-     "source": "Facebook"
+     "title": "리그 2위에도 홈관중 1,605명…수원FC, 시 지원금은 150억 원",
+     "url": "https://www.youthassembly.kr/news/1034885",
+     "source": "유스연합"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "범죄",
-   "traffic": "100+",
-   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
+   "keyword": "축구",
+   "traffic": "2000+",
+   "pubDate": "Mon, 16 Nov 2026 15:00:00 -0800",
    "news": [
     {
-     "title": "靑 “사회적 약자 대상 범죄 강력대응… ‘가석방 없는 무기형’ 도입 등 논의”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261116/135028762/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "靑 \"국민안전플러스 프로젝트 추진…연말까지 모든 부처 대응상황 점검\" [뉴시스Pic]",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868638",
-     "source": "뉴시스"
-    },
-    {
-     "title": "관계성 범죄 급증에 靑, 예정 없던 브리핑 \"안전 프로젝트 추진\"",
-     "url": "https://www.chosun.com/politics/blue_house/2026/11/16/6ECTPLQ3IVAPHEY2O6IXKWVJ7E/",
+     "title": "모레노 감독 고별전? 카타르와 올해 마지막 A매치",
+     "url": "https://www.chosun.com/sports/football/2026/11/17/EMNOIJYBCZFXXKQM3SMGWIPUDA/",
      "source": "조선일보"
+    },
+    {
+     "title": "\"감독님과 선수단 모두에게 좋지 않아\"…황인범이 밝힌 임시 감독 체제의 문제점",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849186",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "손흥민·이강인 반등 실패…’무색무취’ 모레노, 끝이 보인다",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116212054JzE",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "아리바이오",
-   "traffic": "100+",
-   "pubDate": "Mon, 16 Nov 2026 13:00:00 -0800",
+   "keyword": "어벤져스",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 14:50:00 -0800",
    "news": [
     {
-     "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835",
-     "source": "히트뉴스"
+     "title": "\"MCU 새 판도를 뒤흔든다\"…'어벤져스: 둠스데이' 로버트 다우니 주니어, 강력한 빌런으로 컴백",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/17/GFRTIMJRGMYWEYJTG5SWEY3BGM/",
+     "source": "조선일보"
     },
     {
-     "title": "[속보]아리바이오, '먹는 치매약' 임상3상서 단독투여군 1차지표 충족 - 머니투데이",
-     "url": "https://www.mt.co.kr/thebio/2026/11/17/2026111707070919065",
+     "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
+     "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371",
      "source": "머니투데이"
     },
     {
-     "title": "[아리바이오의 도전과 가치] ⑤국내 바이오기업의 전례를 새로 쓰다 - 미래가치의 상단은?",
-     "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36164",
-     "source": "바이오타임즈"
+     "title": "마블과 크록스의 만남, '닥터 둠' 클래식 클로그 출시",
+     "url": "https://hypebeast.kr/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
+     "source": "Hypebeast.KR"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "코트",
-   "traffic": "500+",
-   "pubDate": "Mon, 16 Nov 2026 12:50:00 -0800",
+   "keyword": "쇼트트랙",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 14:50:00 -0800",
    "news": [
     {
-     "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
-     "url": "https://www.elle.co.kr/article/1912922",
-     "source": "엘르 코리아 │ ELLE KOREA"
+     "title": "전이경, 2년간 암 투병 고백… \"난이도 최상의 고비\"",
+     "url": "https://www.hankookilbo.com/news/article/A2026111615270004851",
+     "source": "한국일보"
     },
     {
-     "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
-     "url": "https://www.hankyung.com/article/202611169751g",
-     "source": "한국경제"
+     "title": "금메달 4개 전이경 \"2년 간 암투병…반평생 최고 고비\"",
+     "url": "https://www.newsis.com/view/NISX20261116_0003870226",
+     "source": "뉴시스"
     },
     {
-     "title": "돌고 돌아 올겨울 다시 입게 될 이 코트!",
-     "url": "https://www.vogue.co.kr/2026/11/15/%EB%8F%8C%EA%B3%A0-%EB%8F%8C%EC%95%84-%EC%98%AC%EA%B2%A8%EC%9A%B8-%EB%8B%A4%EC%8B%9C-%EC%9E%85%EA%B2%8C-%EB%90%A0-%EC%9D%B4-%EC%BD%94%ED%8A%B8/",
-     "source": "Vogue korea"
+     "title": "'스피드퀸' 이유리, 선수들 곁 든든한 '엄마 매니저' 변신",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524922",
+     "source": "iMBC 연예"
     }
    ]
   }
@@ -240,64 +222,64 @@
   "via": "연합뉴스 RSS",
   "items": [
    {
+    "title": "여주시, 개그맨 부부 권재관·김경아 홍보대사 위촉",
+    "url": "https://www.yna.co.kr/view/AKR20261117063600061",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 10:33:00 +0900"
+   },
+   {
+    "title": "오정세, 사회인 야구단 감독으로…티빙 '써닝야구단' 주연",
+    "url": "https://www.yna.co.kr/view/AKR20261117055700005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 10:04:00 +0900"
+   },
+   {
+    "title": "[방송소식] 소녀시대 태연·임윤아 '저스트 메이크업' 시즌2 MC",
+    "url": "https://www.yna.co.kr/view/AKR20261117048700005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:43:18 +0900"
+   },
+   {
+    "title": "에이티즈 홍중·팬들, 함께 달려 식수위생사업에 1억원 후원",
+    "url": "https://www.yna.co.kr/view/AKR20261117043600371",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:37:01 +0900"
+   },
+   {
+    "title": "결성 40주년 신촌블루스, 28∼29일 소극장 콘서트 '40+1'",
+    "url": "https://www.yna.co.kr/view/AKR20261117043400005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:32:35 +0900"
+   },
+   {
+    "title": "'그래미 후보' 제니 '드라큘라', 美 빌보드 싱글 3위 유지",
+    "url": "https://www.yna.co.kr/view/AKR20261117038500005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:18:58 +0900"
+   },
+   {
+    "title": "교통범죄수사팀 T.C.I의 귀환…'크래시2' 2.8% 출발",
+    "url": "https://www.yna.co.kr/view/AKR20261117033600005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:10:21 +0900"
+   },
+   {
+    "title": "KBS, 새 교양 '억지로 독서 클럽'…배우 한예리 MC",
+    "url": "https://www.yna.co.kr/view/AKR20261117033300005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 09:00:10 +0900"
+   },
+   {
+    "title": "[글로벌 코리안] \"어릴 땐 그저 일본 이름을 가지고 싶었습니다\"",
+    "url": "https://www.yna.co.kr/view/AKR20261116148200371",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 17 Nov 2026 08:00:03 +0900"
+   },
+   {
     "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
     "url": "https://www.yna.co.kr/view/AKR20261117002400075",
     "source": "연합뉴스",
     "pubDate": "Tue, 17 Nov 2026 02:26:06 +0900"
-   },
-   {
-    "title": "英가수 레이, 그래미 11개 부문서 후보…과거 비욘세와 동률기록",
-    "url": "https://www.yna.co.kr/view/AKR20261117001000075",
-    "source": "연합뉴스",
-    "pubDate": "Tue, 17 Nov 2026 01:13:40 +0900"
-   },
-   {
-    "title": "블핑 제니, 美 그래미 본상 '올해의 레코드' 포함 2개 부문 후보(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261116180251005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 23:39:38 +0900"
-   },
-   {
-    "title": "제니, 美 그래미서 본상 '올해의 레코드' 포함 2개 부문 후보",
-    "url": "https://www.yna.co.kr/view/AKR20261116180200005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 23:04:41 +0900"
-   },
-   {
-    "title": "[속보] 제니, '드라큘라'로 그래미 본상 '올해의 레코드' 후보 지명",
-    "url": "https://www.yna.co.kr/view/AKR20261116179800005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 22:46:54 +0900"
-   },
-   {
-    "title": "[속보] 아이브·키키, 그래미 신설 '아시안팝' 부문 후보 지명",
-    "url": "https://www.yna.co.kr/view/AKR20261116179400005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 22:35:28 +0900"
-   },
-   {
-    "title": "[속보] 제니, '드라큘라'로 그래미 '베스트 팝 듀오/그룹' 후보",
-    "url": "https://www.yna.co.kr/view/AKR20261116179300005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 22:34:29 +0900"
-   },
-   {
-    "title": "'음주운전' 고경표, 팬미팅 취소…\"실망 안겨드리게 돼 사과\"",
-    "url": "https://www.yna.co.kr/view/AKR20261116175800005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 20:43:29 +0900"
-   },
-   {
-    "title": "'회생절차' JTBC, 결국 올림픽 중계 포기…\"재무 불확실성 해소\"(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261116076451005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 18:58:03 +0900"
-   },
-   {
-    "title": "BTS 제이홉, 유기견 쉼터에 수년째 후원…올해도 사료 지원",
-    "url": "https://www.yna.co.kr/view/AKR20261116166700030",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 16 Nov 2026 18:21:57 +0900"
    }
   ]
  },
@@ -306,52 +288,105 @@
    "query": "코스피",
    "items": [
     {
-     "title": "코스피 3.59% 급락, 5,100선으로 후퇴…코스닥도 4.8%↓(종합) - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TDBhNzh6OEFvMXV3QVhMTGN4MFo5Q1BUVm82cWhUZ3NneGp4X1JXRWRNcnQ5RHg5Y0h6cjNHQ3ZyWXFvVUh2Z2YzTTM4ek1UMWdZSDViNGMwUk3SAWBBVV95cUxQd1JoVXB6dDJpVXRnYnFMZkFxdF9lN0sxZHBLQTVicnRHc1MyLXVScXMyNHRsTWJlUmdCbGlMbHlVdndFX2FaWk1GbWFqME91WW1xSzFRX3UwSmVxVGJqdWk?oc=5",
-     "source": "연합뉴스",
-     "pubDate": "Mon, 16 Nov 2026 07:10:48 GMT"
-    },
-    {
-     "title": "외국인 매도 폭탄에…코스피 3%대 급락해 5100선 '턱걸이' - 한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQkY4M1Y1Rk5uZUJ4cEZvRW1pNV8wNkRGUG9EX3VEU3V0eC1fS1lJY25KYnNjYjB1ZWlrWFFHblhSUTRHMW9pc1UwWm1tcklTanVqQ25OeVRSdw?oc=5",
-     "source": "한국경제",
-     "pubDate": "Mon, 16 Nov 2026 06:46:01 GMT"
-    },
-    {
-     "title": "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목 - 머니투데이 - 머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhaEdEbFg3Q1NTT1YzZDA1ckFRQUVJSnlEUllYRTMwbWRfWXQ0X0puRGVfNy1wcHNJcDlsX2NKSmdGSTRlODZLc3YyRDVzd2JEYnlVRHJoRXBNcFo0akRiVkJGaEhmVkJN0gFuQVVfeXFMTkpqLXFtRHVVV1B1dkJsT2lEWlNFZE5aa3V6Wnh2c0ZDMDZNckNPOU5ibUZlX25zZWlaRnpJWDBvbUtTQllNeXctbFZVTW9keXkwcG5OX2FrVnN0ZFcxcXFMODBvMUZJU3R2U3htemc?oc=5",
-     "source": "머니투데이",
-     "pubDate": "Mon, 16 Nov 2026 01:49:32 GMT"
-    },
-    {
-     "title": "코스피 5천선 붕괴 우려에 개미들 ‘발 동동’…\"상승장 믿고 뛰어들었는데\" - 진일보 | 전남일보",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaVZiQjRVRjN2T0p1MjgyaEdCRUhpbGtxODJtNjEzb1JPYjMyX3dpczg2X1JKUHFVcFN1WnVMa0lFa0RPaHFkYllBWWFNTkNjUXgyYjhLY1Z2WXVJaWQ2UWUtZWMyOERkVmMxaDRaaw?oc=5",
-     "source": "진일보 | 전남일보",
-     "pubDate": "Mon, 16 Nov 2026 18:00:00 GMT"
-    },
-    {
-     "title": "'반도체 담합 소송'까지‥코스피 3.6% '털썩' - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSHEteXVtRkFIck1ZazZhcDRubkJBRGt2dDBNaElsSFlfek5HQUFvY3NYeWJnY2ZPYlhxVVA4SkZZYTFLWmZoWUpQTkxyWXFvWFpsbkJPQzFhcjROSmRISjN1eWFxcGVUUWRYSVZtVTFXQnJCamRQTNIBeEFVX3lxTE4yRDJ3eDFkcEF4eHhTdzZoMWplT3lxZnI4YVJneWZyYjRtdV8zNC1mVTRJalZjV011NUJlQ0JBOVJwZ0tTc2cxcGw3aEJwVnNsMmdWUlVGdEl3UUZWNGtBaEQ3VDRaYzlJc0VhNDNpZEVibGx4OTZjRw?oc=5",
-     "source": "MBC 뉴스",
-     "pubDate": "Mon, 16 Nov 2026 15:17:50 GMT"
-    },
-    {
-     "title": "’젠슨 황 쇼크’ 지속…코스피 5,100선 턱걸이 - 연합뉴스TV",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VU2dwLWx5MXBGUWVfWEd1SHFPajYtWkp0OWwzS0dQNHM4bGhZdlM0d2xCQXVrcWtnUHFYMHhPYlhNbzRBRVpBRG1iQW1sRGtEc2NVRV9yVzVfUkp6RzY4elRxVW96MWc?oc=5",
+     "title": "코스피, 1.81% 내린 5,008.09에 출발…장초반 5천피 아래로 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sa1BoTklYc2tPdmM2NDNWODhyNTNrSGpmaG9kN0RNQWIwaDZqbHVCQi1uM2QyOUNpTGJVZ0wyWk44NXJnQTZnOEFra1FsUDdOdUVvbVk3dWNUNXEzSm1ISXJ0YWdUS0U?oc=5",
      "source": "연합뉴스TV",
-     "pubDate": "Mon, 16 Nov 2026 11:06:00 GMT"
+     "pubDate": "Tue, 17 Nov 2026 00:12:00 GMT"
     },
     {
-     "title": "올겨울 텍사스가 코스피 운명을 결정한다 - 아시아경제",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBITFNQakNVa2JuTU4wMjFfQ1VweG1uaEM1NEl0OWlNT0pnY1czYTFrNUwwYW5fcUZCSnlyMnVoQ21lcUtiZndUd09nbUJjcExiTGs5d1Nmc0pRMXF3LUYtUWtn?oc=5",
-     "source": "아시아경제",
-     "pubDate": "Mon, 16 Nov 2026 22:12:00 GMT"
+     "title": "‘美 AI주 급락 여파’ 코스피, 2%대 하락 출발…장중 ‘5천피’ 붕괴 - 강원일보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xblZ6ZWFvaDdTMVZRMkt6OWpKSXE1dHRFcUdFSGVDZW9kWnB0YjN5RTJzX00tbkU0d3k1SkxERUdkRDM4RUljUFlHNVhXcjJ2MDVOTXprZlJMbTA?oc=5",
+     "source": "강원일보",
+     "pubDate": "Tue, 17 Nov 2026 00:20:53 GMT"
     },
     {
-     "title": "AI 악재에 외국인 1.4조 매도…코스피 3.59%, 코스닥 5% 급락 - 더나은미래",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DMEpybThZYldrSU5kbDBqTHBmYVRoa3JRNG9HdjVCczJpZjVWZHhkRkRZRWhTb0ItclZqU3Y3SmlCbERwbl90T1hoa01ZWnk0WEE?oc=5",
-     "source": "더나은미래",
-     "pubDate": "Mon, 16 Nov 2026 09:26:00 GMT"
+     "title": "[속보] 코스피 장 초반 2%대 하락‥5천 선 아래로 - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nMkFUUkIxdU1YZ2ZsQWZSWkZ4X2RvSmVGV0hFNF96MGkyQWJ5WEJaTDg2Z3d2ZGp6YWNOQ2I0c0k0QV9YWTQ3QkExM3FhQjktVnJZa0lYSVltdVlja3h2MHp3bUZjZ3l6Yjd1QU5ReTFOVWN00gF0QVVfeXFMTzI4OC1UNDhHQmppMHJCZ2VmZmVLSmN1SWJULWRuZWp3dEFCM2VPWnF5d0hFcG1lWTlWVGx5bnQzVUR2YXJaQXdFWkpLSEhLRzE4ZDlxZG9weDFnR2t1bGVJMmpibWxLUFFIdkFEZWZ6YlNiLTY?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Tue, 17 Nov 2026 00:04:52 GMT"
+    },
+    {
+     "title": "코스피, 2%대 하락…다시 장중 '5천피' 아래로 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81TzlXWTRHYzVaZmFnOTlrNXpmWTV4NFRiNkNkV0JERF91STFjTlRtSnR3SHZpc256SDlvNFNQSnV0STlZSjZlbmlwcTczNzNHby1BajBPeF9vZzQ?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Tue, 17 Nov 2026 00:07:20 GMT"
+    },
+    {
+     "title": "NH 리서치포럼 \"내년 코스피 목표 9,200선…상반기 순항·하반기 변동성\" - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdkZNZGZMVUcydUhkY1VSV1pNOWVBVXFwdy02RU9jaE9ydlQtTWVWaXV5WjNxTjQyQ2F1bHpaM3NjZkFaMEt3eGtHNVRsa0FkSjYteWd0UC1TX0c1VzNyeHdhREN3UjRDMUZPdHl5LXk?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Tue, 17 Nov 2026 01:03:23 GMT"
+    },
+    {
+     "title": "코스피, 엔비디아 실적 발표 앞두고 1.81% 내린 5008.09 출발 - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajdqbFpKTW14Rm5QR0h2cGVLMUF1dkJtU0dKaXRDZW9CQXAxV3hXYXlPRDZNM1dXejRJcjBYeGdEUVRNQjV4MWdodEN5Q0tySFlOUk9OZUNPdERvcHJjN0N2RG1tWEpoQlJ4SFFoZGx1UDhnRWpYamt3M1dGV1lGUQ?oc=5",
+     "source": "조선일보",
+     "pubDate": "Tue, 17 Nov 2026 00:04:00 GMT"
+    },
+    {
+     "title": "코스피, 1.81% 하락 출발해 5000선 턱걸이…코스닥도 1%대 약세 By EBN - Investing.com 한국어",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WMFN0QWwzaEIySXgwOXR1LUh6Z3hoWkhrNHlCeGg3alREeHNhS2JDMkxNNFN3SDVuYk45Tjg4MVF4YzJvYzdLVENEYWZVTldNYy1VSEE4aXdIb1d5c0lxTmJTLVhGY2tfamhmSHE3aTY?oc=5",
+     "source": "Investing.com 한국어",
+     "pubDate": "Tue, 17 Nov 2026 00:59:00 GMT"
+    },
+    {
+     "title": "[속보]코스피 1.8% 급락에 5000선 위태 - 경향신문",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bb0hOUlk3dU1fY0NXeFh5ZjJuRzZjR2k2WnEyM0pkNzM1VnBkYThYa2lDc19VMi1Vc0hxMC1PLXJBcHFEWWlpZU9LSjRqRWo5bDJOOUxySXNmZ9IBX0FVX3lxTE5DZ0NuUlE2QkVYTjZoaENldENWUXVRUzRMS0NFbDA2UHNobHdVWXh0aExZVFV4SDZLSUR3UW1oQzJpVEUyQndvN1BXQk5GeDhFckpLVGV1Q1NuLWtaUjF3?oc=5",
+     "source": "경향신문",
+     "pubDate": "Tue, 17 Nov 2026 00:14:00 GMT"
+    }
+   ]
+  },
+  {
+   "query": "증시",
+   "items": [
+    {
+     "title": "[인터뷰] 김연수 칸서스대표 \"100% 공개매수 외엔 답 없어…증시 2배로 뛴다\" - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NaTFmcFdIVE9jVVZYSTV2Mmxva1FJM2tGNTBqSkd0S2wtVXlLalJsYWQ1ZnVUZjk1WFBlcDdPc204ampHVkNwRW5ud0drbndaU21RakQxY1hmODVoT0MtZTgteG5zWkFFU2N5SUp3Nnc?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Mon, 16 Nov 2026 23:33:01 GMT"
+    },
+    {
+     "title": "이어지는 젠슨 황 사임 여파...오늘 증시는? - YTN",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XUzZteUhOekFhT1NXcGk5XzRRMmFDWEdDZUpvTVNsckdNQXZRVFlfSzMyS2VuT0VBX0pEcVBXcmV0MW9iUFpEd2g3TTVucjV5YUNlZ2JpSnBZMWJHTmdFS2E3QnlZc1RnYnhUendMRQ?oc=5",
+     "source": "YTN",
+     "pubDate": "Tue, 17 Nov 2026 00:09:00 GMT"
+    },
+    {
+     "title": "오늘의 증시 - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Zi1ZLTJnQ2JpcEJoaGltbGJoZ0VkeGlmWjZsbnNpOTd0RjZfc2tFSUg4Tk5lMUlVZWNua3F1c3BsSmNCLTFGQjloSU9uZVJoU1lycExISTMybExTUXdXY3lhQ3U4Yk4xeEhTNm5uOUhIYlNWOVAw0gF3QVVfeXFMT3lkTzh5MHF4QTcxTGlMaXZScF9qYS1NWUpHVDVfdjctLWQ0dmc2eU8zdHdPRDdqVW9CdmlPNUtrNkY2MjM3WDhQbE9QcVJYZmZGMEVSMThhNk1EeW02S3JiX2ZERGhFNlJiUWhQeVBYTG42NUszRzQ?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Tue, 17 Nov 2026 00:41:58 GMT"
+    },
+    {
+     "title": "[AI MY 뉴스] 17일 중국증시 'APEC·엔비디아 실적 앞두고 경계심, 기술주 변동성 주목' - 뉴스핌",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1TktXLWhhclY1ZnNtMzZTREFGVm9JUEphQ1BKeF9UOVRudmR4WGNFemdmX2Q1ZDJVa3RCakhVRUFhRTlVMU83ekRxaDZ6RTZLMDNhS1dZcWN3Q3pY?oc=5",
+     "source": "뉴스핌",
+     "pubDate": "Mon, 16 Nov 2026 23:31:00 GMT"
+    },
+    {
+     "title": "AI 매도세 계속, 뉴욕증시 일제히 하락…엔비디아 4.1%↓ - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTzg1aDloUk5ZSFVtNkRITHNuWHdPeHNzQmg3UG0tMjFRUWxnYkFHaU9DRWVCdEttM1FxSXI5U2d4WkZJVmlDOExUaXE2OTg1X29nTXRiTlRfcGtUZEljU2hyVm0yUQ?oc=5",
+     "source": "KBS 뉴스",
+     "pubDate": "Mon, 16 Nov 2026 22:13:00 GMT"
+    },
+    {
+     "title": "日 증시, 美 기술주 약세에 1%대 하락 - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5idHJYVnVqcVBpYU5naGdySnVYdnVPdGJqSUV4RGdfV0ZDbHNncUNfcE9QZkJrWWcxTkRlQmE4TVpXS1hET29vdmlsa2dSQ1RFQzRKVGoyS184eU1ZNDRLX3NuMm9IZzV0bXlSbEpPMEhkQQ?oc=5",
+     "source": "KB Think",
+     "pubDate": "Tue, 17 Nov 2026 00:19:49 GMT"
+    },
+    {
+     "title": "AI 매도세 계속, 뉴욕증시 일제히 하락…엔비디아 4.1%↓ - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rcHVQSnFxNWNCTHZPam1uMElzX1NmZFZTM2RuY0pQS1RXUVVuX0VnVHhldDhWN3VleXVDTzBFUTlTRGJQRWw5NGs3WElRU25DdFk1V3I2MjFSeUHSAWBBVV95cUxPdU5lRHBvNGtmTmRER2ZteFZ4RXlCYktyUGpJa1F4dUxnbGF6OFl6bi1kVXhjSmZrM1BMR0dqS2JWRTZxRE1XUm5TQ0otZWQ3RjhCZzd0V3JXeFhqdXJ3V0g?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Mon, 16 Nov 2026 21:15:30 GMT"
+    },
+    {
+     "title": "[마켓뷰] 젠슨황 파장속 美증시도 흔들…'5천피' 또 위협받나 - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zcHhGYW9peXI2REdoZnFPd2JTbS1XTnlUbWNhZ2RhX1pvLVZSZW05X1lMOXpVSG4wUmxWYnc1akExaW96MG94ZFp6cG1kVE9mQ3c?oc=5",
+     "source": "매일경제 마켓",
+     "pubDate": "Mon, 16 Nov 2026 23:05:42 GMT"
     }
    ]
   },
@@ -359,52 +394,532 @@
    "query": "환율",
    "items": [
     {
+     "title": "금리·환율 변동에 투자 손익 '뚝'…교보·한화 줄줄이 적자 - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdnVoZzJaNUs3Z1gzREQ3RVNJWDlhSThieV9JN1JYQjZnMVhYZjBKYmFlaVE4ekREanFUSWhubUlFZFNwaVJDaVNPcXNDaUZOajRRVHE3dVA5QVYwVEtfYWZSekxSbjEtMGxrOVAxdjg?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Mon, 16 Nov 2026 23:20:15 GMT"
+    },
+    {
+     "title": "[표] LME 비철금속 및 환율 동향(11월 16일) - 철강금속신문",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Mcks4LWlFTVJTa0FJTW5rWW5xVlYxZEc5ZUxJbExLRTFXSWduQlpKTHE1MzFkd3pxLUJBUXhZM29Gc2dJZHZIMV9hSjc4Uy1VcUZJclp5Z1k4bGktbkZHeUxxMFdUOUJzeEE?oc=5",
+     "source": "철강금속신문",
+     "pubDate": "Tue, 17 Nov 2026 00:24:00 GMT"
+    },
+    {
+     "title": "원·달러 환율, 0.3원 오른 1336원 - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUp5Z2J1d2x3MDNTcEN0dXlMZUJjQ2ctNnNRX3p2aFZOTy1sSDNLTl9oOVZ4bHViOGpZb3pXdHZkNGx4NHo2cFRfUUlwMUJ1RzBBQ1o3ZG4yc2JpbjBjbGRjQnlfWDFrSS1hQlp3T2xrWHdtZTVpYUg2eG9MTlhaUV9WTHE5Z9IBmgFBVV95cUxQUkxLS0JXMXdWdGVxandMOGc1VHZOTUhydXNUdi1JbGhiSExFNnoyaGFnLUhVNEJMdFdmUlRPXzRoS2V3Mlk4TGEzT184SnEyRU1oMUVtczM4TVBwVTBBUUxZa3VreFBLd05JV3RaXzJtVkFEUXllY1QzX0NsVlhNMElydUZydGhLenJNRWEzN0Y5UkY3S0V6THZn?oc=5",
+     "source": "Chosunbiz",
+     "pubDate": "Tue, 17 Nov 2026 00:38:00 GMT"
+    },
+    {
+     "title": "[외환] 양방향 재료에 1,330원 중반대 횡보 - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Kb01Zdy1Fck5qNFFXODNlUW1VMnlfYk40MUliOWR4VlpSVzliM2QwanFBWXpPdmtyV0ZBT2N1eWxTRVNpbXdCOWp0TTlWdm0wMEVTdVo1UUM0c0R5ME45c2xsLWFmUEktVTB0VkZvcS01QQ?oc=5",
+     "source": "KB Think",
+     "pubDate": "Tue, 17 Nov 2026 00:15:03 GMT"
+    },
+    {
+     "title": "강달러에도 환율 1330원대…美 기술주 급락에 원화 약세 압력 - 조세일보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83NzkzM2tsd2IyNHRjempQQlBaUWI0Z3hJWFF2Rk5JcS1EaEpaUmctaDlpZzA2UHcwbVdIYl90R1dOUjBVa3FlT2YtNXVUTTRwOWJzVUlxQzBOLW9lWFBCS0JrTlZjbTdaRlViRnd6Yw?oc=5",
+     "source": "조세일보",
+     "pubDate": "Tue, 17 Nov 2026 00:37:34 GMT"
+    },
+    {
+     "title": "상장 LCC 4사, 3Q 반등에도 재무 회복 ‘온도 차’…환율 착시 뒤 차환·정비·스텝업 부담 - 에너지경제신문",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93QnFuN1JNVjBoTnhKbFJDSk9CVzZFdnNKOHBXQ3hZT3o0RGdVTUUzRW5ZTHRxSUZoWW13b2RUd0p0S1NkNkZmRzg1bzRRYTFNOWJBdVlfX21PNVk?oc=5",
+     "source": "에너지경제신문",
+     "pubDate": "Mon, 16 Nov 2026 23:40:06 GMT"
+    },
+    {
+     "title": "환율, 1330원대 중반서 보합권…달러 강세에도 제한적 움직임 - 뉴스투데이",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fU0Zxd01HbzhQMFM5VTVzN2pmX1BCQk4yMG5pMDAxcUlITXgxVXJheWhjbmt0OHZFbFlsdGZxSHdiWnZLb1EwQy1EMTBmcm1fZ0ZKeDQ3T0lIdTY5dnc?oc=5",
+     "source": "뉴스투데이",
+     "pubDate": "Tue, 17 Nov 2026 00:52:00 GMT"
+    },
+    {
      "title": "“소값보다 생산비가 관건”…환율 1% 오르면 암소 도축률 0.3% 증가 - 농민신문",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCeG5oM2wyRFd2bGcyM1lURmR0bnlNdm1vamc0eHQ1TGZtUkw3VVdhOFJoWFNpSlBrdmtsTzRDM2pKbWh0X0ZBVzg0Z1A2S1oydklRZUUzZS1mQQ?oc=5",
      "source": "농민신문",
      "pubDate": "Mon, 16 Nov 2026 09:10:00 GMT"
+    }
+   ]
+  }
+ ],
+ "naverCollectedAt": "2026-11-17T10:36+09:00",
+ "naverNews": [
+  {
+   "query": "영화",
+   "items": [
+    {
+     "title": "\"평생 운이라며 다 나눴다\"…장항준, 26억 스태프에 쾌척",
+     "url": "https://www.hankyung.com/article/202611160296H",
+     "pubDate": "Mon, 16 Nov 2026 18:05:00 +0900"
     },
     {
-     "title": "달러-원, 뉴욕장서 1,330원 중반대 거래 | - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzSTdKZFFYWVgwUENrSnNPQmR6c0lkR0NydFhlMVhmWS16OFFrR3VYZmVjQ1VHWFVoMnd5dWI5bEF4b3JjNmx2ODJlLTRzb2VlNUlVRURQVzUtWE9kNVd6eTFzem9EOGhfNzBKSVlIVEdiRWtK?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Mon, 16 Nov 2026 13:13:51 GMT"
+     "title": "[주목!신차] \"뒷좌석이 영화관\"…벤츠 플래그십 SUV 'GLS' 출격",
+     "url": "https://www.newsis.com/view/NISX20261116_0003869102",
+     "pubDate": "Mon, 16 Nov 2026 09:18:00 +0900"
     },
     {
-     "title": "환율 안정 무색한 내년 초 곡물가 '껑충'…사료값 인하 기대 '먹구름' - 팜인사이트",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SVmo1ZkxPZmhNU21hOUt3cEJFa3VubmQ4a3BWblJtV3JRNlZpV19rRG9TcWhRVTkyLWgxZU81SHVVYWdZakVTZ2lfTDRVX1RHRG81SnY4QlJxUE8wa0JlcmVhcWZna2JaLTNxSWpR?oc=5",
-     "source": "팜인사이트",
-     "pubDate": "Mon, 16 Nov 2026 04:05:40 GMT"
+     "title": "로버트 패틴슨, '7대 제임스 본드' 낙점",
+     "url": "http://www.yonhapnewstv.co.kr/news/AKR20261117053702xRn",
+     "pubDate": "Tue, 17 Nov 2026 05:37:00 +0900"
     },
     {
-     "title": "[주식 매매 상위 종목 및 환율] 2026년 11월 16일자 - Chosunbiz",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVBsZzh3V1pTZVo4RUM0N0NtbDdJbHRtQW9GLUJOOHBVODl5ajJFREhFOVJaSzkxRFJHbDljQm9NUHhnUDJOcjJ6WHg4T1ZLMjVSSzVVem01MFBRTGlqejJVR1Zqd0ZJZEY5RU1MLW5tYnNQYkpQeFRMYUpjdXR5ODFLOFdLY21Y0gGcAUFVX3lxTE1fTVY2bDJxdl9vSkFZSF9pOGpQVTNRYWNrbG9JMEJuV0RZS1JxTDFwTC13WXlGSUthVmZGMEFMU3hUWVBIeHhraFBudFBHbjhLTWdNa1dvaklyS245WEpHTzAxRlplUEU3RUY5LWszZUZtZ1d3cjZMZVhGWEFwQlpFZmg5akFCdk1DOFhwUmY2RzZNOHZFQ1ZDQ3hMZw?oc=5",
-     "source": "Chosunbiz",
-     "pubDate": "Mon, 16 Nov 2026 15:36:00 GMT"
+     "title": "CJ문화재단, 설립 20주년 학술대회…\"창작 지원에 917억원 후원\"",
+     "url": "https://www.yna.co.kr/view/AKR20261116045900030?input=1195m",
+     "pubDate": "Mon, 16 Nov 2026 10:13:00 +0900"
     },
     {
-     "title": "원/달러 환율, 강달러·증시 급락에도 하락…1,330원대 중반 - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NTRrMmRTVkRxYkI1X2pRUERZdnAyckJ5cXhBU0JSQ2Q0ZDZaVFJ2LW0wXzBHMnc1MnpPT05BRUM5YTk5Uk1WY2dUS1F5ZEplb254aXBOQlpYMk1JS1UzLdIBYEFVX3lxTE11NTRrMmRTVkRxYkI1X2pRUERZdnAyckJ5cXhBU0JSQ2Q0ZDZaVFJ2LW0wXzBHMnc1MnpPT05BRUM5YTk5Uk1WY2dUS1F5ZEplb254aXBOQlpYMk1JS1UzLQ?oc=5",
-     "source": "연합뉴스",
-     "pubDate": "Mon, 16 Nov 2026 07:23:51 GMT"
+     "title": "[공식] 이동욱, 이병헌 오른팔 된다..영화 '남벌' 출연 확정",
+     "url": "https://www.starnewskorea.com/movie/2026/11/17/2026111708355958130",
+     "pubDate": "Tue, 17 Nov 2026 08:42:00 +0900"
     },
     {
-     "title": "원·달러 환율 1,335.7원 마감…중동 불안·긴축 우려에도 하락 - 산경투데이",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mZmlYTUdKb3pMcW5TdnZVNm1YWFZyUmRYZ0ZnZ0VkaFZjRVBfM3RkMF9PV3U4ekhpcXNNR3U3bTdHemI2VXZoX3pKNFZmZzdiOVJjYlloX0tJSERoVmlCeEdKUEFXTWNuamY5NFVyQTnSAXRBVV95cUxNNXUzWDV2VTAxenJjcUwwZmpoc2dXMFpsSnEtcm9xYXJybEVMUTlyQkdUNmlxOU5PQklla3hMbFpPUzdzemhOekMwMzhTMTgwcmdRUlhITXo5SU1lblNxcWFVNjdRNHNrcnRXY3VQdTc1VkEzZQ?oc=5",
-     "source": "산경투데이",
-     "pubDate": "Mon, 16 Nov 2026 07:47:45 GMT"
+     "title": "'음주운전' 고경표, 팬미팅 취소…방송가 편집·영화계 대응 논의 '후폭...",
+     "url": "https://star.ytn.co.kr/_sn/0117_202611171000403279",
+     "pubDate": "Tue, 17 Nov 2026 10:00:00 +0900"
     },
     {
-     "title": "★국제금융시장의 이해와 달러/원 환율 동향 특강 (12/15, 선착순) - 한국무역협회-KITA.NET",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmlBYUVwY0VvV2tVOGdjS3dQX1ltSDY3cm5WaVo5aDVCSEFzQzBxaUkyLXpvLV9iaGxmV01Pa3FtZ1ZmR3dxZ0huU3hWYk5GSVltOVBUOFhqZTFnNXZJM0lRSmpRakNTeWplWFNiTGQ2ZmpLOVJnSjl0SFZmVEtqVXJGNTRyQjBLM3hCdk5tSFRBM1RkdFRjRnJVcHVEcWRaa215Z3hDS2dabEZjRDVhTnZBbUNIcmhUV3ZSOHg5dw?oc=5",
-     "source": "한국무역협회-KITA.NET",
-     "pubDate": "Mon, 16 Nov 2026 02:20:52 GMT"
+     "title": "007 새 얼굴 드디어 공개됐다…봉준호 영화에 나왔던 '그 배우'",
+     "url": "https://www.wikitree.co.kr/articles/1175170",
+     "pubDate": "Tue, 17 Nov 2026 09:12:00 +0900"
     },
     {
-     "title": "[외환] 1,330원 중반대서 횡보…美 기술주 급락에 달러는 강세 - KB Think",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBibVpDVnc5WUFpTDJkTGVmNi1uak5EblJXdmZDdzltQWx3elkxdzc0NXJ4RGZWNEhvLXd6czlwOHBVbEdLLWI4bXNMaUhHZmFYNnVOdC1LMmJXemVybzNNR1pHekNSVnBVa19kU05WMDhlUQ?oc=5",
-     "source": "KB Think",
-     "pubDate": "Mon, 16 Nov 2026 22:33:07 GMT"
+     "title": "'음주운전' 고경표, 차기영화 '원조x떡집'에 '식스센스' 등 예능도 비상...",
+     "url": "https://www.news1.kr/entertain/movie/6355578",
+     "pubDate": "Mon, 16 Nov 2026 16:01:00 +0900"
+    },
+    {
+     "title": "'음주운전' 고경표, 영화에도 불똥…\"대응 논의 중\"",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01790886645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "pubDate": "Mon, 16 Nov 2026 10:16:00 +0900"
+    },
+    {
+     "title": "로버트 패틴슨, 새 제임스 본드 발탁됐는데…영화팬들 분노 “안 어울려...",
+     "url": "http://www.osen.co.kr/article/G1112911204",
+     "pubDate": "Tue, 17 Nov 2026 07:10:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "드라마",
+   "items": [
+    {
+     "title": "장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC…12월 31일 생중계 [...",
+     "url": "https://www.mk.co.kr/article/12210938",
+     "pubDate": "Tue, 17 Nov 2026 10:27:00 +0900"
+    },
+    {
+     "title": "‘크래시2’ 이민기, 교통사고 위장한 살인 간파…차량 폭발 ‘충격 엔...",
+     "url": "https://www.mk.co.kr/article/12210893",
+     "pubDate": "Tue, 17 Nov 2026 09:38:00 +0900"
+    },
+    {
+     "title": "트럼프 입김 때문?…미드서 자취 감춘 트랜스젠더 캐릭터",
+     "url": "https://view.asiae.co.kr/article/2026111617031482254",
+     "pubDate": "Mon, 16 Nov 2026 17:41:00 +0900"
+    },
+    {
+     "title": "'사극 메카' 문경, KBS 대하드라마 '문무'로 안방극장 공략",
+     "url": "https://www.newsis.com/view/NISX20261116_0003869420",
+     "pubDate": "Mon, 16 Nov 2026 10:44:00 +0900"
+    },
+    {
+     "title": "판타지오, 7~9월 매출 252억…\"드라마 성과 확대\"",
+     "url": "https://www.mt.co.kr/stock/2026/11/17/2026111709334132331",
+     "pubDate": "Tue, 17 Nov 2026 09:49:00 +0900"
+    },
+    {
+     "title": "드라마 '문무'가 소환한 삼국통일의 두 얼굴",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285106&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "pubDate": "Mon, 16 Nov 2026 10:41:00 +0900"
+    },
+    {
+     "title": "드라마 속 우영우가 무대에 오른다... 뮤지컬 '이상한 변호사 우영우' 내...",
+     "url": "https://www.insight.co.kr/news/582355",
+     "pubDate": "Tue, 17 Nov 2026 10:10:00 +0900"
+    },
+    {
+     "title": "김연경 리더십 통했다…'신인감독2' 5주 연속 TV 비드라마 화제성 1위",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525070",
+     "pubDate": "Tue, 17 Nov 2026 08:57:00 +0900"
+    },
+    {
+     "title": "신민아가 3위…11월 드라마 배우 브랜드평판 1위는 바로 ‘이 사람’",
+     "url": "https://www.wikitree.co.kr/articles/1175160",
+     "pubDate": "Tue, 17 Nov 2026 09:06:00 +0900"
+    },
+    {
+     "title": "'23세' 여배우, 드라마 방영 중 사망 비보",
+     "url": "https://www.mydaily.co.kr/page/view/2026111618171968905",
+     "pubDate": "Mon, 16 Nov 2026 18:55:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "연예",
+   "items": [
+    {
+     "title": "로버트 패틴슨, 7대 제임스 본드 발탁…’007’ 5년 만에 새 얼굴 [IS해외...",
+     "url": "https://isplus.com/article/view/isp202611170007",
+     "pubDate": "Tue, 17 Nov 2026 07:11:00 +0900"
+    },
+    {
+     "title": "[문화연예 플러스] 로버트 패틴슨 '007 제임스 본드' 낙점",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866165_37012.html",
+     "pubDate": "Tue, 17 Nov 2026 06:56:00 +0900"
+    },
+    {
+     "title": "\"연예인만 100명 산다\"..전진♥류이서→김구라 거주 아파트 어디?(백만장...",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-17/202611170100108670010031",
+     "pubDate": "Tue, 17 Nov 2026 09:27:00 +0900"
+    },
+    {
+     "title": "한스타 연예인야구대회 '우리가 모두 우승자' [포토]",
+     "url": "https://news.tf.co.kr/read/photomovie/2389567.htm",
+     "pubDate": "Mon, 16 Nov 2026 22:21:00 +0900"
+    },
+    {
+     "title": "[공식] 54세 김지수, 프라하 여행사 차리더니..2년만에 韓연예계 전격 복...",
+     "url": "http://www.osen.co.kr/article/G1112911054",
+     "pubDate": "Mon, 16 Nov 2026 18:42:00 +0900"
+    },
+    {
+     "title": "연예계 음주운전 파문 속…신동엽 \"술 마시려고 택시 탔냐\" 확인 ('짠한...",
+     "url": "https://www.tenasia.co.kr/article/2026111604054",
+     "pubDate": "Tue, 17 Nov 2026 06:30:00 +0900"
+    },
+    {
+     "title": "문근영 \"故김주혁, 나의 첫 연예인...보고싶을 때 영상 찾아 봐\" 눈물 (...",
+     "url": "https://www.xportsnews.com/article/2220162",
+     "pubDate": "Tue, 17 Nov 2026 07:25:00 +0900"
+    },
+    {
+     "title": "\"연예인 노는 걸 보겠냐\"…박명수, 휴양 예능에 소신 발언(라디오쇼)",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525032",
+     "pubDate": "Mon, 16 Nov 2026 15:36:00 +0900"
+    },
+    {
+     "title": "고경표 '만취 운전'에 이재룡 '술타기' 혐의까지…잇따른 연예계 음주 ...",
+     "url": "https://star.ytn.co.kr/_sn/0117_202611161051428351",
+     "pubDate": "Mon, 16 Nov 2026 10:51:00 +0900"
+    },
+    {
+     "title": "아내 성희롱 폭로→연예활동 금지 가처분…글렌체크 김준원, “포기하지...",
+     "url": "https://www.sportsseoul.com/news/read/1650169?ref=naver",
+     "pubDate": "Mon, 16 Nov 2026 21:22:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "경제",
+   "items": [
+    {
+     "title": "美 연준 워시 \"AI 경제 영향 3대 시나리오 마련중\"",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790062.html",
+     "pubDate": "Tue, 17 Nov 2026 07:13:00 +0900"
+    },
+    {
+     "title": "트럼프 “중국에서 김정은 만날 수도 있어”",
+     "url": "https://www.mk.co.kr/article/12210517",
+     "pubDate": "Mon, 16 Nov 2026 23:40:00 +0900"
+    },
+    {
+     "title": "李대통령·태국 총리 “CEPA 조속 타결 공감…경제협력 강화해야”",
+     "url": "https://www.seoul.co.kr/news/politics/2026/11/16/20261116500360?wlog_tag3=naver",
+     "pubDate": "Mon, 16 Nov 2026 19:19:00 +0900"
+    },
+    {
+     "title": "워시 연준 의장 \"AI, 경제성장 가속 가능…실업·주가 하락 위험도\"",
+     "url": "https://www.newsis.com/view/NISX20261117_0003870624",
+     "pubDate": "Tue, 17 Nov 2026 05:37:00 +0900"
+    },
+    {
+     "title": "美 연준 워시 \"AI 없이 초강대국 못 돼…3가지 경제 시나리오 분석\"",
+     "url": "https://view.asiae.co.kr/article/2026111706322869942",
+     "pubDate": "Tue, 17 Nov 2026 06:32:00 +0900"
+    },
+    {
+     "title": "아세안과 '경제·안보' 협력 확대…FTA·AI·방산 협력 지평 넓힌다",
+     "url": "https://www.mt.co.kr/politics/2026/11/16/2026111616232598954",
+     "pubDate": "Mon, 16 Nov 2026 17:03:00 +0900"
+    },
+    {
+     "title": "오늘 미일 등 쿼드 정상회의…中 겨냥해 \"경제적 강압 우려\"",
+     "url": "https://www.news1.kr/world/usa-canada/6356083",
+     "pubDate": "Tue, 17 Nov 2026 08:02:00 +0900"
+    },
+    {
+     "title": "신계용 \"법무부 세종 이전 반대\"…과천청사 앞 1인 시위",
+     "url": "https://www.hankyung.com/article/202611168618h",
+     "pubDate": "Mon, 16 Nov 2026 10:27:00 +0900"
+    },
+    {
+     "title": "이 대통령 “한·아세안 관계 증진 중요…FTA 개선 등 역내 경제통합 지...",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713409&ref=A",
+     "pubDate": "Mon, 16 Nov 2026 07:51:00 +0900"
+    },
+    {
+     "title": "외교차관, 美국무 경제차관과 면담…AI 등 경제협력 논의",
+     "url": "https://www.yna.co.kr/view/AKR20261117015400504?input=1195m",
+     "pubDate": "Tue, 17 Nov 2026 08:04:00 +0900"
+    }
+   ]
+  }
+ ],
+ "naverBlogs": [
+  {
+   "query": "김주애",
+   "items": [
+    {
+     "title": "김주애 또 등장했다…김정은과 백두산 시찰, 스키복보다 놀라운 장....",
+     "url": "https://blog.naver.com/jalanika1/224480113579",
+     "blogger": "하늘아이 매거진",
+     "bloggerUrl": "https://blog.naver.com/jalanika1",
+     "postdate": "20261117",
+     "summary": "딸 김주애와 함께 백두산 일대를 찾았습니다. 그런데 이번에 공개된 사진을 보니 조금 독특한 장면이 눈에 띄더라고요. 김주애가 흰색... 실제 김주애가 입은 제품의 브랜드와 가격이 확인된 것은 아닙니다...."
+    },
+    {
+     "title": "김정은·김주애 백두산 시찰…트럼프 \"김정은과 만날 수도\" 북미 정....",
+     "url": "https://blog.naver.com/lovejh-/224480139738",
+     "blogger": "데일리 인포로그",
+     "bloggerUrl": "https://blog.naver.com/lovejh-",
+     "postdate": "20261117",
+     "summary": "딸 김주애와 함께 백두산 인근 삼지연 관광지구를 방문한 사실이 공개되면서 관심이 집중되고 있습니다. 특히 이번 방문에서는 김주애가... 김정은·김주애, 백두산 인근 삼지연 동행 2026년 11월 17일..."
+    },
+    {
+     "title": "북한 김주애 나이, 본명, 과거 데니스 로드먼 폭로까지 총정리",
+     "url": "https://blog.naver.com/knowledge4all/224425363338",
+     "blogger": "세상의 모든 건강의학 지식",
+     "bloggerUrl": "https://blog.naver.com/knowledge4all",
+     "postdate": "20260929",
+     "summary": "바로 김주애입니다. 어린 나이에도 불구하고 군사 훈련 현장을 참관하거나 고위 간부들의 깍듯한... 과연 김주애의 진짜 나이는 몇 살인지, '김주애'라는 이름은 어떻게 세상에 알려지게 되었는지, 그리고 왜..."
+    },
+    {
+     "title": "김정은이 부인 이설주 대신 딸 김주애를 대동하는 이유",
+     "url": "https://blog.naver.com/golf3431/224468207080",
+     "blogger": "golf신님의블로그",
+     "bloggerUrl": "https://blog.naver.com/golf3431",
+     "postdate": "20261107",
+     "summary": "golf신 입니다:)) 북한 권력의 중심에 등장한 김주애, 단순한 가족... 딸 김주애가 그 자리를 대신하는 듯한 모습이 두드러지고 있기... 이르기까지 김주애의 등장은 점점 다양해지고 있습니다. 북한과 같은 세습."
+    },
+    {
+     "title": "김주애 프로필 및 후계 구도 총정리ㅣ국정원 '사실상 후계자 내정'·....",
+     "url": "https://blog.naver.com/jjwking8258/224397375576",
+     "blogger": "탑글라스 차유리 동탄 오산점",
+     "bloggerUrl": "https://blog.naver.com/jjwking8258",
+     "postdate": "20260901",
+     "summary": "김주애 프로필 및 후계 구도 총정리ㅣ국정원 '사실상 후계자 내정'·첫 공개... 딸 김주애를 '사실상 후계자 내정 단계'로 공식 평가했습니다. 정보 당국에 따르면 김주애의 공개 활동 빈도와 격식이 지속적으로..."
+    },
+    {
+     "title": "김정은 사망설로 알아보는 김주애, 북한의 차기 지도자로 굳혀지나",
+     "url": "https://blog.naver.com/a119369/224447902591",
+     "blogger": "항상 방법은 있다",
+     "bloggerUrl": "https://blog.naver.com/a119369",
+     "postdate": "20261020",
+     "summary": "김정은 북한 국무위원장의 딸 김주애가 김정은 사망설과 함께... 한국 국가정보원도 2026년 들어 김주애의 위상을 더욱 높게 평가했다.... 하지만 김주애의 등장 방식과 행사 선택, 북한 지도체제의 특성을 함께..."
+    },
+    {
+     "title": "김주애가 투바투 팬이라고? 북한 최고 권력층의 K팝 취향 루머 확산",
+     "url": "https://blog.naver.com/minaripapa/224471299596",
+     "blogger": "미나리파파님의 블로그",
+     "bloggerUrl": "https://blog.naver.com/minaripapa",
+     "postdate": "20261110",
+     "summary": "김정은 딸 김주애가 좋아한다는 아이돌, 정말... 최근 온라인에서는 김주애가 그룹 투모로우바이투게더의 팬이라는 소문이... 김주애가 투바투 팬이라는 소문, 어디서 시작됐을까? 2. 김정일·김정은도 외부..."
+    },
+    {
+     "title": "김주애, 200만원 짜리 스키복 입고 백두산 활강",
+     "url": "https://blog.naver.com/ysyang0815/224480141505",
+     "blogger": "양기자의 취재수첩",
+     "bloggerUrl": "https://blog.naver.com/ysyang0815",
+     "postdate": "20261117",
+     "summary": "김주애가 북포태산 지구 스키관광휴양지에서 흰색 패딩점퍼와 스키 바지를 착용하고 활강하고 있다.. 로시뇰-살로몬 제품 아니냐 추측 가장 고가 모델 시 200만원 착장 리설주-김여정-현송월 등 총출동 김정은..."
+    },
+    {
+     "title": "김정은 딸 자녀 북한 김주애 프로필 나이 엄마 리설주 형제 학력",
+     "url": "https://blog.naver.com/rladbfla1209_/224397452139",
+     "blogger": "하오꿀이슈",
+     "bloggerUrl": "https://blog.naver.com/rladbfla1209_",
+     "postdate": "20260901",
+     "summary": "김주애 이름이 요즘 유독 자주 보이는 느낌이 들어요 김정은 딸이라는 사실보다 후계자설이 계속... 그렇다고 김주애 후계자가 확정됐다는 뜻은 아니에요 김주애 나이와 출생부터 엄마 리설주와 형제 관계..."
+    },
+    {
+     "title": "마운자로 효과 본거 아니냐는 김정은 딸 김주애 반머리묶음",
+     "url": "https://blog.naver.com/sing1228/224385830341",
+     "blogger": "대구공수니의 뷰티&패션Tip",
+     "bloggerUrl": "https://blog.naver.com/sing1228",
+     "postdate": "20260821",
+     "summary": "딸 김주애를 꾸준히 데리고 나오면서 활동하는 모습을 보이고 있어요. 그래서 사람들은 다음 북한의 후계자(?)는 여성인 김정은 딸 김주애... 그러다보니 자연스럽게 김주애 행보에도 관심이 가는 요즘인데..."
+    }
+   ]
+  },
+  {
+   "query": "롤 스토브",
+   "items": [
+    {
+     "title": "2027 롤 스토브리그 FA 선수 명단 총정리, 도란·기인·제우스 등 주요 ....",
+     "url": "https://blog.naver.com/mrjangjae1/224474689816",
+     "blogger": "펭귄의 푸른 그라운드 : 축구 이야기와 삼성 라이온즈",
+     "bloggerUrl": "https://blog.naver.com/mrjangjae1",
+     "postdate": "20261112",
+     "summary": "2026 롤 스토브리그 FA는 언제부터? LCK 주요 선수들의 계약 만료 예정일은 2026년 11월 16일이며, LPL은 11월 17일로 등록된 선수가 많다. 다만 계약 만료 예정이라고 해서 반드시 FA 시장에 나오"
+    },
+    {
+     "title": "2026 롤 스토브리그 찌라시 총정리! 제우스 T1 복귀 가능성 상승? 도란....",
+     "url": "https://blog.naver.com/bloginfluencer/224472189714",
+     "blogger": "코어남자의 게임리포트",
+     "bloggerUrl": "https://blog.naver.com/bloginfluencer",
+     "postdate": "20261110",
+     "summary": "2026 롤드컵이 결승전만 남겨둔 가운데, 2027시즌 LCK 스토브리그를 둘러싼 이야기가 빠르게 확산되고... 중국발 스토브리그 찌라시, 어떤 내용이 나왔을까? 11월 10일 중국의 게임·스포츠 커뮤니티 후푸(Hu"
+    },
+    {
+     "title": "2027 롤 스토브리그 정리 LCK 주요 이적설",
+     "url": "https://blog.naver.com/dbwlgns40/224474546944",
+     "blogger": "겜블리의블로그",
+     "bloggerUrl": "https://blog.naver.com/dbwlgns40",
+     "postdate": "20261112",
+     "summary": "2027시즌을 앞두고 롤 이적시장이 움직이고 있습니다. 다만 ‘합류 유력’이나 ‘구두 합의’라는... 스토브리그는 협상이 바뀌는 시기인 만큼, 오피셜은 사실로, 매체 보도는 진행 상황으로, 루머는..."
+    },
+    {
+     "title": "제우스, 한화생명과 재계약 불발? T1 복귀 가능성은 몇 %일까? 2026 롤 ....",
+     "url": "https://blog.naver.com/kytothee/224474850723",
+     "blogger": "# 루프리텔캄",
+     "bloggerUrl": "https://blog.naver.com/kytothee",
+     "postdate": "20261117",
+     "summary": "리그 오브 레전드(LoL) 프로게이머 제우스(최우제)의 거취가 2026년 스토브리그의 최대 관심사로 떠오르고 있습니다. 한화생명e스포츠의 핵심 탑 라이너인 제우스가 구단의 재계약 제안을 거절했다는 소식이..."
+    },
+    {
+     "title": "LCK 롤 스토브리그, 두두 재계약 기인 FA, 제우스 도란 해태 T1 탑은?",
+     "url": "https://blog.naver.com/hyjueng/224480180764",
+     "blogger": "꿈속에서도 게임을!!",
+     "bloggerUrl": "https://blog.naver.com/hyjueng",
+     "postdate": "20261117",
+     "summary": "LCK 롤 스토브리그, 두두 재계약 기인 FA, 제우스 도란 해태 T1 탑은? 안녕하세요. 꿈의왈츠입니다. 롤드컵이 끝나고 며칠 지나지 않았는데 벌써 다음 시즌 로스터 이야기가 쏟아지고 있습니다. 어제까지는..."
+    },
+    {
+     "title": "2026 롤 스토브리그 최대 찌라시, 키움 DRX(KRX) 도란 카나비 스카웃 슈....",
+     "url": "https://blog.naver.com/cuuuteee/224476268470",
+     "blogger": "임신·육아·맛집 | 유짱블로그",
+     "bloggerUrl": "https://blog.naver.com/cuuuteee",
+     "postdate": "20261113",
+     "summary": "2026 LCK 스토브리그 공식 개장을 앞두고 이적시장 판도를 뒤흔드는... 이번 스토브리그의 새로운 큰손으로 떠오른 KRX가 도란, 카나비... 2026스토브리그 #롤스토브리그 #LCK스토브리그 #롤이적시장 #LC"
+    },
+    {
+     "title": "2026 롤 스토브리그 일정 및 FA 명단 | 도란 계약 종료, 제우스 티원 복....",
+     "url": "https://blog.naver.com/bebe_rabit/224472296931",
+     "blogger": "아토의 게임로그 ✧˖°. ♪",
+     "bloggerUrl": "https://blog.naver.com/bebe_rabit",
+     "postdate": "20261110",
+     "summary": "e-sports | 정보 2026-2027 롤 스토브리그 일정 LCK 주요 선수들 FA 명단 정리 안녕하세요 게임 블로거 아토입니다! 2026 롤드컵이 마무리되면 본격적으로 2027 시즌을 준비하는 롤 스토브리그가 "
+    },
+    {
+     "title": "2026 롤 스토브리그 11월 13일 최신 찌라시! 제우스 T1 복귀 의사설·100....",
+     "url": "https://blog.naver.com/bloginfluencer/224475787130",
+     "blogger": "코어남자의 게임리포트",
+     "bloggerUrl": "https://blog.naver.com/bloginfluencer",
+     "postdate": "20261113",
+     "summary": "2027시즌 LCK 스토브리그를 앞두고 제우스의 T1 복귀설이 새로운 국면을 맞고 있습니다. 11월 13일에는... 개인적으로는 이번 사례가 스토브리그에서 정보의 원출처를 확인해야 하는 이유를 잘 보여준다고..."
+    },
+    {
+     "title": "2026 롤 스토브리그 11월 12일 최신 찌라시! 제우스 T1 복귀 계약설, KT ....",
+     "url": "https://blog.naver.com/bloginfluencer/224474134384",
+     "blogger": "코어남자의 게임리포트",
+     "bloggerUrl": "https://blog.naver.com/bloginfluencer",
+     "postdate": "20261112",
+     "summary": "11월 12일 롤 스토브리그 최신 소식은? 먼저 이번에 확인한 주요 내용을 정리하겠습니다. 주요 이슈 새롭게 확인한 내용 정보 수준 제우스 T1 계약 및 공식 발표 기대 글 확산 팬 게시물 제우스 계약 조건..."
+    },
+    {
+     "title": "스토브리그 뜻과 유래, 롤 e스포츠에서는 어떤 의미일까?",
+     "url": "https://blog.naver.com/ink2777/224475852574",
+     "blogger": "잇찌와 업글인간",
+     "bloggerUrl": "https://blog.naver.com/ink2777",
+     "postdate": "20261113",
+     "summary": "롤 e스포츠 스토브리그란? 스토브리그는 프로야구뿐만 아니라 e스포츠에서도 널리 사용됩니다. 특히 리그오브레전드(LoL)의 LCK에서는 한 해의 주요 대회가 끝난 후 선수들의 계약 종료와 재계약, 팀 이동..."
+    }
+   ]
+  },
+  {
+   "query": "김포시",
+   "items": [
+    {
+     "title": "김포시 주택공급 예정지 총정리",
+     "url": "https://blog.naver.com/ppassong/224473912972",
+     "blogger": "빠숑의 세상 답사기",
+     "bloggerUrl": "https://blog.naver.com/ppassong",
+     "postdate": "20261112",
+     "summary": "김포시 자료에 따르면, 김포아라를 제외하고도 25개 도시개발·재개발·복합개발 사업에서 14만 세대 이상이 추진 또는 검토되고 있습니다. (추진·검토 단계 모두 포함) 이는 확정 입주 물량이 아닙니다...."
+    },
+    {
+     "title": "2026 하반기 김포시 일자리 박람회, 36개 기업 현장면접부터 취업지원....",
+     "url": "https://blog.naver.com/gimpo2010/224474399669",
+     "blogger": "김포시 공식블로그",
+     "bloggerUrl": "https://blog.naver.com/gimpo2010",
+     "postdate": "20261112",
+     "summary": "정보관 부스 채용관 외에도 정보관 부스에서는 김포시 일자리센터, 김포시 보건소, 김포시청, 김포고용센터 등 많은 기관에서 도움을 주셨으며, 참여만 해도 사은품도 아주 넉넉히 챙겨주셨답니다. 인기가 제일..."
+    },
+    {
+     "title": "김포 오마카세 파파스시 후기｜창밖 풍경을 바라보며 즐기는 오마....",
+     "url": "https://blog.naver.com/ggossunae/224469916657",
+     "blogger": "꼬순내 나는 일상",
+     "bloggerUrl": "https://blog.naver.com/ggossunae",
+     "postdate": "20261109",
+     "summary": "어디갈까 하다가 김포에 조금 특별한 오마카세가 있다고 해서 다녀왔어요! 바로 김포 파파스시인데요 창밖 풍경을 감상하면서 스시... 있어요 김포 파파스시 메뉴 및 가격 스시 코스 110,000원 / 1인 파파스시는.."
+    },
+    {
+     "title": "김포시 실수요자들이 몰래 검색하는 아파트 TOP5, 실거래가부터 학군....",
+     "url": "https://blog.naver.com/gov15/224441379980",
+     "blogger": "도토리창고",
+     "bloggerUrl": "https://blog.naver.com/gov15",
+     "postdate": "20261015",
+     "summary": "정보 김포신풍초등학교 (도보 약 13분) 김포여중, 풍무중, 김포중 인접 풍무고, 사우고, 양산고 인접 주변 개발호재 김포한강선 S04역 2분 서울5호선 연장 S04역 2분 1. 한강푸르지오리버프론트 한강변..."
+    },
+    {
+     "title": "김포시청소년재단 감사·징계 대상 간부 징계 확정, 사무국장 배제 ....",
+     "url": "https://blog.naver.com/factalgorithm/224472877296",
+     "blogger": "Fact Algorithm",
+     "bloggerUrl": "https://blog.naver.com/factalgorithm",
+     "postdate": "20261111",
+     "summary": "경기 김포시 김포시청소년재단에서 11일 감사·징계 대상자를 관련 업무의 책임자로 배치해 이해충돌... 재단은 해당 직원을 업무에서 배제했으며, 공석인 사무국장 자리에 김포시 공무원을 파견받는 방안을..."
+    },
+    {
+     "title": "김포 문수산 등산코스｜1코스 산행 후기부터 주차·정상 전망까지",
+     "url": "https://blog.naver.com/gimpo2010/224472713455",
+     "blogger": "김포시 공식블로그",
+     "bloggerUrl": "https://blog.naver.com/gimpo2010",
+     "postdate": "20261111",
+     "summary": "#김포시 #김포문수산 #문수산 #문수산등산코스 #문수산1코스 #문수산주차장 #문수산산림욕장 #문수산성 #김포등산 #김포가볼만한곳 #김포가을산행 #수도권등산 #주말산행 #김포시SNS지원단 #SNS지원단박현정"
+    },
+    {
+     "title": "김포시청년지원센터 12월 프로그램 참여자 모집",
+     "url": "https://blog.naver.com/gimpo2010/224471643674",
+     "blogger": "김포시 공식블로그",
+     "bloggerUrl": "https://blog.naver.com/gimpo2010",
+     "postdate": "20261110",
+     "summary": "김포청년지원센터 김포대로 841, 5층 나무를 깎는 즐거움_ 우드카빙 클래스 북변갤러리 2층 김포시 북변중로 52, 2층 내 손으로 직접! 자동차정비 체험 클래스 김포중장비자동자정비학원 양촌읍..."
+    },
+    {
+     "title": "마음이 힘들 때, 혼자 고민하지 마세요! 김포시 정신건강 심리상담 ....",
+     "url": "https://blog.naver.com/gimpo2010/224476108537",
+     "blogger": "김포시 공식블로그",
+     "bloggerUrl": "https://blog.naver.com/gimpo2010",
+     "postdate": "20261113",
+     "summary": "김포시에서 시민들의 마음 건강을 위해 정신건강 심리상담 바우처... ☎️문의  김포시보건소 보건사업과 031-5186-4124 정신건강 심리상담... 김포시 정신건강 심리상담 바우처를 통해 마음의 어려움을..."
+    },
+    {
+     "title": "김포 구래동 문화의 거리 축제｜2026 PLAY구래운드 현장 후기",
+     "url": "https://blog.naver.com/gimpo2010/224472745529",
+     "blogger": "김포시 공식블로그",
+     "bloggerUrl": "https://blog.naver.com/gimpo2010",
+     "postdate": "20261111",
+     "summary": "#김포시 #PLAY구래운드 #플레이구래운드 #김포문화의거리페스티벌 #구래동문화의거리 #구래동 #구래역 #김포축제 #김포문화행사 #거리예술 #거리공연 #버블쇼 #가족나들이 #김포문화재단 #김포시SNS지원단..."
+    },
+    {
+     "title": "김포 사우동 학원청소 체크리스트, 저학년 아이 손 닿는 곳 12곳",
+     "url": "https://blog.naver.com/aha-es/224466021616",
+     "blogger": "일산 파주 김포 사무실 병원 청소전문-아하환경솔루션",
+     "bloggerUrl": "https://blog.naver.com/aha-es",
+     "postdate": "20261109",
+     "summary": "김포 사우동 학원청소 체크리스트, 저학년 아이 손 닿는 곳 12곳 안녕하세요 김포시 학원청소 전문업체 아하환경솔루션입니다 저학년 학원에 견적을 보러 가면 저는 강의실 한가운데서 무릎을 꿇고 앉아 봅니다...."
     }
    ]
   }
