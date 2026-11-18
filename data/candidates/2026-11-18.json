@@ -460,11 +460,16 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-18T10:36+09:00",
+ "naverCollectedAt": "2026-11-18T11:27+09:00",
  "naverNews": [
   {
    "query": "영화",
    "items": [
+    {
+     "title": "\"K-콘텐츠 흥행에도 영화·방송 매출 감소…K-OTT 키워야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261117127700003?input=1195m",
+     "pubDate": "Wed, 18 Nov 2026 07:30:00 +0900"
+    },
     {
      "title": "‘임영웅 영화’ 오늘 개봉, 관람 포인트 셋",
      "url": "https://sports.khan.co.kr/article/202611180829003?pt=nv",
@@ -491,11 +496,6 @@
      "pubDate": "Wed, 18 Nov 2026 08:04:00 +0900"
     },
     {
-     "title": "\"K-콘텐츠 흥행에도 영화·방송 매출 감소…K-OTT 키워야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261117127700003?input=1195m",
-     "pubDate": "Wed, 18 Nov 2026 07:30:00 +0900"
-    },
-    {
      "title": "임영웅, 극장까지 접수…‘아임 히어로 더 스타디움 2’ 오늘(18일) 개봉",
      "url": "https://www.mk.co.kr/article/12212020",
      "pubDate": "Wed, 18 Nov 2026 09:13:00 +0900"
@@ -511,20 +511,15 @@
      "pubDate": "Mon, 16 Nov 2026 18:05:00 +0900"
     },
     {
-     "title": "\"영화 속 악당 같아\"…'눈밭 소파' 北 김정은, '명품 스키복' 딸보다 더...",
-     "url": "https://www.newsis.com/view/NISX20261117_0003871935",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 +0900"
+     "title": "임영웅 공연 실황 영화, 개봉 D-day 예매율 1위",
+     "url": "https://enter.etoday.co.kr/news/view/305412",
+     "pubDate": "Wed, 18 Nov 2026 02:10:00 +0900"
     }
    ]
   },
   {
    "query": "드라마",
    "items": [
-    {
-     "title": "“대학 떨어졌다”…오열하는 김혜윤 눈물 멈추게 한 어머니의 한마디",
-     "url": "https://www.mk.co.kr/article/12212126",
-     "pubDate": "Wed, 18 Nov 2026 09:48:00 +0900"
-    },
     {
      "title": "드라마 ‘참교육’ 속 위급재난문자 ‘삐~~~’…19일 수능날 진짜 시행...",
      "url": "https://www.donga.com/news/Society/article/all/20261117/135040468/1",
@@ -536,9 +531,24 @@
      "pubDate": "Tue, 17 Nov 2026 15:40:00 +0900"
     },
     {
+     "title": "“대학 떨어졌다”…오열하는 김혜윤 눈물 멈추게 한 어머니의 한마디",
+     "url": "https://www.mk.co.kr/article/12212126",
+     "pubDate": "Wed, 18 Nov 2026 09:48:00 +0900"
+    },
+    {
+     "title": "K드라마 흥행해도 수익은 넷플릭스에…한경협 “토종 OTT 키워야”",
+     "url": "https://www.sedaily.com/article/20115852?ref=naver",
+     "pubDate": "Wed, 18 Nov 2026 11:10:00 +0900"
+    },
+    {
      "title": "드라마 '참교육'처럼…수능장 몰래폰, 재난문자 '삑 소리'로 적발",
      "url": "https://www.news1.kr/local/moi/6356919",
      "pubDate": "Tue, 17 Nov 2026 15:45:00 +0900"
+    },
+    {
+     "title": "리센느 미나미, 홀로 드라마 OST 첫 도전…'사랑해볼래, 나' 오늘(18일) ...",
+     "url": "https://www.tenasia.co.kr/article/2026111840824",
+     "pubDate": "Wed, 18 Nov 2026 10:57:00 +0900"
     },
     {
      "title": "‘1분 막장’ 숏드라마에 빠진 한국… 인기 상위권 5개 앱 모두 중국계",
@@ -559,16 +569,6 @@
      "title": "오정세 7년만 야구 드라마 컴백 ‘써닝야구단’ 감독 된다[공식]",
      "url": "https://www.newsen.com/news_view.php?uid=202611171350381910",
      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0900"
-    },
-    {
-     "title": "'데블스 플랜3', 첫 주부터 정상 찍었다…비드라마 화제성 단숨에 1위",
-     "url": "https://www.tenasia.co.kr/article/2026111719644",
-     "pubDate": "Tue, 17 Nov 2026 15:48:00 +0900"
-    },
-    {
-     "title": "장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC…12월 31일 생중계 [...",
-     "url": "https://www.mk.co.kr/article/12210938",
-     "pubDate": "Tue, 17 Nov 2026 10:27:00 +0900"
     }
    ]
   },
@@ -576,14 +576,34 @@
    "query": "연예",
    "items": [
     {
+     "title": "“연예인, 음주운전하면 얼굴 내밀지 마”…고경표 사건에 국회 청원",
+     "url": "https://www.mk.co.kr/article/12212176",
+     "pubDate": "Wed, 18 Nov 2026 10:41:00 +0900"
+    },
+    {
      "title": "'아내 성희롱 폭로' 글렌체크 김준원, 연예활동 금지 가처분 신청[SC이슈...",
      "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100114550010529",
      "pubDate": "Wed, 18 Nov 2026 07:29:00 +0900"
     },
     {
+     "title": "고경표 음주사고 난 그날···“벌금형 연예인 방송 제한” 국회 청원",
+     "url": "https://sports.khan.co.kr/article/202611181000003?pt=nv",
+     "pubDate": "Wed, 18 Nov 2026 10:01:00 +0900"
+    },
+    {
+     "title": "글렌체크 김준원, '아내 성희롱' 문제 제기 → 연예활동 금지 가처분 [이...",
+     "url": "http://www.tvdaily.co.kr/read.php3?aid=17949662741810134010",
+     "pubDate": "Wed, 18 Nov 2026 10:48:00 +0900"
+    },
+    {
      "title": "‘비서진’ 최초 비연예인 ‘마이 스타’ 등장",
      "url": "https://www.bntnews.co.kr/article/view/bnt202611170135",
      "pubDate": "Tue, 17 Nov 2026 13:44:00 +0900"
+    },
+    {
+     "title": "[문화연예 플러스] 로버트 패틴슨과 호흡 맞출 '본드걸'은?",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866491_37012.html",
+     "pubDate": "Wed, 18 Nov 2026 06:54:00 +0900"
     },
     {
      "title": "로버트 패틴슨, 7대 제임스 본드 발탁…’007’ 5년 만에 새 얼굴 [IS해외...",
@@ -596,34 +616,14 @@
      "pubDate": "Wed, 18 Nov 2026 08:29:00 +0900"
     },
     {
-     "title": "[문화연예 플러스] 로버트 패틴슨과 호흡 맞출 '본드걸'은?",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866491_37012.html",
-     "pubDate": "Wed, 18 Nov 2026 06:54:00 +0900"
+     "title": "\"음주운전 연예인 방송 영구 제한\"…고경표 사고 당일 국회 청원 올라와",
+     "url": "http://www.celuvmedia.com/article.php?aid=1794967863531102006",
+     "pubDate": "Wed, 18 Nov 2026 11:20:00 +0900"
     },
     {
      "title": "'비서진' 최초 비연예인…이서진, 장한나 예술의전당 사장 모신다",
      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525146",
      "pubDate": "Tue, 17 Nov 2026 14:20:00 +0900"
-    },
-    {
-     "title": "[공식] '비서진' 최초 비연예인 출연..예술의전당 사장 장한나, 이서진...",
-     "url": "https://www.starnewskorea.com/broadcast-show/2026/11/17/2026111714160092014",
-     "pubDate": "Tue, 17 Nov 2026 14:24:00 +0900"
-    },
-    {
-     "title": "고경표 음주사고 난 그날···“벌금형 연예인 방송 제한” 국회 청원",
-     "url": "https://sports.khan.co.kr/article/202611181000003?pt=nv",
-     "pubDate": "Wed, 18 Nov 2026 10:01:00 +0900"
-    },
-    {
-     "title": "고경표 음주운전 사과문에 ‘좋아요’ 꾹…‘이 연예인’ 두고 갑론을박",
-     "url": "https://www.wikitree.co.kr/articles/1175230",
-     "pubDate": "Tue, 17 Nov 2026 12:06:00 +0900"
-    },
-    {
-     "title": "장한나 예술의전당 사장, 이서진X김광규 만난다…'비서진' 최초 비연예...",
-     "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010324791&plink=ORI&cooper=NAVER",
-     "pubDate": "Tue, 17 Nov 2026 17:08:00 +0900"
     }
    ]
   },
@@ -641,9 +641,14 @@
      "pubDate": "Tue, 17 Nov 2026 17:39:00 +0900"
     },
     {
-     "title": "최태원의 '한일 경제협력 빅텐트' 출범…요미우리신문과 손잡아",
-     "url": "https://www.mt.co.kr/industry/2026/11/18/2026111809201968682",
-     "pubDate": "Wed, 18 Nov 2026 09:31:00 +0900"
+     "title": "최태원 회장, '사회문제 해결한 만큼 경제보상' 새 성장론 역설",
+     "url": "https://www.mt.co.kr/industry/2026/11/18/2026111808563211184",
+     "pubDate": "Wed, 18 Nov 2026 10:12:00 +0900"
+    },
+    {
+     "title": "최태원·요미우리 손잡고 韓日 경제협력 ‘빅텐트’ 띄웠다",
+     "url": "https://www.sedaily.com/article/20115834?ref=naver",
+     "pubDate": "Wed, 18 Nov 2026 10:49:00 +0900"
     },
     {
      "title": "IMF, 한국 2026년 경제성장률 전망 3.3%→3.9% 상향",
@@ -651,24 +656,14 @@
      "pubDate": "Tue, 17 Nov 2026 19:15:00 +0900"
     },
     {
+     "title": "최태원, 세계행정학회서 ‘새로운 자본주의’ 제안…“사회적 가치에 경...",
+     "url": "https://economist.co.kr/article/view/ecn202611180023",
+     "pubDate": "Wed, 18 Nov 2026 10:41:00 +0900"
+    },
+    {
      "title": "“韓경제 이렇게 잘 나갈 줄은”…정부에 돈 풀라던 IMF, 이젠 과열 경고",
      "url": "https://www.mk.co.kr/article/12211508",
      "pubDate": "Tue, 17 Nov 2026 17:56:00 +0900"
-    },
-    {
-     "title": "IMF “한국경제 올해 3.9% 성장, 내년에도 3.3%”",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026111713484516603",
-     "pubDate": "Tue, 17 Nov 2026 14:00:00 +0900"
-    },
-    {
-     "title": "IMF, 올해 한국 경제 성장률 3.9%·내년 3.3% 전망",
-     "url": "https://www.kado.net/news/articleView.html?idxno=2085329",
-     "pubDate": "Tue, 17 Nov 2026 15:32:00 +0900"
-    },
-    {
-     "title": "美 연준 워시 \"AI 경제 영향 3대 시나리오 마련중\"",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790062.html",
-     "pubDate": "Tue, 17 Nov 2026 07:13:00 +0900"
     },
     {
      "title": "미·일·인·호 정상, 중국 견제... \"경제 강압에 심각한 우려\"",
@@ -676,9 +671,14 @@
      "pubDate": "Wed, 18 Nov 2026 08:31:00 +0900"
     },
     {
-     "title": "\"우리 도전에 한계없다\"…'장애경제인 대회' 개막",
-     "url": "https://www.newsis.com/view/NISX20261118_0003872638",
-     "pubDate": "Wed, 18 Nov 2026 10:00:00 +0900"
+     "title": "경제6단체 \"기촉법 일몰 시 기업 구조조정 차질\" 국회 통과 촉구",
+     "url": "https://www.newsis.com/view/NISX20261118_0003872864",
+     "pubDate": "Wed, 18 Nov 2026 10:43:00 +0900"
+    },
+    {
+     "title": "경제계 \"기업구조조정 촉진법 연장 필요…국회 개정안 통과 촉구\"",
+     "url": "https://www.news1.kr/industry/general-industry/6357824",
+     "pubDate": "Wed, 18 Nov 2026 10:54:00 +0900"
     }
    ]
   }
@@ -744,14 +744,6 @@
      "summary": "편의점 냉장고 앞에서 일반 탄산음료와 제로 음료 중 하나를 고른다면 어떤 쪽에 손이 갈까요? 설탕이... 제로 음료가 설탕 섭취를 줄이는 데 도움이 될 수 있다는 것과, 장기적으로 체중 감량에 효과적이라는..."
     },
     {
-     "title": "이온음료는 운동하지 않아도 필요할까?",
-     "url": "https://blog.naver.com/matzip_research/224466307887",
-     "blogger": "식탁.zip",
-     "bloggerUrl": "https://blog.naver.com/matzip_research",
-     "postdate": "20261106",
-     "summary": "이온음료는 운동하지 않아도 필요할까? 물과 비교해 볼 성분 운동을 마친 뒤 시원한 이온음료를 마시면 갈증이 풀리는 느낌이 들곤 합니다. 그런데 운동을 하지 않은 평범한 하루에도 이온음료를 마시는 것이..."
-    },
-    {
      "title": "\"제로음료면 마음 놓고 마셔도 될까?\" 일반 탄산과 다른 점 따져보니",
      "url": "https://blog.naver.com/spring_hye_/224431186749",
      "blogger": "윤이네 라이프 ღ",
@@ -766,6 +758,14 @@
      "bloggerUrl": "https://blog.naver.com/kc605",
      "postdate": "20261114",
      "summary": "차 안에서 음료를 쏟으면 얼룩이 생길까 봐 급히 문지르거나 물부터... 차 시트 음료 얼룩은 빠르게 흡수하되, 세척은 내 차의 소재와... 음료가 페달 아래로 흘렀다면 운전을 이어가지 말고, 페달 움직임에 방해가.."
+    },
+    {
+     "title": "복부팽만 가스 찰 때 속이 편했던 음료 4가지",
+     "url": "https://blog.naver.com/chojy0307/224473989401",
+     "blogger": "healing & health",
+     "bloggerUrl": "https://blog.naver.com/chojy0307",
+     "postdate": "20261112",
+     "summary": "있는 음료들을 하나씩 마셔 보았습니다. 이 글에서는 제가 7개월 동안 직접 마셔 본 네 가지 음료를 소개합니다. 개인적인 경험을 정리한... 향이 깔끔하고 입안까지 개운해져서 식후 음료로 즐겨 마셨습니다. 2...."
     }
    ]
   },
@@ -858,12 +858,12 @@
    "query": "공무원연금공단",
    "items": [
     {
-     "title": "공무원연금공단 사회형평적 체험형 청년인턴 3차 채용 일정과 지원....",
-     "url": "https://blog.naver.com/altus008/224479725490",
-     "blogger": "블루레인마켓",
-     "bloggerUrl": "https://blog.naver.com/altus008",
-     "postdate": "20261116",
-     "summary": "출생) 제대군인·사회복무요원은 복무 기간에 따라 상한 연령 연장 (1년 미만 1세, 2년 미만 2세, 2년 이상 3세) 12월 11일에 즉시 근무 가능한 분 공단 인사규정상 임용결격 사유가 없는 분 공무원연금공단.."
+     "title": "공무원연금공단 복지포털·대출·임대주택까지, 헷갈리는 것들 한번....",
+     "url": "https://blog.naver.com/kpro0405/224481668946",
+     "blogger": "머니 마켓",
+     "bloggerUrl": "https://blog.naver.com/kpro0405",
+     "postdate": "20261118",
+     "summary": "공무원의 퇴직이나 사망, 공무로 인한 부상·질병·장애에 적절한 급여를 지급해 공무원과 유족의... 공무원연금공단 vs 국민연금공단 구분 공무원연금공단 국민연금공단 대상 공무원 및 유족 일반 국민..."
     },
     {
      "title": "공무원연금공단 대여와 은행 대출, 무엇이 다를까?",
@@ -874,20 +874,20 @@
      "summary": "은행이지만, 공무원이라면 한 곳을 더 살펴볼 필요가 있다. 바로 공무원연금공단에서 운영하는 연금대부 제도다. 은행과 공문원대출의... 2026년 4분기 공단 안내 기준으로 살펴보면 다음과 같다. 신용점수..."
     },
     {
+     "title": "공무원연금공단 사회형평적 체험형 청년인턴 3차 채용 일정과 지원....",
+     "url": "https://blog.naver.com/altus008/224479725490",
+     "blogger": "블루레인마켓",
+     "bloggerUrl": "https://blog.naver.com/altus008",
+     "postdate": "20261116",
+     "summary": "출생) 제대군인·사회복무요원은 복무 기간에 따라 상한 연령 연장 (1년 미만 1세, 2년 미만 2세, 2년 이상 3세) 12월 11일에 즉시 근무 가능한 분 공단 인사규정상 임용결격 사유가 없는 분 공무원연금공단.."
+    },
+    {
      "title": "공무원연금공단 면접 후기 인바스켓 PT, 종합 역량, AI 역량검사 대비",
      "url": "https://blog.naver.com/librarylab/224473220218",
      "blogger": "라이브러리랩",
      "bloggerUrl": "https://blog.naver.com/librarylab",
      "postdate": "20261112",
      "summary": "공무원연금공단 서류 결과는 11월 11일 17시에 나옵니다. 14일 실기와 필기를 넘기면 17일부터 사흘... 미뤄도 민원이 늘지 않는 일이기 때문입니다.\" 공단이 하는 연금 지급, 재해보상, 공무원 임대주택 일을."
-    },
-    {
-     "title": "공무원연금공단 면접 후기 PT 인바스켓 기출 인성 질문 정보 공연공",
-     "url": "https://blog.naver.com/kimswmiri/224480255377",
-     "blogger": "취업컨설팅 마이멘토 김성우",
-     "bloggerUrl": "https://blog.naver.com/kimswmiri",
-     "postdate": "20261117",
-     "summary": "공무원연금공단 면접을 준비 중이신 분들께인바스켓 PT와... 공단 주요 사업, 직무 관련 해결책 제시형 주제 ㄴ26년 상반기엔 A4 총... 시킨다면 공무원연금을 알릴 홍보 아이디어 이미 꾸려진 모임에 뒤늦게..."
     },
     {
      "title": "공무원연금관리공단 홈페이지 로그인과 연금복지포털 접속방법",
@@ -930,12 +930,12 @@
      "summary": "공무원연금공단에 직접 신청하는 것이 아니라, 각 소속 기관의 연금 취급 부서(총무과, 행정실 등)를 통해 청구해야 해요 국가직 공무원... 사망조위금 청구서 (소속 기관 비치 또는 공단 서식) 2. 사망진단서 또는."
     },
     {
-     "title": "공무원연금공단면접 준비, AI 역량검사와 대면 평가를 어떻게 연결....",
-     "url": "https://blog.naver.com/loveasd1740/224475755008",
-     "blogger": "취업팬다 | 취업 패주는 남자",
-     "bloggerUrl": "https://blog.naver.com/loveasd1740",
-     "postdate": "20261113",
-     "summary": "공무원연금공단면접은 AI 역량검사 결과가 2차 대면 평가의 참고... 제가 공무원연금공단면접 후기들을 살펴보면서 가장 자주 본 장면은... 끝맺음 공무원연금공단면접은 결국 \"내 경험이 이 기관의 일과 어떻게..."
+     "title": "공무원연금공단 면접 후기 PT 인바스켓 기출 인성 질문 정보 공연공",
+     "url": "https://blog.naver.com/kimswmiri/224480255377",
+     "blogger": "취업컨설팅 마이멘토 김성우",
+     "bloggerUrl": "https://blog.naver.com/kimswmiri",
+     "postdate": "20261117",
+     "summary": "공무원연금공단 면접을 준비 중이신 분들께인바스켓 PT와... 공단 주요 사업, 직무 관련 해결책 제시형 주제 ㄴ26년 상반기엔 A4 총... 시킨다면 공무원연금을 알릴 홍보 아이디어 이미 꾸려진 모임에 뒤늦게..."
     }
    ]
   }
