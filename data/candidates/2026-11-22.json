@@ -460,7 +460,7 @@
    ]
   }
  ],
- "naverCollectedAt": "2026-11-22T10:35+09:00",
+ "naverCollectedAt": "2026-11-22T11:23+09:00",
  "naverNews": [
   {
    "query": "영화",
@@ -511,9 +511,9 @@
      "pubDate": "Sat, 21 Nov 2026 11:50:00 +0900"
     },
     {
-     "title": "대종상 vs 영화 단체, 분쟁 지속되는 이유는 [N이슈]",
-     "url": "https://www.news1.kr/entertain/movie/6361008",
-     "pubDate": "Sat, 21 Nov 2026 13:09:00 +0900"
+     "title": "\"이런 시험이라면 없애는 게 낫다\"…'수능 창시자'의 고백",
+     "url": "https://www.yna.co.kr/view/AKR20261120161200005?input=1195m",
+     "pubDate": "Sat, 21 Nov 2026 08:01:00 +0900"
     }
    ]
   },
@@ -576,14 +576,19 @@
    "query": "연예",
    "items": [
     {
+     "title": "전지윤, 22일 비연예인 연인과 결혼…포미닛 중 현아 이어 2번째 [N디데...",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6361056",
+     "pubDate": "Sun, 22 Nov 2026 06:00:00 +0900"
+    },
+    {
      "title": "“연예인 안 시킬 수가”…‘김연아 닮은꼴’ 이세창 딸, 한예종 합격·...",
      "url": "https://www.mk.co.kr/article/12215276",
      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0900"
     },
     {
-     "title": "전지윤, 22일 비연예인 연인과 결혼…포미닛 중 현아 이어 2번째 [N디데...",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6361056",
-     "pubDate": "Sun, 22 Nov 2026 06:00:00 +0900"
+     "title": "포미닛 전지윤, 오늘(22일) 비연예인 연인과 결혼… 현아 이어 두 번째 ...",
+     "url": "https://isplus.com/article/view/isp202611220011",
+     "pubDate": "Sun, 22 Nov 2026 08:20:00 +0900"
     },
     {
      "title": "[르포]\"연예인 오나요?\"…영하 추위에도 오픈런 'K뷰티 핫플'",
@@ -594,11 +599,6 @@
      "title": "허경환, 연예대상 최우수상 욕심…“주우재가 걸림돌” (옥문아)",
      "url": "https://sports.donga.com/ent/article/all/20261122/135065780/1",
      "pubDate": "Sun, 22 Nov 2026 09:29:00 +0900"
-    },
-    {
-     "title": "포미닛 전지윤, 오늘(22일) 비연예인 연인과 결혼… 현아 이어 두 번째 ...",
-     "url": "https://isplus.com/article/view/isp202611220011",
-     "pubDate": "Sun, 22 Nov 2026 08:20:00 +0900"
     },
     {
      "title": "허경환 \"'2026 연예대상' 최우수상 노린다..주우재, 엄청난 걸림돌\" [옥...",
@@ -631,9 +631,9 @@
    "query": "경제",
    "items": [
     {
-     "title": "금리 상승·주가 급락 이중고에 마통 연체액 68% 급증…경제주축 40대는...",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "pubDate": "Sun, 22 Nov 2026 09:44:00 +0900"
+     "title": "대학생 45% \"취업 작년보다 어렵다\"…5명 중 1명만 서류합격",
+     "url": "https://www.yna.co.kr/view/AKR20261122018700003?input=1195m",
+     "pubDate": "Sun, 22 Nov 2026 11:00:00 +0900"
     },
     {
      "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
@@ -646,9 +646,24 @@
      "pubDate": "Sun, 22 Nov 2026 09:00:00 +0900"
     },
     {
+     "title": "단양군 농촌활력센터 개관…청년 창업·주민 경제활동 지원",
+     "url": "https://www.news1.kr/local/sejong-chungbuk/6361862",
+     "pubDate": "Sun, 22 Nov 2026 10:27:00 +0900"
+    },
+    {
+     "title": "경기 불황에 대졸 취업 더 어려워졌다…10명 중 4명 \"준비 1년 이상\"",
+     "url": "https://view.asiae.co.kr/article/2026112210320685803",
+     "pubDate": "Sun, 22 Nov 2026 11:00:00 +0900"
+    },
+    {
      "title": "'눈으로 일본 욕한' 중국의 의전 외교, 한국의 돌파구는[경제적 본능]",
      "url": "https://www.nocutnews.co.kr/news/6610471?utm_source=naver&utm_medium=article&utm_campaign=20261122095236",
      "pubDate": "Sun, 22 Nov 2026 05:01:00 +0900"
+    },
+    {
+     "title": "경기도경제과학진흥원, 경기도 R&D 성과공유회 개최",
+     "url": "http://www.metroseoul.co.kr/article/20261122500028",
+     "pubDate": "Sun, 22 Nov 2026 10:58:00 +0900"
     },
     {
      "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다 [김규환의 핸디 차이나]",
@@ -656,29 +671,14 @@
      "pubDate": "Sun, 22 Nov 2026 07:09:00 +0900"
     },
     {
-     "title": "단양군 농촌활력센터 개관…청년 창업·주민 경제활동 지원",
-     "url": "https://www.news1.kr/local/sejong-chungbuk/6361862",
-     "pubDate": "Sun, 22 Nov 2026 10:27:00 +0900"
-    },
-    {
-     "title": "박수치는 김정관 장관과 경제 6단체",
-     "url": "https://www.yna.co.kr/view/PYH20261120082600013?input=1196m",
-     "pubDate": "Fri, 20 Nov 2026 12:56:00 +0900"
-    },
-    {
-     "title": "YS '금융실명제' 언급한 李 \"자본시장·민생경제 정상화 반드시 이루겠...",
-     "url": "https://view.asiae.co.kr/article/2026112009282983089",
-     "pubDate": "Fri, 20 Nov 2026 10:52:00 +0900"
-    },
-    {
      "title": "\"안산 경제사절단 2년 전 독일 인연이 투자협력 논의로\"",
      "url": "https://www.newsis.com/view/NISX20261120_0003876570",
      "pubDate": "Fri, 20 Nov 2026 11:27:00 +0900"
     },
     {
-     "title": "농협경제지주, 김장철 맞아 배추·무 할인…내달 9일까지 행사",
-     "url": "https://www.donga.com/news/Economy/article/all/20261120/135059820/1",
-     "pubDate": "Fri, 20 Nov 2026 12:32:00 +0900"
+     "title": "박수치는 김정관 장관과 경제 6단체",
+     "url": "https://www.yna.co.kr/view/PYH20261120082600013?input=1196m",
+     "pubDate": "Fri, 20 Nov 2026 12:56:00 +0900"
     }
    ]
   }
@@ -760,12 +760,12 @@
      "summary": "후순위주택담보대출 오피스텔담보 빌라담보 추가 조건 금리 한도 따져 보는 순서 \"은행에서는 더 안 된다는데, 다른 길이 있을까요?\" 상담실에 들어오신 50대 자영업 사장님의 첫마디였습니다. 본인이 사는..."
     },
     {
-     "title": "삼성화재 주택담보대출 전세반환금대출 실행 후기 및 타임라인",
-     "url": "https://blog.naver.com/megang22/224475509035",
-     "blogger": "동갑내기 커플의 부부연습장",
-     "bloggerUrl": "https://blog.naver.com/megang22",
-     "postdate": "20261113",
-     "summary": "삼성화재 주택담보대출 전세반환금대출 실행 후기 및 타임라인 안녕하세요! 4년 차 장기 연애 커플이자 예비부부 쿼카 zip입니다 저희는 신혼집을 알아보던 중 높아진 전월세 부담과 여러 상황을 따져본 끝에..."
+     "title": "고시텔·고시원담보대출 한도 80% 금리 5%대, 방공제와 신탁 활용 조....",
+     "url": "https://blog.naver.com/wave7906/224435154479",
+     "blogger": "LIFE PLUS",
+     "bloggerUrl": "https://blog.naver.com/wave7906",
+     "postdate": "20261117",
+     "summary": "고시텔·고시원담보대출 한도 80% 금리 5%대, 방공제와 신탁 활용 조건 고시원을 운영하거나 매입하려는 분들 가운데 객실 수가 많으면 담보가치도 높을 것이라고 예상하는 경우가 있습니다. 그러나 객실이..."
     }
    ]
   },
@@ -837,20 +837,20 @@
      "summary": "댓글로 자유롭게 의견을 남겨주세요! #2026마마어워즈 #2026MAMA #마마어워즈2일차 #마마어워즈라인업 #마마어워즈중계 #빅뱅마마 #아이브 #르세라핌 #엠넷생중계 #티빙실시간"
     },
     {
-     "title": "빅뱅 20주년, 이번엔 둘리와 만난다고? 2026 마마 어워즈 역대급 무대 ....",
-     "url": "https://blog.naver.com/jh21031/224485839828",
-     "blogger": "올바른",
-     "bloggerUrl": "https://blog.naver.com/jh21031",
-     "postdate": "20261121",
-     "summary": "#빅뱅 #빅뱅20주년 #빅뱅둘리 #빅뱅마마 #마마어워즈 #2026마마어워즈 #2026MAMA #MAMA2026 #마마어워즈2일차 #마마어워즈중계 #마마어워즈방송시간 #지드래곤 #태양 #대성 #아기공룡둘리 #빅뱅신곡 "
-    },
-    {
      "title": "2026 마마 어워즈 1일차 2일차 라인업 총정리 및 무료 실시간 중계 방....",
      "url": "https://blog.naver.com/gijeni2000/224479866024",
      "blogger": "봉봉스튜디오",
      "bloggerUrl": "https://blog.naver.com/gijeni2000",
      "postdate": "20261117",
      "summary": "특별 합동무대 5선 오직 마마 어워즈에서만 만날 수 있는 파격적인 특별 무대는 올해도 가장 큰 관전 포인트예요. 우선 빅뱅의 20주년 스페셜 스테이지가 예고되어 있고요, 카리스마의 대명사 씨엘과 올데이..."
+    },
+    {
+     "title": "2026 마마 어워즈 수상자 정리: BTS 올해의 가수, 엔하이픈 2연패",
+     "url": "https://blog.naver.com/sdudwlss/224485778676",
+     "blogger": "CLASSIC",
+     "bloggerUrl": "https://blog.naver.com/sdudwlss",
+     "postdate": "20261121",
+     "summary": "'2026 마마 어워즈(MAMA AWARDS)' 첫날 시상식이 11월 20일 오후 일본 오사카 교세라돔에서 열렸습니다. 이날 '챕터 1' 아티스트 카테고리에서 방탄소년단이 대상인 '올해의 가수'를, 엔하이픈이 또 다"
     }
    ]
   },
@@ -890,20 +890,20 @@
      "summary": "배우 김호영이 유튜브 채널 미성년 출연자를 보호하기 위해 전격적인 결단을 내렸습니다. 자신의 유튜브 채널 '투머치 김호영'에... 과연 무대 위 열정적인 에너지를 자랑하는 김호영의 프로필과 함께 국악중..."
     },
     {
-     "title": "카톡 친구 5000명 김호영, 길에서 주운 카드 주인이 고태용이라고?",
-     "url": "https://blog.naver.com/masquerade--/224486177186",
-     "blogger": "masquerade--님의 블로그",
-     "bloggerUrl": "https://blog.naver.com/masquerade--",
-     "postdate": "20261121",
-     "summary": "카카오톡 친구가 5000명이라는 김호영이 길에서 카드 한 장을 주웠는데... 지난 20일 유튜브 채널 '투머치 김호영'에는 고태용이 팬 모임에 깜짝 등장하는 영상이 올라왔어요. 김호영 없이 진행되는 팬들의 정기..."
-    },
-    {
      "title": "\"결국 영상 비공개\" 국악중 악플에 법적 대응 예고한 김호영",
      "url": "https://blog.naver.com/eunsuapa/224438099490",
      "blogger": "볼빨간 덕후기자",
      "bloggerUrl": "https://blog.naver.com/eunsuapa",
      "postdate": "20261011",
      "summary": "뮤지컬 배우 김호영이 출연하는 유튜브 콘텐츠가 예상치 못한... 김호영의 유튜브 제작진은 지난 10일 채널 게시판을 통해 잠실 카페... 잠실 카페에서 만난 국악소녀들 문제가 된 영상은 김호영이 서울 잠실의 한..."
+    },
+    {
+     "title": "카톡 친구 5000명 김호영, 길에서 주운 카드 주인이 고태용이라고?",
+     "url": "https://blog.naver.com/masquerade--/224486177186",
+     "blogger": "masquerade--님의 블로그",
+     "bloggerUrl": "https://blog.naver.com/masquerade--",
+     "postdate": "20261121",
+     "summary": "카카오톡 친구가 5000명이라는 김호영이 길에서 카드 한 장을 주웠는데... 지난 20일 유튜브 채널 '투머치 김호영'에는 고태용이 팬 모임에 깜짝 등장하는 영상이 올라왔어요. 김호영 없이 진행되는 팬들의 정기..."
     },
     {
      "title": "김호영 국악소녀 악플 논란, 영상 왜 삭제됐나…옥장판 재소환 이유....",
