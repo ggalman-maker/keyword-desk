@@ -1,0 +1,463 @@
+{
+ "date": "2026-11-24",
+ "collectedAt": "2026-11-24T07:46+09:00",
+ "errors": [],
+ "googleTrends": [
+  {
+   "rank": 1,
+   "keyword": "국방백서",
+   "traffic": "100+",
+   "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+   "news": [
+    {
+     "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
+     "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
+     "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
+     "source": "서울신문"
+    },
+    {
+     "title": "李정부 첫 국방백서에 “北정권·북한군은 적” 표현 유지된다",
+     "url": "https://www.donga.com/news/Politics/article/all/20261123/135077153/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "keyword": "투수",
+   "traffic": "1000+",
+   "pubDate": "Mon, 23 Nov 2026 13:30:00 -0800",
+   "news": [
+    {
+     "title": "605억 '일시불' 지급 초파격! 다저스 제안조차 못하고 빼앗길 줄이야…실망한 LA 언론 \"오타니가 해줘야 한다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611231016775710O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "9년 총액 4억5000만달러… 투수 최고 몸값, 스쿠벌",
+     "url": "https://www.donga.com/news/Sports/article/all/20261124/135077429/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "'2연속 사이영상' 스쿠벌, 뉴욕 메츠와 9년 6천50억 원 초대형 계약",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867820_36946.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "keyword": "로스앤젤레스 fc",
+   "traffic": "500+",
+   "pubDate": "Mon, 23 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
+     "url": "https://www.fnnews.com/news/202611230238089643",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
+     "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "keyword": "비트코인 시세",
+   "traffic": "100+",
+   "pubDate": "Mon, 23 Nov 2026 13:20:00 -0800",
+   "news": [
+    {
+     "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "‘에브리씽 랠리’→‘에브리씽 크래시’, 주식·비트코인·금·구리도 떨어져",
+     "url": "https://www.khan.co.kr/article/202611240600081",
+     "source": "경향신문"
+    },
+    {
+     "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
+     "url": "https://www.hankyung.com/article/202611233526i",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "keyword": "김혜수",
+   "traffic": "2000+",
+   "pubDate": "Mon, 23 Nov 2026 13:10:00 -0800",
+   "news": [
+    {
+     "title": "송혜교도 반한 김혜수 미모…“너무 아름다우시다”",
+     "url": "https://www.mk.co.kr/news/hot-issues/12215811",
+     "source": "매일경제"
+    },
+    {
+     "title": "MAMA 김혜수, 56세에 또 리즈 경신…인어공주 스타일링 통했다",
+     "url": "https://sports.khan.co.kr/article/202611221425003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "김혜수, 28살 어린 아이돌과 같은 드레스…자기관리 '감탄' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112019293288010",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "keyword": "ai 에이전트",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"남친 갈 병원 찾아줘\" 했더니…허락도 없이 황당한 일",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859612",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
+     "url": "https://www.etnews.com/20261123000327",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "keyword": "노시환",
+   "traffic": "500+",
+   "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+   "news": [
+    {
+     "title": "'이제부터 진짜다!' 노시환 포스팅 분수령 진입 \"깜짝 발표는 잘 없어→현지 링크 떠야 청신호\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112314432578677",
+     "source": "머니투데이"
+    },
+    {
+     "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'영입설만 무성' 한화 노시환, MLB 포스팅 마감 열흘도 안 남아…12월 2일 최종 시한",
+     "url": "https://www.newspim.com/news/view/20261123001178",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "전원주",
+   "traffic": "2000+",
+   "pubDate": "Mon, 23 Nov 2026 12:50:00 -0800",
+   "news": [
+    {
+     "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
+     "url": "https://sports.khan.co.kr/article/202611221838003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "keyword": "대한민국 축구 국가대표팀",
+   "traffic": "500+",
+   "pubDate": "Mon, 23 Nov 2026 12:50:00 -0800",
+   "news": [
+    {
+     "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
+     "url": "https://www.khan.co.kr/article/202611232009015",
+     "source": "경향신문"
+    },
+    {
+     "title": "‘승격 청부사’ 증명, 1년이면 충분했다",
+     "url": "https://www.chosun.com/national/people/2026/11/23/27M7J7W5ZRCYZKWGGPNXVAMMDI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[지지대] 끝이 아닌 도전",
+     "url": "https://www.kyeonggi.com/article/20261122580324",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "keyword": "이민진",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 12:40:00 -0800",
+   "news": [
+    {
+     "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367",
+     "source": "주간조선"
+    },
+    {
+     "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959",
+     "source": "연합인포맥스"
+    }
+   ]
+  }
+ ],
+ "yonhapEnt": {
+  "via": "연합뉴스 RSS",
+  "items": [
+   {
+    "title": "버벌진트, 새 앨범 발매 앞두고 20명 초청 '생맥주 음감회'",
+    "url": "https://www.yna.co.kr/view/AKR20261124013300005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 07:00:27 +0900"
+   },
+   {
+    "title": "경찰, 음주운전 고경표 1시간40분 조사…울먹이며 \"정말 죄송\"(종합2보)",
+    "url": "https://www.yna.co.kr/view/AKR20261123151352004",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 21:08:57 +0900"
+   },
+   {
+    "title": "12·3 비상계엄 기록한 '서울의 밤'…\"세상에 자랑할 만한 밤\"",
+    "url": "https://www.yna.co.kr/view/AKR20261123168700005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 20:18:33 +0900"
+   },
+   {
+    "title": "음주운전 배우 고경표 경찰 출석…\"무책임한 모습 죄송\"(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261123151351004",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 19:28:01 +0900"
+   },
+   {
+    "title": "방미심위, '치매 예방' 과장 건강정보 프로그램 등 11건에 주의",
+    "url": "https://www.yna.co.kr/view/AKR20261123158100017",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 18:10:10 +0900"
+   },
+   {
+    "title": "허키 시바세키·비프리, 내년 1월 합동 공연",
+    "url": "https://www.yna.co.kr/view/AKR20261123157900005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 17:55:19 +0900"
+   },
+   {
+    "title": "내달 팝스타 칼리드 내한공연 취소…\"티켓은 전액 환불\"",
+    "url": "https://www.yna.co.kr/view/AKR20261123157100005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 17:48:25 +0900"
+   },
+   {
+    "title": "양수경, 38년 만에 라디오 DJ…내달 1일 '한낮의 설렘' 첫 방송",
+    "url": "https://www.yna.co.kr/view/AKR20261123156200005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 17:42:53 +0900"
+   },
+   {
+    "title": "YTN라디오, 백범 김구 탄생 150주년 특집 다큐 4부작 방송",
+    "url": "https://www.yna.co.kr/view/AKR20261123151500005",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 17:23:00 +0900"
+   },
+   {
+    "title": "경찰, 음주운전 혐의 배우 고경표 오후 7시 출석 요구",
+    "url": "https://www.yna.co.kr/view/AKR20261123151300004",
+    "source": "연합뉴스",
+    "pubDate": "Mon, 23 Nov 2026 17:10:24 +0900"
+   }
+  ]
+ },
+ "news": [
+  {
+   "query": "코스피",
+   "items": [
+    {
+     "title": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 - 조선일보",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU28xY0xwdmdZYk4tdFY3XzZDLWpKb0dHYVpHS08wRUJVUm1QOHJrSmRYanUtSHRvekRHc3JWMmxUQWhhV3pweXI1dGpYaUtIOEdHcElXbFRrNDl4M0xlSGx4VUxDMm04aTN5aTBXUTdDaDNEVlRIYm5XM2t2STNsag?oc=5",
+     "source": "조선일보",
+     "pubDate": "Mon, 23 Nov 2026 07:26:00 GMT"
+    },
+    {
+     "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TXc4R2ZwODZ0ZUEzRzh2aUctU0xrNVEwdzRvclFmclhiTGh1RlpzTEM2bFYwSkluSGhGUzhpbVlqYl9jcU5HWmsyZEYyZjh2aFU5Q0NtcExoNlXSAWBBVV95cUxNV3VNdEx6VzNJdkdqSFBXLUZJMlNwZElIR2RLb2NCSXdLLTBOcWw0a2dfVGxkYkN6MkFKMGxFSUh1VHVjR21JNVhVRDVrcmt2VU50ekhwOXFhdlBfZllqRUE?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Mon, 23 Nov 2026 07:11:06 GMT"
+    },
+    {
+     "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 - 한겨레",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+     "source": "한겨레",
+     "pubDate": "Mon, 23 Nov 2026 06:13:00 GMT"
+    },
+    {
+     "title": "위기의 코스피…외국인 ‘팔자’ 언제까지? - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWU9qVVZTc2QyZ3RoNGhUVXhPLTNnSDV6WThnRkpWMXJ6WFBPZG5rNmhUUjZmQU5rOEF3NzFMTGZGZktPQXlrS0EwOWtoZEREVkk4N3d4T0laeVNRUXhjendUSWNuZw?oc=5",
+     "source": "KBS 뉴스",
+     "pubDate": "Mon, 23 Nov 2026 12:05:00 GMT"
+    },
+    {
+     "title": "AI 공포에 급락…코스피 4,700선 턱걸이 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wam43VUVOOUl3Q3B3U1NQem11bktwMng0WDJIbHBLbVVmNW5KLVJEbmtEVUo0cFpxRWxJZncwWW5ldVA4SEJpRHVYcFVpSGhyUklHS09TLXkwQXdlWGI4SWM1d2VmWWc?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Mon, 23 Nov 2026 11:12:00 GMT"
+    },
+    {
+     "title": "[증시-마감] 코스피, 외인·개인 '팔자'에 3%대 급락…'증안펀드' 주시 - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSzNQbWVtLXY1ejdXYTBlN2ZVTUVISDd1SUl0MEtnQVhqdnVVQ0lmc3k2QnBJek81TXFzLXdTY1l2dmxYNDk4bjZVRE1oZ1hwbTVZWmt2cjhkSzJuVVhBc0RsQmwyd2xTTW9xSl9KOWs?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Mon, 23 Nov 2026 07:10:42 GMT"
+    },
+    {
+     "title": "AI 규제·미 금리 인상, 코스피 주요 변수로 부각 - YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EczZyaTBwRnNVck1CWm1jYnVkZkFMNm9wTmYwZWFKODNiYUFMMGM2eDJ2NXdpSkxubWlvU1duNEFROFlaNXk3dTBwNlozMGdSR3VhSDM5ZFdWYVZyY3c?oc=5",
+     "source": "YTN",
+     "pubDate": "Mon, 23 Nov 2026 16:50:00 GMT"
+    },
+    {
+     "title": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 - 한국경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NbldSaFphX3BMNUkzclRsZmJvSnpuTmpJWFppdk5GX1dZQnpGN2hlcVVUeEFYaVd3eUxiR3Y5TmNCZXhVUXQ2Q0QwWXIzOTNUNnQ1dlVZWTRuUQ?oc=5",
+     "source": "한국경제",
+     "pubDate": "Mon, 23 Nov 2026 04:26:27 GMT"
+    }
+   ]
+  },
+  {
+   "query": "증시",
+   "items": [
+    {
+     "title": "증시 변동성 확대에 정부, 증시안정펀드 즉시 가동 준비 - 대한민국 정책브리핑",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iaTRYcm9zMTFGQzNsdWFvcmVFckxfdXVJZVBOZkdfRGZtcnNXOWxDQ1lTM21oT0t2eVRyMXZoYS1KdzlsZFJ6MEc1cmFqRHQwNnI5T2NncWpKWXlFZmF5RTdkSEdCZHh4RGxveA?oc=5",
+     "source": "대한민국 정책브리핑",
+     "pubDate": "Mon, 23 Nov 2026 19:30:00 GMT"
+    },
+    {
+     "title": "아시아 증시, 정부 대책에도 AI 회의론 속 하락세 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01bmZMS3VQYzM3WWFxSE5XVndBSUhDcE1FazF1MEoxNXM0QzRSUjJGN3NWRWsxREZlVjFlSmRqelpIQnlpMHZsTWdZRC00eVFPTXNmQnNrSGZrZmpFemhVbjBWQ0hBZUE?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Mon, 23 Nov 2026 20:05:00 GMT"
+    },
+    {
+     "title": "[속보] 뉴욕증시, 나스닥 6%대 급등 마감‥엔비디아 31.5%↑ - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZ1otQ3hPZGFLbHdHOTBfWkJHbUxIbmdQb1I5ZkdqdFFyaUVHRDhBNlpvU2lsbnVCVUFPMndKb0JzOUQ1bkZpRnMwRW1vWEt3Y0x3c1MtMG1xMzdJendsSGNFRlBFOXZ3YTU1eHllS1I3bXdF0gF0QVVfeXFMT3dfUnFEZnpjLUk1d21LdkVJMTBjOGlkTGQyeFAtVlc3aVB6NGoxMGRuTV9jT01iTWE0a2x3azQ4R3dRVG9TbDZQVTBybTVyWjRQbUNlNWRLLWtZMlotSmRVUGpHZmRqdTZwcEtmalR0Y1FMT2Q?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Mon, 23 Nov 2026 21:23:54 GMT"
+    },
+    {
+     "title": "유럽증시, 젠슨 황 복귀 호재로 기술주가 상승 주도하며 강한 반등… BESI 9.2%↑ - 뉴스핌",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNlhNdWN6RmJIekJmc0RkYjRmVFJxM1g5WjU1VG9wdTJ4N3diNHotSkluaUVKSDFHT3Eyc2pLUGhDZS14T3ZYcXpTT0pvSFpVNThOd1BKc0w5OHot?oc=5",
+     "source": "뉴스핌",
+     "pubDate": "Mon, 23 Nov 2026 18:00:00 GMT"
+    },
+    {
+     "title": "[글로벌증시] 뉴욕증시, 나스닥 6%대 급등…엔비디아 31%↑ - 연합뉴스 한민족센터",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QaHhWazJ4NDdDM1VfTURETHNEdEFPdnV4VzVhMjZtOGJhWDRfOXF2M21ZYThLWkpaYWlvWjZGaFNqcXZNUGx5OFRiSjM0azJtS29hbExXSUFyczNaYWowdTU1b09tQVdkNFo2d295WkFfdHdf?oc=5",
+     "source": "연합뉴스 한민족센터",
+     "pubDate": "Mon, 23 Nov 2026 21:52:35 GMT"
+    },
+    {
+     "title": "[머니 컨설팅]흔들리는 증시 ‘두 번째 월급’ 준비하라 - 동아일보",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55aXlZSVV3aUJvaTZlMmotVFhIbHVyTUlpcnQtNlZubERLRlpIclJuVjVJVU1UVENCeHYyYUZicUVOUHdCSWduUmk5SHVGVW9oUk9obUdxNHNpcG1Fc2lNaVBXb0dZME0zSTlmaFdHVkNNeW9idGfSAWZBVV95cUxOTGFOVEVISWdiMloxQm04SlhLZkxIcjQ4Q2RITnlxR0ZzM0kxdm5XdWgxbjZGMGVTRHJyUk1XaHlpWVdmemtEY09HV1FqSkMyQVdHZWtDaFY4WEktUm9KZEtnUWdCWHc?oc=5",
+     "source": "동아일보",
+     "pubDate": "Mon, 23 Nov 2026 15:30:00 GMT"
+    },
+    {
+     "title": "[뉴욕증시] 젠슨 황 전격 복귀에 도파민 폭발…필리 14%↑ - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NQVg3ZlI0VW02LXhYX2pCTENnZ09xTTFxU3FhNHZ3U2ZyU1FYcTBPcC1fcjE5S2NBelpvQzRpQmJEbVNQdHdRYU9uSEQzbnZpX2dCdXdqVW1aOWNjSUtfZXdhYm8yVlYxSEtjNWhzb1JtQQ?oc=5",
+     "source": "KB Think",
+     "pubDate": "Mon, 23 Nov 2026 21:54:13 GMT"
+    },
+    {
+     "title": "증시 급락에…소비자심리지수 7개월 만에 최저 - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbnM3VElNdW00dmFnZndQclpzcXBOSVhQOHpiQ2s0WnpGUnhNR3diRmM3dnpNRVpBTVp4Q2hqclM4Qjh3Wi0xb3QyU0tGc0xhMUE?oc=5",
+     "source": "매일경제 마켓",
+     "pubDate": "Mon, 23 Nov 2026 21:54:34 GMT"
+    }
+   ]
+  },
+  {
+   "query": "환율",
+   "items": [
+    {
+     "title": "달러-원, 뉴욕장서 1,340원 후반대 거래 | - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vdGhJVXpJWW4tdkVCZ2h0eXVEaEJCZllpNFNMSFRGQXRsZXQ3Vm90cU9WcnRnZ1NPYnZacHVVenN4emwydVNhZlowV3JQN2g3dzlBMXR6REl3T0xvay1PWW9FWHdPS3NoODNwamowNGR6cEtn?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Mon, 23 Nov 2026 15:07:31 GMT"
+    },
+    {
+     "title": "원 달러 환율, 한때 1,350원 돌파‥\"안전자산 선호 심리\" - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dHNqQnQzYV9YMjZxQXpiSFZXZWZQc055T01kdGtZbDNaOFBpZkQxNHlsYmpSZ2gzNk1DM0cxajFPMW1QUW43STZqWHFVQ2FSVFVPQ3RNcWYySUNHd081TGFpajJObFNVbnV1Si1zLTFRT0Yt0gF0QVVfeXFMT1JDeVRfWDd4YzZqMHZSWXp2ZVl1bFh0eWpvTGV2MWtRQWYzLV93UmhNRmpfdU5WSUljQnpSVDlVNnVxOGVua3pZV25hUUNQQ2R5UnB2cFlhTlBzbmlJTnFpLTVKbXU0MjJDV2lzejZuemRWME4?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Mon, 23 Nov 2026 08:19:35 GMT"
+    },
+    {
+     "title": "환율, 글로벌 위험회피 심리에 상승…2주만에 장중 1,350원대 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ldll1X3o3U2xic2hZZzlKbFhuc3plYllKYS1Uci1tTUcwZ21HRnZJcTdsdFgxd2tEc0ZwMjJ5ZlE3YU9IcF9fVHhoRWRYWjdKYjNNT3VrVXZUb1nSAWBBVV95cUxPWnplWTRBaXEzU2hSM190UVpwT2RwWDVEcmVYaUJBenM2M3c0eDlaR1h4Y2ZoLTY2YzV6UjNJQVVfX2VEbnUxOU0zTnEwckREZkc0Qk02ck1CbHFQSWlRQjA?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Mon, 23 Nov 2026 07:00:33 GMT"
+    },
+    {
+     "title": "원·달러 환율, 9.7원 오른 1345.9원 - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtKcTI4QmVtY1NxLThsaGRnbXRxODQxaWJ1YTZFN3NudFRMR0d6TmY5bGV1XzY1Q3hYM2hpRTRYX1EwWktFWXAxNlFCVlR3RGt4MGhLQ3pFZnJVTE01aU9XNXBKWEFFNEM4eHQ1WnQ4ZUkxd3NlNXdHNkpKV01SZ04zQ2xCUdIBmgFBVV95cUxPSGlPTy1NdmlNcGJvUnJZQXY1U0pYckM5ZmsxT2JuanpqM3QzaHBmb2xCTHV0T2RhamppWEZoWnBweXJhVkhrRnBZTXpvUS1nQ2ZEYlllMUI1WlNYdTBZSEp1VWhPWDNualItMEFVdkxia2RBZ2FxTkF5VG94LWhsdlBwLXVMQ0J5dGtnVThnSEt3b1cwblhnLWZB?oc=5",
+     "source": "Chosunbiz",
+     "pubDate": "Mon, 23 Nov 2026 06:42:00 GMT"
+    },
+    {
+     "title": "[외환] 원/달러 환율 9.7원 오른 1,345.9원(15:30 기준가) - 연합뉴스 한민족센터",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPMElqaEx2VDNFNWlsSHJRTnFtd3E1V3haQkNYZ1hWU2gwVUxfbVJVRlhjVk5ZUGo3SGdtcXdURDUyYXNyZk1BM2pWWlpYcnlpaGd3eGZCS01kRW1iX1dKOHp0VWRvUkdGbG9qVktQQ3gzV0ZJ?oc=5",
+     "source": "연합뉴스 한민족센터",
+     "pubDate": "Mon, 23 Nov 2026 06:30:46 GMT"
+    },
+    {
+     "title": "코스피 급락에 원화 약세 확대…환율 1,345.9원 마감 - 산경투데이",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNVFXaGZkbTNkZzdDNTdLUm9uVVJxZWtteEdlcTZaamlHaWYwdmhvNmYydjFfVzIyNm1uU3lDa3VMZDR2LXY3S0dWQTRSZVQxOWJtbzdBQ2c5N1BMU1ZiMk00WmpxUnZ0SkNFdGtjbXjSAXRBVV95cUxNcnF5RWlibV9ONk9VUjg4c2JqTXdxWlhQU0JPVEdrSVB2bW05dkpQeVJtSUFlRTNNTmZZZnRreFdVX2lCYjNqLWdkcl9jNXppZDJQaHBXbUZHbklIakpMSmJvcS1CMFBXNmRxd1daUWpPcGo3SQ?oc=5",
+     "source": "산경투데이",
+     "pubDate": "Mon, 23 Nov 2026 07:57:30 GMT"
+    },
+    {
+     "title": "증시 급락에 원화도 약세…환율 9.7원↑ 1345.9원 - 대한경제",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NeU1QMmhybzA1cnc3TXU0V0FrUlBoN2xhYmxuaGxJeG8xVFltTHpGU3M3eGlCWFN4WVVoQ3hOcWlDVkluVHVFQmRoRUhCRkJaMGRxbXZOdEpQaHE1OERtbHlheFk1YUhZYlNVdUowT2dKM19M?oc=5",
+     "source": "대한경제",
+     "pubDate": "Mon, 23 Nov 2026 07:37:14 GMT"
+    },
+    {
+     "title": "[외환] 원·달러 환율 1345.9원 마감···9.7원↑ - 서울파이낸스",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UU1RITHNCOXp3bUhDMTJHZ3VuYURCa1hqa2NwT1hDQUV1cC1vTHJXYXhwU1hJekN2bHFMT0JZVElBT0tQN0owSE1xQzR0VkZqMGRUZ1BheVRqeEhIbmRaVF9PVTZJRmRBUHc?oc=5",
+     "source": "서울파이낸스",
+     "pubDate": "Mon, 23 Nov 2026 06:35:45 GMT"
+    }
+   ]
+  }
+ ]
+}
