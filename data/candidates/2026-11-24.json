@@ -1,235 +1,237 @@
 {
  "date": "2026-11-24",
- "collectedAt": "2026-11-24T07:46+09:00",
- "errors": [],
+ "collectedAt": "2026-11-24T10:35+09:00",
+ "errors": [
+  "뉴스 수집 실패(증시): <HTTPError 429: 'Too Many Requests'>"
+ ],
  "googleTrends": [
   {
    "rank": 1,
-   "keyword": "국방백서",
-   "traffic": "100+",
-   "pubDate": "Mon, 23 Nov 2026 13:40:00 -0800",
+   "keyword": "세종의사당",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 16:30:00 -0800",
    "news": [
     {
-     "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
-     "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
-     "source": "동아일보"
+     "title": "\"국회, 세종으로 완전 이전\" 황운하 의원 국회법 발의",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611231654541VU",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
-     "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
-     "source": "서울신문"
+     "title": "황운하 '국회의사당 세종 완전 이전 국회법' 개정안 발의",
+     "url": "https://www.news1.kr/local/sejong-chungbuk/6363107",
+     "source": "뉴스1"
     },
     {
-     "title": "李정부 첫 국방백서에 “北정권·북한군은 적” 표현 유지된다",
-     "url": "https://www.donga.com/news/Politics/article/all/20261123/135077153/1",
-     "source": "동아일보"
+     "title": "황운하, 국회 세종 완전이전 위한 국회법 개정안 발의",
+     "url": "https://www.dtnews24.com/news/articleView.html?idxno=817492",
+     "source": "디트NEWS24"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "투수",
-   "traffic": "1000+",
-   "pubDate": "Mon, 23 Nov 2026 13:30:00 -0800",
+   "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
+   "traffic": "20000+",
+   "pubDate": "Mon, 23 Nov 2026 16:20:00 -0800",
    "news": [
     {
-     "title": "605억 '일시불' 지급 초파격! 다저스 제안조차 못하고 빼앗길 줄이야…실망한 LA 언론 \"오타니가 해줘야 한다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/202611231016775710O",
-     "source": "머니투데이"
+     "title": "City SC opens MLS playoffs in better spot than in previous appearance, in inaugural season",
+     "url": "https://www.stltoday.com/sports/professional/mls/city-sc/article_858b6c85-3a8b-40ae-91c1-4d95802d730d.html",
+     "source": "STLtoday.com"
     },
     {
-     "title": "9년 총액 4억5000만달러… 투수 최고 몸값, 스쿠벌",
-     "url": "https://www.donga.com/news/Sports/article/all/20261124/135077429/2",
-     "source": "동아일보"
+     "title": "Match Preview | St. Louis CITY SC to Host LAFC in Match One of Round One Best-of-3 Series on Monday at Energizer Park",
+     "url": "https://www.stlcitysc.com/news/match-preview-st-louis-city-sc-to-host-lafc-in-match-one-of-round-one-best-of-3-series-on-monday-at-energizer-park",
+     "source": "St. Louis CITY SC"
     },
     {
-     "title": "'2연속 사이영상' 스쿠벌, 뉴욕 메츠와 9년 6천50억 원 초대형 계약",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6867820_36946.html",
-     "source": "MBC 뉴스"
+     "title": "CITY SC owner talks MLS Cup hopes ahead of playoffs",
+     "url": "https://fox2now.com/news/city-sc-owner-talks-mls-cup-hopes-ahead-of-playoffs/",
+     "source": "FOX 2"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "로스앤젤레스 fc",
-   "traffic": "500+",
-   "pubDate": "Mon, 23 Nov 2026 13:20:00 -0800",
+   "keyword": "우지원",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 16:20:00 -0800",
    "news": [
     {
-     "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
-     "source": "MBC 뉴스"
+     "title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627249",
+     "source": "메디컬투데이"
     },
     {
-     "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
-     "url": "https://www.fnnews.com/news/202611230238089643",
-     "source": "파이낸셜뉴스"
+     "title": "'아침마당' 미스코리아 진 우서윤, 남다른 피지컬 \"우지원 첫째딸\"",
+     "url": "https://www.joynews24.com/view/2029536",
+     "source": "조이뉴스24"
     },
     {
-     "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
-     "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
-     "source": "스포츠동아"
+     "title": "미코 진 우서윤 “아빠 우지원, 나보다 화장품 훨씬 많이 발라” (아침마당)",
+     "url": "https://m.newsen.com/news_view.php?uid=202611240917242410",
+     "source": "뉴스엔"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "비트코인 시세",
+   "keyword": "kospi",
    "traffic": "100+",
-   "pubDate": "Mon, 23 Nov 2026 13:20:00 -0800",
+   "pubDate": "Mon, 23 Nov 2026 16:20:00 -0800",
    "news": [
     {
-     "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
-     "source": "KBS 뉴스"
+     "title": "KOSPI triggers 32nd sell-sidecar as analysts say government measures ineffective and interest rate outlook key",
+     "url": "https://www.mt.co.kr/en/stock/2026/11/23/2026112316200722096",
+     "source": "머니투데이"
     },
     {
-     "title": "‘에브리씽 랠리’→‘에브리씽 크래시’, 주식·비트코인·금·구리도 떨어져",
-     "url": "https://www.khan.co.kr/article/202611240600081",
-     "source": "경향신문"
+     "title": "Self-Share Buybacks Eased: Market's 'Relief Pitcher'?",
+     "url": "https://www.chosun.com/english/market-money-en/2026/11/24/7NGPMBTLXJBKVIHAAOKLZCSZ64/",
+     "source": "조선일보"
     },
     {
-     "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
-     "url": "https://www.hankyung.com/article/202611233526i",
-     "source": "한국경제"
+     "title": "Experts on Stock Stabilization Fund: \"Not the Time for Complacency; Oversold Zone Reached, and Semiconductors Lie at the Extreme Volatility Peak\"",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008859399",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "김혜수",
-   "traffic": "2000+",
-   "pubDate": "Mon, 23 Nov 2026 13:10:00 -0800",
+   "keyword": "필라데피아 대 포틀랜드",
+   "traffic": "500+",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "송혜교도 반한 김혜수 미모…“너무 아름다우시다”",
-     "url": "https://www.mk.co.kr/news/hot-issues/12215811",
-     "source": "매일경제"
+     "title": "Live updates: Sixers' knotted up with Trail Blazers at halftime",
+     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-trail-blazers-updates-joel-embiid-lebron-james-tyrese-maxey/769045/",
+     "source": "NBC Sports Philadelphia"
     },
     {
-     "title": "MAMA 김혜수, 56세에 또 리즈 경신…인어공주 스타일링 통했다",
-     "url": "https://sports.khan.co.kr/article/202611221425003",
-     "source": "스포츠경향"
+     "title": "Discuss All the Shining Stars as the Trail Blazers Face the 76ers!",
+     "url": "https://www.blazersedge.com/gameday-threads-2/118817/discussion-portland-trail-blazers-philadelphia-76ers-time-tv-streaming-injury-report",
+     "source": "Blazer's Edge"
     },
     {
-     "title": "김혜수, 28살 어린 아이돌과 같은 드레스…자기관리 '감탄' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112019293288010",
-     "source": "머니투데이"
+     "title": "76ers vs. Blazers prediction, odds, time: 2026 NBA picks for Monday, Nov. 23 from proven model",
+     "url": "https://www.cbssports.com/betting/news/76ers-blazers-prediction-odds-time-2026-nba-picks-best-bets-monday-november-23/",
+     "source": "CBS Sports"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "ai 에이전트",
-   "traffic": "200+",
-   "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+   "keyword": "청약홈",
+   "traffic": "1000+",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
-     "source": "조선일보"
+     "title": "종로 '경희궁 에피트'·영등포 '해링턴 문래' 등 이번주 6295가구 청약",
+     "url": "https://www.newsis.com/view/NISX20261122_0003877941",
+     "source": "뉴시스"
     },
     {
-     "title": "\"남친 갈 병원 찾아줘\" 했더니…허락도 없이 황당한 일",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859612",
-     "source": "SBS 뉴스"
+     "title": "잠실 ‘20억’ 로또 청약 등장…영등포·종로서도 분양",
+     "url": "https://www.mk.co.kr/news/realestate/12215476",
+     "source": "매일경제"
     },
     {
-     "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
-     "url": "https://www.etnews.com/20261123000327",
-     "source": "전자신문"
+     "title": "[분양 캘린더] 11월 넷째 주 6295가구 청약 접수",
+     "url": "https://www.asiatime.co.kr/article/20261122500011",
+     "source": "아시아타임즈"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "노시환",
-   "traffic": "500+",
-   "pubDate": "Mon, 23 Nov 2026 13:00:00 -0800",
+   "keyword": "cj그룹",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "'이제부터 진짜다!' 노시환 포스팅 분수령 진입 \"깜짝 발표는 잘 없어→현지 링크 떠야 청신호\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112314432578677",
-     "source": "머니투데이"
+     "title": "CJ문화재단, '유재하 음악경연대회' 개최…역대 최다 지원",
+     "url": "https://www.yna.co.kr/view/AKR20261123022600030",
+     "source": "연합뉴스"
     },
     {
-     "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/",
-     "source": "조선일보"
+     "title": "CJ문화재단, 역대 최다 지원 기록한 ‘제37회 CJ와 함께하는 유재하 음악경연대회’… 이종서 대상 영예 – CJ 뉴스룸",
+     "url": "https://cjnews.cj.net/cj%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8-%EC%97%AD%EB%8C%80-%EC%B5%9C%EB%8B%A4-%EC%A7%80%EC%9B%90-%EA%B8%B0%EB%A1%9D%ED%95%9C-%EC%A0%9C37%ED%9A%8C-cj%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98/",
+     "source": "CJ 뉴스룸"
     },
     {
-     "title": "'영입설만 무성' 한화 노시환, MLB 포스팅 마감 열흘도 안 남아…12월 2일 최종 시한",
-     "url": "https://www.newspim.com/news/view/20261123001178",
-     "source": "뉴스핌"
+     "title": "이종서, 역대 최다 지원 '제37회 유재하 음악경연대회' 대상",
+     "url": "https://www.newsis.com/view/NISX20261123_0003878674",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "전원주",
-   "traffic": "2000+",
-   "pubDate": "Mon, 23 Nov 2026 12:50:00 -0800",
+   "keyword": "차두리",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404",
+     "title": "화성FC, 최종전 남기고 첫 플레이오프행 확정",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723065",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "화성FC, 창단 2년 만에 K리그1 승격 도전",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041826",
+     "source": "기호일보"
+    },
+    {
+     "title": "차두리호 대반전! '프로 2년 차' 화성FC, 창단 첫 K리그2 PO 진출...\"후회없이 즐길 수 있도록, 마지막까지 모두 쏟아붓겠다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/23/202611231459779437O",
      "source": "머니투데이"
-    },
-    {
-     "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
-     "url": "https://sports.khan.co.kr/article/202611221838003",
-     "source": "스포츠경향"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "대한민국 축구 국가대표팀",
-   "traffic": "500+",
-   "pubDate": "Mon, 23 Nov 2026 12:50:00 -0800",
+   "keyword": "박윤영",
+   "traffic": "200+",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
-     "url": "https://www.khan.co.kr/article/202611232009015",
+     "title": "“골목상권 살리고 돌봄 기록도 AI로”…KT·행안부, 지역문제 해결 맞손",
+     "url": "https://www.khan.co.kr/article/202611231500001",
      "source": "경향신문"
     },
     {
-     "title": "‘승격 청부사’ 증명, 1년이면 충분했다",
-     "url": "https://www.chosun.com/national/people/2026/11/23/27M7J7W5ZRCYZKWGGPNXVAMMDI/",
-     "source": "조선일보"
+     "title": "업무협약식 참석하는 윤호중 장관",
+     "url": "https://www.newsis.com/view/NISI20261123_0021543075",
+     "source": "뉴시스"
     },
     {
-     "title": "[지지대] 끝이 아닌 도전",
-     "url": "https://www.kyeonggi.com/article/20261122580324",
-     "source": "경기일보"
+     "title": "KT-행안부, 사회연대경제 AX 머리 맞댄다…춘천·청도 시범사업 착수",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=355272",
+     "source": "녹색경제신문"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "이민진",
+   "keyword": "사이드카",
    "traffic": "200+",
-   "pubDate": "Mon, 23 Nov 2026 12:40:00 -0800",
+   "pubDate": "Mon, 23 Nov 2026 16:10:00 -0800",
    "news": [
     {
-     "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "[속보] 급등장에 코스피 이어 코스닥도 '매수 사이드카'",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868050_36932.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367",
-     "source": "주간조선"
+     "title": "[속보] 코스피 장초반 5∼6% 급등…매수 사이드카 발동",
+     "url": "https://www.mk.co.kr/news/stock/12216778",
+     "source": "매일경제"
     },
     {
-     "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959",
-     "source": "연합인포맥스"
+     "title": "하나증권 \"엔비디아 젠슨 황 복귀 소식에 주가 31% 급등, AI 투심 빠르게 회복\"",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452723",
+     "source": "비즈니스포스트"
     }
    ]
   }
@@ -237,6 +239,42 @@
  "yonhapEnt": {
   "via": "연합뉴스 RSS",
   "items": [
+   {
+    "title": "영화 '아리랑' 100년의 여정…원주MBC 특집 다큐 30일 방송",
+    "url": "https://www.yna.co.kr/view/AKR20261124058100062",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 10:05:20 +0900"
+   },
+   {
+    "title": "울산울주세계산악영화제, 단편 다큐멘터리 제작팀 선발",
+    "url": "https://www.yna.co.kr/view/AKR20261124055200057",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 10:03:46 +0900"
+   },
+   {
+    "title": "TXT, 日 오리콘 15개 음반 연속 1위…해외 가수 최다 기록",
+    "url": "https://www.yna.co.kr/view/AKR20261124052600005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 09:56:06 +0900"
+   },
+   {
+    "title": "대출 위해 결혼한 김명수·표예진…'연대보증 로맨스' 내년 첫선",
+    "url": "https://www.yna.co.kr/view/AKR20261124049300005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 09:50:51 +0900"
+   },
+   {
+    "title": "[방송소식] 수지·김선호의 미스터리 로맨스…'현혹' 내년 1월 공개",
+    "url": "https://www.yna.co.kr/view/AKR20261124043300005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 09:23:49 +0900"
+   },
+   {
+    "title": "대중문화교류위, K-컬처 지식재산권 범부처 종합 점검",
+    "url": "https://www.yna.co.kr/view/AKR20261124027600005",
+    "source": "연합뉴스",
+    "pubDate": "Tue, 24 Nov 2026 08:32:34 +0900"
+   },
    {
     "title": "버벌진트, 새 앨범 발매 앞두고 20명 초청 '생맥주 음감회'",
     "url": "https://www.yna.co.kr/view/AKR20261124013300005",
@@ -260,42 +298,6 @@
     "url": "https://www.yna.co.kr/view/AKR20261123151351004",
     "source": "연합뉴스",
     "pubDate": "Mon, 23 Nov 2026 19:28:01 +0900"
-   },
-   {
-    "title": "방미심위, '치매 예방' 과장 건강정보 프로그램 등 11건에 주의",
-    "url": "https://www.yna.co.kr/view/AKR20261123158100017",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 18:10:10 +0900"
-   },
-   {
-    "title": "허키 시바세키·비프리, 내년 1월 합동 공연",
-    "url": "https://www.yna.co.kr/view/AKR20261123157900005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 17:55:19 +0900"
-   },
-   {
-    "title": "내달 팝스타 칼리드 내한공연 취소…\"티켓은 전액 환불\"",
-    "url": "https://www.yna.co.kr/view/AKR20261123157100005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 17:48:25 +0900"
-   },
-   {
-    "title": "양수경, 38년 만에 라디오 DJ…내달 1일 '한낮의 설렘' 첫 방송",
-    "url": "https://www.yna.co.kr/view/AKR20261123156200005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 17:42:53 +0900"
-   },
-   {
-    "title": "YTN라디오, 백범 김구 탄생 150주년 특집 다큐 4부작 방송",
-    "url": "https://www.yna.co.kr/view/AKR20261123151500005",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 17:23:00 +0900"
-   },
-   {
-    "title": "경찰, 음주운전 혐의 배우 고경표 오후 7시 출석 요구",
-    "url": "https://www.yna.co.kr/view/AKR20261123151300004",
-    "source": "연합뉴스",
-    "pubDate": "Mon, 23 Nov 2026 17:10:24 +0900"
    }
   ]
  },
@@ -304,105 +306,52 @@
    "query": "코스피",
    "items": [
     {
-     "title": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 - 조선일보",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU28xY0xwdmdZYk4tdFY3XzZDLWpKb0dHYVpHS08wRUJVUm1QOHJrSmRYanUtSHRvekRHc3JWMmxUQWhhV3pweXI1dGpYaUtIOEdHcElXbFRrNDl4M0xlSGx4VUxDMm04aTN5aTBXUTdDaDNEVlRIYm5XM2t2STNsag?oc=5",
-     "source": "조선일보",
-     "pubDate": "Mon, 23 Nov 2026 07:26:00 GMT"
-    },
-    {
-     "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TXc4R2ZwODZ0ZUEzRzh2aUctU0xrNVEwdzRvclFmclhiTGh1RlpzTEM2bFYwSkluSGhGUzhpbVlqYl9jcU5HWmsyZEYyZjh2aFU5Q0NtcExoNlXSAWBBVV95cUxNV3VNdEx6VzNJdkdqSFBXLUZJMlNwZElIR2RLb2NCSXdLLTBOcWw0a2dfVGxkYkN6MkFKMGxFSUh1VHVjR21JNVhVRDVrcmt2VU50ekhwOXFhdlBfZllqRUE?oc=5",
-     "source": "연합뉴스",
-     "pubDate": "Mon, 23 Nov 2026 07:11:06 GMT"
-    },
-    {
-     "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 - 한겨레",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
-     "source": "한겨레",
-     "pubDate": "Mon, 23 Nov 2026 06:13:00 GMT"
-    },
-    {
-     "title": "위기의 코스피…외국인 ‘팔자’ 언제까지? - KBS 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWU9qVVZTc2QyZ3RoNGhUVXhPLTNnSDV6WThnRkpWMXJ6WFBPZG5rNmhUUjZmQU5rOEF3NzFMTGZGZktPQXlrS0EwOWtoZEREVkk4N3d4T0laeVNRUXhjendUSWNuZw?oc=5",
-     "source": "KBS 뉴스",
-     "pubDate": "Mon, 23 Nov 2026 12:05:00 GMT"
-    },
-    {
-     "title": "AI 공포에 급락…코스피 4,700선 턱걸이 - 연합뉴스TV",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wam43VUVOOUl3Q3B3U1NQem11bktwMng0WDJIbHBLbVVmNW5KLVJEbmtEVUo0cFpxRWxJZncwWW5ldVA4SEJpRHVYcFVpSGhyUklHS09TLXkwQXdlWGI4SWM1d2VmWWc?oc=5",
-     "source": "연합뉴스TV",
-     "pubDate": "Mon, 23 Nov 2026 11:12:00 GMT"
-    },
-    {
-     "title": "[증시-마감] 코스피, 외인·개인 '팔자'에 3%대 급락…'증안펀드' 주시 - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSzNQbWVtLXY1ejdXYTBlN2ZVTUVISDd1SUl0MEtnQVhqdnVVQ0lmc3k2QnBJek81TXFzLXdTY1l2dmxYNDk4bjZVRE1oZ1hwbTVZWmt2cjhkSzJuVVhBc0RsQmwyd2xTTW9xSl9KOWs?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Mon, 23 Nov 2026 07:10:42 GMT"
-    },
-    {
-     "title": "AI 규제·미 금리 인상, 코스피 주요 변수로 부각 - YTN",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EczZyaTBwRnNVck1CWm1jYnVkZkFMNm9wTmYwZWFKODNiYUFMMGM2eDJ2NXdpSkxubWlvU1duNEFROFlaNXk3dTBwNlozMGdSR3VhSDM5ZFdWYVZyY3c?oc=5",
+     "title": "코스피 3.6% 상승 출발...엔비디아 훈풍에 삼전닉스 급등 - YTN",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfeHhQakxDck5YT195MWZYZnY5MVZNM0p1VTlhUkxFaS1wZXU5YV9FQVdZTFVVRGdaZjNsUm80RkMtYmdUdVplb2dTOTcwZndpeHgwaUF3bnR2ajNJaEw1RjBiTUwybmZRQ3ltWEl0Zw?oc=5",
      "source": "YTN",
-     "pubDate": "Mon, 23 Nov 2026 16:50:00 GMT"
+     "pubDate": "Tue, 24 Nov 2026 00:37:00 GMT"
     },
     {
-     "title": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 - 한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NbldSaFphX3BMNUkzclRsZmJvSnpuTmpJWFppdk5GX1dZQnpGN2hlcVVUeEFYaVd3eUxiR3Y5TmNCZXhVUXQ2Q0QwWXIzOTNUNnQ1dlVZWTRuUQ?oc=5",
-     "source": "한국경제",
-     "pubDate": "Mon, 23 Nov 2026 04:26:27 GMT"
-    }
-   ]
-  },
-  {
-   "query": "증시",
-   "items": [
-    {
-     "title": "증시 변동성 확대에 정부, 증시안정펀드 즉시 가동 준비 - 대한민국 정책브리핑",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iaTRYcm9zMTFGQzNsdWFvcmVFckxfdXVJZVBOZkdfRGZtcnNXOWxDQ1lTM21oT0t2eVRyMXZoYS1KdzlsZFJ6MEc1cmFqRHQwNnI5T2NncWpKWXlFZmF5RTdkSEdCZHh4RGxveA?oc=5",
-     "source": "대한민국 정책브리핑",
-     "pubDate": "Mon, 23 Nov 2026 19:30:00 GMT"
+     "title": "장초반 급등세…코스피·코스닥 매수 사이드카 - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMzhXa0VYVkJ5ckM0QXg0Szd2ZDZ6NmF0UWl2cUVIVURmdzhwRkFSczBCZmdrQ0liSnBuV3laQlpGcVlOOFFxY05NQ1V5cHprT3ZJUjg0aGVyb0k?oc=5",
+     "source": "KBS 뉴스",
+     "pubDate": "Tue, 24 Nov 2026 00:20:00 GMT"
     },
     {
-     "title": "아시아 증시, 정부 대책에도 AI 회의론 속 하락세 - 연합뉴스TV",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01bmZMS3VQYzM3WWFxSE5XVndBSUhDcE1FazF1MEoxNXM0QzRSUjJGN3NWRWsxREZlVjFlSmRqelpIQnlpMHZsTWdZRC00eVFPTXNmQnNrSGZrZmpFemhVbjBWQ0hBZUE?oc=5",
-     "source": "연합뉴스TV",
-     "pubDate": "Mon, 23 Nov 2026 20:05:00 GMT"
+     "title": "[속보]코스피 3.6% 급등 출발, 장중 5000선 도달…젠슨 황 복귀 효과 - 경향신문",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rTElyOG5kTEdQU2NEeFhqdU5pWmRhc3NtZmZEeEVKYmhLX0Z0YUJXNFBESWM2MkZpSFljdzU1WUxIZGRhcmdoT1V1a1ljMDc4TU1hRXRKcWRiQdIBX0FVX3lxTFBLOU9kLXhETmFBT0NNVDNray05SGVIbzFyRVU3Yi0tN3A2dkVhTHUzbjJtWkU0bTNaT0xicXBrdFBTdGtBX01GUHdKQzVHaDhpajYwQ1l5ak9SN0xsdk5z?oc=5",
+     "source": "경향신문",
+     "pubDate": "Tue, 24 Nov 2026 00:08:00 GMT"
     },
     {
-     "title": "[속보] 뉴욕증시, 나스닥 6%대 급등 마감‥엔비디아 31.5%↑ - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZ1otQ3hPZGFLbHdHOTBfWkJHbUxIbmdQb1I5ZkdqdFFyaUVHRDhBNlpvU2lsbnVCVUFPMndKb0JzOUQ1bkZpRnMwRW1vWEt3Y0x3c1MtMG1xMzdJendsSGNFRlBFOXZ3YTU1eHllS1I3bXdF0gF0QVVfeXFMT3dfUnFEZnpjLUk1d21LdkVJMTBjOGlkTGQyeFAtVlc3aVB6NGoxMGRuTV9jT01iTWE0a2x3azQ4R3dRVG9TbDZQVTBybTVyWjRQbUNlNWRLLWtZMlotSmRVUGpHZmRqdTZwcEtmalR0Y1FMT2Q?oc=5",
+     "title": "코스피, '젠슨황 복귀'에 5~6%대 급등…'5천피' 탈환 시도 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUkM4NEJtMjhyeGp3T2Z3MUl3d3pWNkR5Z0dYYWkzSkhKXzdlU0phME56X1A4bE9JTnVNSnE2T3RMZnEyWWJ1czY2UXloOTVWZXhIMGdjWmRyYmvSAWBBVV95cUxQTDVKejhjODVFU3AxczJFb2hhdF82RjBhUXpqWmsxM1FJd2R6Y2diX2FuN2RjZHhOc3FpUFk0dE9GVE1tYndzVXljVjdjc2ZyMTFrMG9URkZyNXdjNDhvT00?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Tue, 24 Nov 2026 00:06:34 GMT"
+    },
+    {
+     "title": "[속보] 급등장에 코스피 이어 코스닥도 '매수 사이드카' - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bVNXWjNVVmxPTWM5eDhVYkJ3aE9NbVRuZTF5a0lnZHgzNEtpR1JCV1JJd0lQdzVCNEROUGdGQWltZHp6eVJJZXF3cXlWVHVpX08zeUs4Zkp1OUFWbTFBcUJNT0RtUmI5NV9uSnlxa2taRGVv0gF0QVVfeXFMTlZURTBBRTBhYmxPVkdERUI5OTM2dHhESWhwNVpscXpodV9ZVE5WcjY2Z3RBRTdNZ2lpeko4eUdHdVRKRkJfUEZWZkRMNTBWRHhiUDZnUG1zQ3JtQkF0VVo3NndYdzVIb1ZGdHVpS0ZyeUdxS0Y?oc=5",
      "source": "MBC 뉴스",
-     "pubDate": "Mon, 23 Nov 2026 21:23:54 GMT"
+     "pubDate": "Tue, 24 Nov 2026 00:08:14 GMT"
     },
     {
-     "title": "유럽증시, 젠슨 황 복귀 호재로 기술주가 상승 주도하며 강한 반등… BESI 9.2%↑ - 뉴스핌",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iNlhNdWN6RmJIekJmc0RkYjRmVFJxM1g5WjU1VG9wdTJ4N3diNHotSkluaUVKSDFHT3Eyc2pLUGhDZS14T3ZYcXpTT0pvSFpVNThOd1BKc0w5OHot?oc=5",
-     "source": "뉴스핌",
-     "pubDate": "Mon, 23 Nov 2026 18:00:00 GMT"
+     "title": "[속보] 급등장에 코스피 이어 코스닥도 ’매수 사이드카’ - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbk1NU0ZYM2F4WXR3V2ZzZWdyNVRwV3J5WHluSVR0eEJWSWRiY3AwVFN1XzV6Q2Q4OHhlMlcwWmY2anBVY2R4NHRDOUs4TDBhb3hoTm5xTzdjV3dFYThsMGZBbW42UU0?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Tue, 24 Nov 2026 00:33:46 GMT"
     },
     {
-     "title": "[글로벌증시] 뉴욕증시, 나스닥 6%대 급등…엔비디아 31%↑ - 연합뉴스 한민족센터",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QaHhWazJ4NDdDM1VfTURETHNEdEFPdnV4VzVhMjZtOGJhWDRfOXF2M21ZYThLWkpaYWlvWjZGaFNqcXZNUGx5OFRiSjM0azJtS29hbExXSUFyczNaYWowdTU1b09tQVdkNFo2d295WkFfdHdf?oc=5",
-     "source": "연합뉴스 한민족센터",
-     "pubDate": "Mon, 23 Nov 2026 21:52:35 GMT"
+     "title": "[속보] 젠슨황 복귀에 코스피 6%대 급등…매수 사이드카 발동 - 중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNXNvMkxsSkxVUzFZYXYtQlYwSzhRVjlFMGdiOUE4RUthYXRpZXhEcnM5dl9rSUcxYWdaelg0X00wVldMejZ4cXR6M2NRZTczTllRXzF3?oc=5",
+     "source": "중앙일보",
+     "pubDate": "Tue, 24 Nov 2026 00:05:54 GMT"
     },
     {
-     "title": "[머니 컨설팅]흔들리는 증시 ‘두 번째 월급’ 준비하라 - 동아일보",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55aXlZSVV3aUJvaTZlMmotVFhIbHVyTUlpcnQtNlZubERLRlpIclJuVjVJVU1UVENCeHYyYUZicUVOUHdCSWduUmk5SHVGVW9oUk9obUdxNHNpcG1Fc2lNaVBXb0dZME0zSTlmaFdHVkNNeW9idGfSAWZBVV95cUxOTGFOVEVISWdiMloxQm04SlhLZkxIcjQ4Q2RITnlxR0ZzM0kxdm5XdWgxbjZGMGVTRHJyUk1XaHlpWVdmemtEY09HV1FqSkMyQVdHZWtDaFY4WEktUm9KZEtnUWdCWHc?oc=5",
-     "source": "동아일보",
-     "pubDate": "Mon, 23 Nov 2026 15:30:00 GMT"
-    },
-    {
-     "title": "[뉴욕증시] 젠슨 황 전격 복귀에 도파민 폭발…필리 14%↑ - KB Think",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NQVg3ZlI0VW02LXhYX2pCTENnZ09xTTFxU3FhNHZ3U2ZyU1FYcTBPcC1fcjE5S2NBelpvQzRpQmJEbVNQdHdRYU9uSEQzbnZpX2dCdXdqVW1aOWNjSUtfZXdhYm8yVlYxSEtjNWhzb1JtQQ?oc=5",
-     "source": "KB Think",
-     "pubDate": "Mon, 23 Nov 2026 21:54:13 GMT"
-    },
-    {
-     "title": "증시 급락에…소비자심리지수 7개월 만에 최저 - 매일경제 마켓",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbnM3VElNdW00dmFnZndQclpzcXBOSVhQOHpiQ2s0WnpGUnhNR3diRmM3dnpNRVpBTVp4Q2hqclM4Qjh3Wi0xb3QyU0tGc0xhMUE?oc=5",
-     "source": "매일경제 마켓",
-     "pubDate": "Mon, 23 Nov 2026 21:54:34 GMT"
+     "title": "코스피, 젠슨 황 복귀에 5%대 급반등…매수 사이드카 발동 - 전자신문",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJYXhnQ0hCVTUxU1FQYWJLN29kdVhWWUM3QzhGVWZCb2ZiRmdfQXdNdmxjQzFhOHlvcnlRTi0xVHVnWlBnb2ExTHN1enlfZw?oc=5",
+     "source": "전자신문",
+     "pubDate": "Tue, 24 Nov 2026 00:29:49 GMT"
     }
    ]
   },
@@ -410,52 +359,532 @@
    "query": "환율",
    "items": [
     {
-     "title": "달러-원, 뉴욕장서 1,340원 후반대 거래 | - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vdGhJVXpJWW4tdkVCZ2h0eXVEaEJCZllpNFNMSFRGQXRsZXQ3Vm90cU9WcnRnZ1NPYnZacHVVenN4emwydVNhZlowV3JQN2g3dzlBMXR6REl3T0xvay1PWW9FWHdPS3NoODNwamowNGR6cEtn?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Mon, 23 Nov 2026 15:07:31 GMT"
+     "title": "[환율 전망] 돌아온 탕아, 환호하는 위험자산 - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoS0g2XzlsTmtpcGFUdk52andEOXRDUEY4ekxuMnpCSXZFUjEtMWZYVDlUbWh5ZURHOU5pd0ZUcE9QZ1pNMXFsRnVWdC05c1NHYlNNQU9LbkVuazZ6SXNldg?oc=5",
+     "source": "KB Think",
+     "pubDate": "Tue, 24 Nov 2026 00:51:16 GMT"
     },
     {
-     "title": "원 달러 환율, 한때 1,350원 돌파‥\"안전자산 선호 심리\" - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dHNqQnQzYV9YMjZxQXpiSFZXZWZQc055T01kdGtZbDNaOFBpZkQxNHlsYmpSZ2gzNk1DM0cxajFPMW1QUW43STZqWHFVQ2FSVFVPQ3RNcWYySUNHd081TGFpajJObFNVbnV1Si1zLTFRT0Yt0gF0QVVfeXFMT1JDeVRfWDd4YzZqMHZSWXp2ZVl1bFh0eWpvTGV2MWtRQWYzLV93UmhNRmpfdU5WSUljQnpSVDlVNnVxOGVua3pZV25hUUNQQ2R5UnB2cFlhTlBzbmlJTnFpLTVKbXU0MjJDV2lzejZuemRWME4?oc=5",
-     "source": "MBC 뉴스",
-     "pubDate": "Mon, 23 Nov 2026 08:19:35 GMT"
-    },
-    {
-     "title": "환율, 글로벌 위험회피 심리에 상승…2주만에 장중 1,350원대 - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ldll1X3o3U2xic2hZZzlKbFhuc3plYllKYS1Uci1tTUcwZ21HRnZJcTdsdFgxd2tEc0ZwMjJ5ZlE3YU9IcF9fVHhoRWRYWjdKYjNNT3VrVXZUb1nSAWBBVV95cUxPWnplWTRBaXEzU2hSM190UVpwT2RwWDVEcmVYaUJBenM2M3c0eDlaR1h4Y2ZoLTY2YzV6UjNJQVVfX2VEbnUxOU0zTnEwckREZkc0Qk02ck1CbHFQSWlRQjA?oc=5",
+     "title": "한투증권 \"주가 하락에 외인 매도 둔화…환율 상승 압력 완화\" - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGWUlsbXZlTXRTcGgtS19sSXE0aGpBWk5NckFRN1JVOVc5clVwWXJobVoxWjhuT0Rzb01hSFliZ0NsVmxTZUtxanFZMzJZdjRCSndKSFktakxGekXSAWBBVV95cUxPRFZiaVVzd0RSTVZfSk5LUGRzcWdWbEk3VG10Yk10d2ZGVmNERUU2NnotTkhoRFdCcXFFREdMc1RiN0FKMTFLM1lISWtyaENjZGZZOUJmWnZmRE5FWkk4cFg?oc=5",
      "source": "연합뉴스",
-     "pubDate": "Mon, 23 Nov 2026 07:00:33 GMT"
+     "pubDate": "Mon, 23 Nov 2026 23:38:50 GMT"
     },
     {
-     "title": "원·달러 환율, 9.7원 오른 1345.9원 - Chosunbiz",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtKcTI4QmVtY1NxLThsaGRnbXRxODQxaWJ1YTZFN3NudFRMR0d6TmY5bGV1XzY1Q3hYM2hpRTRYX1EwWktFWXAxNlFCVlR3RGt4MGhLQ3pFZnJVTE01aU9XNXBKWEFFNEM4eHQ1WnQ4ZUkxd3NlNXdHNkpKV01SZ04zQ2xCUdIBmgFBVV95cUxPSGlPTy1NdmlNcGJvUnJZQXY1U0pYckM5ZmsxT2JuanpqM3QzaHBmb2xCTHV0T2RhamppWEZoWnBweXJhVkhrRnBZTXpvUS1nQ2ZEYlllMUI1WlNYdTBZSEp1VWhPWDNualItMEFVdkxia2RBZ2FxTkF5VG94LWhsdlBwLXVMQ0J5dGtnVThnSEt3b1cwblhnLWZB?oc=5",
+     "title": "서부발전, CEO 주도 재무 리스크 관리 강화… 환율·금리 변동성 선제 대응 - 에너지데일리",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaYVYzUDhpQk5iLUFCVHdpQmswVmNTUnBfaVpjOWVhTGtwSGF1N2x6UWlYV3prRW0zcHQwNVlnU2hiaXNvcXhvck1wYmQ0NkRhRi1FLVl1VVJrb0J1b0I3LXVNOElSSWZFYWdrVG1DX0cwZw?oc=5",
+     "source": "에너지데일리",
+     "pubDate": "Mon, 23 Nov 2026 23:55:00 GMT"
+    },
+    {
+     "title": "원·달러 환율, 5.7원 내린 1340.2원 - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemZUdTI1NnRJcWdCYVBVaFU4OGU4QWlrY2FrSGNZUkxCTmVqWnh6NmlqSlc3YmRwRnIzc2tYR1lqXzNRNVhhNmpjc3JZV2FMaUdOUU9TTGRhNHNieFoxTFg1NmE3d2M4cHIzTWhqb3FvMUlqUzZlZ0V3d0FEVEYyMTBYaXFNQdIBmgFBVV95cUxNU29XU3ZPem1XenVoVDhqeEo3Q0VRVmx0dGhHUDVmWkxfejhMOUx2UzJBZFRCcklVdEZxV0hfVl9RSF9GYzVnN2RkZkVIejc3SXdvYU4zNTVZaE5GOWp6eG00ZEhsUTMxLXQwN0lSUWxRT3ZOTzNkOU9ndjZKSVhNWWVrTjFxOFl1bndJYnBpcFc3MWRZSjlwTkZR?oc=5",
      "source": "Chosunbiz",
-     "pubDate": "Mon, 23 Nov 2026 06:42:00 GMT"
+     "pubDate": "Tue, 24 Nov 2026 00:35:00 GMT"
     },
     {
-     "title": "[외환] 원/달러 환율 9.7원 오른 1,345.9원(15:30 기준가) - 연합뉴스 한민족센터",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPMElqaEx2VDNFNWlsSHJRTnFtd3E1V3haQkNYZ1hWU2gwVUxfbVJVRlhjVk5ZUGo3SGdtcXdURDUyYXNyZk1BM2pWWlpYcnlpaGd3eGZCS01kRW1iX1dKOHp0VWRvUkdGbG9qVktQQ3gzV0ZJ?oc=5",
-     "source": "연합뉴스 한민족센터",
-     "pubDate": "Mon, 23 Nov 2026 06:30:46 GMT"
+     "title": "[표] LME 비철금속 및 환율 동향(11월 23일) - 철강금속신문",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hMTFCTjJCeWQ1dGkzdVBhM3RDZV9hM3hwVkxlZUhMSlFUc18yUXdZb1ZaSF9HYkVHZHB2OUY5Zkt0cUk4a3BlVUhFRnE3YjR0RDNTRFlnenlpZ0FkeU8zckt2UXRabzMzSGc?oc=5",
+     "source": "철강금속신문",
+     "pubDate": "Tue, 24 Nov 2026 00:21:37 GMT"
     },
     {
-     "title": "코스피 급락에 원화 약세 확대…환율 1,345.9원 마감 - 산경투데이",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNVFXaGZkbTNkZzdDNTdLUm9uVVJxZWtteEdlcTZaamlHaWYwdmhvNmYydjFfVzIyNm1uU3lDa3VMZDR2LXY3S0dWQTRSZVQxOWJtbzdBQ2c5N1BMU1ZiMk00WmpxUnZ0SkNFdGtjbXjSAXRBVV95cUxNcnF5RWlibV9ONk9VUjg4c2JqTXdxWlhQU0JPVEdrSVB2bW05dkpQeVJtSUFlRTNNTmZZZnRreFdVX2lCYjNqLWdkcl9jNXppZDJQaHBXbUZHbklIakpMSmJvcS1CMFBXNmRxd1daUWpPcGo3SQ?oc=5",
-     "source": "산경투데이",
-     "pubDate": "Mon, 23 Nov 2026 07:57:30 GMT"
+     "title": "서부발전, 사장이 직접 재무위험 챙긴다…내년 환율·금리 대응전략 점검 - 전자신문",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yUFNwRnoydmhqWkM1eTA0TVM4LWh1VllKcnFjdWR0b1cxcldIWjVZRzJBZlVySy1xZTJqOUt0T1pKeUhuc2wtRGtaUmxNZw?oc=5",
+     "source": "전자신문",
+     "pubDate": "Tue, 24 Nov 2026 01:11:46 GMT"
     },
     {
-     "title": "증시 급락에 원화도 약세…환율 9.7원↑ 1345.9원 - 대한경제",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NeU1QMmhybzA1cnc3TXU0V0FrUlBoN2xhYmxuaGxJeG8xVFltTHpGU3M3eGlCWFN4WVVoQ3hOcWlDVkluVHVFQmRoRUhCRkJaMGRxbXZOdEpQaHE1OERtbHlheFk1YUhZYlNVdUowT2dKM19M?oc=5",
-     "source": "대한경제",
-     "pubDate": "Mon, 23 Nov 2026 07:37:14 GMT"
+     "title": "원·달러 환율, 1342.6원…달러, 연준 추가 긴축 기대에 강세 - 조세일보",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96LTBsMnBfZFNsU0RwS2dKN1Q3Ym5OakxEWkpWcURKQUo3cHV0Qmt1SVhCT1plY09YeEliZ0V6dlRfSTQ2blZUV2IyT21rQnI1d2lWOElONWFtQnFOUW1J?oc=5",
+     "source": "조세일보",
+     "pubDate": "Mon, 23 Nov 2026 22:58:43 GMT"
     },
     {
-     "title": "[외환] 원·달러 환율 1345.9원 마감···9.7원↑ - 서울파이낸스",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UU1RITHNCOXp3bUhDMTJHZ3VuYURCa1hqa2NwT1hDQUV1cC1vTHJXYXhwU1hJekN2bHFMT0JZVElBT0tQN0owSE1xQzR0VkZqMGRUZ1BheVRqeEhIbmRaVF9PVTZJRmRBUHc?oc=5",
-     "source": "서울파이낸스",
-     "pubDate": "Mon, 23 Nov 2026 06:35:45 GMT"
+     "title": "환율, 1330원대 후반서 등락…美 증시 반등에도 강달러 여전 - 뉴스투데이",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMcEdlTmNGcklGMFlhdk13YkN5cU5wUExYY1BIS21lZnMxUGJzQlZGLXdHMzdReWNGbXFSdE9CMDJwN2NSM2dfcTZKVW4wMjdvME1Vd0lsTUgxNDI0ZkE?oc=5",
+     "source": "뉴스투데이",
+     "pubDate": "Tue, 24 Nov 2026 01:02:00 GMT"
+    }
+   ]
+  }
+ ],
+ "naverCollectedAt": "2026-11-24T10:36+09:00",
+ "naverNews": [
+  {
+   "query": "영화",
+   "items": [
+    {
+     "title": "배트맨이 34년 전 몰던 배트모빌 경매 나와…예상가 최대 94억원",
+     "url": "https://www.yna.co.kr/view/AKR20261123137000009?input=1195m",
+     "pubDate": "Mon, 23 Nov 2026 16:21:00 +0900"
+    },
+    {
+     "title": "'31억→9억' DMZ영화제 예산 삭감, \"축소 아닌 존폐 문제\"",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287534&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "pubDate": "Mon, 23 Nov 2026 16:51:00 +0900"
+    },
+    {
+     "title": "경기도 71% 예산 삭감…18년 이어온 국제영화제 '파행'",
+     "url": "https://www.nocutnews.co.kr/news/6611071?utm_source=naver&utm_medium=article&utm_campaign=20261123142550",
+     "pubDate": "Mon, 23 Nov 2026 14:26:00 +0900"
+    },
+    {
+     "title": "영화처럼 어선에 숨어서…밀수 재판 받던 중국인, 몰래 출국하다 ‘덜미...",
+     "url": "https://www.mk.co.kr/article/12216119",
+     "pubDate": "Mon, 23 Nov 2026 14:58:00 +0900"
+    },
+    {
+     "title": "[프로필] 강유정 문체부 장관 후보자…영화평론가 출신 게임특위 활동 ...",
+     "url": "https://zdnet.co.kr/view/?no=20261123153642",
+     "pubDate": "Mon, 23 Nov 2026 15:50:00 +0900"
+    },
+    {
+     "title": "중국, 한국 게임·영화 빗장 풀고 K팝은 잠근 이유는",
+     "url": "https://www.sidae.com/article/2026112314153419721",
+     "pubDate": "Tue, 24 Nov 2026 06:12:00 +0900"
+    },
+    {
+     "title": "“영화처럼…” 밀수 혐의 재판받던 중국인, 어선 타고 밀항 시도하다 ...",
+     "url": "https://www.segye.com/newsView/20261123507894?OutUrl=naver",
+     "pubDate": "Mon, 23 Nov 2026 12:08:00 +0900"
+    },
+    {
+     "title": "\"31억→9억\"…영화인들, DMZ영화제 경기도 예산 삭감에 반발",
+     "url": "https://www.newsis.com/view/NISX20261123_0003879534",
+     "pubDate": "Mon, 23 Nov 2026 15:44:00 +0900"
+    },
+    {
+     "title": "방한 외국인에 영화·쇼핑 할인…CJ ONE, 쿠폰팩 무료 제공",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03024166645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "pubDate": "Mon, 23 Nov 2026 16:06:00 +0900"
+    },
+    {
+     "title": "DMZ국제영화제 예산 급감…경기도의회 \"이럴거면 일몰시켜야\"",
+     "url": "https://www.news1.kr/local/gyeonggi/6363102",
+     "pubDate": "Mon, 23 Nov 2026 15:58:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "드라마",
+   "items": [
+    {
+     "title": "젠슨 황의 드라마 같은 복귀, 어떻게 이뤄졌나?",
+     "url": "https://www.nocutnews.co.kr/news/6611484?utm_source=naver&utm_medium=article&utm_campaign=20261124092400",
+     "pubDate": "Tue, 24 Nov 2026 09:24:00 +0900"
+    },
+    {
+     "title": "김서형, 건강 악화로 드라마 '대시' 하차…박보경 대체 투입",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880341",
+     "pubDate": "Tue, 24 Nov 2026 09:27:00 +0900"
+    },
+    {
+     "title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
+     "url": "https://www.mk.co.kr/article/12216766",
+     "pubDate": "Tue, 24 Nov 2026 08:55:00 +0900"
+    },
+    {
+     "title": "‘음주운전’으로 팀 탈퇴했는데…6년 만에 드라마로 복귀하는 ‘아이...",
+     "url": "https://biz.heraldcorp.com/article/10946604?ref=naver",
+     "pubDate": "Mon, 23 Nov 2026 19:28:00 +0900"
+    },
+    {
+     "title": "김서형, 건강 악화로 드라마 하차…박보경 대체 투입 [공식입장]",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525795",
+     "pubDate": "Tue, 24 Nov 2026 09:40:00 +0900"
+    },
+    {
+     "title": "'53세' 김서형, 드라마 중도 하차했다…이유는 건강 악화, 4년 만의 복귀...",
+     "url": "https://www.tenasia.co.kr/article/2026112456014",
+     "pubDate": "Tue, 24 Nov 2026 07:57:00 +0900"
+    },
+    {
+     "title": "김서형, 4년만 드라마 복귀 무산 “건강 문제로 ‘대시’ 하차” [공식...",
+     "url": "https://www.newsen.com/news_view.php?uid=202611241000432410",
+     "pubDate": "Tue, 24 Nov 2026 10:01:00 +0900"
+    },
+    {
+     "title": "한상진, 부산시 홍보대사 하더니..부산 배경 드라마도 출연",
+     "url": "https://www.starnewskorea.com/broadcast-drama/2026/11/24/2026112408582146345",
+     "pubDate": "Tue, 24 Nov 2026 09:30:00 +0900"
+    },
+    {
+     "title": "\"드라마 본 적도 없는데\"…경복궁 장악한 2030 '장금이들' [박수빈의 발...",
+     "url": "https://www.hankyung.com/article/202611234246H",
+     "pubDate": "Mon, 23 Nov 2026 19:01:00 +0900"
+    },
+    {
+     "title": "'음주운전 탈퇴' 임영민, 떠난 지 6년 만 BL 드라마 주연…이동건과 연...",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-23/202611230100140770013167",
+     "pubDate": "Mon, 23 Nov 2026 10:54:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "연예",
+   "items": [
+    {
+     "title": "고규필 아빠 됐다…에이민 득녀에 “인생 가장 잘한 일”",
+     "url": "https://www.mk.co.kr/article/12216171",
+     "pubDate": "Mon, 23 Nov 2026 15:36:00 +0900"
+    },
+    {
+     "title": "포미닛 전지윤, 오늘(22일) 비연예인 연인과 결혼",
+     "url": "https://news.jtbc.co.kr/article/NB12329253?influxDiv=NAVER",
+     "pubDate": "Sun, 22 Nov 2026 15:24:00 +0900"
+    },
+    {
+     "title": "'음주운전' 임영민, 이동건과 BL물로 연예계 복귀",
+     "url": "https://www.mydaily.co.kr/page/view/2026112308163978961",
+     "pubDate": "Mon, 23 Nov 2026 08:17:00 +0900"
+    },
+    {
+     "title": "[문화연예 플러스] 아이유, K팝 여성 솔로 가수 최초 '도쿄돔' 입성",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868014_37012.html",
+     "pubDate": "Tue, 24 Nov 2026 06:53:00 +0900"
+    },
+    {
+     "title": "연예계 결혼 소식 또 터졌다…코미디언 박강균♥구혜리, 내년 3월 백년가...",
+     "url": "https://www.tenasia.co.kr/article/2026112341174",
+     "pubDate": "Mon, 23 Nov 2026 13:54:00 +0900"
+    },
+    {
+     "title": "군 복무 논란 연예인들과 달랐다…BTS 뷔, 예비군 조기 퇴소 이유",
+     "url": "https://www.tvreport.co.kr/breaking/article/1093268/",
+     "pubDate": "Tue, 24 Nov 2026 10:08:00 +0900"
+    },
+    {
+     "title": "전지윤, 오늘(22일) 비연예인 연인과 결혼",
+     "url": "https://www.sportsseoul.com/news/read/1651406?ref=naver",
+     "pubDate": "Sun, 22 Nov 2026 11:41:00 +0900"
+    },
+    {
+     "title": "고경표까지 섰다…음주운전에 고개 숙인 연예계 포토라인 흑역사 [스경...",
+     "url": "https://sports.khan.co.kr/article/202611241020003?pt=nv",
+     "pubDate": "Tue, 24 Nov 2026 10:21:00 +0900"
+    },
+    {
+     "title": "\"연예인들 자숙하러 오기 좋아\"…유재석, 동료들 잇단 논란 속 '공교로...",
+     "url": "https://www.xportsnews.com/article/2222151",
+     "pubDate": "Tue, 24 Nov 2026 06:33:00 +0900"
+    },
+    {
+     "title": "\"예뻐서 나만 보려 했는데\"..그리, 해병대 기다린 ♥여자친구 공개 '연예...",
+     "url": "http://www.osen.co.kr/article/G1112914107",
+     "pubDate": "Tue, 24 Nov 2026 08:43:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "경제",
+   "items": [
+    {
+     "title": "[속보] 李대통령 “올해 경제성장률 4% 가까울 것이란 전망 나와”",
+     "url": "https://www.mk.co.kr/article/12216887",
+     "pubDate": "Tue, 24 Nov 2026 10:15:00 +0900"
+    },
+    {
+     "title": "\"미국 경제 번영 위해 젠슨 황 필요\"…트럼프의 결정적 역할",
+     "url": "https://www.hankyung.com/article/2026112455167",
+     "pubDate": "Tue, 24 Nov 2026 07:06:00 +0900"
+    },
+    {
+     "title": "경제6단체 만난 정점식 원내대표",
+     "url": "https://www.yna.co.kr/view/PYH20261123164200013?input=1196m",
+     "pubDate": "Mon, 23 Nov 2026 16:25:00 +0900"
+    },
+    {
+     "title": "경제 심리도 '꽁꽁'…소비자 주택가격전망 6년 반 만에 최대폭 급락",
+     "url": "https://www.pressian.com/pages/articles/2026112406350103276?utm_source=naver&utm_medium=search",
+     "pubDate": "Tue, 24 Nov 2026 10:02:00 +0900"
+    },
+    {
+     "title": "민주당-경제6단체 부회장 간담회",
+     "url": "https://www.newsis.com/view/NISI20261123_0021543150",
+     "pubDate": "Mon, 23 Nov 2026 15:59:00 +0900"
+    },
+    {
+     "title": "최운백 대구시 경제부시장, 취임 첫 행보로 경제계∙스타트업 현장 찾아",
+     "url": "https://www.segye.com/newsView/20261123514625?OutUrl=naver",
+     "pubDate": "Mon, 23 Nov 2026 16:48:00 +0900"
+    },
+    {
+     "title": "경제6단체 만난 정점식 원내대표",
+     "url": "https://www.yna.co.kr/view/PYH20261123163800013?input=1196m",
+     "pubDate": "Mon, 23 Nov 2026 16:25:00 +0900"
+    },
+    {
+     "title": "경제6단체 만난 정점식 원내대표",
+     "url": "https://www.yna.co.kr/view/PYH20261123163600013?input=1196m",
+     "pubDate": "Mon, 23 Nov 2026 16:23:00 +0900"
+    },
+    {
+     "title": "경제6단체 만난 정점식 원내대표",
+     "url": "https://www.yna.co.kr/view/PYH20261123163700013?input=1196m",
+     "pubDate": "Mon, 23 Nov 2026 16:23:00 +0900"
+    },
+    {
+     "title": "정점식 원내대표, 경제6단체 간담회",
+     "url": "https://www.yna.co.kr/view/PYH20261123163400013?input=1196m",
+     "pubDate": "Mon, 23 Nov 2026 16:23:00 +0900"
+    }
+   ]
+  }
+ ],
+ "naverBlogs": [
+  {
+   "query": "세종의사당",
+   "items": [
+    {
+     "title": "국회세종의사당 분원 조항 삭제안, 3조7,000억 계획엔 본회의장이 없....",
+     "url": "https://blog.naver.com/glocalsejong/224489383208",
+     "blogger": "애민경제 | 경제·산업·비즈니스 리포트",
+     "bloggerUrl": "https://blog.naver.com/glocalsejong",
+     "postdate": "20261124",
+     "summary": "“ 황운하 의원은 11월 23일 국회세종의사당을 국회 분원으로 정한 국회법 제22조의5를 삭제하는 개정안을 대표 발의했습니다. ” 지금의 약 3조7,000억 원 계획은 이 분원 조항에 맞춰 본회의장과..."
+    },
+    {
+     "title": "[시사이슈] 국회 세종의사당 2033년 완공까지 남은 절차와 이전 기능 ....",
+     "url": "https://blog.naver.com/feelsogood-sofine/224403555583",
+     "blogger": "이것저것 요모조모 생활정보",
+     "bloggerUrl": "https://blog.naver.com/feelsogood-sofine",
+     "postdate": "20260907",
+     "summary": "national-assembly-sejong-completion-plan-국회 세종 의사당 이전 및 완공 일정 ‘국회 세종의사당 2029년 예정’이라는 정보를 기억하고 계신 분이라면 2033년이라는 현재 일정이 낯설"
+    },
+    {
+     "title": "세종 국회의사당 완공 언제? 착공 2029년·준공 2033년 최신 정리",
+     "url": "https://blog.naver.com/jjanggufather/224406520552",
+     "blogger": "세가족 일상연구소",
+     "bloggerUrl": "https://blog.naver.com/jjanggufather",
+     "postdate": "20260910",
+     "summary": "국회세종의사당은 국회법상 국회의 \"분원\"이고, 지금 목표는 2029년 2월 착공, 2033년 3월 준공이에요. 2031년은 2023년 무렵에 통용되던 예전 추정치고요. 항목 내용 정식 명칭 국회세종의사당 (국회법상 "
+    },
+    {
+     "title": "세종 국회의사당 착공 2029년 목표, 부지 위치와 가까운 아파트 34평 ....",
+     "url": "https://blog.naver.com/modu_sejong/224485882708",
+     "blogger": "세종 지원부동산",
+     "bloggerUrl": "https://blog.naver.com/modu_sejong",
+     "postdate": "20261121",
+     "summary": "세종 국회의사당은 세종동(S-1생활권) 약 63만 1,000㎡ 부지에 들어서고, 12개 위원회 회의실과 국회예산정책처·국회입법조사처가 세종으로 옵니다(국회세종의사당 규칙 제2조·제4조). 2. 2026년 5월..."
+    },
+    {
+     "title": "국회의사당 2033년 세종시 준공 목표, 국회의원·보좌진은 얼마나 이....",
+     "url": "https://blog.naver.com/cornellmath2701/224452634651",
+     "blogger": "데일리픽",
+     "bloggerUrl": "https://blog.naver.com/cornellmath2701",
+     "postdate": "20261025",
+     "summary": "국회 세종의사당은 2033년 준공을 목표로 추진되고 있으며, 이전 대상 11개 상임위원회 소속 국회의원 약 240명이 세종에서 의정활동을 할 것으로 예상됩니다. 다만 240명은 과거 한국은행 분석에 제시된..."
+    },
+    {
+     "title": "국회세종의사당, 지금 어디까지 왔을까? 조정식 의장 세종 방문으로....",
+     "url": "https://blog.naver.com/news33net/224426133291",
+     "blogger": "창업일보",
+     "bloggerUrl": "https://blog.naver.com/news33net",
+     "postdate": "20260929",
+     "summary": "오늘은 이 소식을 중심으로 국회세종의사당 건립이 지금 어느 단계에 와 있는지 차근차근 풀어볼게요. 먼저 결론부터 말씀드리면, 국회는 이미 규모와 사업비, 설계 방식 같은 큰 틀을 정해 뒀고, 이번에는..."
+    },
+    {
+     "title": "국회 세종의사당 위치와 이전 대상, 11개 상임위와 예결위가 중심이....",
+     "url": "https://blog.naver.com/mdbyeol/224444130419",
+     "blogger": "베리로그",
+     "bloggerUrl": "https://blog.naver.com/mdbyeol",
+     "postdate": "20261017",
+     "summary": "국회 세종의사당은 세종시 세종동 S-1생활권에 들어서는 계획이에요 현행 규칙에 담긴 중심 기능은 11개 상임위원회와 예산결산특별위원회의 회의 활동이고요 해당 의원사무실과 국회 업무를 지원하는..."
+    },
+    {
+     "title": "세종 국회의사당 어디까지 왔나? 9월 29일 예정부지 현장점검과 향후....",
+     "url": "https://blog.naver.com/shinhh9019/224425631687",
+     "blogger": "오늘의 알고리즘 일기장",
+     "bloggerUrl": "https://blog.naver.com/shinhh9019",
+     "postdate": "20260929",
+     "summary": "국회 세종의사당 어디까지 왔나? 9월 29일 예정부지 현장점검과 향후 일정 총정리 대한민국 입법부의 중심축을 세종특별자치시로 확장하는 '국회 세종시대' 준비 작업이 현장 중심으로 속도를 내고 있다. 법적..."
+    },
+    {
+     "title": "국회세종의사당 예산 집행률 1.7%, 내년 예산은 24.5% 늘었다?",
+     "url": "https://blog.naver.com/glocalsejong/224478645841",
+     "blogger": "애민경제 | 경제·산업·비즈니스 리포트",
+     "bloggerUrl": "https://blog.naver.com/glocalsejong",
+     "postdate": "20261116",
+     "summary": "“ 국회세종의사당 건립비는 2019년부터 2026년까지 2,153억6,700만 원이 편성됐지만, 2026년 7월 말까지 집행된 돈은 36억4,600만 원으로 1.7%입니다. ” 그런데도 2027년 정부안이 24.5%"
+    },
+    {
+     "title": "오송역에서 국회세종의사당까지, 버스 한 번에… BRT로 달린다!",
+     "url": "https://blog.naver.com/macc2030/224479359277",
+     "blogger": "행정중심복합도시건설청",
+     "bloggerUrl": "https://blog.naver.com/macc2030",
+     "postdate": "20261116",
+     "summary": "오늘 전해드릴 소식은 국회세종의사당 입주에 따라 늘어날 교통 수요에 대비해 오송역~국회세종의사당~ 세종고속시외버스터미널을 잇는 BRT 노선 신설을 추진 소식입니다! 앞으로 KTX 오송역에서..."
+    }
+   ]
+  },
+  {
+   "query": "세인트루이스 시티 sc 대 엘에이 fc",
+   "items": [
+    {
+     "title": "세인트루이스 시티 SC 대 엘에이 FC 플레이오프 1차전, 오늘 밤 개막",
+     "url": "https://blog.naver.com/alsgud3221/224489591981",
+     "blogger": "제온소프트",
+     "bloggerUrl": "https://blog.naver.com/alsgud3221",
+     "postdate": "20261124",
+     "summary": "특히 세인트루이스 시티 SC 대 엘에이 FC 경기가 오늘 밤(현지시간 11월 23일 월요일) 열린다고 하더라고요. 검색량도 갑자기 1만 건 넘게 치솟았다는데, 관심이 꽤 많은가 봅니다.  ▲ AI가 만든 이미지로.."
+    },
+    {
+     "title": "손흥민 플레이오프 일정 총정리 – LAFC vs 세인트루이스 1차전 11월 24....",
+     "url": "https://blog.naver.com/joara8285/224469848842",
+     "blogger": "오늘 뭐 볼까?",
+     "bloggerUrl": "https://blog.naver.com/joara8285",
+     "postdate": "20261109",
+     "summary": "사운더스 대 엘에이 FC'가 하루 5만 회 이상 검색되며 올라왔습니다(연관 검색어: 손흥민, 김기희)... 핵심 요약 — 30초 정리 1라운드 상대: 서부 3위 세인트루이스 시티 SC (한국인 공격수 정상빈..."
+    },
+    {
+     "title": "9월29일-10월3일 주간 키워드 검색량 리스트",
+     "url": "https://blog.naver.com/zeenty/224063155366",
+     "blogger": "지니의 아카이브",
+     "bloggerUrl": "https://blog.naver.com/zeenty",
+     "postdate": "20251103",
+     "summary": "1만이상의 키워드 검색량 리스트 세인트루이스 시티 sc 대 엘에이 fc 20만+ 세인트루이스 시티 sc 대 엘에이 fc,해외축구 내일 날씨 20만+ 내일 날씨,서울 날씨,서울날씨,기상청 날씨누리,오늘날씨..."
+    },
+    {
+     "title": "세인트루이스 시티 SC 대 엘에이 FC",
+     "url": "https://blog.naver.com/1200ml/224025264310",
+     "blogger": "편안한 휴식",
+     "bloggerUrl": "https://blog.naver.com/1200ml",
+     "postdate": "20250929",
+     "summary": "오늘 이야기할 주제는 바로 **세인트루이스 시티 SC 대 엘에이 FC**의 흥미진진한 맞대결입니다.... ### 예측불허의 승부, 팬들의 가슴을 뛰게 할 명경기 이처럼 **세인트루-이스 시티 SC 대 엘에이 FC**"
+    },
+    {
+     "title": "새벽에 슬쩍 챙겨 본 MLS 이야기",
+     "url": "https://blog.naver.com/lkj-2023/224217336764",
+     "blogger": "메모장-“",
+     "bloggerUrl": "https://blog.naver.com/lkj-2023",
+     "postdate": "20260315",
+     "summary": "이번에 본 LAFC 대 세인트루이스 시티 SC 경기도 자연스럽게 아니, 엘에이 FC인데 안 챙겨 볼 수가 없다. 미국 로스앤젤레스의 BMO 스타디움에서 열린 경기였는데, 전체적으로 보면 LAFC 쪽 분위기가 조금 더"
+    },
+    {
+     "title": "9월27일-9월28일 주말 키워드 검색량 리스트",
+     "url": "https://blog.naver.com/zeenty/224028658770",
+     "blogger": "지니의 아카이브",
+     "bloggerUrl": "https://blog.naver.com/zeenty",
+     "postdate": "20251001",
+     "summary": "18명의 당첨자 약 15억원 당첨금 주말 한강공원에 불꽃축가 있었죠 세인트루이스 시티 sc 대 엘에이 fc 20만+ 세인트루이스 시티 sc 대 엘에이 fc,정상빈,손흥민,mls 순위,로스앤젤레스 fc..."
+    },
+    {
+     "title": "10월4일-10월5일 주말 키워드 검색량 리스트",
+     "url": "https://blog.naver.com/zeenty/224063164041",
+     "blogger": "지니의 아카이브",
+     "bloggerUrl": "https://blog.naver.com/zeenty",
+     "postdate": "20251103",
+     "summary": "1만 이상의 키워드 검색량 엘에이 fc 대 애틀랜타 유나이티드 20만+ 엘에이 fc 대 애틀랜타... 오스틴 대 세인트루이스 시티 sc 1만+ 오스틴 대 세인트루이스 시티 sc ufc 1만+ ufc,alex pere"
+    },
+    {
+     "title": "10월6일-10월10일 주간 키워드 검색량 리스트",
+     "url": "https://blog.naver.com/zeenty/224063204030",
+     "blogger": "지니의 아카이브",
+     "bloggerUrl": "https://blog.naver.com/zeenty",
+     "postdate": "20251103",
+     "summary": "국가대표팀,브라질전 엘에이 fc 대 토론토 20만+ 엘에이 fc 대 토론토 엘에이 fc 대 애틀랜타... 대구,세징야,k리그1,대구fc,대구 fc 오스틴 대 세인트루이스 시티 sc 1만+ 오스틴 대 세인트루이스 시티"
+    },
+    {
+     "title": "오늘 손흥민 경기 중계 2025년 09월 28일 세인트루이스 시티 SC LA FC 경....",
+     "url": "https://blog.naver.com/tlsehflq/224024277177",
+     "blogger": "감귤소녀",
+     "bloggerUrl": "https://blog.naver.com/tlsehflq",
+     "postdate": "20250928",
+     "summary": "MLS · 오늘 오전 9:30 세인트루이스 시티 SC 엘에이 FC LAFC 실시간 생중계 세인트루이스 홈구장인 에너자이저 파크는 열정적인 팬들의 응원으로 유명해, 원정팀인 LAFC에 부담을 주는 환경입니다. 그럼에도"
+    },
+    {
+     "title": "LAFC 대 세인트루이스 시티 손흥민 대 정상빈 9월 28일 라인업 전망 생....",
+     "url": "https://blog.naver.com/sunnydalo/224024316489",
+     "blogger": "써니데이즈의 여행 노트",
+     "bloggerUrl": "https://blog.naver.com/sunnydalo",
+     "postdate": "20250928",
+     "summary": "LAFC 대 세인트루이스 시티 손흥민 대 정상빈 9월 28일 라인업 전망... LAFC (엘에이 FC) 공격 : 부앙가 – 손흥민 – 모란 미드필드 : 델가도... 세인트루이스 시티 SC 공격 : 정상빈 – 드멜로 "
+    }
+   ]
+  },
+  {
+   "query": "우지원",
+   "items": [
+    {
+     "title": "우지원 딸 우서윤 미스코리아 진, 175cm 비주얼 화제… 아침마당 볼뽀....",
+     "url": "https://blog.naver.com/nana8272/224489561041",
+     "blogger": "오늘의 이슈요정✨",
+     "bloggerUrl": "https://blog.naver.com/nana8272",
+     "postdate": "20261124",
+     "summary": "우지원 딸 우서윤 미스코리아 진, 175cm 비주얼 화제… 아침마당 볼뽀뽀 부녀모습 전 농구선수 우지원의 딸이자 2026 미스코리아 진에 오른... 11월 24일 KBS1TV '아침마당'에 아버지 우지원과 함께 등장"
+    },
+    {
+     "title": "우지원 프로필 딸 우서윤 아내 와이프 이교영 근황",
+     "url": "https://blog.naver.com/issutoday/224489391272",
+     "blogger": "행복하자",
+     "bloggerUrl": "https://blog.naver.com/issutoday",
+     "postdate": "20261124",
+     "summary": "우지원 프로필 딸 우서윤 아내 와이프 이교영 근황 전 프로농구 선수 우지원은 현재 장녀 우서윤의 2026 미스코리아 진 당선이라는 기쁜... 우지원은 이후 딸과 함께 방송에 동반 출연해 역전 3점슛을 넣은..."
+    },
+    {
+     "title": "“아빠가 더 관리해요?” 우지원 딸 우서윤, 175cm 미스코리아 진의 ....",
+     "url": "https://blog.naver.com/jalanika/224489540024",
+     "blogger": "황금돼지 TV",
+     "bloggerUrl": "https://blog.naver.com/jalanika",
+     "postdate": "20261124",
+     "summary": "바로 전 농구선수 우지원의 첫째 딸이자 2026 미스코리아 진에 오른... 바로 아버지 우지원의 남다른 외모 관리 습관인데요. 24일 KBS 1TV ‘아침마당’에 우지원과 딸 우서윤이 함께 출연했습니다. 175cm의"
+    },
+    {
+     "title": "우지원 이혼 사유 와이프 이경희 프로필 및 선풍기 사건 진실 직접 ....",
+     "url": "https://blog.naver.com/velvetwish/224278131981",
+     "blogger": "벨벳위시",
+     "bloggerUrl": "https://blog.naver.com/velvetwish",
+     "postdate": "20260507",
+     "summary": "우지원 이혼 사유 와이프 이경희 프로필 및 선풍기 사건 진실 직접 정리 우지원은 1990년대 대한민국 농구 코트를 수놓았던 황태자로... 이들이 우지원 와이프 누구인지 그리고 17년이라는 긴 시간을 함께한..."
+    },
+    {
+     "title": "5년 동안 이혼을 숨겼던 스타…딸의 왕관 뒤에 다시 보인 \"아빠의 무....",
+     "url": "https://blog.naver.com/fandom15/224405984720",
+     "blogger": "팬덤돌",
+     "bloggerUrl": "https://blog.naver.com/fandom15",
+     "postdate": "20260909",
+     "summary": "받았던 우지원. 그런데 정작 인생에서 가장 힘든 시기는 아무에게도... 그런 우지원이 최근 다시 주목받은 이유는 의외였습니다. 딸... 보냈습니다 우지원은 2002년 이교영 씨와 결혼해 두 딸을 두었습니다. 농구.."
+    },
+    {
+     "title": "경찰까지 불렀던 우지원 부부… 이혼 후 아내에게 고맙다는 이유",
+     "url": "https://blog.naver.com/ruamee7/224322866617",
+     "blogger": "써니의 연예핫이슈톡",
+     "bloggerUrl": "https://blog.naver.com/ruamee7",
+     "postdate": "20260622",
+     "summary": "이번 우지원 이야기를 보면서 딱 그런 생각이 들었습니다 한때는... 사건 우지원 하면 아직도 많은 사람들이 과거 사건을 먼저 떠올립니다 2014년 우지원은 술에 취한 상태에서 아내와 말다툼을 벌였고 그..."
+    },
+    {
+     "title": "소문난 님과 함께 농구스타 우지원 딸 우서윤, 태권도 변재영 출연! ....",
+     "url": "https://blog.naver.com/qhrfks1004/224489362285",
+     "blogger": "♥라니의 달콤한세상이야기♥",
+     "bloggerUrl": "https://blog.naver.com/qhrfks1004",
+     "postdate": "20261124",
+     "summary": "소문난 님과 함께 우지원 우서윤 변재영 출연! 나이 프로필과... 특히 우지원의 딸 우서윤은 2026년 미스코리아 진에 당선되면서... 우지원 나이 프로필 – 코트의 황태자 우지원 - 출생: 1973년 4월 2일 -"
+    },
+    {
+     "title": "우지원 나이 프로필 키 고향 학력 연봉 결혼 이혼 딸 우서윤 미스코....",
+     "url": "https://blog.naver.com/woohasis/224409504327",
+     "blogger": "스포츠의 모든 순간",
+     "bloggerUrl": "https://blog.naver.com/woohasis",
+     "postdate": "20260914",
+     "summary": "1990년대 농구를 기억하는 사람이라면 우지원이라는 이름이 낯설지 않을 것 같습니다. 연세대... 우지원 프로필 구분 내용 이름 우지원 출생 1973년 4월 2일 나이 만 53세 고향 서울특별시 국적 대한민국 키 1"
+    },
+    {
+     "title": "우지원 이혼 사유 및 자녀 양육 현황 5년 만의 고백 직접 정리",
+     "url": "https://blog.naver.com/arumari2/224270909927",
+     "blogger": "아름아리",
+     "bloggerUrl": "https://blog.naver.com/arumari2",
+     "postdate": "20260430",
+     "summary": "우지원 이혼 사유 및 자녀 양육 현황 5년 만의 고백 직접 정리 스포츠 스타 출신 방송인 우지원이 5년이라는 긴 시간 동안 함구해왔던 이혼... 우지원은 2019년에 이미 법적으로 이혼 절차를 마친 상태였던 것으로."
+    },
+    {
+     "title": "우지원 딸은 미스코리아 진, 전희철 딸은? 40년 절친이 딸들에게 물....",
+     "url": "https://blog.naver.com/dojin1983/224471145585",
+     "blogger": "공감's drama",
+     "bloggerUrl": "https://blog.naver.com/dojin1983",
+     "postdate": "20261110",
+     "summary": "1990년대 농구대잔치를 기억하는 사람이라면 전희철과 우지원이라는... 연세대 우지원으로 갈라지며 한국 농구를 대표하는 라이벌이 됐다.... 우지원은 해설과 방송, 공연 무대로 활동 영역을 넓히며 대중과..."
     }
    ]
   }
