@@ -1,235 +1,235 @@
 {
  "date": "2026-11-26",
- "collectedAt": "2026-11-26T07:48+09:00",
+ "collectedAt": "2026-11-26T10:35+09:00",
  "errors": [],
  "googleTrends": [
   {
    "rank": 1,
-   "keyword": "삼성중공업",
-   "traffic": "100+",
-   "pubDate": "Wed, 25 Nov 2026 13:40:00 -0800",
+   "keyword": "기장군",
+   "traffic": "200+",
+   "pubDate": "Wed, 25 Nov 2026 16:30:00 -0800",
    "news": [
     {
-     "title": "삼성중공업 정기 임원인사…부사장 3명·상무 6명 승진",
-     "url": "https://www.yna.co.kr/view/AKR20261125064600003",
+     "title": "우성빈 기장군수 \"내년 1인당 30만원 지급…예산 534억원 편성\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125133900051",
      "source": "연합뉴스"
     },
     {
-     "title": "‘이왕근號’ 삼성重, 해양사업 고삐⋯ FLNG·다각화 ‘정조준’",
-     "url": "https://www.viva100.com/article/20261125500916",
-     "source": "브릿지경제"
+     "title": "부산 기장군, 군의회에 내년도 본예산안 8459억원 제출",
+     "url": "https://busan.fnnews.com/news/202611251409091520",
+     "source": "부산파이낸셜뉴스"
     },
     {
-     "title": "삼성중공업, 임원 10명 인사…AI 조선소·기술 경쟁력에 초점",
-     "url": "https://zdnet.co.kr/view/?no=20261125100741",
-     "source": "지디넷코리아"
+     "title": "우성빈 기장군수, 민선 9기 첫 시정 연설…“2027년 군민이 체감하는 결실의 해 될 것”",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261125.99099008118",
+     "source": "국제신문"
     }
    ]
   },
   {
    "rank": 2,
-   "keyword": "한국대학신문",
-   "traffic": "100+",
-   "pubDate": "Wed, 25 Nov 2026 13:40:00 -0800",
+   "keyword": "금리",
+   "traffic": "200+",
+   "pubDate": "Wed, 25 Nov 2026 16:00:00 -0800",
    "news": [
     {
-     "title": "최교진 사퇴에 교원단체들 “수능 AI 부정 대비 부족…리더십 한계”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719643",
-     "source": "KBS 뉴스"
+     "title": "[속보] 한은, 기준금리 3.25%로 0.25%p 인상",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[이수정칼럼] 장관 사직으로 해결될 수 없다",
-     "url": "https://www.joongboo.com/news/articleView.html?idxno=363743535",
-     "source": "중부일보"
+     "title": "[속보] 한은 금통위, 기준금리 3.25%로 인상…성장률 전망 크게 올려",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/26/QHU66I3RJZBGXIWFGGYZRF6XRU/",
+     "source": "조선일보"
     },
     {
-     "title": "[돌발영상] \"사퇴하라면 해야죠\"라더니… 사실상 경질?",
-     "url": "https://www.ytn.co.kr/_ln/0498_202611231627207463",
-     "source": "YTN"
+     "title": "[속보] 한은 기준금리 연 3%→3.25% 인상…다시 긴축 박차 가한다",
+     "url": "https://www.joongang.co.kr/article/25482145",
+     "source": "중앙일보"
     }
    ]
   },
   {
    "rank": 3,
-   "keyword": "알테오젠",
-   "traffic": "100+",
-   "pubDate": "Wed, 25 Nov 2026 13:30:00 -0800",
+   "keyword": "시청률",
+   "traffic": "5000+",
+   "pubDate": "Wed, 25 Nov 2026 16:00:00 -0800",
    "news": [
     {
-     "title": "김규완 알테오젠 부사장, 보건의료기술진흥 유공 대통령표창",
-     "url": "https://pharm.edaily.co.kr/News/Read?newsId=02830646645649328",
-     "source": "팜이데일리"
+     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
+     "url": "https://www.joongang.co.kr/article/25481953",
+     "source": "중앙일보"
     },
     {
-     "title": "최인영 한미약품 부사장 등 보건산업 발전 기여 유공자 포상",
-     "url": "https://www.yna.co.kr/view/AKR20261124152200530",
+     "title": "악연 같은 박민영·육성재의 첫 만남…'나인 투 식스' 3.6% 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261126036100005",
      "source": "연합뉴스"
     },
     {
-     "title": "지엘팜텍 김용일 대표 보건산업진흥원장 표창…'레코플라본' 성과 인정 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/thebio/2026/11/25/2026112514064342976",
-     "source": "머니투데이"
+     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
+     "url": "https://www.fnnews.com/news/202611252205108656",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "rank": 4,
-   "keyword": "법학적성시험",
-   "traffic": "2000+",
-   "pubDate": "Wed, 25 Nov 2026 13:20:00 -0800",
+   "keyword": "광주은행",
+   "traffic": "100+",
+   "pubDate": "Wed, 25 Nov 2026 16:00:00 -0800",
    "news": [
     {
-     "title": "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
-     "url": "https://www.khan.co.kr/article/202611251415001",
-     "source": "경향신문"
+     "title": "광주은행 대학생 홍보대사 해단…6개월 활동 마무리",
+     "url": "https://www.mhns.co.kr/news/articleView.html?idxno=770729",
+     "source": "더쎈뉴스"
     },
     {
-     "title": "AI로 되살아난 고인...조롱의 도구된 딥페이크 [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611251911244877",
-     "source": "YTN"
+     "title": "광산구·광주은행 노사, 청년이 머무는 지역 만들기에 뜻 모아",
+     "url": "https://www.welfarenews.net/news/articleView.html?idxno=213101",
+     "source": "웰페어뉴스"
     },
     {
-     "title": "‘리트 만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722251",
-     "source": "KBS 뉴스"
+     "title": "박병규 광산구청장, “광산구가 청년 수도권 뺏기지 않게 할 정책 마련”",
+     "url": "http://www.ngtv.tv/news/articleView.html?idxno=126662",
+     "source": "NGTV"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "삼성그룹",
-   "traffic": "100+",
-   "pubDate": "Wed, 25 Nov 2026 13:20:00 -0800",
+   "keyword": "조별리그",
+   "traffic": "10000+",
+   "pubDate": "Wed, 25 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "무게감 커진 리서치, 격하한 중공업…삼성 '교체설' CEO는 대부분 유임",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/24/2026112480079.html",
-     "source": "인베스트조선"
+     "title": "U-17 축구대표팀, 조별리그 전승으로 월드컵 32강행‥에콰도르 3-2 제압",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6868667_36946.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "삼성 전자 계열사, 오늘 조직개편 단행…로봇·AI 등 미래사업 조직 키우나",
-     "url": "https://www.newsis.com/view/NISX20261125_0003883178",
-     "source": "뉴시스"
+     "title": "U17 월드컵 '3연승' 김현준 감독 \"누굴 만나도 주눅 들지 않는다\"",
+     "url": "https://www.news1.kr/sports/soccer/6366409",
+     "source": "뉴스1"
     },
     {
-     "title": "[집중취재] 재계 연말 인사 '안정 속 쇄신'…내년 승부처 살펴보니",
-     "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005970113",
-     "source": "매일경제TV"
+     "title": "\"초대박\" 대한민국 축구 새 역사! 韓 U-17 대표팀 FIFA 주관 대회 첫 '조별리그 전승'→에콰도르 상대로 첫 승리 '환호'",
+     "url": "https://www.chosun.com/sports/football/2026/11/26/MRTDSMLFG42GGZJZGJRDSNZSME/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 6,
-   "keyword": "조원태",
-   "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 13:20:00 -0800",
+   "keyword": "빅터 레이예스",
+   "traffic": "10000+",
+   "pubDate": "Wed, 25 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "델타항공 부사장 \"대한항공 조원태 회장과 임원진 깊이 신뢰\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125149600805",
-     "source": "연합뉴스"
+     "title": "일본 구단도 눈독 들였는데…3년 연속 안타왕 레이예스, 롯데와 재계약 합의 “조만간 공식 발표” - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/26/202611260826778420O",
+     "source": "머니투데이"
     },
     {
-     "title": "[분석] 호반그룹 지분 이슈에 ’조원태 신뢰’ 못 박은 델타항공…한진칼 우군 재확인 By FinancialPost",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2189989",
-     "source": "Investing.com 한국어"
+     "title": "타 구단 외인 퍼즐 맞추는데…거인은 신중 모드",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261126.22015008107",
+     "source": "국제신문"
     },
     {
-     "title": "제프 무마우 델타항공 부사장 “조원태 한진 회장·대한항공 경영진, 깊이 신뢰”",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550341.html",
-     "source": "뉴데일리 경제"
+     "title": "[프로야구] 롯데, '3년 연속 안타왕' 레이예스와 동행 이어가나…\"곧 단년 계약 발표\"",
+     "url": "https://www.newspim.com/news/view/20261125001340",
+     "source": "뉴스핌"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "당구",
-   "traffic": "5000+",
-   "pubDate": "Wed, 25 Nov 2026 13:10:00 -0800",
+   "keyword": "양부남",
+   "traffic": "500+",
+   "pubDate": "Wed, 25 Nov 2026 15:40:00 -0800",
    "news": [
     {
-     "title": "산체스, 2009년생 한민준 완파…PBA 6차 투어 64강 진출",
-     "url": "https://www.yna.co.kr/view/AKR20261125044600007",
+     "title": "정성호 \"조희대 탄핵, 후과에 대한 책임은 여당이 져야\"",
+     "url": "https://www.chosun.com/politics/politics_general/2026/11/26/EGWV5Q3VY5FKJGJ2LZLAUTP5AI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "한변 \"정략적·당파적 이유로 대법원장 탄핵 추진, 국헌 문란\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126037900004",
      "source": "연합뉴스"
     },
     {
-     "title": "“너무 일찍 성사된 LPBA 빅매치” 김가영-스롱 휴온스배 8강서 격돌…김보미 임경진도 합류[휴온스배LPBA]",
-     "url": "https://mkbn.mk.co.kr/news/sports/12218329",
-     "source": "mkbn.mk.co.kr"
-    },
-    {
-     "title": "'NH농협카드 듀오' 정수빈-김보미, '우승 기운'으로 동반 16강... 김민아도 장가연에 승부치기 신승 [PBA] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/25/2026112422172689895",
-     "source": "머니투데이"
+     "title": "[단독] 법관대표 10명 ‘사법독립’ 안건 동의…전국법관회의서 채택될 듯",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289110.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "rank": 8,
-   "keyword": "손아섭",
-   "traffic": "500+",
-   "pubDate": "Wed, 25 Nov 2026 13:10:00 -0800",
+   "keyword": "김은희",
+   "traffic": "1000+",
+   "pubDate": "Wed, 25 Nov 2026 15:30:00 -0800",
    "news": [
     {
-     "title": "손아섭의 끝나지 않은 짝사랑…“저도 우승 동화 꿈꿔요”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720508",
-     "source": "KBS 뉴스"
+     "title": "“꿈 이루게 됐다” 김은희, 남편 장항준 트로피 건네며 울컥",
+     "url": "https://www.koreadaily.com/article/20261125081407231",
+     "source": "미주중앙일보"
     },
     {
-     "title": "\"롯데 연락? 기대를 안 했다면 거짓말\" 손아섭 속내 털어놨다…트레이드→2군행→방출 시련, 이런 산전수전 또 있을까",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021699",
-     "source": "SPOTV NEWS"
+     "title": "김은희 작가, '왕사남' 시상자로…\"이런 날이 옵니다\" [청룡영화상]",
+     "url": "https://www.news1.kr/entertain/movie/6366139",
+     "source": "뉴스1"
     },
     {
-     "title": "“전화도 카톡도 답 없어” 서운했던 손아섭…강민호 만나자 벌어진 일",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261125010009785",
-     "source": "아시아투데이"
+     "title": "김은희, 2년 만에 '♥장항준'에 시상했다 \"살다 보니 이런 날도 와\"('청룡영화상')",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/25/GQYDCM3EGBSDMM3DGI3WMOJQGQ/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "rank": 9,
-   "keyword": "허찬미",
+   "keyword": "철도 파업",
    "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 13:10:00 -0800",
+   "pubDate": "Wed, 25 Nov 2026 15:20:00 -0800",
    "news": [
     {
-     "title": "[ET포토] 성리, '아이돌이 따로없는 외모'",
-     "url": "https://www.etnews.com/20261125000501",
-     "source": "전자신문"
+     "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
+     "url": "https://news.jtbc.co.kr/article/NB12329874",
+     "source": "JTBC"
     },
     {
-     "title": "[영상] 설운도, 가요대상 수상 \"트롯 발전 위하는 동료들과 함께 나누겠다\"(대한민국 문화연예대상)",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526023",
-     "source": "iMBC 연예"
+     "title": "철도노조, 오전 9시부터 준법투쟁…KTX·수도권 전철 지연 우려",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375309",
+     "source": "전기신문"
     },
     {
-     "title": "[사진]남지현,'미소가 아름다워'",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/24/GA2GEMRWMYZTOZBVHA3TANBUGM/",
-     "source": "Chosunbiz"
+     "title": "지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
+     "url": "https://www.khan.co.kr/article/202611252052025",
+     "source": "경향신문"
     }
    ]
   },
   {
    "rank": 10,
-   "keyword": "южная корея",
-   "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 13:10:00 -0800",
+   "keyword": "주간한국",
+   "traffic": "100+",
+   "pubDate": "Wed, 25 Nov 2026 15:20:00 -0800",
    "news": [
     {
-     "title": "Южная Корея подняла истребители из-за приближения российских самолётов",
-     "url": "https://www.svoboda.org/a/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-priblizheniya-rossiyskih-samolyotov/33904703.html",
-     "source": "Радио Свобода"
+     "title": "폐격납고의 화려한 겨울 변신",
+     "url": "https://www.koreatimes.net/weekly/180809",
+     "source": "캐나다 한국일보"
     },
     {
-     "title": "Республика Корея выразила протест военному атташе России",
-     "url": "https://azertag.az/ru/xeber/respublika_koreya_vyrazila_protest_voennomu_attashe_rossii-4522521",
-     "source": "Azərtac"
+     "title": "‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다",
+     "url": "https://www.chosun.com/national/incident/2026/11/25/YLWBRSPHR5CZXJ6R7SZZHZYKNY/",
+     "source": "조선일보"
     },
     {
-     "title": "Южная Корея: тревога и призывы укрываться из‑за российских самолётов",
-     "url": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
-     "source": "Euronews.com"
+     "title": "[TV톡] 300억·AI 무색한 전투신…'문무', 대하사극 스케일은 어디에",
+     "url": "https://enews.imbc.com/M/Detail/525874",
+     "source": "iMBC 연예"
     }
    ]
   }
@@ -237,6 +237,54 @@
  "yonhapEnt": {
   "via": "연합뉴스 RSS",
   "items": [
+   {
+    "title": "특수요원 황정민·형사 염정아 부부 귀환…'크로스2' 내달 공개",
+    "url": "https://www.yna.co.kr/view/AKR20261126054600005",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:54:04 +0900"
+   },
+   {
+    "title": "트럼프, '제7대 제임스 본드' 로버트 패틴슨에 \"행운을 빈다\"",
+    "url": "https://www.yna.co.kr/view/AKR20261126049700075",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:45:42 +0900"
+   },
+   {
+    "title": "천만 영화 '국제시장' 돌아온다…'국제시장2' 내년 설에 출격",
+    "url": "https://www.yna.co.kr/view/AKR20261126047700005",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:35:11 +0900"
+   },
+   {
+    "title": "졸리·피트, 결별 10년만에 법적분쟁도 종료…재산소송 합의",
+    "url": "https://www.yna.co.kr/view/AKR20261126036500009",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:34:31 +0900"
+   },
+   {
+    "title": "부산대 학생 연출 단편영화, 부산독립영화제 2개 부문 수상",
+    "url": "https://www.yna.co.kr/view/AKR20261126043700051",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:21:24 +0900"
+   },
+   {
+    "title": "송출 중단 사태 피했다…LG헬로비전·CJ ENM, 콘텐츠사용료 합의",
+    "url": "https://www.yna.co.kr/view/AKR20261126011152017",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 09:03:37 +0900"
+   },
+   {
+    "title": "악연 같은 박민영·육성재의 첫 만남…'나인 투 식스' 3.6% 출발",
+    "url": "https://www.yna.co.kr/view/AKR20261126036100005",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 08:58:55 +0900"
+   },
+   {
+    "title": "[속보] LG헬로비전 \"방미통위 중재로 CJ ENM과 콘텐츠대가 합의\"",
+    "url": "https://www.yna.co.kr/view/AKR20261126011151017",
+    "source": "연합뉴스",
+    "pubDate": "Thu, 26 Nov 2026 08:36:27 +0900"
+   },
    {
     "title": "英밴드 듀란듀란 기타리스트 앤디 테일러 별세…향년 65세",
     "url": "https://www.yna.co.kr/view/AKR20261126015200075",
@@ -248,54 +296,6 @@
     "url": "https://www.yna.co.kr/view/AKR20261126011100017",
     "source": "연합뉴스",
     "pubDate": "Thu, 26 Nov 2026 06:35:58 +0900"
-   },
-   {
-    "title": "청룡영화상 작품상에 '호프'…설경구·전도연 남녀주연상 석권",
-    "url": "https://www.yna.co.kr/view/AKR20261125187600005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 23:57:23 +0900"
-   },
-   {
-    "title": "법원, CJ ENM의 'LG헬로비전 송출 중단' 금지신청 기각",
-    "url": "https://www.yna.co.kr/view/AKR20261125170100005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 19:20:18 +0900"
-   },
-   {
-    "title": "'푸른길' 한준희 감독 \"원작에 한국인의 시선 더했죠\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125167500005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 18:44:57 +0900"
-   },
-   {
-    "title": "영화 '여전히 찬란하게' 조용한 돌풍…응원상영회 잇따라",
-    "url": "https://www.yna.co.kr/view/AKR20261125165900054",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 18:16:50 +0900"
-   },
-   {
-    "title": "200년을 뛰어넘은 연애 코칭 로맨스…'러브 와이파이 궁' 개봉",
-    "url": "https://www.yna.co.kr/view/AKR20261125158400005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 17:30:02 +0900"
-   },
-   {
-    "title": "손석구 \"유명세보단 신선함, 작년부터 배우로 2막 걷는 중\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125150000005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 17:24:36 +0900"
-   },
-   {
-    "title": "4인조 버추얼 보이그룹 윙스, 27일 데뷔…첫 싱글 '헤일로'",
-    "url": "https://www.yna.co.kr/view/AKR20261125148100005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 16:43:06 +0900"
-   },
-   {
-    "title": "박민영 \"오피스물과 인연 잘 맞아…고수·육성재 둘 다 설렜죠\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125141400005",
-    "source": "연합뉴스",
-    "pubDate": "Wed, 25 Nov 2026 16:39:20 +0900"
    }
   ]
  },
@@ -304,52 +304,52 @@
    "query": "코스피",
    "items": [
     {
-     "title": "“코스피, 3500이 적정”…버핏지수로는 지금도 ‘심각한 고평가’ - 중앙일보",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4dnV0MTZZNEstbHVHRVI4ZFBIOXpLUmthZUdCekRhYllxZWRmNFpOaU50Q09sNEs0NURLcWV0MEhtaEVnNnNwTkxHR2JTbDlVN2FqbndB?oc=5",
-     "source": "중앙일보",
-     "pubDate": "Wed, 25 Nov 2026 08:12:51 GMT"
-    },
-    {
-     "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납 - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aelVlR3AtaWZaNE44NjhOOVdVY2FXelJoUnZsUVdzS0tQQzhwU0ItWlVTUHVuems5UHRMaFptMGNBUUROMl9CMUtoTl9lTVBrcEdXSC1mX3lSYVZiVW05WXJWd1VHT0tVbTNNOVRjMThHNWpS0gF0QVVfeXFMTThaZzBOV29BUGkyU25aRTdUNnpjWXR2bUhfVVJ3dmR2ZHFxTlpQOExQM2NDRm80STlXaTZKRlE4bmR6cFBMR2lnQVBqTXFIRTlBQTktZW41ZFBqUWhvd2hVeHVZcktQdnJ4cmZ1Mk9xMF9WU3Y?oc=5",
-     "source": "MBC 뉴스",
-     "pubDate": "Wed, 25 Nov 2026 06:35:15 GMT"
-    },
-    {
-     "title": "[e마켓클로징] 삼성전자 시총 1000兆 붕괴···코스피 4600선 후퇴 - 시사저널e",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSVAyMm9WanFCYkNxUGp4MWhZV0UtOXl6UmlUdWF0TWFWdUg2ZGRkTTBSbmdPSXJrTVJ5T3YzZGY4S3UxSjJMSTFXMngxNzBabnhYYVlTOUJnekM3UUpab0FCV0k3Nm4teHNLbXMzeEt0UQ?oc=5",
+     "title": "[e마켓오프닝] 6% 폭락 딛고 반등···코스피 1% 오른 4745 출발 - 시사저널e",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DVlRiaXRJdTRFU2d0OVh5cjdNX0RNelR0ZjVmcE5QS0l4SW1aSkdSRG5FZlBjUzZ3a194cGh3bGRtZmtfQnV4WjR0OGU0V25YRDBveURzTkZPM2tNV1hOeEYtc25iaTFnZHVBenRCU21pQQ?oc=5",
      "source": "시사저널e",
-     "pubDate": "Wed, 25 Nov 2026 08:00:37 GMT"
+     "pubDate": "Thu, 26 Nov 2026 00:23:02 GMT"
     },
     {
-     "title": "코스피 4700선도 깨졌다... 삼전 9.9% 닉스 11% 폭락 - 조선일보",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmQ4dWEyZ1AzOV9kY2lMLVQ4aWZ6TC1qNFhuQjEyZWRpdkE4MkVLelhCY2JYd3F0ZGJrQUFuclJkdndrT0RYYThmLWotbi1XcTRyWXRQdEt3OVh5TjROUU44bTdOMGZ2QXJjbFU2Q1F5cWYxQjBlTWcwbkR2aHlmbg?oc=5",
-     "source": "조선일보",
-     "pubDate": "Wed, 25 Nov 2026 06:37:00 GMT"
-    },
-    {
-     "title": "[단독] 코스피 다시 급락하자…정부 '증안펀드' 확대 나섰다 - 한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVFVOYWE4djZ3QmpVckhXNnY4d3luWTh6QXJZV042VVhLSklCcDFkNnRNSjctc3gyeTgxRi1Famd5UDh2MkRaam9uRFB5ZGhwLXNZa2wzb19LZw?oc=5",
-     "source": "한국경제",
-     "pubDate": "Wed, 25 Nov 2026 08:45:30 GMT"
-    },
-    {
-     "title": "또 사이드카…갈피 못 잡고 요동치는 2026 코스피 - KBS 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13TE5EMmVKOXpBczVZV0c4dDhrRXl4MzlTMWZJay1EaFZkdGtXdkVpR0hkVTVZeElBUHl3cDB1dkIySVY3Qm9qOU1ub29kdzJ3UGVjTlBQaDhTLWM?oc=5",
+     "title": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑ - KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfbXpxOEVkMm5CeUFsVk8yT1JaaVpaek5EbHpIb0RBR2RfQmxFcE52RzlpTnZPS01JY2x0U2t3Xy1uWVNvU2pGUU5oSjlzY3k5QWRuRV9iQVdXVG8?oc=5",
      "source": "KBS 뉴스",
-     "pubDate": "Wed, 25 Nov 2026 12:03:00 GMT"
+     "pubDate": "Thu, 26 Nov 2026 00:28:00 GMT"
+    },
+    {
+     "title": "코스피, 저가 매수세 유입에 1%대 상승…4,700선 회복 - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wcVhXWGc1eGFkRmtXS3VCeXNFR1dPZUszc2hSTVFZazZlSExxY2o0eTZnUEp2Zy1LLUlxdGtRTFpnTlkzVkRDYVhETUtDbUVpeXNJdkNta0M2V1h4THVXWEhPMzlkMW4yOHpOdUhZRUg?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Thu, 26 Nov 2026 00:19:32 GMT"
     },
     {
      "title": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀 - 한겨레",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
      "source": "한겨레",
-     "pubDate": "Wed, 25 Nov 2026 13:45:00 GMT"
+     "pubDate": "Thu, 26 Nov 2026 00:18:00 GMT"
     },
     {
-     "title": "하루 만에 꺼진 ‘젠슨 황 효과’…코스피 6% 급락, 극한의 널뛰기 - 경향신문",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icS1KUFQwNWVsTVIzNFJLVFlMeTB2V1o3eERpcmFjQTFCR3RzREJ1TjhvbnJPMzJEZXgzSXhiQlFNR0hvWVUxanF4X3pDdUlQWlk5aE5QYUxNZ9IBX0FVX3lxTE01aTl6Rk1SeDRDWTJsdHdLVFloLW45WS1RQnBTSW9RVGRweWFHOFV3ZDFCZlR0eW9WeWxCQ2V3dkMzSzB3U09GeHo4UmVkU2s4a0pzVnQtTElJMS1fVGpV?oc=5",
-     "source": "경향신문",
-     "pubDate": "Wed, 25 Nov 2026 12:21:00 GMT"
+     "title": "코스피, 장초반 1% 안팎 상승 4,700대…코스닥 2%대 강세 - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BRzBPRlVrbzJVS2Jac01PeE5JRFZKbnU2bngtR2pZRnhnQXRDTGtfcllUMW53bmpGVVdETVQ2ZWd6QklEcjE2RGx6S0w5SDVyODFQQXRLZS1sVUHSAWBBVV95cUxObEo5UjFWMWlzaDgzNkhaX2diMlZhS2dHbTVsMmtObnpZdUR2ekVKeDE2LWtvVHZDdmdLTHhrNkdISzBnRE1nZmZXcTRMeGM1N0QzY3JOT1JOM2hETW5hX3g?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Thu, 26 Nov 2026 00:05:58 GMT"
+    },
+    {
+     "title": "코스피, 다시 2% 반등…4,800선 회복 시도 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQ1l6UmRCR2xsTlVuNlRYa1Y3amJsdlpzOGs1VEM2NUdtVkRsVnFUN2ZoMzZkTnRUel9Mell6eVcyZGlKTmVHcTNBV2k2cnYyRzlnREkweURWYWV0S3M2T0VUemN3cXc?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Thu, 26 Nov 2026 01:22:00 GMT"
+    },
+    {
+     "title": "코스피 1%대 상승 출발...한은 기준금리 인상 여부 주목 - YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16VlEyeWpjUHI1dEh5MUFDellGR3RGR2JnOHBOaFdkMGZUX0l1ZGRIWVA4U0NOZ016ZUVxNTBxTHdMc19jZ2d3STlBUmZmX0JUeFJrd3Q4cWhwWnZpUEE?oc=5",
+     "source": "YTN",
+     "pubDate": "Thu, 26 Nov 2026 00:32:00 GMT"
+    },
+    {
+     "title": "6% 급락했던 코스피, 소폭 상승하며 출발‥코스닥은 3% 가까이 반등 - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9INFphbTA3VVRrR0czVHh6Qi1Fdmx6dk85M1htdjd0aFNPQnpuek9XdTJYZHotMVAyYXhlNVdUbmo1MzNFOF9uVEVxV0hIWEpTTzk4c08zYkhLUXBKdGVjUTNTWEVNclFwMlVzX21Wd0hWRW4z0gF0QVVfeXFMUG5oYVFKVWlQbHVlRVNlbWc2OGdZMmhZdFZ4UXRlQW9vUzJXVkd2ZUNQenZvSFN0b3pPT2lmWXlQT2h5MTJUeVltU3BjWklYNzdOSEVKWEpMWVcyanhCSGRoWGhQTVJ5OERZR1UtaEMzcmlKQlQ?oc=5",
+     "source": "MBC 뉴스",
+     "pubDate": "Thu, 26 Nov 2026 00:21:19 GMT"
     }
    ]
   },
@@ -357,52 +357,52 @@
    "query": "증시",
    "items": [
     {
-     "title": "[뉴욕증시] AI 불안에 또 출렁…저가 매수 속 보합권 혼조 마감 - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RX1dSWmR2bzRXTHBNc3Fzby1oWmcxNnRRVXA5Q3RXNGtJSW43TVlvZlVZZFlPaFZuQS1rSUtYQzZTdEd6WEtQVk85T2FCQWJfRnE5SzNCZGgxbWV1OGFVOWI4OC1XV0ZtWWUwQmkyLV8?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Wed, 25 Nov 2026 21:20:24 GMT"
+     "title": "롤러코스터 탄 뉴욕증시…마이크론 이틀새 15% 급락 - 연합뉴스TV",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wSnM4aDdpTUh1Qlg0MmozR0Y0eWFjSFRkMFZwWjFxTmFsbkR5VVZ5MlJBTUtSOVlFOUtRY0dvQnk0NmxSTmlzakZwZnF1QkdLN241Q1FCZ3RENi1TamRFRHZ6cnNreWc?oc=5",
+     "source": "연합뉴스TV",
+     "pubDate": "Wed, 25 Nov 2026 23:27:00 GMT"
     },
     {
-     "title": "[글로벌증시] 뉴욕증시, AI투자 불안에 혼조…나스닥 0.6%↓ - 연합뉴스TV",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15dVd3SkxBWFUwYW1XUjBrNkxGY2xZay1JdnBrWUtkcGRoRFJCekxvX3M4aTJPR3BfZndkNmVnYVU0Sl9VcC01UzJWWmNXWE5aMmI3OHh6ajZvVXJvSjNabmF4QmdINGM?oc=5",
-     "source": "연합뉴스TV",
-     "pubDate": "Wed, 25 Nov 2026 21:52:00 GMT"
+     "title": "[외환] 뉴욕증시 반등에 오름세 진정…1,340원대 중반 - 연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14RklrR2I1MlNEcldzSmhTZ0dTUElWYlJSbmVUakVTeTFrZlpNcms4bkNuVUpyVjVjUmlpTUZBODNPYXFlbG5lR21KdzFSTVJYSm5sMWxQMHlaTldscWFMcC1SLUhaQ1RpME5VYXBYb18?oc=5",
+     "source": "연합인포맥스",
+     "pubDate": "Thu, 26 Nov 2026 00:23:58 GMT"
     },
     {
      "title": "뉴욕 증시 기술주 중심 하락...엔비디아 4% 이상↓ - YTN",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03QkJncHllaTFocktnNTNrUlIxblhsRzFiXzhYQTE1V2VkaTBka0hXaFp0Y0Z3YlJtaW93enlNZlJqLXVJNkJFUnVCTEF2S284TGkwZlpQNERFbHlyc1E?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzRXBqSXVuTzJqU19feWJZZWlpSkx4ak84Vk9vOW00S2N5UmYtUE9HZ2hCMTRYM1drT3VCM2cydkhOQUh3ckdyTFJ6TFk2ekNSRUVNOU84YVZzbVMwWnc?oc=5",
      "source": "YTN",
-     "pubDate": "Wed, 25 Nov 2026 20:51:00 GMT"
+     "pubDate": "Wed, 25 Nov 2026 21:58:00 GMT"
     },
     {
-     "title": "뉴욕증시, AI 투자 불안에 연일 롤러코스터‥나스닥 0.6%↓ - MBC 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iaUNJLUFDNnpfREF5b3dsNDU5S1JOMndkRklqdkZWTWdNMWJJTXg4elRwVFJEcGpXUFZmUkh6Vk9zN2ZmbklGYURSdURkbGxkS2cxd2VVc1YyU3dacG1SVDFCWmNpQzRvTnVjWDVkNjQwc2VK0gF0QVVfeXFMTno0OGliTWNhaTYtUGNTNWZ6ejFRYlpHYjI1OW5GSFRPd2lXSm04ZlgwdFNPUGZRUm9kSmJ3c2Y1by14U3dkMWFraHBWWktnWEg3N2lPMmlld1F1aVpmLWtKUzFpc0tQNG44emtvU3hYb2R4Qm4?oc=5",
+     "title": "오늘의 증시 - MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BMl83R3QtSV9zQ0JobHpMczJEOW5NVkNUR1o0XzNjaVFRenpRUUhINTc3Wm55UGgxaU1yci1md3ZoNlNVYV85endoNTFYUnY4UkMwenlwQkFmdGR6QXFvNnFwWUQ5SFpoS3I4Nm5RUXJKSkFOSGVB0gF3QVVfeXFMUGJWMjBLYUZIS2dibHk3YTZCcGU2NXgyY29DWDh5OVhvVVBUTGVQZS1fdlF1NzZWVm43Q0FGWDNFWUMxM3NMNFMwVEtqN0hmVEh6T3dWYW41cjNBdzFLVl9xZU15TFNleUJ5S1JYNnpMazc2dG1WTk0?oc=5",
      "source": "MBC 뉴스",
-     "pubDate": "Wed, 25 Nov 2026 21:17:43 GMT"
+     "pubDate": "Thu, 26 Nov 2026 00:41:23 GMT"
     },
     {
-     "title": "증안펀드 규모 늘린다... 25개 금융사에 출자 여력 타진 - 조선일보",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTI2bHZ6Nk5nUnJiYnl5eWl3NnRrMFZLMlEzeWNDT0hSc1BRU2V5Nzl5SWhfZk1kekxVZTZOeGIwc0hmVVZOcEtaQWlEMnhlRjl6Vm4tMFh0c1M2ZXJ4aW9lUU5UdWZHT1VDMFdZN29oYkkyc2M2NWc1VVhJUjczZ0VjRnVjQjh1b1lTcUdn?oc=5",
-     "source": "조선일보",
-     "pubDate": "Wed, 25 Nov 2026 09:10:03 GMT"
-    },
-    {
-     "title": "AI 투자 불안에 극심한 변동장…나스닥 0.6% 하락 [뉴욕증시 브리핑] - 한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50S1JCaEppTUNGa2FhUW5HZk9EZjVuV0Y0dWJGYnRoSVI4c1hzNlVzMVVycWZEcFBnMVgtdHk5aUk2MkVjZ0F3RmlyNUVqdGZENkNKYi1yY25QZw?oc=5",
-     "source": "한국경제",
-     "pubDate": "Wed, 25 Nov 2026 22:10:55 GMT"
-    },
-    {
-     "title": "[외환] 뉴욕증시 반등에 오름세 진정…1,340원대 중반 - KB Think",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fcm5QRWliUEl5LVVnVHRmTzM0VHZOd0VXWk1VZzJiVUpVUWdNMG9WQkVLUk9KLUJENE9wR1NaeVFBY3NkSUtYb1RIblFSd1M2b0J2eUJURWJPQzI2eVEwbmNqckZFSWJOSmNKMzlTLVAtQQ?oc=5",
+     "title": "미 증시 저가 매수세 유입에 전약후강 - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xRXZRTGFJUS1zc1JkUkZ1NnVfWUh2XzN5WS1GMHljckc4Y3NUdHdSaXo2UXBoUjY2S1UwZXBTZU5ubS1pQjI2RzluWVdXVURqbWRJbUQwNzZuQnFldVNLX29fbVlENVF5RU1RTg?oc=5",
      "source": "KB Think",
-     "pubDate": "Wed, 25 Nov 2026 22:23:57 GMT"
+     "pubDate": "Wed, 25 Nov 2026 22:48:45 GMT"
     },
     {
-     "title": "뉴욕증시, AI 투자 불안에 또 롤러코스터…나스닥 0.6%↓(종합) - 매일경제 마켓",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UnBSNmVRZC10dzE1Q1JhbHh2cUtPOG9iMmR0TEc0T0VwbF9OYWdoUEI3OFBtMmZyUV9RVlk1dXVUNTZ4TGVSSDJRU2NuU0F2YWc?oc=5",
+     "title": "급락장에 자사주 1일 취득 한도 완화…증시 버팀목 효과는? - 연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcmM1MnI3T0ZWWjBZcTZCeTA5dkwyWGk1TUVEYk1EbXpWcS04RjlSOEUzUmdkUWxuUUVDWFBaYjJtaFAyRlJYUllyZjZ1NnFKdmNSWU91SFl2WFXSAWBBVV95cUxNaGVwWnpWU3JmMm92NUNSZUZvQ2pCX3NzOXo1VGZZTEhwczRGZkdWX3l4RGRNM2tXX1NDMlJVQTdLT3VmaW5sZGRwbFlVb1hvRldTU19fbFZ4Z3ZUWmxEdFk?oc=5",
+     "source": "연합뉴스",
+     "pubDate": "Wed, 25 Nov 2026 23:00:03 GMT"
+    },
+    {
+     "title": "美 증시 조정에 낮아지는 월가 눈높이…내년 전망치 ‘뚝’ - 매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uQzhIeU5VZ0VTckNLYllHUXQzSTR3S1NXTUhTQ0tZYWxzVG9hNHlaTWhYeUFub1Izd1I4R09TeGxablpIVUtxNzM2MXd5SGhEMWc?oc=5",
      "source": "매일경제 마켓",
-     "pubDate": "Wed, 25 Nov 2026 21:59:59 GMT"
+     "pubDate": "Thu, 26 Nov 2026 00:37:45 GMT"
+    },
+    {
+     "title": "[3분증시] 뉴욕증시, AI 수익성 회의론 속 혼조세 - 연합뉴스 한민족센터",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yb0RoRWJpa3FFQUNQTzduc0ZKUmZRRWxHOTZkOENpMl9rOWk0cV9lZTVZUkF2WG8tMmZxcXg1bE5scE81amRzVWx1R3pmQVF0WWlPYUptVmRzZThVdzItalF5R2RvMF9rOHFrOGZMSWNNTkVh?oc=5",
+     "source": "연합뉴스 한민족센터",
+     "pubDate": "Wed, 25 Nov 2026 22:49:18 GMT"
     }
    ]
   },
@@ -410,22 +410,40 @@
    "query": "환율",
    "items": [
     {
+     "title": "[표] LME 비철금속 및 환율 동향(11월 25일) - 철강금속신문",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qMEVmSW9SSzBOckFVOFROZVZxSFFmRTNraGxMaUhrM3BfNjhVNnRmTDFnMHQ5RDUtamFYblVkd2ZIX0VueEVoTndkMkZJWjBkRUtxSEtxeWpiQjlLVHRLUnBPNmlEY21Na0E?oc=5",
+     "source": "철강금속신문",
+     "pubDate": "Thu, 26 Nov 2026 00:23:55 GMT"
+    },
+    {
+     "title": "원·달러 환율, 1.7원 오른 1344.9원 - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWRLS0k4dXM3WHZqdkFXUFU4V09wYWk0LTdqUklzSXNMQVRlQjFlalY0RG5vdXAtY3p2dWxtSXN0Z0hwWlZjd2doODJ0NVVMVzg4ekR3V2JwRjdmRk1mTGlrUHBnSFNteVdrbWlfTHpGLWRDbHhHcDRvRkI0QmpfTmVjTDh4d9IBmgFBVV95cUxNWlowZkxmMEM5N19WcHBlWW5UNEFnUC1SWDFweHZNNlRxeDhqT055bk04OFhZV2ZhQ2wzTi1xUXp4b2l3aWNfNlNOM0p3Z3hjeGxiaEhuZ0tpR3dYZG0yaW14cXNCT1RLUm56eWY4cXFIb3kwdC1reTVrV0h3VHZuOHF5bXFnb2ZMTTZTUjhXdXIyUk5xRzlRYTRn?oc=5",
+     "source": "Chosunbiz",
+     "pubDate": "Thu, 26 Nov 2026 00:42:00 GMT"
+    },
+    {
+     "title": "LS證 \"내년 달러-원 중간값 1,320원…쌓인 달러에 변동성↓\" - KB Think",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByMkl1clNYa2R3Q2xZUW10cE5NTXE2eXduZ2FkT2FQN0xlbE9MZnVabnJYdXVwbDRsTzRkeEZfYUkzN21RWlFaR2pmWEpzMkk5WWpKYnhlUkJ3Qm5WVkVmNWVqaF8wSUI2UjRYSHU3MXFPUQ?oc=5",
+     "source": "KB Think",
+     "pubDate": "Thu, 26 Nov 2026 00:35:50 GMT"
+    },
+    {
+     "title": "원·달러 환율, 1344.3원…달러, 물가 우려에도 약보합 - 조세일보",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSHNibEZzejIwMHd4NGd1NHI2YVU4SVlBUE5DLXE4cnRhbkNRaGV0NkdHb29LNHVuYUlhR1V6V3FuZUNDZWVWVEJpT0NFeHI2QlBmS0VHUFppNnpCZC1F?oc=5",
+     "source": "조세일보",
+     "pubDate": "Wed, 25 Nov 2026 22:51:58 GMT"
+    },
+    {
      "title": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알 - 매일경제 마켓",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WREtGTEFQTGYyVjRLQkxvdFdfZW1TUXVNREtvYlBqYnJ5NUNrY3F0Ri1wNXp0MjB2WGRKQ3haN2stSnN4SHNmTWRCeUhRQkZyUWc?oc=5",
      "source": "매일경제 마켓",
      "pubDate": "Wed, 25 Nov 2026 20:50:50 GMT"
     },
     {
-     "title": "달러-원, 뉴욕장서 1,340원 중반대 거래 | - 연합인포맥스",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYjZJc0FWSm45VVhMSzVrei1kSEYzTG94TWtuNXR4dnhjTENrcTJZeTJnb0dKQ20zU2EwTUFRQW1FaHhEOWJBWHFNbF82eGpoejk3YjktX3cyOGU3eHp5TFctTWxVZ0hNUWNzZkhRaklKU2x5?oc=5",
-     "source": "연합인포맥스",
-     "pubDate": "Wed, 25 Nov 2026 14:13:31 GMT"
-    },
-    {
-     "title": "환율, 미국 기술주 조정·외국인 순매도에 소폭 상승…1,343.2원 - 연합뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LYU8taTAzdjFBQ09WZnNfSnhQdmpUZkxhRWNMZE1mOHpYSExlX1pNcWEwaHEtOW5zNnk3R3lsTmVReVdBaUZiMVNXdElqcjd4NkN3cGlxbGlqdjjSAWBBVV95cUxOUVNmaE1qY0xKWmxkclVSeGxOal95VGl6REVDazJ5OTZqNjMwbEdscElLMXNkZnc0OVNPeFRuTTVjRVRUTWVBSld0SUwxN2FBTUwxYWpXSGprNVJVU2pEa0U?oc=5",
-     "source": "연합뉴스",
-     "pubDate": "Wed, 25 Nov 2026 06:55:54 GMT"
+     "title": "반도체주 부진에 외인 이탈 우려까지…달러·원 환율 1344 '상승 출발' - 뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OYzFoYm1xM012enY5VW5iSHJHLU13eGtKVUJFcWQ4OC1wbGd0dHZHSGkwN2tMdlVpYy1oM0lYVWlpenR3bnd3TlJJakFZR2NNaFlKWGhRbEdRN1U?oc=5",
+     "source": "뉴스1",
+     "pubDate": "Thu, 26 Nov 2026 00:26:26 GMT"
     },
     {
      "title": "[클릭 e종목]한세실업, 고객사 파산·환율 악재까지…목표가↓ - 아시아경제",
@@ -434,28 +452,490 @@
      "pubDate": "Wed, 25 Nov 2026 22:20:00 GMT"
     },
     {
-     "title": "[외환] 뉴욕증시 반등에 오름세 진정…1,340원대 중반 - KB Think",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fcm5QRWliUEl5LVVnVHRmTzM0VHZOd0VXWk1VZzJiVUpVUWdNMG9WQkVLUk9KLUJENE9wR1NaeVFBY3NkSUtYb1RIblFSd1M2b0J2eUJURWJPQzI2eVEwbmNqckZFSWJOSmNKMzlTLVAtQQ?oc=5",
-     "source": "KB Think",
-     "pubDate": "Wed, 25 Nov 2026 22:23:57 GMT"
+     "title": "\"영원무역, 원달러 환율 하락에 3Q 실적↓… 목표가↓\"-유진 - 머니투데이 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wcDRTbjNvcVlBMXUxQzBGcFk4YUM0dzRMUGVRLVF4eG5XMEJxaUFaNDRldVpkS3dBZkJoazNOeDhoVXVTY3BnTWlKck5rMS15YU00b2xGcWM0NVlCOWI1RS1Wa2dsajU00gFuQVVfeXFMUGVzZ0U4U25iWHlBd3RybGRKam1PSDlrT3RYd3dpZl9nRDFaS1duV0hpN1ZQMThzaDc4M0hEeWxmdVpIOHlOOFlvTGdMVGo0TEZ6X2tvRUdmVExBMlNwczlDSUVUVm02WFNwRy15NFE?oc=5",
+     "source": "머니투데이",
+     "pubDate": "Wed, 25 Nov 2026 20:45:09 GMT"
+    }
+   ]
+  }
+ ],
+ "naverCollectedAt": "2026-11-26T10:35+09:00",
+ "naverNews": [
+  {
+   "query": "영화",
+   "items": [
+    {
+     "title": "청룡영화상 작품상에 '호프'…설경구·전도연 남녀주연상 석권",
+     "url": "https://www.yna.co.kr/view/AKR20261125187600005?input=1195m",
+     "pubDate": "Wed, 25 Nov 2026 23:57:00 +0900"
     },
     {
-     "title": "[주식 매매 상위 종목 및 환율] 2026년 11월 25일자 - Chosunbiz",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlpveGYxVHBhN2YwQjZDeU1BaG1paUw3NnZsN1hiMTAyVG9hWDFqU3JLbkJkb3hBcnpZaEpHSW5xQ25obVBhZlhKTU15OU9CZHBpWTdUOEZ3TUZyU0duLVAwQkNRRGNQRG5lVFdiY25tOWNocGtzc0loR0o2WWdkQkNIQlFFTzNP0gGcAUFVX3lxTE5ZQWx6dE5CVUl0TnRyaGZMN05tRzFmNlg3REpRUGZrcW5mMXdTbU1jNnV4b1ZNbXNFWTVyZzRMelJOMWJxVGpnNHc2QUpwTDJtTjc1b2doRG5aZF83eFNOV3FLRFhXTEZsakl1aHhMZ1JIUHNPNzFnMWd3UU52QnZoYUFHQ0hDY0EwQ01tZEkzMWJ6M1hsR1ZpLUhFMA?oc=5",
-     "source": "Chosunbiz",
-     "pubDate": "Wed, 25 Nov 2026 15:35:00 GMT"
+     "title": "청룡영화상 작품상에 '호프'…주연상은 설경구·전도연",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00007&news_seq_no=5233004",
+     "pubDate": "Thu, 26 Nov 2026 09:20:00 +0900"
     },
     {
-     "title": "원·달러 환율 1343.2원…美 기술주 약세에 소폭 상승 - 진일보 | 전남일보",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqWXZiLW1oc1d6TEt5QmlwS3lVN2tQZHlweThCYlhzZGY1YW10MlYxbHk0R0FXbE9wZjVQRGo0NjhlWXRMbU9LU0NmYnM0c0NuMjg1UVdxTjRlalYyZGxWNFdub2N2VUtvLVk3YVlfTQ?oc=5",
-     "source": "진일보 | 전남일보",
-     "pubDate": "Wed, 25 Nov 2026 07:02:57 GMT"
+     "title": "청룡영화 작품상에 ‘호프’... 주연상은 설경구·전도연",
+     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/EUJITRT7J5FWRC6B7KRHJBJ3IQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "pubDate": "Wed, 25 Nov 2026 23:04:00 +0900"
     },
     {
-     "title": "하나證\"2027년 원달러 환율 연평균 1358원, 상저하고\" - CNews",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VczJNT1VOSi1TQkNyaGNVLS1VTzlnYnlfRU9EM2Z6cHJmODRpbkhCVGtwTkFycUhLaEtjMXhaWkZ4azlCcTF1czRTanQ4YWJidWR6UmFtUVRmUTN6aFRMZFlSaEwzVHJZUjlDN0FaeUxVSm1TSDBR?oc=5",
-     "source": "CNews",
-     "pubDate": "Wed, 25 Nov 2026 07:59:58 GMT"
+     "title": "청룡영화상 최우수작품상에 나홍진 '호프'…'가능한 사랑' 4관왕 석권",
+     "url": "https://www.fnnews.com/news/202611260015548609",
+     "pubDate": "Thu, 26 Nov 2026 00:21:00 +0900"
+    },
+    {
+     "title": "청룡영화상 남녀주연상…'가능한 사랑' 설경구·전도연 수상",
+     "url": "https://www.hankyung.com/article/2026112506727",
+     "pubDate": "Wed, 25 Nov 2026 23:16:00 +0900"
+    },
+    {
+     "title": "청룡영화상 작품상에 '호프'...주연상은 설경구·전도연",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611260525331630",
+     "pubDate": "Thu, 26 Nov 2026 05:25:00 +0900"
+    },
+    {
+     "title": "스윙스, 마동석 영화 나온다 \"유의미한 역할로 합류\"",
+     "url": "https://www.newsis.com/view/NISX20261126_0003883630",
+     "pubDate": "Thu, 26 Nov 2026 06:52:00 +0900"
+    },
+    {
+     "title": "‘호프’ 작품상…설경구, 청룡영화상 역대 최다 남우주연상",
+     "url": "https://biz.heraldcorp.com/article/10949595?ref=naver",
+     "pubDate": "Thu, 26 Nov 2026 07:39:00 +0900"
+    },
+    {
+     "title": "박지훈, 청룡영화상 2관왕 쾌거",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202611260117",
+     "pubDate": "Thu, 26 Nov 2026 08:42:00 +0900"
+    },
+    {
+     "title": "설경구·전도연 나란히 남녀주연상…청룡영화상서 '석권'",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863866&plink=ORI&cooper=NAVER",
+     "pubDate": "Thu, 26 Nov 2026 08:13:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "드라마",
+   "items": [
+    {
+     "title": "'나인 투 식스' 주연 맡은 박민영",
+     "url": "https://www.yna.co.kr/view/PYH20261125135800013?input=1196m",
+     "pubDate": "Wed, 25 Nov 2026 15:04:00 +0900"
+    },
+    {
+     "title": "'100일의 거짓말'이 전통주로…콘진원, IP 협업 성과 공유",
+     "url": "https://www.newsis.com/view/NISX20261126_0003883874",
+     "pubDate": "Thu, 26 Nov 2026 09:51:00 +0900"
+    },
+    {
+     "title": "'서울자가김부장' 드라마 원작자 \"월급 90% 저축\"…200억 자산가 된 비결",
+     "url": "https://news.jtbc.co.kr/article/NB12329721?influxDiv=NAVER",
+     "pubDate": "Wed, 25 Nov 2026 10:45:00 +0900"
+    },
+    {
+     "title": "‘어른과 청춘의 성장통’…야구 드라마 ‘기프트’의 차별점",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135094055/1",
+     "pubDate": "Thu, 26 Nov 2026 10:24:00 +0900"
+    },
+    {
+     "title": "[사진]드라마 '나인 투 식스' 주역들",
+     "url": "http://www.osen.co.kr/article/G1112914763",
+     "pubDate": "Wed, 25 Nov 2026 14:32:00 +0900"
+    },
+    {
+     "title": "SNS에 뜬 낯뜨거운 AI 드라마 광고…청소년도 '무방비 노출'",
+     "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232935",
+     "pubDate": "Wed, 25 Nov 2026 19:41:00 +0900"
+    },
+    {
+     "title": "고수-박민영 '나인 투 식스'에서 만나요",
+     "url": "https://www.dailian.co.kr/news/view/1719568/?sc=Naver",
+     "pubDate": "Wed, 25 Nov 2026 16:26:00 +0900"
+    },
+    {
+     "title": "'젠슨황 복귀' 트럼프 개입 비판 봇물...\"막장 드라마의 극적 반전\"",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611251032112968",
+     "pubDate": "Wed, 25 Nov 2026 10:32:00 +0900"
+    },
+    {
+     "title": "\"막장 드라마의 극적 반전\"‥공개 비판 쏟아져",
+     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868466_36974.html",
+     "pubDate": "Wed, 25 Nov 2026 15:17:00 +0900"
+    },
+    {
+     "title": "영화로 만나는 '신병' 시리즈…\"드라마와는 다른 재미 드릴 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125102000005?input=1195m",
+     "pubDate": "Wed, 25 Nov 2026 13:50:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "연예",
+   "items": [
+    {
+     "title": "가인, 4년 자숙 심경 \"연예인 하고 싶었다\" [소셜in]",
+     "url": "http://enews.imbc.com/News/RetrieveNewsInfo/526120",
+     "pubDate": "Thu, 26 Nov 2026 10:32:00 +0900"
+    },
+    {
+     "title": "\"연예인이 너무 하고 싶었다\" 가인, 오랜 자숙 끝내고 밝힌 속내 [N이슈...",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6366349",
+     "pubDate": "Thu, 26 Nov 2026 09:13:00 +0900"
+    },
+    {
+     "title": "'프로포폴→자숙' 가인 \"연예인 너무 하고 싶었다\"…4년 공백의 진심",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-26/202611260100160630014785",
+     "pubDate": "Thu, 26 Nov 2026 05:50:00 +0900"
+    },
+    {
+     "title": "브아걸 가인, 활동 중단 속마음 고백 \"연예인이 하고 싶었어요\"",
+     "url": "https://news.tf.co.kr/read/entertain/2393502.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:25:00 +0900"
+    },
+    {
+     "title": "신동엽·성시경·나연, 40주년 KBS 연예대상 MC 확정",
+     "url": "https://sports.donga.com/ent/article/all/20261125/135087421/1",
+     "pubDate": "Wed, 25 Nov 2026 13:23:00 +0900"
+    },
+    {
+     "title": "[문화연예 플러스] 올해 청룡영화상 주인공은 누구?",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868661_37012.html",
+     "pubDate": "Thu, 26 Nov 2026 06:59:00 +0900"
+    },
+    {
+     "title": "‘은퇴설’ 배용준·박수진, 뜻밖의 근황…4년 하와이 생활 접고 한국행",
+     "url": "https://www.mk.co.kr/article/12217106",
+     "pubDate": "Tue, 24 Nov 2026 15:09:00 +0900"
+    },
+    {
+     "title": "'복귀 선언' 가인 \"연예인이 하고 싶었다\" 7년 공백 끝 솔직 고백",
+     "url": "https://news.jtbc.co.kr/article/NB12329850?influxDiv=NAVER",
+     "pubDate": "Wed, 25 Nov 2026 21:32:00 +0900"
+    },
+    {
+     "title": "신동엽·성시경·트와이스 나연, 40주년 ‘KBS 연예대상’ 공동 MC",
+     "url": "https://sports.khan.co.kr/article/202611251436003?pt=nv",
+     "pubDate": "Wed, 25 Nov 2026 14:37:00 +0900"
+    },
+    {
+     "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+     "url": "https://www.munhwa.com/article/11634103?ref=naver",
+     "pubDate": "Wed, 25 Nov 2026 16:10:00 +0900"
+    }
+   ]
+  },
+  {
+   "query": "경제",
+   "items": [
+    {
+     "title": "[속보] 한은, 내년 경제성장률 2.9%→4.1% 대폭 상향",
+     "url": "https://www.hankyung.com/article/202611261473i",
+     "pubDate": "Thu, 26 Nov 2026 09:56:00 +0900"
+    },
+    {
+     "title": "美USTR, 14개 경제주체에 과잉생산 관세…\"韓 15% 상한 유지\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125185700071?input=1195m",
+     "pubDate": "Wed, 25 Nov 2026 22:47:00 +0900"
+    },
+    {
+     "title": "한은, 오늘 금통위…韓경제 '깜짝 성장'에 금리 연 3.25%로 인상 전망",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883276",
+     "pubDate": "Thu, 26 Nov 2026 06:00:00 +0900"
+    },
+    {
+     "title": "기준금리 연 3%→3.25%로 인상...내년 경제성장률 전망치 4.1%",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611261014324589",
+     "pubDate": "Thu, 26 Nov 2026 10:14:00 +0900"
+    },
+    {
+     "title": "미국, 14개 경제주체에 '과잉생산 관세'…한국 15% 유지하며 25% 인상 여...",
+     "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232974",
+     "pubDate": "Thu, 26 Nov 2026 07:07:00 +0900"
+    },
+    {
+     "title": "[속보] 美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고",
+     "url": "https://www.mk.co.kr/article/12218736",
+     "pubDate": "Wed, 25 Nov 2026 22:22:00 +0900"
+    },
+    {
+     "title": "관세 15%에도 안심 못할 韓…美, 경제구조 전반 겨눴다",
+     "url": "https://www.fnnews.com/news/202611260632354428",
+     "pubDate": "Thu, 26 Nov 2026 07:03:00 +0900"
+    },
+    {
+     "title": "미국, 14개 경제권에 ‘과잉생산 관세’ 예고…“한국은 15% 상한 유지”",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1289145.html",
+     "pubDate": "Thu, 26 Nov 2026 00:04:00 +0900"
+    },
+    {
+     "title": "현대글로비스, 폐차 자원 재활용 확대…자동차 순환경제 구축",
+     "url": "https://view.asiae.co.kr/article/2026112609042386441",
+     "pubDate": "Thu, 26 Nov 2026 09:04:00 +0900"
+    },
+    {
+     "title": "[속보]한은, 내년 경제 성장률 전망 4.1%로 상향",
+     "url": "https://news.mtn.co.kr/article/2026112609423635182",
+     "pubDate": "Thu, 26 Nov 2026 09:56:00 +0900"
+    }
+   ]
+  }
+ ],
+ "naverBlogs": [
+  {
+   "query": "기장군",
+   "items": [
+    {
+     "title": "기장군 세컨드하우스 양도세 비과세, 정말 될까?",
+     "url": "https://blog.naver.com/mxy5095-/224487177753",
+     "blogger": "기장.울주.땅마마",
+     "bloggerUrl": "https://blog.naver.com/mxy5095-",
+     "postdate": "20261122",
+     "summary": "do > > > > - 조세특례제한법 제71조의 2 - 지방세 특례 제한 법 제75조의 5 #땅 마마 #땅 마마 부동산연구소 #기장군 부동산 #기장 세컨드하우스 #세컨드 홈 특례 #2026세 법 개정안 #2027부동"
+    },
+    {
+     "title": "[부산 맛집] 기장군 진팔팔감자탕 본점 | 보몽드 기장 근처 주차장 ....",
+     "url": "https://blog.naver.com/goodfeeling_77/224485421349",
+     "blogger": "잘 먹고 잘 놀고",
+     "bloggerUrl": "https://blog.naver.com/goodfeeling_77",
+     "postdate": "20261121",
+     "summary": "진팔팔감자탕 5초 요약 위치 부산 기장군 장안읍 고무로 326 1층 (보몽드 기장에서 차로 5분) 주차 전용 주차장 있음 (매장 옆 4대 정도 + 내리막 아래 넓은 주차장) 대표 메뉴 고구마순 시래기감자탕, 묵은지."
+    },
+    {
+     "title": "2026년 기장군 11월 행사 모아보기｜이호선 교수 강연·안데르센 극장....",
+     "url": "https://blog.naver.com/bskijang/224480431694",
+     "blogger": "부산 기장군 대표블로그",
+     "bloggerUrl": "https://blog.naver.com/bskijang",
+     "postdate": "20261117",
+     "summary": "#기장군 #부산시 #부산기장 #기장군행사 #11월행사 #기장가볼만한곳 #기장인문공감아카데미 #이호선교수 #안데르센극장 #어린이극장탐험대 #희망재능나눔단"
+    },
+    {
+     "title": "[부산 기장군] 전복죽 맛집 기장끝집 죽성본점",
+     "url": "https://blog.naver.com/work-pastime/224481740405",
+     "blogger": "일취월장다이어리",
+     "bloggerUrl": "https://blog.naver.com/work-pastime",
+     "postdate": "20261120",
+     "summary": "기장끝집 죽성본점 *대표메뉴: 전복죽, 전복미역국 *영업요일: 월~일... 방문한 기장에서 둘째날 아점을 먹기 위해 동행한 후배가... 이미 소문난 맛집 기장끝집을 지도에서 검색하면 일광점과 백화점 팝업스토어..."
+    },
+    {
+     "title": "기장 용소웰빙공원 메타세쿼이아길 11월 단풍 부산 기장 갈만한곳",
+     "url": "https://blog.naver.com/geniusyenny/224484065654",
+     "blogger": "아이랑 부산 경상도 여행 가볼만한곳",
+     "bloggerUrl": "https://blog.naver.com/geniusyenny",
+     "postdate": "20261119",
+     "summary": "기장 용소웰빙공원 기본정보 위치 부산 기장군 기장읍 서부리 산7-2 운영시간 24시간 상시 개방 연중무휴 주차 전용 주차공간 매우협소 입장료 무료 반려동물 동반 가능, 목줄 착용 주요 볼거리 메타세쿼이아길..."
+    },
+    {
+     "title": "[서포터즈] 기장군에서 만나는 숨은 자연 명소, 기장8경 홍연폭포",
+     "url": "https://blog.naver.com/bskijang/224488139910",
+     "blogger": "부산 기장군 대표블로그",
+     "bloggerUrl": "https://blog.naver.com/bskijang",
+     "postdate": "20261123",
+     "summary": "기장군에는 기장 8경에 속하는 폭포가 있습니다. 바로 철마면 웅천리, 거문산과 옥녀봉 사이를 흐르는 계속에 있는 홍연폭포입니다. 어제 내린 비에, 웅장한 느낌의 홍연폭포를 만날수 있을 것 같은 기대감에..."
+    },
+    {
+     "title": "기장군 2026 하반기 장학금 신청 시작｜기장에 1년 이상 살았다면 확....",
+     "url": "https://blog.naver.com/mxy5095-/224418335167",
+     "blogger": "기장.울주.땅마마",
+     "bloggerUrl": "https://blog.naver.com/mxy5095-",
+     "postdate": "20260921",
+     "summary": "부동산을 읽어주는 땅 마마 우리들 부동산연구소 상담 051-727-8918 010-****-**** #기장군 #기장군 장학금 #기장 장학금 #기장 교육 #장안읍 #정관읍 #일광읍 #기장읍 #장안 신도시 #기장 실거주"
+    },
+    {
+     "title": "기장군 실내 우레탄 방수, 물청소 뒤 아래층 천장이 젖던 정관 식품....",
+     "url": "https://blog.naver.com/blue-bird7/224484091501",
+     "blogger": "공장통합관리센터",
+     "bloggerUrl": "https://blog.naver.com/blue-bird7",
+     "postdate": "20261120",
+     "summary": "부산 기장군 정관읍의 한 식품공장에서 기장군 실내 우레탄 방수를 의뢰하셨습니다. 사정을 들어보니... 기장군 실내 우레탄 방수, 이 바닥에 탄성이 필요했던 이유 이곳은 물청소를 자주 하고 작업 중에 진동도..."
+    },
+    {
+     "title": "부산 기장 롯데월드 개장일, 위치, 입장료 가격 예약 방법 3가지 및 ....",
+     "url": "https://seoulwelfare.tistory.com/91",
+     "blogger": "서울여행",
+     "bloggerUrl": "https://seoulwelfare.tistory.com/",
+     "postdate": "20261126",
+     "summary": "줄여서 부산 롯데월드로 불리고 있는 이 곳은 부산광역시 기장군 기장읍 시랑리의 오시리아관광단지에 개장 예정인 테마파크로, 서울에 있는 롯데월드 어드벤처와 부산 롯데월드 스카이프라자에 이은..."
+    },
+    {
+     "title": "[부산 기장 아기랑]애월빵공장 카페(제주도와 크리스마스를 동시에/....",
+     "url": "https://blog.naver.com/heeheehealing/224484259915",
+     "blogger": "희희육아",
+     "bloggerUrl": "https://blog.naver.com/heeheehealing",
+     "postdate": "20261120",
+     "summary": "애월빵공장 부산기장점 기본정보 위치 부산 기장군 연화리 쌍용더플래티넘오시리아 아파트 상가동 1층 103~105호 영업시간 매일 10:00 ~ 20:00 19:30 라스트오더 (한시적으로 영업시간 변경될 수 있음) ️"
+    }
+   ]
+  },
+  {
+   "query": "금리",
+   "items": [
+    {
+     "title": "\"금리 올리면 주가도 집값도 폭락\" 정말일까… 이번 주 '슈퍼 목요일....",
+     "url": "https://blog.naver.com/biscuit_c/224487951663",
+     "blogger": "머니그랜트",
+     "bloggerUrl": "https://blog.naver.com/biscuit_c",
+     "postdate": "20261123",
+     "summary": "\"금리 올리면 주가도 집값도 폭락\" 정말일까… 이번 주 '슈퍼 목요일' 미국 PCE·베이지북·한은 금통위가 몰린다. 기준금리 3.25% 인상... 시장은 기준금리를 연 3.00%에서 3.25%로 올릴 가능성에 무게를"
+    },
+    {
+     "title": "중국 18개월 연속 LPR 기준금리 3.0% 동결 국내 수출주 영향 총정리",
+     "url": "https://blog.naver.com/souhoho/224484823635",
+     "blogger": "이치타카짱 경제 연구소",
+     "bloggerUrl": "https://blog.naver.com/souhoho",
+     "postdate": "20261122",
+     "summary": "여러분, 중국 중앙은행인 인민은행이 기준금리 역할을 하는 대출우대금리(LPR) 1년물을 무려 18개월 연속... 중국이 경기를 살리려고 금리를 팍팍 내려줄 줄 알았는데, 왜 이렇게 오랫동안 꼼짝 않고 동결 카드를.."
+    },
+    {
+     "title": "미국 PCE 발표 3.8% 충격, '슈퍼 목요일' 금리인상하면 주가 집값 폭락....",
+     "url": "https://blog.naver.com/partner6766/224492375286",
+     "blogger": "아이엠그레이트",
+     "bloggerUrl": "https://blog.naver.com/partner6766",
+     "postdate": "20261126",
+     "summary": "미국 PCE 발표 3.8% 충격, '슈퍼 목요일' 금리인상하면 주가 집값 폭락할까? 금리가 내려가면 대출이자... 밤사이 발표된 미국 물가지표 PCE에 12월 금리인상 전망이 더욱 굳어지고 있는 데다 오늘 한국은행도"
+    },
+    {
+     "title": "기준금리 인상, 예산안 821조로 돈 푸는데 한은은 왜 올릴까",
+     "url": "https://blog.naver.com/uddeu_appa/224488313205",
+     "blogger": "생활경제 노트",
+     "bloggerUrl": "https://blog.naver.com/uddeu_appa",
+     "postdate": "20261123",
+     "summary": "기준금리가 0.25%포인트 오를 것으로 예상했습니다. 예를 들어 변동금리 주택담보대출 3억 원을 갚고 있는 38세 맞벌이 부부라고 가정하면 어떨까요? 한 줄 요약 전문가 예상대로 기준금리가 연 3.00%에서..."
+    },
+    {
+     "title": "\"목요일 금통위 금리 또 올릴까?\" 11월 기준금리 결정 전 예·적금·대....",
+     "url": "https://blog.naver.com/ghks5/224488365762",
+     "blogger": "매일스쿱 정보레시피",
+     "bloggerUrl": "https://blog.naver.com/ghks5",
+     "postdate": "20261124",
+     "summary": "올해 마지막 기준금리 결정 전, 통장 잔고 지키는 시나리오별... 단순한 금리 결정뿐만 아니라 한국은행이 바라보는 내년도... \"지금 정기예금에 목돈을 넣어도 될까?\", \"변동금리 대출 이자가 또 오르기 전에..."
+    },
+    {
+     "title": "예금 금리 4% 귀환, 지금 넣을까 기다릴까",
+     "url": "https://blog.naver.com/money-sky/224488652368",
+     "blogger": "부.주.위.",
+     "bloggerUrl": "https://blog.naver.com/money-sky",
+     "postdate": "20261123",
+     "summary": "26일 한국은행이 기준금리를 또 올릴 거라는 전망이 우세합니다.... 예금 금리가 다시 연 4%대로 올라왔거든요. \"지금 넣을까, 한 번... \" 이런 고민 하시는 분들을 위해 직접 계산하고, 2022년 금리..."
+    },
+    {
+     "title": "주담대 금리비교 11.16일 기준 은행별 최저금리 4%대 인 곳 정리",
+     "url": "https://blog.naver.com/jae-g/224478706014",
+     "blogger": "아파트담보대출 한도",
+     "bloggerUrl": "https://blog.naver.com/jae-g",
+     "postdate": "20261116",
+     "summary": "최저금리는 신한은행(4.87%)과 경남은행(4.96%)만 4%대를 기록 중이며, 그 외 시중은행은 5.07%~5.34% 수준입니다. 현재 은행별 금리 등락이... 이사철 금리 안정기까지 잔금을 미루는 것이 유리합니다"
+    },
+    {
+     "title": "⚓ 금통위 기준금리 3.25% 인상 유력, 26일 체크 4가지와 내 대출이자(f....",
+     "url": "https://blog.naver.com/captianwallet/224489504656",
+     "blogger": "경제 한 스푼",
+     "bloggerUrl": "https://blog.naver.com/captianwallet",
+     "postdate": "20261124",
+     "summary": "26일에 기준금리를 올린다는 거예요. 7·8월에 이어 올해 세 번째 인상이 됩니다. 금통위 기준금리 3.25% 인상 유력, 26일 체크 4가지와 내... 기준금리, 정말 3.25%로 올릴까? 시장은 인상을 사실상 기"
+    },
+    {
+     "title": "소상공인 대환대출 2026, 연 4.5% 고정금리 최대 5천만 원 조건과 개인....",
+     "url": "https://blog.naver.com/younsubjung/224480950201",
+     "blogger": "정윤섭의 현장 기록",
+     "bloggerUrl": "https://blog.naver.com/younsubjung",
+     "postdate": "20261120",
+     "summary": "같은 돈을 연 4.5% 고정금리로 바꾸면 이자는 225만 원으로 내려가고... 금리 부담을 줄이려는 사장님이 가장 먼저 알아보는 것이 정책자금 대환대출입니다. 2026년 대환대출의 대상과 금리·한도·기간..."
+    },
+    {
+     "title": "은행별 아파트담보대출 금리비교 11.20일 기준 아파트매매시 최저금....",
+     "url": "https://blog.naver.com/o-blood-/224484751298",
+     "blogger": "부동산 종결자",
+     "bloggerUrl": "https://blog.naver.com/o-blood-",
+     "postdate": "20261120",
+     "summary": "11월 20일 기준 시중은행 5년 고정 매매자금 금리는 신한은행이 4.88... 인해 금리 비교보다 실행 가능한 한도 확보가 우선입니다. 수도권... 따라 금리가 달라질 수 있으므로 승인 가능한 금융사를 먼저 선점한"
+    }
+   ]
+  },
+  {
+   "query": "시청률",
+   "items": [
+    {
+     "title": "100일의 거짓말 굿파트너2 시청률 이렇게 갈렸다! 주말드라마 시청률....",
+     "url": "https://blog.naver.com/ddo-play/224487882021",
+     "blogger": "또봄의 드라마 다이브",
+     "bloggerUrl": "https://blog.naver.com/ddo-play",
+     "postdate": "20261123",
+     "summary": "2%를 기록하며 시청률이 두 배 넘게 뛰었다. 닥터X 종영과 함께 민준호(유연석)가 체포되는 충격적인 엔딩이 시청자들의 관심을 끈 것으로 보인다. 하지만 8회에서는 다시 3.6%로 하락한 상황. 배우들의..."
+    },
+    {
+     "title": "방영 드라마 시청률 순위 : 100일의 거짓말 1위, 300억 문무는? (인기드....",
+     "url": "https://blog.naver.com/euene1111/224479096015",
+     "blogger": "보는 사람",
+     "bloggerUrl": "https://blog.naver.com/euene1111",
+     "postdate": "20261116",
+     "summary": "디즈니+로 보는 시청층이 있어서 본방 시청률이 전부는 아니지만, 이준기의 3년 만 복귀작이라는 걸 생각하면 속상한 성적이다 ㅠㅠ 11월 시청률 판을 한 줄로 정리하면 이렇다. \"닥터X 15.5% 종영..."
+    },
+    {
+     "title": "닥터X 떠나 새로운 1위 경쟁 돌입! 주간 드라마 시청률 순위",
+     "url": "https://blog.naver.com/worldrama/224488293541",
+     "blogger": "스크린 관찰자 은빛유니콘",
+     "bloggerUrl": "https://blog.naver.com/worldrama",
+     "postdate": "20261123",
+     "summary": "주간 드라마 시청률 순위 방영 내내 부동의 1위 자리를 놓치지 않았던 <닥터X : 하얀 마피아의 시대... 2화에서는 7.7%로 약간 하락했으나 여전히 시청자들의 관심을 받고 있는 듯해요. 시즌1에서는 3화 만에.."
+    },
+    {
+     "title": "드라마 시청률 순위 11월 셋째 주, 지상파·종편·케이블 성적 확인하....",
+     "url": "https://blog.naver.com/imbh74/224484881670",
+     "blogger": "오늘의 K핫클릭",
+     "bloggerUrl": "https://blog.naver.com/imbh74",
+     "postdate": "20261120",
+     "summary": "드라마 시청률 순위는 닐슨코리아 홈페이지의 ‘TOP 20 리스트’... ※ 이 글은 2026년 11월 20일(금) 기준으로, 닐슨코리아 공개 시청률... 메뉴에서 ‘시청률’을 누르면 ‘TOP 20 리스트’가 나옵니다"
+    },
+    {
+     "title": "\"시청률 62.7%인데 겨우 5위?\" 역대 한국 드라마 최고 시청률 TOP 5",
+     "url": "https://blog.naver.com/seedinnn/224479879010",
+     "blogger": "김그래의 드라마연구소",
+     "bloggerUrl": "https://blog.naver.com/seedinnn",
+     "postdate": "20261117",
+     "summary": "반면 지금은 OTT와 유튜브, 다양한 방송 채널로 시청자가 분산돼 있죠. 그래서 과거와 현재의 시청률을 숫자만으로 비교하기는 어려워요. 출처 kbs2 어쩌면 우리가 그리워하는 건 높은 시청률 자체보다도..."
+    },
+    {
+     "title": "김지원 닥터X 결국 김부장 못 넘었다! 문무 첫방 주말드라마 시청률 ....",
+     "url": "https://blog.naver.com/ddo-play/224478637474",
+     "blogger": "또봄의 드라마 다이브",
+     "bloggerUrl": "https://blog.naver.com/ddo-play",
+     "postdate": "20261116",
+     "summary": "/ silvertrhee.tistory 개인적으로는 원작을 알고 봐도 재밌을 만큼 두 배우의 열연과 몰입감 높은 연출이 돋보이는 작품이라, 더 많은 시청자에게 알려져 시청률 상승으로 이어지길 기대해 본다. 라이어.."
+    },
+    {
+     "title": "드라마 시청률 순위 11월 2주 TOP 5... 사랑이 온다 15.9%, 닥터X 15.2% 종....",
+     "url": "https://blog.naver.com/slaypopo/224478998081",
+     "blogger": "오늘 뭐 봤어?",
+     "bloggerUrl": "https://blog.naver.com/slaypopo",
+     "postdate": "20261116",
+     "summary": "회차 시청률을 한 장으로 줄 세웠습니다 — 1위는 일요일 15.9%를 찍은 '사랑이 온다' 드라마 시청률 순위 11월 2주 — 11월 9~15일 방송분 TOP 5 (닐슨코리아) 드라마 시청률 순위 11월 2주(9~1"
+    },
+    {
+     "title": "\"이번 주 드라마 시청률 1위는?\" 11월 9~15일 드라마 시청률 순위 확인",
+     "url": "https://blog.naver.com/center0729/224480002630",
+     "blogger": "세상 모든 올바른 정보",
+     "bloggerUrl": "https://blog.naver.com/center0729",
+     "postdate": "20261117",
+     "summary": "드라마 시청률 순위·11월 21일 케이블 시청률은 닐슨코리아 값이에요. - 11/9~15 1위: 사랑이 온다... 케이블·지상파 시청률 순위는? (11/23 업데이트) 지난 주말 시청률 - 토 케이블: 100일의 거"
+    },
+    {
+     "title": "2026 드라마 시청률 순위 TOP5, 김부장 23.1% 1위부터 신입사원 강회장까....",
+     "url": "https://blog.naver.com/minino0100/224484699303",
+     "blogger": "세상의 모든 베스트5",
+     "bloggerUrl": "https://blog.naver.com/minino0100",
+     "postdate": "20261120",
+     "summary": "티빙 시청 시간 1위까지 하면서, 침체였던 MBC 드라마국에 오랜만에 두 자릿수 시청률을 안겨준 작품으로 남았습니다. 5위. 신입사원 강회장 (JTBC) – 영혼이 바뀌니 회사가 시원해졌다 첫 방송은 3.7..."
+    },
+    {
+     "title": "방영 드라마 시청률 순위, 닥터X 1위 지켰지만 하락세, 의외의 꼴찌....",
+     "url": "https://blog.naver.com/euene1111/224464532210",
+     "blogger": "보는 사람",
+     "bloggerUrl": "https://blog.naver.com/euene1111",
+     "postdate": "20261104",
+     "summary": "젊은 시청자는 OTT로 보는 작품이라 시청률만으로 평가하기에는 아쉬운 면이 있다. 6위 라이어 1.9%, 서현진 유연석인데 왜 낮을까? 라이어는 최고 시청률 27.6%를 기록한 낭만닥터 김사부 이후 10년 만에..."
     }
    ]
   }
